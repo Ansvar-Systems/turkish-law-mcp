@@ -1,0 +1,183 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Turkish Law MCP",
+  "description": "Golden contract tests for the Turkish Law MCP covering KVKK (Data Protection Law No. 6698), Law No. 5651 (Internet Regulation), TCK (Criminal Code cybercrime arts. 243-246), TTK (Commercial Code No. 6102), Law No. 6563 (Electronic Commerce), and BTK regulations",
+  "tests": [
+    {
+      "id": "tr-001",
+      "category": "article_retrieval",
+      "description": "Retrieve Madde 1 of KVKK (Law No. 6698) -- purpose of the Personal Data Protection Law (amac)",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Kisisel Verilerin Korunmasi Kanunu",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["kisisel veri", "koruma", "islenmesi"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "tr-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Madde 243 of the Turk Ceza Kanunu (TCK) -- bilisim sistemine girme (unauthorized access to information system)",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Turk Ceza Kanunu",
+        "article": "243"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["bilisim sistemi", "girilmesi", "erisim"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "tr-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Madde 1 of the Turk Ticaret Kanunu (TTK, Law No. 6102) -- scope of the Commercial Code",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Turk Ticaret Kanunu",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["ticaret", "ticari"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "tr-004",
+      "category": "article_retrieval",
+      "description": "Retrieve Madde 1 of Law No. 5651 -- purpose and scope of internet regulation",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "5651 Sayili Kanun",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["internet", "icerik", "erisim"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "tr-005",
+      "category": "search",
+      "description": "Full-text search for 'kisisel veri' (personal data) returns KVKK provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "kisisel veri"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["kisisel veri", "koruma", "isleme"]
+      }
+    },
+    {
+      "id": "tr-006",
+      "category": "search",
+      "description": "Full-text search for 'siber guvenlik' (cybersecurity) returns related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "siber guvenlik"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["siber", "guvenlik", "bilisim", "bilgi"]
+      }
+    },
+    {
+      "id": "tr-007",
+      "category": "search",
+      "description": "Full-text search for 'elektronik ticaret' (electronic commerce) returns Law No. 6563 provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "elektronik ticaret"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["elektronik ticaret", "ticari iletisim", "hizmet"]
+      }
+    },
+    {
+      "id": "tr-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for KVKK Madde 2 includes mevzuat.gov.tr URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Kisisel Verilerin Korunmasi Kanunu",
+        "article": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "mevzuat\\.gov\\.tr",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "tr-009",
+      "category": "citation_roundtrip",
+      "description": "Citation for TTK Madde 1 includes Resmi Gazete reference",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Turk Ticaret Kanunu",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["Resmi Gazete"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "tr-010",
+      "category": "eu_cross_reference",
+      "description": "KVKK cross-reference to GDPR -- Turkey is EU candidate with adequacy negotiations; KVKK modeled on EU DPD 95/46/EC with GDPR alignment ongoing",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Kisisel Verilerin Korunmasi Kanunu"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679", "95/46", "EU candidate"]
+      }
+    },
+    {
+      "id": "tr-011",
+      "category": "negative_test",
+      "description": "Non-existent Turkish law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Kuantum Bilisim Kanunu 9999",
+        "article": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "tr-012",
+      "category": "negative_test",
+      "description": "Malformed article number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Kisisel Verilerin Korunmasi Kanunu",
+        "article": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}

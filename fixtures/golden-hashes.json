@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Turkish Law MCP",
+  "jurisdiction": "TR",
+  "provisions": [
+    {
+      "id": "tr-hash-001",
+      "description": "Turkiye Cumhuriyeti Anayasasi (Constitution) Madde 20 -- ozel hayatin gizliligi (right to privacy); amended in 2010 to include explicit personal data protection provisions",
+      "upstream_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.2709.pdf",
+      "selector_hint": "Madde 20 - Ozel hayatin gizliligi",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "ozel hayat"
+    },
+    {
+      "id": "tr-hash-002",
+      "description": "KVKK (Law No. 6698) Madde 1 -- purpose of the Personal Data Protection Law (kisisel verilerin islenmesinde ozel hayatin gizliligini koruma)",
+      "upstream_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6698.pdf",
+      "selector_hint": "Madde 1 - Amac",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "kisisel veri"
+    },
+    {
+      "id": "tr-hash-003",
+      "description": "Turk Ceza Kanunu (TCK) Madde 243 -- bilisim sistemine girme (unauthorized access to information system)",
+      "upstream_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5237.pdf",
+      "selector_hint": "Madde 243 - Bilisim sistemine girme",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "bilisim sistemi"
+    },
+    {
+      "id": "tr-hash-004",
+      "description": "Turk Ticaret Kanunu (TTK, Law No. 6102) Madde 1 -- scope of the Turkish Commercial Code",
+      "upstream_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6102.pdf",
+      "selector_hint": "Madde 1 - Kapsam",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "ticaret"
+    },
+    {
+      "id": "tr-hash-005",
+      "description": "Law No. 5651 Madde 1 -- purpose and scope of internet regulation (internet ortaminda yapilan yayinlarin duzenlenmesi)",
+      "upstream_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5651.pdf",
+      "selector_hint": "Madde 1 - Amac ve kapsam",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "internet"
+    },
+    {
+      "id": "tr-hash-006",
+      "description": "Law No. 6563 Madde 1 -- purpose of the Electronic Commerce Law (elektronik ticaretin duzenlenmesi)",
+      "upstream_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf",
+      "selector_hint": "Madde 1 - Amac",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "elektronik ticaret"
+    }
+  ]
+}

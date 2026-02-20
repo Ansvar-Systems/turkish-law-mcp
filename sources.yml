@@ -1,0 +1,76 @@
+# sources.yml
+schema_version: "1.0"
+mcp_name: "Turkish Law MCP"
+jurisdiction: "TR"
+
+sources:
+  - name: "Mevzuat Bilgi Sistemi (Legislation Information System)"
+    authority: "Cumhurbaskanligi Mevzuat Bilgi Sistemi (Presidency of the Republic of Turkey)"
+    official_portal: "https://www.mevzuat.gov.tr"
+    canonical_identifier: "Resmi Gazete (Official Gazette) date and number, Law number (Kanun No.)"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: null
+    update_frequency: "daily"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Public Data"
+      url: "https://www.mevzuat.gov.tr"
+      summary: "mevzuat.gov.tr is the official Turkish legislation database operated by the Presidency; provides free public access to all Turkish legislation including laws (kanun), presidential decrees (cumhurbaskanligi kararnamesi), regulations (yonetmelik), and communiques (teblig); legislative texts are freely accessible as government public data"
+    coverage:
+      scope: "All Turkish legislation including KVKK (Kisisel Verilerin Korunmasi Kanunu, Law No. 6698), Law No. 5651 (Internet Regulation), Turk Ceza Kanunu (TCK, Criminal Code including cybercrime arts. 243-246), Turk Ticaret Kanunu (TTK, Commercial Code No. 6102), Law No. 6563 (Electronic Commerce), BTK regulations (telecommunications), and the Turkish Constitution (Turkiye Cumhuriyeti Anayasasi)"
+      limitations: "No formal API available; structured HTML scraping required; some very recent amendments may have a short delay before consolidation; historical versions of laws may not always be available in consolidated form; secondary legislation (regulations, communiques) may lag behind primary legislation"
+    languages:
+      - "tr"
+
+  - name: "KVKK Kurumu (Personal Data Protection Authority) Decisions and Guidance"
+    authority: "Kisisel Verileri Koruma Kurumu (Turkish Personal Data Protection Authority)"
+    official_portal: "https://www.kvkk.gov.tr"
+    canonical_identifier: "KVKK decision reference number"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: null
+    update_frequency: "monthly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Publication"
+      url: "https://www.kvkk.gov.tr"
+      summary: "KVKK decisions, guidelines, and regulatory guidance are publicly available as official government publications; the KVKK has become increasingly active in enforcement since its establishment in 2016"
+    coverage:
+      scope: "KVKK board decisions, guidelines on data protection implementation, sector-specific guidance, data breach notifications, and published regulatory opinions"
+      limitations: "Not all historical decisions may be available digitally; some older guidance may only be in PDF format; English translations of decisions are limited"
+    languages:
+      - "tr"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "PENDING_FIRST_INGEST"
+
+# Notes:
+# - Turkey is an EU candidate country; its data protection legislation (KVKK, Law No. 6698)
+#   is modeled on the EU Data Protection Directive 95/46/EC rather than the GDPR,
+#   though Turkey is in ongoing adequacy negotiations with the EU
+# - The KVKK (enacted 2016) is Turkey's first comprehensive data protection law;
+#   it established the KVKK Kurumu (Personal Data Protection Authority) as the
+#   independent supervisory authority
+# - Turkey's Constitution Art. 20 explicitly protects the right to privacy
+#   (ozel hayatin gizliligi) and was amended in 2010 to add specific provisions
+#   on personal data protection
+# - The TCK (Turk Ceza Kanunu / Turkish Criminal Code) contains comprehensive
+#   cybercrime provisions in articles 243 (unauthorized access to information
+#   systems), 244 (damaging/altering data), 245 (misuse of bank/credit cards),
+#   and 246 (related provisions)
+# - Law No. 5651 (2007) regulates content on the internet and is Turkey's primary
+#   internet regulation law; it has been significantly amended multiple times and
+#   is internationally notable for its content blocking provisions
+# - The TTK (Turk Ticaret Kanunu, Law No. 6102, 2012) is Turkey's modern Commercial
+#   Code, replacing the 1956 code, and includes provisions on electronic commerce,
+#   corporate governance, and commercial registers
+# - Law No. 6563 (2014) is Turkey's Electronic Commerce Law, regulating
+#   commercial electronic messages, service provider obligations, and e-commerce
+# - BTK (Bilgi Teknolojileri ve Iletisim Kurumu / Information and Communication
+#   Technologies Authority) is the telecommunications regulator
+# - mevzuat.gov.tr provides structured HTML with legislation organized by type
+#   (kanun, KHK, kararname, yonetmelik, teblig) but no formal API
+# - Turkish legal system is based on civil law (Swiss-influenced)
+# - Turkish is the sole official language for all legislation
+# - Resmi Gazete (Official Gazette) references are the canonical citation format
