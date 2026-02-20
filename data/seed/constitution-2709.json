@@ -1,0 +1,50 @@
+{
+  "id": "constitution-2709",
+  "type": "statute",
+  "title": "Türkiye Cumhuriyeti Anayasası",
+  "title_en": "Constitution of the Republic of Turkey",
+  "short_name": "Anayasa",
+  "status": "in_force",
+  "issued_date": "1982-11-07",
+  "in_force_date": "1982-11-09",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709&MevzuatTur=1&MevzuatTertip=5",
+  "description": "Supreme law of Turkey; Article 20 guarantees the right to privacy (özel hayatın gizliliği) and was amended in 2010 to add explicit personal data protection provisions; Article 22 protects freedom of communication; Article 26 protects freedom of expression",
+  "provisions": [
+    {
+      "provision_ref": "madde20",
+      "section": "20",
+      "chapter": "İkinci Kısım - Temel Haklar ve Ödevler",
+      "title": "Özel hayatın gizliliği",
+      "content": "Madde 20 - Herkes, özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkına sahiptir. Özel hayatın ve aile hayatının gizliliğine dokunulamaz. Herkes, kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahiptir. Bu hak; kişinin kendisiyle ilgili kişisel veriler hakkında bilgilendirilme, bu verilere erişme, bunların düzeltilmesini veya silinmesini talep etme ve amaçları doğrultusunda kullanılıp kullanılmadığını öğrenmeyi de kapsar. Kişisel veriler, ancak kanunda öngörülen hallerde veya kişinin açık rızasıyla işlenebilir. Kişisel verilerin korunmasına ilişkin esas ve usuller kanunla düzenlenir."
+    },
+    {
+      "provision_ref": "madde22",
+      "section": "22",
+      "chapter": "İkinci Kısım - Temel Haklar ve Ödevler",
+      "title": "Haberleşme hürriyeti",
+      "content": "Madde 22 - Herkes, haberleşme hürriyetine sahiptir. Haberleşmenin gizliliği esastır. Milli güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlık ve genel ahlakın korunması veya başkalarının hak ve özgürlüklerinin korunması sebeplerinden biri veya birkaçına bağlı olarak usulüne göre verilmiş hakim kararı olmadıkça; yine bu sebeplere bağlı olarak gecikmesinde sakınca bulunan hallerde de kanunla yetkili kılınan merciin yazılı emri bulunmadıkça; haberleşme engellenemez ve gizliliğine dokunulamaz."
+    },
+    {
+      "provision_ref": "madde26",
+      "section": "26",
+      "chapter": "İkinci Kısım - Temel Haklar ve Ödevler",
+      "title": "Düşünceyi açıklama ve yayma hürriyeti",
+      "content": "Madde 26 - Herkes, düşünce ve kanaatlerini söz, yazı, resim veya başka yollarla tek başına veya toplu olarak açıklama ve yayma hakkına sahiptir. Bu hürriyet, resmi makamların müdahalesi olmaksızın haber veya fikir almak ya da vermek serbestliğini de kapsar."
+    },
+    {
+      "provision_ref": "madde13",
+      "section": "13",
+      "chapter": "İkinci Kısım - Temel Haklar ve Ödevler",
+      "title": "Temel hak ve hürriyetlerin sınırlanması",
+      "content": "Madde 13 - Temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir. Bu sınırlamalar, Anayasanın sözüne ve ruhuna, demokratik toplum düzeninin ve laik Cumhuriyetin gereklerine ve ölçülülük ilkesine aykırı olamaz."
+    },
+    {
+      "provision_ref": "madde38",
+      "section": "38",
+      "chapter": "İkinci Kısım - Temel Haklar ve Ödevler",
+      "title": "Suç ve cezalara ilişkin esaslar",
+      "content": "Madde 38 - Kimse, işlendiği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilden dolayı cezalandırılamaz; kimseye suçu işlediği zaman kanunda o suç için konulmuş olan cezadan daha ağır bir ceza verilemez."
+    }
+  ],
+  "definitions": []
+}

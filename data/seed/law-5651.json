@@ -1,0 +1,78 @@
+{
+  "id": "law-5651",
+  "type": "statute",
+  "title": "İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun",
+  "title_en": "Law on Regulation of Publications on the Internet and Combating Crimes Committed through Such Publications (Internet Law)",
+  "short_name": "Law 5651",
+  "status": "in_force",
+  "issued_date": "2007-05-04",
+  "in_force_date": "2007-05-23",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5651&MevzuatTur=1&MevzuatTertip=5",
+  "description": "Turkey's primary internet regulation law; defines responsibilities of content providers, hosting providers, and access providers; establishes URL/content blocking procedures; internationally notable for its content restriction provisions; significantly amended multiple times since 2007",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "chapter": "Birinci Bölüm",
+      "title": "Amaç ve kapsam",
+      "content": "Madde 1 - Bu Kanunun amacı, içerik sağlayıcı, yer sağlayıcı, erişim sağlayıcı ve toplu kullanım sağlayıcıların yükümlülk ve sorumlulukları ile internet ortamında işlenen belirli suçlar için içerik, yer ve erişim sağlayıcıları üzerinden mücadeleye ilişkin esas ve usulleri düzenlemektir."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "chapter": "Birinci Bölüm",
+      "title": "Tanımlar",
+      "content": "Madde 2 - Bu Kanunun uygulanmasında; a) Başkanlık: Bilgi Teknolojileri ve İletişim Kurumu Bütünleştirilmiş Hizmet Merkezini, b) Erişim sağlayıcı: Kullanıcılarına internet ortamına erişim olanağı sağlayan her türlü gerçek veya tüzel kişileri, c) İçerik sağlayıcı: İnternet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişileri, ç) İnternet ortamı: Haberleşme ile kişisel ya da kurumsal bilgisayar sistemleri dışında kalan ve kamuca açık olan internet üzerinde oluşturulan ortamı, d) Toplu kullanım sağlayıcı: Kişilere belli bir yerde ve sürede internet ortamı kullanım olanağı sağlayan gerçek ve tüzel kişileri, e) Trafik bilgisi: Tarafların belirlenebilmesi için internet ortamında gerçekleştirilen her türlü erişime ilişkin olarak işlenen bilgileri, f) Yer sağlayıcı: Hizmet ve içerikleri barındıran sistemleri sağlayan veya işleten gerçek veya tüzel kişileri, ifade eder."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "chapter": "İkinci Bölüm",
+      "title": "İçerik sağlayıcının yükümlülükleri",
+      "content": "Madde 3 - İçerik sağlayıcı, internet ortamında kullanıma sunduğu her türlü içerikten sorumludur. İçerik sağlayıcı, başkalarının üretip internet ortamına sunduğu içeriği kendi saylasında kullanıcılaraın ulaşımına sunarsa, bu içerilk nedeniyle sorumlu değildir."
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "chapter": "İkinci Bölüm",
+      "title": "Yer sağlayıcının yükümlülkleri",
+      "content": "Madde 5 - Yer sağlayıcı, yer sağladığı içeriği kontrol etmek veya hukuka aykırı bir faaliyetin söz konusu olup olmadığını araştırmakla yükümlü değildir."
+    },
+    {
+      "provision_ref": "madde8",
+      "section": "8",
+      "chapter": "Üçüncü Bölüm",
+      "title": "Erişimin engellenmesi kararı ve yerine getirilmesi",
+      "content": "Madde 8 - İnternet ortamında yapılan ve içeriği aşağıdaki suçları oluşturduğu hususunda yeterli şüphe sebebi bulunan yayınlarla ilgili olarak erişimin engellenmesine karar verilir."
+    },
+    {
+      "provision_ref": "madde9",
+      "section": "9",
+      "chapter": "Üçüncü Bölüm",
+      "title": "İçeriğin çıkarılması ve erişimin engellenmesi",
+      "content": "Madde 9 - İnternet ortamında yapılan yayın içeriği nedeniyle kişilik haklarının ihlal edildiğini iddia eden gerçek ve tüzel kişiler ile kurum ve kuruluşlar, içerik sağlayıcısına, buna ulaşamaması halinde yer sağlayıcısına başvurarak uyarı yöntemi ile içeriğin yayından çıkarılmasını isteyebileceği gibi doğrudan sulh ceza hakimliğine başvurarak içeriğin çıkarılmasını ve/veya erişimin engellenmesini de isteyebilir."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Erişim sağlayıcı",
+      "definition": "Kullanıcılarına internet ortamına erişim olanağı sağlayan her türlü gerçek veya tüzel kişi",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "İçerik sağlayıcı",
+      "definition": "İnternet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişi",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Yer sağlayıcı",
+      "definition": "Hizmet ve içerikleri barındıran sistemleri sağlayan veya işleten gerçek veya tüzel kişi",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Trafik bilgisi",
+      "definition": "Tarafların belirlenebilmesi için internet ortamında gerçekleştirilen her türlü erişime ilişkin olarak işlenen bilgi",
+      "source_provision": "madde2"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "kvkk-6698",
+  "type": "statute",
+  "title": "Kişisel Verilerin Korunması Kanunu",
+  "title_en": "Personal Data Protection Law (KVKK)",
+  "short_name": "KVKK",
+  "status": "in_force",
+  "issued_date": "2016-03-24",
+  "in_force_date": "2016-04-07",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5",
+  "description": "Turkey's comprehensive data protection law modeled on EU Directive 95/46/EC; establishes the KVKK Kurumu (Personal Data Protection Authority) as the supervisory body; covers personal data processing, data controller obligations, data subject rights, and cross-border data transfers",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "chapter": "Birinci Bölüm - Amaç, Kapsam ve Tanımlar",
+      "title": "Amaç",
+      "content": "Madde 1 - Bu Kanunun amacı, kişisel verilerin işlenmesinde başta özel hayatın gizliliği olmak üzere kişilerin temel hak ve özgürlüklerini korumak ve kişisel verileri işleyen gerçek ve tüzel kişilerin yükümlülükleri ile uyacakları usul ve esasları düzenlemektir."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "chapter": "Birinci Bölüm - Amaç, Kapsam ve Tanımlar",
+      "title": "Kapsam",
+      "content": "Madde 2 - Bu Kanun hükümleri, kişisel verileri işlenen gerçek kişiler ile bu verileri tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleyen gerçek ve tüzel kişiler hakkında uygulanır."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "chapter": "Birinci Bölüm - Amaç, Kapsam ve Tanımlar",
+      "title": "Tanımlar",
+      "content": "Madde 3 - Bu Kanunun uygulanmasında; a) Açık rıza: Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı, b) Anonim hale getirme: Kişisel verilerin, başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli veya belirlenebilir bir gerçek kişiye ilişkilendirilemeyecek hale getirilmesini, c) Başkan: Kişisel Verileri Koruma Kurumu Başkanını, ç) İlgili kişi: Kişisel verisi işlenen gerçek kişiyi, d) Kişisel veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi, e) Kişisel verilerin işlenmesi: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hale getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemi, f) Kurul: Kişisel Verileri Koruma Kurulunu, g) Kurum: Kişisel Verileri Koruma Kurumunu, ğ) Veri işleyen: Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işleyen gerçek veya tüzel kişiyi, h) Veri kayıt sistemi: Kişisel verilerin belirli kriterlere göre yapılandırılarak işlendiği kayıt sistemini, ı) Veri sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi, ifade eder."
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "chapter": "İkinci Bölüm - Kişisel Verilerin İşlenmesi",
+      "title": "Genel ilkeler",
+      "content": "Madde 4 - (1) Kişisel veriler, ancak bu Kanunda ve diğer kanunlarda öngörülen usul ve esaslara uygun olarak işlenebilir. (2) Kişisel verilerin işlenmesinde aşağıdaki ilkelere uyulması zorunludur: a) Hukuka ve dürüstlük kurallarına uygun olma, b) Doğru ve gerektiğinde güncel olma, c) Belirli, açık ve meşru amaçlar için işlenme, ç) İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma, d) İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme."
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "chapter": "İkinci Bölüm - Kişisel Verilerin İşlenmesi",
+      "title": "Kişisel verilerin işlenme şartları",
+      "content": "Madde 5 - (1) Kişisel veriler ilgili kişinin açık rızası olmaksızın işlenemez. (2) Aşağıdaki şartlardan birinin varlığı halinde, ilgili kişinin açık rızası aranmaksızın kişisel verilerinin işlenmesi mümkündür: a) Kanunlarda açıkça öngörülmesi, b) Fiili imkansızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması, c) Bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, ç) Veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması, d) İlgili kişinin kendisi tarafından alenileştirilmiş olması, e) Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması, f) İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması."
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "chapter": "İkinci Bölüm - Kişisel Verilerin İşlenmesi",
+      "title": "Özel nitelikli kişisel verilerin işlenme şartları",
+      "content": "Madde 6 - (1) Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi veya diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri ile biyometrik ve genetik verileri özel nitelikli kişisel veridir. (2) Özel nitelikli kişisel verilerin, ilgilinin açık rızası olmaksızın işlenmesi yasaktır."
+    },
+    {
+      "provision_ref": "madde9",
+      "section": "9",
+      "chapter": "Üçüncü Bölüm",
+      "title": "Kişisel verilerin yurt dışına aktarılması",
+      "content": "Madde 9 - (1) Kişisel veriler, ilgili kişinin açık rızası olmaksızın yurt dışına aktarılamaz. (2) Kişisel veriler, 5 inci maddenin ikinci fıkrası ile 6 ncı maddenin üçüncü fıkrasında belirtilen şartlardan birinin varlığı ve kişisel verinin aktarılacağı ülkede yeterli korunanın bulunması kaydıyla, ilgili kişinin açık rızası aranmaksızın yurt dışına aktarılabilir."
+    },
+    {
+      "provision_ref": "madde11",
+      "section": "11",
+      "chapter": "Dördüncü Bölüm - Başvuru ve Şikayet",
+      "title": "İlgili kişinin hakları",
+      "content": "Madde 11 - (1) Herkes, veri sorumlusuna başvurarak kendisiyle ilgili; a) Kişisel veri işlenip işlenmediğini öğrenme, b) Kişisel verileri işlenmişse buna ilişkin bilgi talep etme, c) Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme, ç) Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme, d) Kişisel verilerin eksik veya yanlış işlenmiş olması halinde bunların düzeltilmesini isteme, e) 7 nci maddede öngörülen şartlar çerçevesinde kişisel verilerin silinmesini veya yok edilmesini isteme, f) (d) ve (e) bentleri uyarınca yapılan işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme, g) İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme, ğ) Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması halinde zararın giderilmesini talep etme, haklarına sahiptir."
+    },
+    {
+      "provision_ref": "madde18",
+      "section": "18",
+      "chapter": "Yedinci Bölüm - Kabahatler",
+      "title": "Kabahatler",
+      "content": "Madde 18 - (1) Bu Kanunun; a) 10 uncu maddesinde öngörülen aydınlatma yükümlülüğünü yerine getirmeyenlere 5.000 Türk lirasından 100.000 Türk lirasına kadar, b) 12 nci maddesinde öngörülen veri güvenliğine ilişkin yükümlülükleri yerine getirmeyenlere 15.000 Türk lirasından 1.000.000 Türk lirasına kadar, c) 15 inci maddesi uyarınca Kurul tarafından verilen kararları yerine getirmeyenlere 25.000 Türk lirasından 1.000.000 Türk lirasına kadar, ç) 16 ncı maddesinde öngörülen Veri Sorumluları Siciline kayıt ve bildirim yükümlülüğüne aykırı hareket edenler hakkında 20.000 Türk lirasından 1.000.000 Türk lirasına kadar, idari para cezası verilir."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Açık rıza",
+      "definition": "Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rıza",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Kişisel veri",
+      "definition": "Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgi",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "İlgili kişi",
+      "definition": "Kişisel verisi işlenen gerçek kişi",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Veri sorumlusu",
+      "definition": "Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişi",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Veri işleyen",
+      "definition": "Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işleyen gerçek veya tüzel kişi",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Kurul",
+      "definition": "Kişisel Verileri Koruma Kurulu",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Kurum",
+      "definition": "Kişisel Verileri Koruma Kurumu",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Veri kayıt sistemi",
+      "definition": "Kişisel verilerin belirli kriterlere göre yapılandırılarak işlendiği kayıt sistemi",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Anonim hale getirme",
+      "definition": "Kişisel verilerin, başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli veya belirlenebilir bir gerçek kişiye ilişkilendirilemeyecek hale getirilmesi",
+      "source_provision": "madde3"
+    }
+  ]
+}

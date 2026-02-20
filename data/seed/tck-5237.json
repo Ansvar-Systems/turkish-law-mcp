@@ -1,0 +1,43 @@
+{
+  "id": "tck-5237",
+  "type": "statute",
+  "title": "Türk Ceza Kanunu",
+  "title_en": "Turkish Criminal Code (TCK)",
+  "short_name": "TCK",
+  "status": "in_force",
+  "issued_date": "2004-09-26",
+  "in_force_date": "2005-06-01",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5237&MevzuatTur=1&MevzuatTertip=5",
+  "description": "Turkish Criminal Code; articles 243-246 cover cybercrime: unauthorized access to information systems (art. 243), damaging/altering/destroying data (art. 244), misuse of bank/credit cards (art. 245), and related provisions (art. 246)",
+  "provisions": [
+    {
+      "provision_ref": "madde243",
+      "section": "243",
+      "chapter": "Onuncu Bölüm - Bilişim Alanında Suçlar",
+      "title": "Bilişim sistemine girme",
+      "content": "Madde 243 - (1) Bir bilişim sisteminin bütününe veya bir kısmına, hukuka aykırı olarak giren veya orada kalmaya devam eden kimseye bir yıla kadar hapis veya adli para cezası verilir. (2) Yukarıdaki fıkrada tanımlanan fiillerin bedeli karşılığı yararlanılabilecek sistemler hakkında işlenmesi halinde, verilecek ceza yarı oranına kadar artırılır. (3) Bu fiil nedeniyle sistemin içerdiği veriler yok olur veya değişirse, altı aydan iki yıla kadar hapis cezasına hükmedilir."
+    },
+    {
+      "provision_ref": "madde244",
+      "section": "244",
+      "chapter": "Onuncu Bölüm - Bilişim Alanında Suçlar",
+      "title": "Sistemi engelleme, bozma, verileri yok etme veya değiştirme",
+      "content": "Madde 244 - (1) Bir bilişim sisteminin işleyişini engelleyen veya bozan kişi, bir yıldan beş yıla kadar hapis cezası ile cezalandırılır. (2) Bir bilişim sistemindeki verileri bozan, yok eden, değiştiren veya erişilmez kılan, sisteme veri yerleştiren, var olan verileri başka bir yere gönderen kişi, altı aydan üç yıla kadar hapis cezası ile cezalandırılır. (3) Bu fiillerin bir banka veya kredi kurumuna ya da bir kamu kurum veya kuruluşuna ait bilişim sistemi üzerinde işlenmesi halinde, verilecek ceza yarı oranında artırılır. (4) Yukarıdaki fıkralarda tanımlanan fiillerin işlenmesi suretiyle kişinin kendisinin veya başkasının yararına haksız bir çıkar sağlanmasının başka bir suç oluşturmaması halinde, iki yıldan altı yıla kadar hapis ve beşbin güne kadar adli para cezasına hükmedilir."
+    },
+    {
+      "provision_ref": "madde245",
+      "section": "245",
+      "chapter": "Onuncu Bölüm - Bilişim Alanında Suçlar",
+      "title": "Banka veya kredi kartlarının kötüye kullanılması",
+      "content": "Madde 245 - (1) Başkasına ait bir banka veya kredi kartını, her ne surette olursa olsun ele geçiren veya elinde bulunduran kimse, kart sahibinin veya kartın kendisine verilmesi gereken kişinin rızası olmaksızın bunu kullanarak veya kullandırtarak kendisine veya başkasına yarar sağlarsa, üç yıldan altı yıla kadar hapis ve beşbin güne kadar adli para cezası ile cezalandırılır. (2) Başkalarına ait banka hesaplarıyla ilişkilendirilerek sahte banka veya kredi kartı üreten, satan, devreden, satın alan veya kabul eden kişi üç yıldan yedi yıla kadar hapis ve onbin güne kadar adli para cezası ile cezalandırılır. (3) Sahte ölüştürülen veya üzerinde sahtecilik yapılan bir banka veya kredi kartını kullanmak suretiyle kendisine veya başkasına yarar sağlayan kişi, fiil daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, dört yıldan sekiz yıla kadar hapis ve beşbin güne kadar adli para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde246",
+      "section": "246",
+      "chapter": "Onuncu Bölüm - Bilişim Alanında Suçlar",
+      "title": "Tüzel kişiler hakkında güvenlik tedbiri uygulanması",
+      "content": "Madde 246 - Bu bölümde yer alan suçların işlenmesi suretiyle yararuna haksız menfaat sağlanan tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine hükmedilir."
+    }
+  ],
+  "definitions": []
+}

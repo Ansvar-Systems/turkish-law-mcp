@@ -1,0 +1,47 @@
+{
+  "id": "esig-law-5070",
+  "type": "statute",
+  "title": "Elektronik İmza Kanunu",
+  "title_en": "Electronic Signature Law",
+  "short_name": "E-Signature Law",
+  "status": "in_force",
+  "issued_date": "2004-01-15",
+  "in_force_date": "2004-07-23",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5070&MevzuatTur=1&MevzuatTertip=5",
+  "description": "Regulates electronic signatures and certification service providers in Turkey; establishes legal validity of electronic signatures; aligned with EU Electronic Signatures Directive 1999/93/EC",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "chapter": "Birinci Bölüm",
+      "title": "Amaç",
+      "content": "Madde 1 - Bu Kanunun amacı, elektronik imzanın hukuki ve teknik yönleri ile kullanımına ilişkin esasları düzenlmektir."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "chapter": "Birinci Bölüm",
+      "title": "Tanımlar",
+      "content": "Madde 3 - Bu Kanunun uygulanmasında; a) Elektronik imza: Başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve kimlik doğrulama amacıyla kullanılan elektronik veriyi, b) Güvenli elektronik imza: Münhasıran imza sahibine bağlı, sadece imza sahibinin tasarrufunda bulunan güvenli elektronik imza oluşturma aracı ile oluşturulan, nitelikli elektronik sertifikaya dayanan ve imzalanmış elektronik veride sonradan herhangi bir değişiklik yapılıp yapılmadığının tespitini sağlayan elektronik imzayı, c) İmza sahibi: Elektronik imza oluşturan gerçek kişiyi, ç) Elektronik sertifika hizmet sağlayıcısı: Elektronik sertifika, zaman damgası ve elektronik imzalarla ilgili hizmetleri sağlayan kamu kurum ve kuruluşları ile gerçek veya özel hukuk tüzel kişilerini, ifade eder."
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "chapter": "İkinci Bölüm",
+      "title": "Güvenli elektronik imzanın hukuki sonucu ve uygulama alanı",
+      "content": "Madde 5 - Güvenli elektronik imza, elle atılan imza ile aynı hukuki sonucu doğurur. Kanunların resmi şekle veya özel bir merasime tabi tuttuğu hukuki işlemler ile teminat sözleşmeleri güvenli elektronik imza ile gerçekleştirilemez."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Elektronik imza",
+      "definition": "Başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve kimlik doğrulama amacıyla kullanılan elektronik veri",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Güvenli elektronik imza",
+      "definition": "Münhasıran imza sahibine bağlı, sadece imza sahibinin tasarrufunda bulunan güvenli elektronik imza oluşturma aracı ile oluşturulan, nitelikli elektronik sertifikaya dayanan elektronik imza",
+      "source_provision": "madde3"
+    }
+  ]
+}

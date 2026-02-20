@@ -1,0 +1,54 @@
+{
+  "id": "ecom-law-5809",
+  "type": "statute",
+  "title": "Elektronik Haberleşme Kanunu",
+  "title_en": "Electronic Communications Law",
+  "short_name": "EHK",
+  "status": "in_force",
+  "issued_date": "2008-11-05",
+  "in_force_date": "2008-11-10",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5809&MevzuatTur=1&MevzuatTertip=5",
+  "description": "Turkey's primary telecommunications law; establishes the BTK (Information and Communication Technologies Authority) as the telecommunications regulator; covers licensing, spectrum management, universal service, consumer protection, and data retention",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "chapter": "Birinci Kısım",
+      "title": "Amaç",
+      "content": "Madde 1 - Bu Kanunun amacı; elektronik haberleşme sektörüne ilişkin politika ve stratejiler ile ilgili hükümleri ve genel esasları belirlemek, düzenleme, yetkilendirme, tesis kurma, denetim, uzlaştırma, müeyyide ve ilgili ölçütler ile bunların uygulanmasına ilişkin usul ve esasları düzenlmektir."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "chapter": "Birinci Kısım",
+      "title": "Tanımlar",
+      "content": "Madde 3 - Bu Kanunun uygulanmasında; a) Abone: Bir işletmeci ile elektronik haberleşme hizmetinin sunumuna yönelik olarak yapılan bir sözleşmeye taraf olan gerçek ya da tüzel kişiyi, b) Elektronik haberleşme: Elektriksel işaretlere dönüştürülebilen her türlü işaret, sembol, ses, görüntü ve verinin; kablo, telsiz, optik, elektrik, manyetik, elektromanyetik, elektrokimyasal, elektromekanik ve diğer iletim sistemleri vasıtasıyla iletilmesini, gönderilmesini ve alınmasını, c) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu (BTK), ifade eder."
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "chapter": "Birinci Kısım",
+      "title": "Temel ilkeler",
+      "content": "Madde 4 - Bilgi Teknolojileri ve İletişim Kurumu (BTK), elektronik haberleşme sektörüne ilişkin görev ve yetkilerini kullanırken; a) Rekabeti sağlamak ve korumak, b) Tüketici haklarını korumak, c) Evrensel hizmeti sağlamak, ç) Kişisel verilerin ve gizliliğin korunmasını sağlamak, ilkelerine uyar."
+    },
+    {
+      "provision_ref": "madde51",
+      "section": "51",
+      "chapter": "Beşinci Kısım",
+      "title": "Kişisel verilerin işlenmesi ve gizliliğin korunması",
+      "content": "Madde 51 - (1) Kişisel veriler ile ilişkili trafik ve konum verilerinin işlenmesi sırasında gizliliğin korunmasına ilişkin hükümler, Kurum tarafından belirlenen usul ve esaslara göre uygulanır. (2) İşletmeciler, abonelerine/kullanıcılarına ilişkin kişisel verilerin güvenliğini sağlamak için gerekli tedbirleri alır."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Elektronik haberleşme",
+      "definition": "Elektriksel işaretlere dönüştürülebilen her türlü işaret, sembol, ses, görüntü ve verinin iletilmesi, gönderilmesi ve alınması",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "BTK",
+      "definition": "Bilgi Teknolojileri ve İletişim Kurumu",
+      "source_provision": "madde3"
+    }
+  ]
+}

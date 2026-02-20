@@ -1,0 +1,71 @@
+{
+  "id": "ecommerce-6563",
+  "type": "statute",
+  "title": "Elektronik Ticaretin Düzenlenmesi Hakkında Kanun",
+  "title_en": "Law on the Regulation of Electronic Commerce",
+  "short_name": "E-Commerce Law",
+  "status": "in_force",
+  "issued_date": "2014-10-23",
+  "in_force_date": "2015-05-01",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6563&MevzuatTur=1&MevzuatTertip=5",
+  "description": "Regulates electronic commerce in Turkey; covers commercial electronic messages, service provider obligations, consumer protection in e-commerce, and electronic contracts",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "chapter": "Birinci Bölüm",
+      "title": "Amaç",
+      "content": "Madde 1 - Bu Kanunun amacı; elektronik ticaretin düzenlenmesine ilişkin esas ve usulleri belirlemektir."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "chapter": "Birinci Bölüm",
+      "title": "Kapsam",
+      "content": "Madde 2 - Bu Kanun, ticari iletişim, hizmet sağlayıcı ve aracı hizmet sağlayıcıların sorumlulukları, elektronik işlemlere ilişkin bilgi verme yükümlülkleri ile elektronik ticaret ortamında sözleşmelerin kurulmasına ilişkin esas ve usulleri kapsar."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "chapter": "Birinci Bölüm",
+      "title": "Tanımlar",
+      "content": "Madde 3 - Bu Kanunun uygulanmasında; a) Bakanlık: Gümrük ve Ticaret Bakanlığını, b) Elektronik ticaret: Fiziki olarak karşı karşıya gelmeksizin, elektronik ortamda gerçekleştirilen çevrimiçi iktisadi ve ticari her türlü faaliyeti, c) Hizmet sağlayıcı: Elektronik ticaret faaliyetinde bulunan gerçek ya da tüzel kişileri, ç) Aracı hizmet sağlayıcı: Başkalarına ait iktisadi ve ticari faaliyetlerin yapılmasına elektronik ticaret ortamını sağlayan gerçek ya da tüzel kişileri, d) Ticari elektronik ileti: Telefon, çağrı merkezi, faks, otomatik arama makinesi, akıllı ses kaydedici sistem, elektronik posta, kısa mesaj hizmeti gibi vasıtalar kullanarak elektronik ortamda gerçekleştirilen ve ticari amaçlarla gönderilen veri, ses ve görüntü içerikli iletiyi, ifade eder."
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "chapter": "İkinci Bölüm",
+      "title": "Bilgi verme yükümlülüğü",
+      "content": "Madde 4 - Hizmet sağlayıcı, elektronik ticaret faaliyetine başlamadan önce; a) Tacir ise ticaret unvanını, MERSiS numarasını, b) Esnaf ise adını, soyadını, c) Merkez adresini, d) İletişim bilgilerini, e) Varsa meslek odası bilgilerini, f) Varsa mesleki uygulama kurallarını, statik olarak, internet ortamında kolaylıkla erişebilecek şekilde sunmak zorundadır."
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "chapter": "İkinci Bölüm",
+      "title": "Ticari elektronik ileti gönderme şartı",
+      "content": "Madde 6 - Ticari elektronik ileti gönderilebilmesi için, alıcının önceden onayının alınması gereklidir. Bu onay, yazılı olarak veya her türlü elektronik iletişim aracıyla alınabilir."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Elektronik ticaret",
+      "definition": "Fiziki olarak karşı karşıya gelmeksizin, elektronik ortamda gerçekleştirilen çevrimiçi iktisadi ve ticari her türlü faaliyet",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Hizmet sağlayıcı",
+      "definition": "Elektronik ticaret faaliyetinde bulunan gerçek ya da tüzel kişi",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Aracı hizmet sağlayıcı",
+      "definition": "Başkalarına ait iktisadi ve ticari faaliyetlerin yapılmasına elektronik ticaret ortamını sağlayan gerçek ya da tüzel kişi",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Ticari elektronik ileti",
+      "definition": "Elektronik ortamda gerçekleştirilen ve ticari amaçlarla gönderilen veri, ses ve görüntü içerikli ileti",
+      "source_provision": "madde3"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ttk-6102",
+  "type": "statute",
+  "title": "Türk Ticaret Kanunu",
+  "title_en": "Turkish Commercial Code (TTK)",
+  "short_name": "TTK",
+  "status": "in_force",
+  "issued_date": "2011-01-13",
+  "in_force_date": "2012-07-01",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5",
+  "description": "Turkey's modern Commercial Code replacing the 1956 code; covers commercial enterprises, companies, securities, maritime commerce, and insurance; includes provisions on electronic commerce, corporate governance, and commercial registers",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "chapter": "Başlangıç Hükümleri",
+      "title": "Kanunun uygulanma alanı",
+      "content": "Madde 1 - Türk Ticaret Kanunu, 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun ayrılmaz bir parçasıdır. Bu Kanundaki hükümlerle bir ticari işletmeyi ilgilendiren işlem ve fiillere ilişkin diğer kanunlarda yazılı özel hükümler, ticari hükümlerdir."
+    },
+    {
+      "provision_ref": "madde18",
+      "section": "18",
+      "chapter": "Birinci Kitap - Ticari İşletme",
+      "title": "Tacir sıfatının sonuçları",
+      "content": "Madde 18 - (1) Tacir, her türlü borçları için iflas yoluyla takibe tabidir; konkordato talep edebilir. (2) Her tacirin, ticaretine ait bütün faaliyetlerinde basiretli bir işadamı gibi hareket etmesi gerekir."
+    },
+    {
+      "provision_ref": "madde1524",
+      "section": "1524",
+      "chapter": "Dördüncü Kitap",
+      "title": "İnternet sitesi",
+      "content": "Madde 1524 - (1) Her sermaye şirketi, bir internet sitesi açmak ve bu sitenin belirli bir bölümünü şirketin mevcut ve eski ortaklarıyla diğer ilgililer için tahsis etmek zorundadır. (2) Kanunen yapılması gereken ilanlar, şirketin internet sitesinde de yayımlanır."
+    }
+  ],
+  "definitions": []
+}

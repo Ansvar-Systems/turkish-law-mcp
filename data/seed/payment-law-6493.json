@@ -1,0 +1,52 @@
+{
+  "id": "payment-law-6493",
+  "type": "statute",
+  "title": "Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun",
+  "title_en": "Law on Payment and Securities Settlement Systems, Payment Services, and Electronic Money Institutions",
+  "short_name": "Payment Services Law",
+  "status": "in_force",
+  "issued_date": "2013-06-20",
+  "in_force_date": "2013-06-27",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6493&MevzuatTur=1&MevzuatTertip=5",
+  "description": "Regulates payment systems, payment services, and electronic money institutions in Turkey; covers licensing of payment institutions, consumer protection, and operational requirements; influenced by EU Payment Services Directive (PSD)",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "chapter": "Birinci Bölüm",
+      "title": "Amaç",
+      "content": "Madde 1 - Bu Kanunun amacı; ödeme ve menkul kıymet mutabakat sistemlerinin kuruluş ve işleyişini, ödeme hizmetlerinin sunulmasını ve elektronik para kuruluşlarının faaliyetlerini düzenlmektir."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "chapter": "Birinci Bölüm",
+      "title": "Tanımlar",
+      "content": "Madde 3 - Bu Kanunun uygulanmasında; a) Banka: 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununda tanımlanan bankaları, b) Elektronik para: Elektronik para ihracı yapan kuruluşa ait sistem veya araçlar aracılığıyla depolanan nakdi değeri, c) Elektronik para kuruluşu: Elektronik para ihracı yapan anonim şirketi, ç) Ödeme hizmeti: Para havalesi, ödeme işleminin yürütülmesi ve benzeri hizmetleri, d) Ödeme kuruluşu: Ödeme hizmeti sunan anonim şirketi, ifade eder."
+    },
+    {
+      "provision_ref": "madde12",
+      "section": "12",
+      "chapter": "Üçüncü Bölüm",
+      "title": "Ödeme hizmetleri",
+      "content": "Madde 12 - Ödeme hizmetleri: a) Ödeme hesabına para yatırılması ve para çekilmesi için gerekli tüm işlemler dahil, ödeme hesabının işletilmesi, b) Ödeme işlemlerinin yürütülmesi, c) Ödeme aracının ihracı, d) Para havalesi, e) Fatura ödeme hizmetleri, f) Ödeme işlemlerinin yürütülmesinde kullanılan teknik altyapının işletilmesini kapsar."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Elektronik para",
+      "definition": "Elektronik para ihracı yapan kuruluşa ait sistem veya araçlar aracılığıyla depolanan nakdi değer",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Ödeme kuruluşu",
+      "definition": "Ödeme hizmeti sunan anonim şirket",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Elektronik para kuruluşu",
+      "definition": "Elektronik para ihracı yapan anonim şirket",
+      "source_provision": "madde3"
+    }
+  ]
+}
