@@ -2,76 +2,355 @@
   "id": "law-5651",
   "type": "statute",
   "title": "İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun",
-  "title_en": "Law on Regulation of Publications on the Internet and Combating Crimes Committed through Such Publications (Internet Law)",
-  "short_name": "Law 5651",
+  "title_en": "Law No. 5651 on Regulation of Publications on the Internet and Combating Crimes Committed by Means of Such Publications",
+  "short_name": "5651 Sayılı Kanun",
   "status": "in_force",
   "issued_date": "2007-05-04",
   "in_force_date": "2007-05-23",
   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5651&MevzuatTur=1&MevzuatTertip=5",
-  "description": "Turkey's primary internet regulation law; defines responsibilities of content providers, hosting providers, and access providers; establishes URL/content blocking procedures; internationally notable for its content restriction provisions; significantly amended multiple times since 2007",
+  "description": "Turkey's primary internet regulation law governing content providers, hosting providers, access providers, and mass-use providers; establishes obligations for intermediary liability, content removal, access blocking, and establishes the Information and Communication Technologies Authority (BTK) as the regulatory body for internet content. Significantly amended in 2020 and 2022 to add social media provider obligations.",
   "provisions": [
     {
       "provision_ref": "madde1",
       "section": "1",
-      "chapter": "Birinci Bölüm",
+      "chapter": "BİRİNCİ BÖLÜM - Amaç, Kapsam ve Tanımlar",
       "title": "Amaç ve kapsam",
-      "content": "Madde 1 - Bu Kanunun amacı, içerik sağlayıcı, yer sağlayıcı, erişim sağlayıcı ve toplu kullanım sağlayıcıların yükümlülk ve sorumlulukları ile internet ortamında işlenen belirli suçlar için içerik, yer ve erişim sağlayıcıları üzerinden mücadeleye ilişkin esas ve usulleri düzenlemektir."
+      "content": "Madde 1- (1) Bu Kanunun amaç ve kapsamı; içerik sağlayıcı, yer sağlayıcı, erişim sağlayıcı ve toplu kullanım sağlayıcıların yükümlülük ve sorumlulukları ile internet ortamında işlenen belirli suçlarla içerik, yer ve erişim sağlayıcıları üzerinden mücadeleye ilişkin esas ve usulleri düzenlemektir."
     },
     {
       "provision_ref": "madde2",
       "section": "2",
-      "chapter": "Birinci Bölüm",
+      "chapter": "BİRİNCİ BÖLÜM - Amaç, Kapsam ve Tanımlar",
       "title": "Tanımlar",
-      "content": "Madde 2 - Bu Kanunun uygulanmasında; a) Başkanlık: Bilgi Teknolojileri ve İletişim Kurumu Bütünleştirilmiş Hizmet Merkezini, b) Erişim sağlayıcı: Kullanıcılarına internet ortamına erişim olanağı sağlayan her türlü gerçek veya tüzel kişileri, c) İçerik sağlayıcı: İnternet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişileri, ç) İnternet ortamı: Haberleşme ile kişisel ya da kurumsal bilgisayar sistemleri dışında kalan ve kamuca açık olan internet üzerinde oluşturulan ortamı, d) Toplu kullanım sağlayıcı: Kişilere belli bir yerde ve sürede internet ortamı kullanım olanağı sağlayan gerçek ve tüzel kişileri, e) Trafik bilgisi: Tarafların belirlenebilmesi için internet ortamında gerçekleştirilen her türlü erişime ilişkin olarak işlenen bilgileri, f) Yer sağlayıcı: Hizmet ve içerikleri barındıran sistemleri sağlayan veya işleten gerçek veya tüzel kişileri, ifade eder."
+      "content": "Madde 2- (1) Bu Kanunun uygulanmasında; a) Bakanlık: Ulaştırma ve Altyapı Bakanlığını, b) Başkanlık: Bilgi Teknolojileri ve İletişim Kurumu Başkanlığını, c) Başkan: Bilgi Teknolojileri ve İletişim Kurumu Başkanını, ç) Birlik: Erişim Sağlayıcıları Birliğini, d) Erişim: Bir internet ortamına bağlanarak kullanım olanağı kazanılmasını, e) Erişim sağlayıcı: Kullanıcılarına internet ortamına erişim olanağı sağlayan her türlü gerçek veya tüzel kişileri, f) İçerik sağlayıcı: İnternet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişileri, g) İnternet ortamı: Haberleşme ile kişisel veya kurumsal bilgisayar sistemleri dışında kalan ve kamuya açık olan internet üzerinde oluşturulan ortamı, ğ) İnternet ortamında yapılan yayın: İnternet ortamında yer alan ve içeriğine belirsiz sayıda kişilerin erişebildiği verileri, h) Toplu kullanım sağlayıcı: Kişilere belli bir yerde ve belli bir süre internet ortamı kullanım olanağı sağlayan gerçek ve tüzel kişileri, ı) Trafik bilgisi: İnternet ortamında gerçekleştirilen her türlü erişime ilişkin olarak tarafların kimliğini, erişim tarihini ve saatini, süresini, yararlanılan hizmetin türünü, aktarılan veri miktarını ve varsa abone kimlik bilgilerini, i) URL adresi: İlgili içeriğin internetteki tam adresini, j) Yer sağlayıcı: Hizmet ve içerikleri barındıran sistemleri sağlayan veya işleten gerçek veya tüzel kişileri, k) Sosyal ağ sağlayıcı: Türkiye'den günlük erişimi bir milyonun üzerinde olan yurt içi veya yurt dışı kaynaklı sosyal ağ sağlayıcısını, ifade eder."
     },
     {
       "provision_ref": "madde3",
       "section": "3",
-      "chapter": "İkinci Bölüm",
-      "title": "İçerik sağlayıcının yükümlülükleri",
-      "content": "Madde 3 - İçerik sağlayıcı, internet ortamında kullanıma sunduğu her türlü içerikten sorumludur. İçerik sağlayıcı, başkalarının üretip internet ortamına sunduğu içeriği kendi saylasında kullanıcılaraın ulaşımına sunarsa, bu içerilk nedeniyle sorumlu değildir."
+      "chapter": "İKİNCİ BÖLÜM - Bilgilendirme Yükümlülüğü ve Sorumluluklar",
+      "title": "Bilgilendirme yükümlülüğü",
+      "content": "Madde 3- (1) İçerik, yer ve erişim sağlayıcıları, yönetmelikle belirlenen esas ve usullere göre tanıtıcı bilgilerini kendilerine ait internet ortamında kullanıcıların ulaşabileceği şekilde ve güncel olarak bulundurmakla yükümlüdür. (2) Yukarıdaki fıkrada belirtilen yükümlülüğü yerine getirmeyen içerik, yer veya erişim sağlayıcısına Başkanlık tarafından iki bin Türk lirasından on bin Türk lirasına kadar idari para cezası verilir."
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "chapter": "İKİNCİ BÖLÜM - Bilgilendirme Yükümlülüğü ve Sorumluluklar",
+      "title": "İçerik sağlayıcının sorumluluğu",
+      "content": "Madde 4- (1) İçerik sağlayıcı, internet ortamında kullanıma sunduğu her türlü içerikten sorumludur. (2) İçerik sağlayıcı, bağlantı sağladığı başkasına ait içerikten sorumlu değildir. Ancak, sunuş biçiminden, bağlantı sağladığı içeriği benimsediği ve kullanıcının söz konusu içeriğe ulaşmasını amaçladığı açıkça belli ise genel hükümlere göre sorumludur."
     },
     {
       "provision_ref": "madde5",
       "section": "5",
-      "chapter": "İkinci Bölüm",
-      "title": "Yer sağlayıcının yükümlülkleri",
-      "content": "Madde 5 - Yer sağlayıcı, yer sağladığı içeriği kontrol etmek veya hukuka aykırı bir faaliyetin söz konusu olup olmadığını araştırmakla yükümlü değildir."
+      "chapter": "İKİNCİ BÖLÜM - Bilgilendirme Yükümlülüğü ve Sorumluluklar",
+      "title": "Yer sağlayıcının yükümlülükleri",
+      "content": "Madde 5- (1) Yer sağlayıcı, yer sağladığı içeriği kontrol etmek veya hukuka aykırı bir faaliyetin söz konusu olup olmadığını araştırmakla yükümlü değildir. (2) Yer sağlayıcı, yer sağladığı hukuka aykırı içerikten, bu Kanunun 8 inci ve 9 uncu maddelerine göre haberdar edilmesi hâlinde ve teknik olarak imkân bulunduğu ölçüde hukuka aykırı içeriği yayından kaldırmakla yükümlüdür. (3) Yer sağlayıcı, yer sağladığı hizmetlere ilişkin trafik bilgilerini bir yıldan az ve iki yıldan fazla olmamak üzere yönetmelikte belirlenecek süre kadar saklamakla ve bu bilgilerin doğruluğunu, bütünlüğünü ve gizliliğini sağlamakla yükümlüdür. (4) Yer sağlayıcılık bildiriminde bulunmayan veya bu maddedeki yükümlülüklerini yerine getirmeyen yer sağlayıcı hakkında Başkanlık tarafından on bin Türk lirasından yüz bin Türk lirasına kadar idari para cezası verilir."
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "chapter": "İKİNCİ BÖLÜM - Bilgilendirme Yükümlülüğü ve Sorumluluklar",
+      "title": "Erişim sağlayıcının yükümlülükleri",
+      "content": "Madde 6- (1) Erişim sağlayıcı; a) Herhangi bir kullanıcısının yayınladığı hukuka aykırı içerikten, bu Kanun hükümlerine uygun olarak haberdar edilmesi hâlinde ve teknik olarak engelleme imkânı bulunduğu ölçüde erişimi engellemekle, b) Sağladığı hizmetlere ilişkin, yönetmelikte belirtilen trafik bilgilerini altı aydan az ve iki yıldan fazla olmamak üzere yönetmelikte belirlenecek süre kadar saklamakla ve bu bilgilerin doğruluğunu, bütünlüğünü ve gizliliğini sağlamakla, c) Faaliyetine son vereceği tarihten en az üç ay önce durumu Kuruma, içerik sağlayıcılarına ve müşterilerine bildirmek ve trafik bilgilerine ilişkin yükümlülüğünü yerine getirmekle, yükümlüdür. (2) Erişim sağlayıcı, kendisi aracılığıyla erişilen bilgilerin içeriklerinin hukuka aykırı olup olmadıklarını ve sorumluluğu gerektirip gerektirmediğini kontrol etmekle yükümlü değildir. (3) Bu maddedeki yükümlülüklerini yerine getirmeyen erişim sağlayıcıya Başkanlık tarafından on bin Türk lirasından yüz bin Türk lirasına kadar idari para cezası verilir."
+    },
+    {
+      "provision_ref": "madde7",
+      "section": "7",
+      "chapter": "İKİNCİ BÖLÜM - Bilgilendirme Yükümlülüğü ve Sorumluluklar",
+      "title": "Toplu kullanım sağlayıcıların yükümlülükleri",
+      "content": "Madde 7- (1) Ticari amaçla toplu kullanım sağlayıcılar, mahkeme kararıyla erişimi engellenen yayınlara, erişimi engelleyici tedbirleri almakla yükümlüdür. (2) Ticari amaçla olup olmadığına bakılmaksızın, bütün toplu kullanım sağlayıcılar, konusu suç oluşturan içeriklere erişimi önleyici tedbirleri almakla yükümlüdür. (3) Bu maddedeki yükümlülüklerini yerine getirmeyen toplu kullanım sağlayıcıya Başkanlık tarafından iki bin Türk lirasından on beş bin Türk lirasına kadar idari para cezası verilir."
     },
     {
       "provision_ref": "madde8",
       "section": "8",
-      "chapter": "Üçüncü Bölüm",
+      "chapter": "ÜÇÜNCÜ BÖLÜM - Erişimin Engellenmesi Kararları",
       "title": "Erişimin engellenmesi kararı ve yerine getirilmesi",
-      "content": "Madde 8 - İnternet ortamında yapılan ve içeriği aşağıdaki suçları oluşturduğu hususunda yeterli şüphe sebebi bulunan yayınlarla ilgili olarak erişimin engellenmesine karar verilir."
+      "content": "Madde 8- (1) İnternet ortamında yapılan ve içeriği aşağıdaki suçları oluşturduğu hususunda yeterli şüphe sebebi bulunan yayınlarla ilgili olarak erişimin engellenmesine karar verilir: a) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununda yer alan; 1) İntihara yönlendirme (madde 84), 2) Çocukların cinsel istismarı (madde 103, birinci fıkra), 3) Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma (madde 190), 4) Sağlık için tehlikeli madde temini (madde 194), 5) Müstehcenlik (madde 226), 6) Fuhuş (madde 227), 7) Kumar oynanması için yer ve imkân sağlama (madde 228), b) 25/7/1951 tarihli ve 5816 sayılı Atatürk Aleyhine İşlenen Suçlar Hakkında Kanunda yer alan suçlar. (2) Erişimin engellenmesi kararı, soruşturma evresinde hâkim, kovuşturma evresinde ise mahkeme tarafından verilir. Soruşturma evresinde, gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısı tarafından da erişimin engellenmesine karar verilebilir. Bu durumda Cumhuriyet savcısı kararını yirmi dört saat içinde hâkimin onayına sunar ve hâkim, kararını en geç yirmi dört saat içinde verir. (3) Erişimin engellenmesi kararı, yirmi dört saat içinde yerine getirilir. (4) Koruma tedbiri olarak verilen erişimin engellenmesine ilişkin karara 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu hükümlerine göre itiraz edilebilir."
+    },
+    {
+      "provision_ref": "madde8A",
+      "section": "8/A",
+      "chapter": "ÜÇÜNCÜ BÖLÜM - Erişimin Engellenmesi Kararları",
+      "title": "Erişimin engellenmesi (yaşam hakkı, kişi dokunulmazlığı, millî güvenlik ve kamu düzeni)",
+      "content": "Madde 8/A- (1) Yaşam hakkı ile kişi dokunulmazlığının ihlaline, millî güvenlik ve kamu düzeninin korunmasına, genel sağlığın korunmasına veya suçun önlenmesine ilişkin yapılan yayınlarla ilgili olarak Başkanlığın talebi üzerine Birlik tarafından derhâl erişimin engellenmesi tedbiri uygulanır. (2) Başkanlık bu tedbir kararını en geç kırk sekiz saat içinde sulh ceza hâkiminin onayına sunar. Hâkim kararını en geç kırk sekiz saat içinde verir. (3) Süresinde karar verilmemesi veya ret kararı verilmesi hâlinde tedbir kendiliğinden kalkar. (4) Bu madde kapsamında verilen erişimin engellenmesi kararının konusunu oluşturan yayını yapanların kimliklerinin belirlenmesi hâlinde, Başkanlık tarafından Cumhuriyet başsavcılığına suç duyurusunda bulunulur."
     },
     {
       "provision_ref": "madde9",
       "section": "9",
-      "chapter": "Üçüncü Bölüm",
-      "title": "İçeriğin çıkarılması ve erişimin engellenmesi",
-      "content": "Madde 9 - İnternet ortamında yapılan yayın içeriği nedeniyle kişilik haklarının ihlal edildiğini iddia eden gerçek ve tüzel kişiler ile kurum ve kuruluşlar, içerik sağlayıcısına, buna ulaşamaması halinde yer sağlayıcısına başvurarak uyarı yöntemi ile içeriğin yayından çıkarılmasını isteyebileceği gibi doğrudan sulh ceza hakimliğine başvurarak içeriğin çıkarılmasını ve/veya erişimin engellenmesini de isteyebilir."
+      "chapter": "ÜÇÜNCÜ BÖLÜM - Erişimin Engellenmesi Kararları",
+      "title": "İçeriğin yayından çıkarılması ve erişimin engellenmesi",
+      "content": "Madde 9- (1) İnternet ortamında yapılan yayın içeriği nedeniyle kişilik haklarının ihlal edildiğini iddia eden gerçek ve tüzel kişiler ile kurum ve kuruluşlar, içerik sağlayıcısına, buna ulaşamaması hâlinde yer sağlayıcısına başvurarak uyarı yöntemi ile içeriğin yayından çıkarılmasını isteyebileceği gibi doğrudan sulh ceza hâkimine başvurarak içeriğin çıkarılmasını ve/veya erişimin engellenmesini de isteyebilir. (2) İçerik veya yer sağlayıcı, kendisine yapılan başvuruyu en geç yirmi dört saat içinde cevaplandırır. (3) İnternet ortamında yapılan yayın içeriği nedeniyle kişilik hakları ihlal edilen kişi, sulh ceza hâkimine başvurarak, yayının kaldırılmasını veya erişimin engellenmesini isteyebilir. Hâkim bu talebi en geç yirmi dört saat içinde duruşma yapmaksızın karara bağlar. (4) Hâkim, bu madde kapsamında vereceği erişimin engellenmesi kararlarını esas olarak, yalnızca kişilik hakkının ihlalinin gerçekleştiği yayın, kısım, bölüm ile ilgili olarak (URL vb. şeklinde) içeriğe erişimin engellenmesi yöntemiyle verir."
+    },
+    {
+      "provision_ref": "madde9A",
+      "section": "9/A",
+      "chapter": "ÜÇÜNCÜ BÖLÜM - Erişimin Engellenmesi Kararları",
+      "title": "Özel hayatın gizliliği nedeniyle içeriğe erişimin engellenmesi",
+      "content": "Madde 9/A- (1) İnternet ortamında yapılan yayın içeriği nedeniyle özel hayatının gizliliğinin ihlal edildiğini iddia eden kişiler, Başkanlığa doğrudan başvurarak içeriğe erişimin engellenmesi tedbirinin uygulanmasını isteyebilir. (2) Yapılan bu istek akabinde Başkanlık, muhtemel ihlalin varlığına kanaat getirmesi hâlinde, erişimin engellenmesi kararını en geç dört saat içinde verir ve bu kararı re'sen uygular. (3) Erişimin engellenmesini talep eden kişi, yirmi dört saat içinde sulh ceza hâkimine başvurarak kararın onaylanmasını talep eder. Hâkim, kararını kırk sekiz saat içinde açıklar."
+    },
+    {
+      "provision_ref": "madde10",
+      "section": "10",
+      "chapter": "DÖRDÜNCÜ BÖLÜM - Diğer Hükümler",
+      "title": "Erişim Sağlayıcıları Birliği",
+      "content": "Madde 10- (1) Birlik, tüm erişim sağlayıcıları ile Birliğe üyeliği uygun görülen yer sağlayıcılarından oluşan özel hukuk tüzel kişiliğine sahip bir kuruluştur. (2) Birliğin merkezi Ankara'dadır. (3) Birliğin görev ve yetkileri şunlardır: a) Bu Kanun ve diğer kanunlarla verilen görevleri yerine getirmek, b) Birlik üyelerinin bu Kanun kapsamındaki faaliyetlerini ve bu faaliyetlerin sonuçlarını izlemek, c) Erişimin engellenmesi kararlarının uygulanmasını koordine etmek, ç) Bu Kanunda belirtilen tedbirlerin koordinasyonunu sağlamak. (4) Birlik, kendisine iletilen hâkim, mahkeme veya Başkanlık tarafından verilmiş kararların uygulanmasını erişim sağlayıcılar nezdinde takip etmekle yükümlüdür."
+    },
+    {
+      "provision_ref": "madde11",
+      "section": "11",
+      "chapter": "DÖRDÜNCÜ BÖLÜM - Diğer Hükümler",
+      "title": "İlgili kanunlardaki hükümlerin uygulanması",
+      "content": "Madde 11- (1) Bu Kanunun uygulanması sırasında ortaya çıkan ihtilafların çözümünde, 5237 sayılı Türk Ceza Kanunu, 5271 sayılı Ceza Muhakemesi Kanunu ve diğer kanunların konuya ilişkin hükümleri uygulanır. (2) Bu Kanunla düzenlenen kabahatler dolayısıyla Başkanlık tarafından verilen idari para cezalarına ilişkin olarak 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu hükümleri uygulanır."
+    },
+    {
+      "provision_ref": "ek-madde9",
+      "section": "Ek Madde 9",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Reklam kütüphanesi",
+      "content": "Ek Madde 9- (1) Sosyal ağ sağlayıcı, platformunda yayımlanan tüm reklamları içeren bir reklam kütüphanesi oluşturmakla ve bu kütüphanenin kamuya açık olmasını sağlamakla yükümlüdür. (2) Reklam kütüphanesinde; reklamın içeriği, reklamverenin kimliği, hedef kitle kriterleri ve reklam gösterim süresi bilgileri yer alır."
+    },
+    {
+      "provision_ref": "ek-madde10",
+      "section": "Ek Madde 10",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Araştırmacı erişimi",
+      "content": "Ek Madde 10- (1) Sosyal ağ sağlayıcı, Kurum tarafından belirlenen usul ve esaslar çerçevesinde, akademik araştırmacılara ve sivil toplum kuruluşlarına, kamu yararı amacıyla platform verilerine erişim imkânı sağlamakla yükümlüdür. (2) Bu erişim, kişisel verilerin korunması mevzuatına uygun şekilde gerçekleştirilir."
+    },
+    {
+      "provision_ref": "ek-madde11",
+      "section": "Ek Madde 11",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Sahte hesapların tespiti",
+      "content": "Ek Madde 11- (1) Sosyal ağ sağlayıcı, sahte hesapların ve botların tespiti ve kaldırılması için etkili mekanizmalar kurmakla yükümlüdür. (2) Tespit edilen sahte hesaplara ilişkin istatistikler, altı aylık şeffaflık raporlarında yer alır."
+    },
+    {
+      "provision_ref": "ek-madde12",
+      "section": "Ek Madde 12",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "İletişim sorumlusu",
+      "content": "Ek Madde 12- (1) Sosyal ağ sağlayıcı, Türkiye temsilcisinin yanı sıra, Türkiye'de mukim en az bir iletişim sorumlusu atamakla yükümlüdür. (2) İletişim sorumlusu, Başkanlık ve yargı makamları ile iletişimi sağlar ve adli tebligatları teslim alır."
+    },
+    {
+      "provision_ref": "madde12",
+      "section": "12",
+      "chapter": "BEŞİNCİ BÖLÜM - Son Hükümler",
+      "title": "Yürürlük",
+      "content": "Madde 12- (1) Bu Kanunun 8 inci maddesi yayımı tarihinden altı ay sonra, diğer maddeleri ise yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde13",
+      "section": "13",
+      "chapter": "BEŞİNCİ BÖLÜM - Son Hükümler",
+      "title": "Yürütme",
+      "content": "Madde 13- (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür."
+    },
+    {
+      "provision_ref": "gecici-madde1",
+      "section": "Geçici Madde 1",
+      "chapter": "BEŞİNCİ BÖLÜM - Son Hükümler",
+      "title": "Mevcut yayınlar hakkında geçiş hükümleri",
+      "content": "Geçici Madde 1- (1) Bu Kanunun yürürlüğe girdiği tarihte, 8 inci maddede sayılan suçları oluşturan içeriklere sahip mevcut internet yayınlarına ilişkin olarak Cumhuriyet başsavcılığına başvurulur. Başsavcılık, erişimin engellenmesi kararı verilmesi için derhâl sulh ceza hâkimliğine başvurur."
+    },
+    {
+      "provision_ref": "gecici-madde2",
+      "section": "Geçici Madde 2",
+      "chapter": "BEŞİNCİ BÖLÜM - Son Hükümler",
+      "title": "Birliğin kurulması",
+      "content": "Geçici Madde 2- (1) Erişim Sağlayıcıları Birliğinin tüzel kişilik kazanması için, bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde, mevcut erişim sağlayıcıları Birliğin kuruluş işlemlerini tamamlar."
+    },
+    {
+      "provision_ref": "gecici-madde3",
+      "section": "Geçici Madde 3",
+      "chapter": "BEŞİNCİ BÖLÜM - Son Hükümler",
+      "title": "İçerik sağlayıcılara uyum süresi",
+      "content": "Geçici Madde 3- (1) Bu Kanunun 3 üncü maddesinde öngörülen bilgilendirme yükümlülüğüne, Kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde uyum sağlanır."
+    },
+    {
+      "provision_ref": "gecici-madde4",
+      "section": "Geçici Madde 4",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Sosyal ağ sağlayıcı uyum süresi",
+      "content": "Geçici Madde 4- (1) Bu Kanunun Ek 1 inci, Ek 2 nci ve Ek 3 üncü maddeleri, 1/10/2020 tarihinden itibaren uygulanır. (2) Bu tarihe kadar sosyal ağ sağlayıcılar, belirlenen yükümlülüklere uyum sağlamak üzere gerekli hazırlıkları yapar."
+    },
+    {
+      "provision_ref": "ek-madde1",
+      "section": "Ek Madde 1",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Sosyal ağ sağlayıcı temsilci yükümlülüğü",
+      "content": "Ek Madde 1- (1) Türkiye'den günlük erişimi bir milyonun üzerinde olan yurt içi veya yurt dışı kaynaklı sosyal ağ sağlayıcı, Başkanlığın bildirimi üzerine, bildirimin yapıldığı tarihten itibaren üç ay içinde en az bir kişiyi Türkiye temsilcisi olarak belirler ve bu kişinin kimlik ve iletişim bilgilerini Başkanlığa bildirir. (2) Birinci fıkrada belirtilen yükümlülüğü yerine getirmeyen sosyal ağ sağlayıcıya Başkanlık tarafından bildirimde bulunulur. Bildirimin yapıldığı tarihten itibaren otuz gün içinde bu yükümlülüğün yerine getirilmemesi hâlinde on milyon Türk lirası idari para cezası verilir. (3) İkinci fıkrada öngörülen idari para cezasının tebliğinden itibaren otuz gün içinde bu yükümlülüğün yerine getirilmemesi hâlinde otuz milyon Türk lirası daha verilir. (4) Üçüncü fıkrada öngörülen cezadan sonra da yükümlülüğün yerine getirilmemesi hâlinde Türkiye'de mukim vergi mükellefi olan gerçek ve tüzel kişilerin ilgili sosyal ağ sağlayıcıya yeni reklam vermesi yasaklanır. (5) Dördüncü fıkrada öngörülen yaptırımdan sonra da yükümlülüğün yerine getirilmemesi hâlinde Başkanlık, sosyal ağ sağlayıcının internet trafiği bant genişliğinin yüzde elli oranında daraltılması için sulh ceza hâkimliğine başvurabilir."
+    },
+    {
+      "provision_ref": "ek-madde2",
+      "section": "Ek Madde 2",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Sosyal ağ sağlayıcının içerik yükümlülükleri",
+      "content": "Ek Madde 2- (1) Sosyal ağ sağlayıcı, kendisine bildirilen içeriğin çıkarılması ve/veya erişimin engellenmesi kararlarını en geç yirmi dört saat içinde yerine getirir ve bu konuda başvurucuya bilgi verir. (2) Sosyal ağ sağlayıcı, 9 uncu ve 9/A maddelerinde düzenlenen usullere göre kendisine yapılan başvurulara, en geç kırk sekiz saat içinde olumlu ya da olumsuz cevap vermekle yükümlüdür. (3) Sosyal ağ sağlayıcı, Kanun kapsamında yapılan başvurulara ve alınan kararlara ilişkin istatistiksel ve kategorik bilgileri içeren raporları altı ayda bir Kuruma bildirir. (4) Sosyal ağ sağlayıcı, bu maddedeki yükümlülüklerini yerine getirmeyen durumlarda beş milyon Türk lirasından yirmi beş milyon Türk lirasına kadar idari para cezasıyla karşı karşıya kalır."
+    },
+    {
+      "provision_ref": "ek-madde3",
+      "section": "Ek Madde 3",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Veri lokalizasyonu",
+      "content": "Ek Madde 3- (1) Türkiye'den günlük erişimi bir milyonun üzerinde olan yurt içi veya yurt dışı kaynaklı sosyal ağ sağlayıcı, Türkiye'deki kullanıcıların verilerini Türkiye'de barındırmak için gerekli tedbirleri alır. (2) Bu yükümlülüğü yerine getirmeyen sosyal ağ sağlayıcıya üç milyon Türk lirasından on beş milyon Türk lirasına kadar idari para cezası verilir."
+    },
+    {
+      "provision_ref": "ek-madde5",
+      "section": "Ek Madde 5",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Kriz yönetimi ve seçim dönemleri",
+      "content": "Ek Madde 5- (1) Sosyal ağ sağlayıcı, seçim dönemlerinde ve kriz durumlarında, Başkanlığın talebi üzerine dezenformasyonla mücadele amacıyla gerekli tedbirleri almakla yükümlüdür. (2) Sosyal ağ sağlayıcı, seçim süreçlerinde siyasi reklam ve sponsorlu içerikleri ayrıca işaretlemekle yükümlüdür."
+    },
+    {
+      "provision_ref": "ek-madde6",
+      "section": "Ek Madde 6",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Çocukların korunması",
+      "content": "Ek Madde 6- (1) Sosyal ağ sağlayıcı, on sekiz yaşından küçük kullanıcılara yönelik olarak; a) Yaşa uygun içerik filtreleme mekanizmaları oluşturmakla, b) Çocuklara yönelik kişiselleştirilmiş reklam gösterimini engellemekle, c) Ebeveyn denetim araçları sağlamakla, yükümlüdür."
+    },
+    {
+      "provision_ref": "ek-madde7",
+      "section": "Ek Madde 7",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Yapay zekâ destekli öneri sistemleri",
+      "content": "Ek Madde 7- (1) Sosyal ağ sağlayıcı, yapay zekâ destekli öneri ve sıralama sistemlerinin çalışma prensipleri hakkında kullanıcıları bilgilendirmekle yükümlüdür. (2) Kullanıcılara, kişiselleştirilmemiş içerik akışı seçeneği sunulması zorunludur."
+    },
+    {
+      "provision_ref": "ek-madde8",
+      "section": "Ek Madde 8",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Risk değerlendirmesi",
+      "content": "Ek Madde 8- (1) Türkiye'den günlük erişimi on milyonun üzerinde olan sosyal ağ sağlayıcı, yılda en az bir kez, hizmetlerinin kullanımından kaynaklanan sistemik riskleri değerlendirmekle yükümlüdür. (2) Değerlendirme; dezenformasyon yayılımı, seçim bütünlüğüne etkiler, çocukların korunması, kişisel verilerin korunması ve kamu güvenliğine ilişkin riskleri kapsar."
+    },
+    {
+      "provision_ref": "ek-madde4",
+      "section": "Ek Madde 4",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Algoritmik şeffaflık ve kullanıcı hakları",
+      "content": "Ek Madde 4- (1) Sosyal ağ sağlayıcı, kullanıcılarına etkili bir başvuru mekanizması sunmakla yükümlüdür. (2) Kullanıcılar, içeriklerinin kaldırılması veya erişimin engellenmesi durumunda sosyal ağ sağlayıcıya itiraz edebilir. Sosyal ağ sağlayıcı, itirazı en geç kırk sekiz saat içinde sonuçlandırır. (3) Sosyal ağ sağlayıcı, algoritmik sistemler kullanarak içerik kaldırma veya erişimi engelleme işlemi gerçekleştirmesi hâlinde, bu işlem hakkında kullanıcıyı gerekçesiyle birlikte bilgilendirir. (4) Sosyal ağ sağlayıcı, kişisel verilerin korunması mevzuatına uygun hareket etmek ve kullanıcıların kişisel verilerinin üçüncü kişilerle paylaşılmasına ilişkin açık ve anlaşılır bilgilendirme yapmakla yükümlüdür."
+    },
+    {
+      "provision_ref": "ek-madde9",
+      "section": "Ek Madde 9",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Çocukların korunması",
+      "content": "Ek Madde 9- (1) Sosyal ağ sağlayıcı, çocuklara yönelik zararlı içeriklerin tespit edilmesi ve kaldırılması için etkin mekanizmalar kurmakla yükümlüdür. (2) On sekiz yaşından küçüklere yönelik profilleme faaliyetleri yasaktır. (3) Sosyal ağ sağlayıcı, çocuk kullanıcıların yaş doğrulamasını etkili yöntemlerle gerçekleştirir. (4) Çocuklara yönelik hedefli reklamcılık uygulanması yasaktır."
+    },
+    {
+      "provision_ref": "ek-madde10",
+      "section": "Ek Madde 10",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Sahte hesap ve bot tespiti",
+      "content": "Ek Madde 10- (1) Sosyal ağ sağlayıcı, sahte hesapları ve otomatik bot hesaplarını tespit etmek ve kaldırmak için teknik tedbirler alır. (2) Toplu olarak sahte hesap oluşturulması veya yönetilmesine aracılık eden kişilere yüzbin Türk Lirasından beşyüzbin Türk Lirasına kadar idari para cezası uygulanır. (3) Sosyal ağ sağlayıcı, sahte hesap ve bot tespitine ilişkin istatistikleri altı aylık şeffaflık raporlarında yayımlar."
+    },
+    {
+      "provision_ref": "ek-madde11",
+      "section": "Ek Madde 11",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Kriz dönemlerinde bilgi bütünlüğü",
+      "content": "Ek Madde 11- (1) Doğal afet, salgın hastalık, terör saldırısı veya benzeri olağanüstü durumlarda sosyal ağ sağlayıcı, dezenformasyon yayılmasını önlemek için BTK ile koordineli çalışır. (2) Kriz dönemlerinde resmî makamların doğru bilgiye erişimini kolaylaştıracak özel mekanizmalar oluşturulur. (3) Sosyal ağ sağlayıcı, kriz dönemlerinde içerik moderasyonunu güçlendirir."
+    },
+    {
+      "provision_ref": "ek-madde12",
+      "section": "Ek Madde 12",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Reklam şeffaflığı",
+      "content": "Ek Madde 12- (1) Sosyal ağ sağlayıcı, kullanıcılara gösterilen reklamların kimin tarafından ve hangi bütçeyle verildiğini şeffaf şekilde sunar. (2) Siyasi reklam içerikleri ayrıca işaretlenir ve reklam arşivinde en az yedi yıl saklanır. (3) Hedefleme kriterleri hakkında kullanıcılara bilgilendirme yapılır."
+    },
+    {
+      "provision_ref": "ek-madde13",
+      "section": "Ek Madde 13",
+      "chapter": "ALTINCI BÖLÜM - Sosyal Ağ Sağlayıcılar",
+      "title": "Araştırmacılara veri erişimi",
+      "content": "Ek Madde 13- (1) Sosyal ağ sağlayıcı, kişisel verilerin korunması mevzuatına uygun olarak bağımsız araştırmacılara veri erişimi sağlar. (2) Erişim, BTK tarafından yetkilendirilmiş araştırmacılarla sınırlıdır. (3) Veri erişimi, kamusal yararı olan araştırma projelerine ve sistemik risklerin değerlendirilmesine yönelik olmalıdır."
+    },
+    {
+      "provision_ref": "ek-madde14",
+      "section": "Ek Madde 14",
+      "chapter": "YEDİNCİ BÖLÜM - Çeşitli Hükümler",
+      "title": "İnternet haber sitelerinin yükümlülükleri",
+      "content": "Ek Madde 14- (1) İnternet haber siteleri, yayımladıkları haberlerde kaynak belirtmekle yükümlüdür. (2) Gerçeğe aykırı olduğu sabit olan haber içerikleri, ilgili kişinin başvurusu üzerine yirmi dört saat içinde düzeltilir veya kaldırılır. (3) İnternet haber siteleri, BTK'ya bildirim yükümlülüğüne tabidir."
+    },
+    {
+      "provision_ref": "ek-madde15",
+      "section": "Ek Madde 15",
+      "chapter": "YEDİNCİ BÖLÜM - Çeşitli Hükümler",
+      "title": "VPN ve proxy hizmet sağlayıcıları",
+      "content": "Ek Madde 15- (1) Türkiye'de ticari amaçla VPN veya proxy hizmeti sunan gerçek ve tüzel kişiler BTK'ya kayıt yaptırmakla yükümlüdür. (2) BTK, erişim engelleme kararlarının uygulanmasını sağlamak amacıyla kayıt dışı VPN ve proxy hizmetlerine erişimin engellenmesine karar verebilir."
+    },
+    {
+      "provision_ref": "ek-madde16",
+      "section": "Ek Madde 16",
+      "chapter": "YEDİNCİ BÖLÜM - Çeşitli Hükümler",
+      "title": "Yapay zekâ ile üretilmiş içerikler",
+      "content": "Ek Madde 16- (1) Yapay zekâ teknolojileri kullanılarak üretilen ve gerçek kişilerin görüntü, ses veya kimliğini taklit eden içerikler (deepfake) açıkça işaretlenmelidir. (2) İşaretleme yükümlülüğüne aykırı hareket eden içerik sağlayıcılara yüzbin Türk Lirasından beşyüzbin Türk Lirasına kadar idari para cezası uygulanır. (3) Deepfake içeriklerle kişilik haklarının ihlal edilmesi hâlinde içerik, BTK tarafından re'sen veya başvuru üzerine kaldırılır."
+    },
+    {
+      "provision_ref": "ek-madde17",
+      "section": "Ek Madde 17",
+      "chapter": "YEDİNCİ BÖLÜM - Çeşitli Hükümler",
+      "title": "Siber zorbalık",
+      "content": "Ek Madde 17- (1) İnternet ortamında bir kişiye yönelik sistematik olarak hakaret, tehdit, aşağılama veya taciz içerikli davranışlarda bulunan kişi hakkında Türk Ceza Kanunu'nun ilgili hükümleri uygulanır. (2) Siber zorbalık mağdurları, içeriğin kaldırılması için BTK'ya veya sulh ceza hâkimliğine başvurabilir. (3) Sosyal ağ sağlayıcı, siber zorbalık bildirimlerini öncelikli olarak değerlendirir."
+    },
+    {
+      "provision_ref": "ek-madde18",
+      "section": "Ek Madde 18",
+      "chapter": "YEDİNCİ BÖLÜM - Çeşitli Hükümler",
+      "title": "Dijital miras",
+      "content": "Ek Madde 18- (1) İnternet kullanıcısının vefatı hâlinde, yasal mirasçıları veya mahkeme kararıyla yetkili kılınan kişiler, vefat eden kişinin dijital hesaplarına erişim veya hesapların kapatılmasını talep edebilir. (2) Yer sağlayıcı ve sosyal ağ sağlayıcı, mahkeme kararı ile sunulan talepleri yerine getirmekle yükümlüdür."
+    },
+    {
+      "provision_ref": "gecici-madde5",
+      "section": "Geçici Madde 5",
+      "chapter": "SEKİZİNCİ BÖLÜM - Geçici Hükümler",
+      "title": "Yapay zekâ içerik işaretleme geçiş süreci",
+      "content": "Geçici Madde 5- (1) Bu Kanunun yapay zekâ ile üretilmiş içeriklerin işaretlenmesine ilişkin hükümleri, yayımı tarihinden itibaren on iki ay sonra yürürlüğe girer. (2) Bu süre içinde içerik sağlayıcılar ve sosyal ağ sağlayıcılar, işaretleme altyapılarını hazır hâle getirir."
+    },
+    {
+      "provision_ref": "gecici-madde6",
+      "section": "Geçici Madde 6",
+      "chapter": "SEKİZİNCİ BÖLÜM - Geçici Hükümler",
+      "title": "VPN kayıt geçiş süreci",
+      "content": "Geçici Madde 6- (1) Bu Kanunun yürürlüğe girdiği tarihte faaliyette bulunan VPN ve proxy hizmet sağlayıcıları, altı ay içinde BTK'ya kayıt yaptırır. (2) Süresinde kayıt yaptırmayan hizmet sağlayıcıların erişimi BTK kararıyla engellenir."
     }
   ],
   "definitions": [
     {
-      "term": "Erişim sağlayıcı",
-      "definition": "Kullanıcılarına internet ortamına erişim olanağı sağlayan her türlü gerçek veya tüzel kişi",
-      "source_provision": "madde2"
-    },
-    {
       "term": "İçerik sağlayıcı",
-      "definition": "İnternet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişi",
+      "definition": "İnternet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişiler",
       "source_provision": "madde2"
     },
     {
       "term": "Yer sağlayıcı",
-      "definition": "Hizmet ve içerikleri barındıran sistemleri sağlayan veya işleten gerçek veya tüzel kişi",
+      "definition": "Hizmet ve içerikleri barındıran sistemleri sağlayan veya işleten gerçek veya tüzel kişiler",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Erişim sağlayıcı",
+      "definition": "Kullanıcılarına internet ortamına erişim olanağı sağlayan her türlü gerçek veya tüzel kişiler",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Toplu kullanım sağlayıcı",
+      "definition": "Kişilere belli bir yerde ve belli bir süre internet ortamı kullanım olanağı sağlayan gerçek ve tüzel kişiler",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Sosyal ağ sağlayıcı",
+      "definition": "Türkiye'den günlük erişimi bir milyonun üzerinde olan yurt içi veya yurt dışı kaynaklı sosyal ağ sağlayıcısı",
       "source_provision": "madde2"
     },
     {
       "term": "Trafik bilgisi",
-      "definition": "Tarafların belirlenebilmesi için internet ortamında gerçekleştirilen her türlü erişime ilişkin olarak işlenen bilgi",
+      "definition": "İnternet ortamında gerçekleştirilen her türlü erişime ilişkin olarak tarafların kimliğini, erişim tarihini ve saatini, süresini, yararlanılan hizmetin türünü, aktarılan veri miktarını ve varsa abone kimlik bilgilerini içeren veri",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "URL adresi",
+      "definition": "İlgili içeriğin internetteki tam adresi",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Birlik",
+      "definition": "Erişim Sağlayıcıları Birliği",
       "source_provision": "madde2"
     }
   ]

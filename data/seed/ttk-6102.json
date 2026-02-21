@@ -2,35 +2,474 @@
   "id": "ttk-6102",
   "type": "statute",
   "title": "Türk Ticaret Kanunu",
-  "title_en": "Turkish Commercial Code (TTK)",
+  "title_en": "Turkish Commercial Code No. 6102 (Corporate Governance and Data Provisions)",
   "short_name": "TTK",
   "status": "in_force",
   "issued_date": "2011-01-13",
   "in_force_date": "2012-07-01",
   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5",
-  "description": "Turkey's modern Commercial Code replacing the 1956 code; covers commercial enterprises, companies, securities, maritime commerce, and insurance; includes provisions on electronic commerce, corporate governance, and commercial registers",
+  "description": "Turkey's Commercial Code, enacted in 2011, replacing the 1957 code. This extract covers corporate governance, board duties, audit requirements, electronic record-keeping, data retention obligations, trade secrets, and provisions relevant to cybersecurity compliance in commercial entities.",
   "provisions": [
     {
       "provision_ref": "madde1",
       "section": "1",
-      "chapter": "Başlangıç Hükümleri",
-      "title": "Kanunun uygulanma alanı",
-      "content": "Madde 1 - Türk Ticaret Kanunu, 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun ayrılmaz bir parçasıdır. Bu Kanundaki hükümlerle bir ticari işletmeyi ilgilendiren işlem ve fiillere ilişkin diğer kanunlarda yazılı özel hükümler, ticari hükümlerdir."
+      "chapter": "BİRİNCİ KISIM - Genel Hükümler / BİRİNCİ BÖLÜM - Başlangıç",
+      "title": "Kanunun uygulama alanı",
+      "content": "Madde 1- (1) Türk Ticaret Kanunu, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanununun ayrılmaz bir parçasıdır. Bu Kanundaki hükümlerle, bir ticari işletmeyi ilgilendiren işlem ve fiillere ilişkin diğer kanunlarda yazılı özel hükümler, ticari hükümlerdir. (2) Mahkeme, hakkında ticari bir hüküm bulunmayan ticari işlerde, ticari örf ve âdete, bu da yoksa genel hükümlere göre karar verir."
     },
     {
       "provision_ref": "madde18",
       "section": "18",
-      "chapter": "Birinci Kitap - Ticari İşletme",
-      "title": "Tacir sıfatının sonuçları",
-      "content": "Madde 18 - (1) Tacir, her türlü borçları için iflas yoluyla takibe tabidir; konkordato talep edebilir. (2) Her tacirin, ticaretine ait bütün faaliyetlerinde basiretli bir işadamı gibi hareket etmesi gerekir."
+      "chapter": "BİRİNCİ KISIM - Genel Hükümler / İKİNCİ BÖLÜM - Tacir",
+      "title": "Tacir",
+      "content": "Madde 18- (1) Tacir, her türlü borcu için iflasa tabidir; konkordato talep edebilir. (2) Tacir, ticari faaliyetlerinde basiretli bir iş adamı gibi hareket etmek zorundadır."
+    },
+    {
+      "provision_ref": "madde39",
+      "section": "39",
+      "chapter": "BİRİNCİ KISIM - Genel Hükümler / ÜÇÜNCÜ BÖLÜM - Ticaret Sicili",
+      "title": "Tescil",
+      "content": "Madde 39- (1) Her tacir, ticari işletmesini ve seçtiği ticaret unvanını, işletme merkezinin bulunduğu yer ticaret siciline tescil ve ilan ettirmekle yükümlüdür. (2) Ticaret unvanı, ticaret siciline tescil ile korunur."
+    },
+    {
+      "provision_ref": "madde64",
+      "section": "64",
+      "chapter": "BİRİNCİ KISIM - Genel Hükümler / DÖRDÜNCÜ BÖLÜM - Ticari Defterler",
+      "title": "Defter tutma yükümlülüğü",
+      "content": "Madde 64- (1) Her tacir, ticari defterleri tutmak ve defterlerinde, ticari işlemleriyle ticari işletmesinin iktisadi ve mali durumunu, borç ve alacak ilişkilerini ve her hesap dönemi içinde elde edilen neticeleri, bu Kanuna göre açıkça görülebilir bir şekilde ortaya koymak zorundadır. (2) Defterler, üçüncü kişi uzmanlara, makul bir süre içinde yapacakları incelemede işletmenin faaliyetleri ve finansal durumu hakkında fikir verebilecek şekilde tutulur. (3) Tacir, işletmesiyle ilgili olarak gönderilmiş bulunan her türlü belgenin, fotokopi, karbonlu kopya, mikrofiş, bilgisayar kaydı veya benzer şekildeki bir kopyasını, yazılı, görsel veya elektronik ortamda saklamakla yükümlüdür."
+    },
+    {
+      "provision_ref": "madde65",
+      "section": "65",
+      "chapter": "BİRİNCİ KISIM - Genel Hükümler / DÖRDÜNCÜ BÖLÜM - Ticari Defterler",
+      "title": "Defterlerin elektronik ortamda tutulması",
+      "content": "Madde 65- (1) Ticari defterler, Vergi Usul Kanunu ile diğer ilgili kanunların hükümleri saklı kalmak kaydıyla, elektronik ortamda veya dosyalama yoluyla tutulabilir. (2) Elektronik ortamda tutulan defterler, güvenli elektronik imza ile onaylanmış olmalıdır. (3) Elektronik defterlerin, bilgilerin saklanma süreleri boyunca erişilebilir, okunabilir ve güvenilir olması zorunludur."
+    },
+    {
+      "provision_ref": "madde66",
+      "section": "66",
+      "chapter": "BİRİNCİ KISIM - Genel Hükümler / DÖRDÜNCÜ BÖLÜM - Ticari Defterler",
+      "title": "Saklama süresi",
+      "content": "Madde 66- (1) Her tacir; ticari defterlerini, envanterlerini, açılış bilançolarını, ara bilançolarını, finansal tablolarını, yıllık faaliyet raporlarını, topluluk finansal tablolarını ve yıllık faaliyet raporlarını, alınan ticari mektupları, gönderilen ticari mektupların suretlerini, muntazam bir şekilde on yıl saklamakla yükümlüdür. (2) Saklama süresi, ticari defterlere son kaydın yapıldığı, envanterin çıkarıldığı, açılış veya ara bilançosunun düzenlendiği, yıllık faaliyet raporunun hazırlandığı, topluluk finansal tablolarının ve yıllık faaliyet raporlarının düzenlendiği, ticari yazışmaların yapıldığı veya muhasebe belgelerinin oluştuğu takvim yılının bitişiyle işlemeye başlar."
+    },
+    {
+      "provision_ref": "madde82",
+      "section": "82",
+      "chapter": "BİRİNCİ KISIM - Genel Hükümler / BEŞİNCİ BÖLÜM - Cari Hesap ve Ticari İşlerde Faiz",
+      "title": "Saklama yükümlülüğü (ticari belgeler)",
+      "content": "Madde 82- (1) Her tacir, ticari işletmesiyle ilgili her türlü belgeyi, düzenli bir şekilde saklama yükümlülüğündedir. Belgeler, dijital veya fiziksel ortamda, bütünlükleri ve güvenilirlikleri sağlanarak saklanır. (2) Saklanan belgeler, yetkili makamların talebi üzerine ibraz edilir."
+    },
+    {
+      "provision_ref": "madde329",
+      "section": "329",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / BİRİNCİ BÖLÜM - Kuruluş",
+      "title": "Tanım",
+      "content": "Madde 329- (1) Anonim şirket, sermayesi belirli ve paylara bölünmüş olan, borçlarından dolayı yalnız malvarlığıyla sorumlu bulunan şirkettir. (2) Pay sahipleri, sadece taahhüt etmiş oldukları sermaye payları ile ve şirkete karşı sorumludur."
+    },
+    {
+      "provision_ref": "madde359",
+      "section": "359",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Yönetim kurulunun oluşumu",
+      "content": "Madde 359- (1) Anonim şirketin yönetim organı, yönetim kuruludur. Yönetim kurulu, bir veya daha fazla üyeden oluşur."
+    },
+    {
+      "provision_ref": "madde361",
+      "section": "361",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Görev süresi",
+      "content": "Madde 361- (1) Yönetim kurulu üyeleri en çok üç yıl süreyle görev yapmak üzere seçilir. Esas sözleşmede aksine hüküm yoksa, aynı kişi yeniden seçilebilir."
+    },
+    {
+      "provision_ref": "madde369",
+      "section": "369",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Özen ve bağlılık yükümlülüğü",
+      "content": "Madde 369- (1) Yönetim kurulu üyeleri ve yönetimle görevli kişiler, görevlerini tedbirli bir yöneticinin özeniyle yerine getirmek ve şirketin menfaatlerini dürüstlük kurallarına uyarak gözetmek yükümlülüğü altındadırlar."
+    },
+    {
+      "provision_ref": "madde371",
+      "section": "371",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Temsil yetkisi",
+      "content": "Madde 371- (1) Temsile yetkili olanlar şirketin amacına ve işletme konusuna giren her tür işleri ve hukuki işlemleri, şirket adına yapabilir ve bunun için şirket unvanını kullanabilir. (2) Kanuna ve esas sözleşmeye aykırı işlemler, üçüncü kişilerin hukuki durumlarını etkilemez; ancak yapanların şirkete karşı sorumlulukları saklıdır."
+    },
+    {
+      "provision_ref": "madde375",
+      "section": "375",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Devredilemez görev ve yetkiler",
+      "content": "Madde 375- (1) Yönetim kurulunun devredilemez ve vazgeçilemez görev ve yetkileri şunlardır: a) Şirketin üst düzeyde yönetimi ve bunlarla ilgili talimatların verilmesi, b) Şirket yönetim teşkilatının belirlenmesi, c) Muhasebe, finans denetimi ve şirketin yönetiminin gerektirdiği ölçüde, finansal planlama için gerekli düzenin kurulması, ç) Müdürlerin ve aynı işleve sahip kişiler ile imza yetkisini haiz bulunanların atanmaları ve görevden alınmaları, d) Yönetimle görevli kişilerin, özellikle kanunlara, esas sözleşmeye, iç yönergelere ve yönetim kurulunun yazılı talimatlarına uygun hareket edip etmediklerinin üst gözetimi, e) Pay, yönetim kurulu karar ve genel kurul toplantı ve müzakere defterlerinin tutulması, yıllık faaliyet raporunun ve kurumsal yönetim açıklamasının düzenlenmesi ve genel kurula sunulması, genel kurul toplantılarının hazırlanması ve genel kurul kararlarının yürütülmesi, f) Borca batıklık durumunun varlığında mahkemeye bildirimde bulunulması."
+    },
+    {
+      "provision_ref": "madde376",
+      "section": "376",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Sermayenin kaybı, borca batık olma durumu",
+      "content": "Madde 376- (1) Son yıllık bilançodan, sermaye ile kanuni yedek akçeler toplamının yarısının zarar sebebiyle karşılıksız kaldığı anlaşılırsa, yönetim kurulu, genel kurulu hemen toplantıya çağırır ve bu genel kurula uygun gördüğü iyileştirici önlemleri sunar. (2) Son yıllık bilançoya göre, sermaye ile kanuni yedek akçeler toplamının üçte ikisinin zarar sebebiyle karşılıksız kaldığı anlaşıldığı takdirde, derhâl toplantıya çağrılan genel kurul, sermayenin üçte biri ile yetinme veya sermayenin tamamlanmasına karar vermediği takdirde şirket kendiliğinden sona erer. (3) Şirketin borca batık durumda bulunduğu şüphesini uyandıran işaretler varsa, yönetim kurulu, aktiflerin hem işletmenin devamlılığı esasına göre hem de muhtemel satış fiyatları üzerinden bir ara bilançosu çıkartır."
+    },
+    {
+      "provision_ref": "madde378",
+      "section": "378",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Risklerin erken saptanması ve yönetimi komitesi",
+      "content": "Madde 378- (1) Pay senetleri borsada işlem gören şirketlerde, yönetim kurulu, şirketin varlığını, gelişmesini ve devamını tehlikeye düşürebilecek sebeplerin erken teşhisi, bunun için gerekli önlemler ile çarelerin uygulanması ve riskin yönetilmesi amacıyla, uzman bir komite kurmak, sistemi çalıştırmak ve geliştirmekle yükümlüdür. (2) Komite, durumu tespit ve gerekli önlemleri, periyodik olarak yönetim kuruluna rapor eder. (3) Denetçi, yönetim kurulunun risklerin erken saptanması ve yönetimine ilişkin yükümlülüğünü yerine getirip getirmediğini, komite kurulmuşsa sistemin çalışıp çalışmadığını denetler ve bu konuda yıllık faaliyet raporuna görüş bildirir."
+    },
+    {
+      "provision_ref": "madde392",
+      "section": "392",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Bilgi alma ve inceleme hakkı",
+      "content": "Madde 392- (1) Her yönetim kurulu üyesi, şirketin bütün iş ve işlemleri hakkında bilgi isteyebilir. (2) Her yönetim kurulu üyesi, şirket defterlerini ve dosyalarını inceleyebilir. (3) Yönetim kurulu toplantıları dışında, bir üyenin istediği bilgi veya inceleme talebi, başkan tarafından karşılanır."
+    },
+    {
+      "provision_ref": "madde393",
+      "section": "393",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Şirketle işlem yapma, şirkete borçlanma yasağı",
+      "content": "Madde 393- (1) Yönetim kurulu üyesi, genel kuruldan izin almadan, şirketle kendisi veya başkası adına herhangi bir işlem yapamaz; aksi hâlde, şirket, yapılan işlemin batıl olduğunu ileri sürebilir."
+    },
+    {
+      "provision_ref": "madde396",
+      "section": "396",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Rekabet yasağı",
+      "content": "Madde 396- (1) Yönetim kurulu üyelerinden biri, genel kurulun iznini almaksızın, şirketin işletme konusuna giren ticari iş türünden bir işlemi kendi veya başkası hesabına yapamaz ve aynı tür ticari işlerle uğraşan bir şirkete sorumluluğu sınırsız ortak sıfatıyla giremez."
+    },
+    {
+      "provision_ref": "madde397",
+      "section": "397",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / ALTINCI BÖLÜM - Denetleme",
+      "title": "Denetçi",
+      "content": "Madde 397- (1) Anonim şirketlerin ve şirketler topluluğunun finansal tabloları, denetçi tarafından, Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunca yayımlanan uluslararası denetim standartlarıyla uyumlu Türkiye denetim standartlarına göre denetlenir."
+    },
+    {
+      "provision_ref": "madde398",
+      "section": "398",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / ALTINCI BÖLÜM - Denetleme",
+      "title": "Denetimin kapsamı ve konusu",
+      "content": "Madde 398- (1) Denetçi, şirketin ve topluluğun finansal tablolarını, yönetim kurulunun yıllık faaliyet raporunu, dürüst resim ilkesine uygunluğu ve bu kapsamda yönetim kurulunun şirkete ilişkin değerlendirmesi yönünden denetler. (2) Denetçi, yönetim kurulunun, şirketin finansal durumuna ilişkin değerlendirmesinin uygunluğunu ve yönetim kurulunun önerdiği risk yönetimi sistemini denetler."
+    },
+    {
+      "provision_ref": "madde399",
+      "section": "399",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / ALTINCI BÖLÜM - Denetleme",
+      "title": "Denetçinin seçimi",
+      "content": "Madde 399- (1) Denetçi, şirket genel kurulunca; topluluk denetçisi, ana şirketin genel kurulunca seçilir. Denetçinin, her faaliyet dönemi ve her hâlde görevini yerine getireceği faaliyet dönemi bitmeden seçilmesi şarttır."
+    },
+    {
+      "provision_ref": "madde404",
+      "section": "404",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / ALTINCI BÖLÜM - Denetleme",
+      "title": "Denetçilerin sır saklaması",
+      "content": "Madde 404- (1) Denetçi ve özel denetçi, bunların yardımcıları ile denetleme yapmasına yardımcı olan temsilcileri, denetimi dürüst ve tarafsız bir şekilde yapmak ve sır saklamak zorundadır. (2) Faaliyetleri sırasında öğrendikleri, denetlenen şirkete ve topluluk şirketlerine, bunların iş ilişkisi içinde oldukları kişilere ilişkin ticari sırları da kapsayan bilgileri, izinsiz kullanamaz ve açıklayamazlar."
+    },
+    {
+      "provision_ref": "madde515",
+      "section": "515",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / YEDİNCİ BÖLÜM - Sona Erme ve Tasfiye",
+      "title": "Ticari defter ve belgelerin saklanması (tasfiye sonrası)",
+      "content": "Madde 515- (1) Tasfiye hâlinde, şirkete ait defterler ve belgeler, son tasfiye bilançosunun tescilinden itibaren on yıl süreyle saklanır. (2) Saklama yükümlülüğü, şirketin ticaret sicilinden silinmesiyle ortadan kalkmaz."
+    },
+    {
+      "provision_ref": "madde527",
+      "section": "527",
+      "chapter": "BEŞİNCİ KISIM - Limited Şirket / BİRİNCİ BÖLÜM - Genel Hükümler",
+      "title": "Limited şirket ve anonim şirket hükümlerinin uygulanması",
+      "content": "Madde 527- (1) Bu kısımda hüküm bulunmayan hâllerde, kıyasen anonim şirkete ilişkin hükümler uygulanır."
+    },
+    {
+      "provision_ref": "madde553",
+      "section": "553",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / ALTINCI BÖLÜM - Sorumluluk",
+      "title": "Kurucuların, yönetim kurulu üyelerinin, yöneticilerin ve tasfiye memurlarının sorumluluğu",
+      "content": "Madde 553- (1) Kurucular, yönetim kurulu üyeleri, yöneticiler ve tasfiye memurları, kanundan ve esas sözleşmeden doğan yükümlülüklerini kusurlarıyla ihlal ettikleri takdirde, hem şirkete hem pay sahiplerine hem de şirket alacaklılarına karşı verdikleri zarardan sorumludurlar. (2) Kanundan veya esas sözleşmeden doğan bir görevi veya yetkiyi, kanuna dayanarak, başkasına devreden organlar veya kişiler, bu görev ve yetkileri devralan kişilerin seçiminde makul derecede özen göstermediklerinin ispat edilmesi hâlinde, bu kişilerin fiil ve kararlarından sorumludurlar. (3) Hiç kimse kontrolü dışında kalan, kanuna veya esas sözleşmeye aykırılıklar veya yolsuzluklar sebebiyle sorumlu tutulamaz."
+    },
+    {
+      "provision_ref": "madde554",
+      "section": "554",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / ALTINCI BÖLÜM - Sorumluluk",
+      "title": "Denetçinin sorumluluğu",
+      "content": "Madde 554- (1) Şirketin ve şirketler topluluğunun yılsonu ve konsolide finansal tablolarını denetleyen denetçi, kanuni görevlerinin yerine getirilmesinde kusurlu hareket ettiği takdirde, hem şirkete hem de pay sahipleri ile şirket alacaklılarına karşı verdikleri zarar dolayısıyla sorumludur."
+    },
+    {
+      "provision_ref": "madde67",
+      "section": "67",
+      "chapter": "BİRİNCİ KISIM - Genel Hükümler / DÖRDÜNCÜ BÖLÜM - Ticari Defterler",
+      "title": "Ticari defterlerin ispat kuvveti",
+      "content": "Madde 67- (1) Ticari defterler, ticari davalarda delil olarak kabul edilir. Defterlerin usulüne uygun tutulmuş olması gerekir. (2) Elektronik ortamda tutulan defterler ve kayıtlar, defterlere ilişkin hükümlere tabidir."
+    },
+    {
+      "provision_ref": "madde88",
+      "section": "88",
+      "chapter": "BİRİNCİ KISIM - Genel Hükümler / BEŞİNCİ BÖLÜM - Cari Hesap",
+      "title": "Türkiye Muhasebe Standartları",
+      "content": "Madde 88- (1) Bu Kanunun 64 ila 88 inci maddelerinde belirtilen defterler ile finansal tablolar, Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından yayımlanan Türkiye Muhasebe Standartlarına uygun olarak düzenlenir."
+    },
+    {
+      "provision_ref": "madde194",
+      "section": "194",
+      "chapter": "ÜÇÜNCÜ KISIM - Ticari İşletme / ÜÇÜNCÜ BÖLÜM - Rekabet",
+      "title": "Ticari sır",
+      "content": "Madde 194- (1) Ticari sır, bir işletmenin ticari faaliyetleri çerçevesinde gizli tutulan ve sahibine ekonomik avantaj sağlayan her türlü bilgidir. (2) Ticari sırların hukuka aykırı olarak elde edilmesi, kullanılması veya ifşa edilmesi haksız rekabet teşkil eder."
+    },
+    {
+      "provision_ref": "madde199",
+      "section": "199",
+      "chapter": "ÜÇÜNCÜ KISIM - Ticari İşletme / DÖRDÜNCÜ BÖLÜM - Haksız Rekabet",
+      "title": "Haksız rekabet",
+      "content": "Madde 199- (1) Rakipler arasında veya tedarik edenlerle müşteriler arasındaki ilişkileri etkileyen aldatıcı veya dürüstlük kuralına diğer şekillerdeki aykırı davranışlar ile ticari uygulamalar haksız ve hukuka aykırıdır."
+    },
+    {
+      "provision_ref": "madde200",
+      "section": "200",
+      "chapter": "ÜÇÜNCÜ KISIM - Ticari İşletme / DÖRDÜNCÜ BÖLÜM - Haksız Rekabet",
+      "title": "Dürüstlük kuralına aykırı davranışlar",
+      "content": "Madde 200- (1) Aşağıda sayılan hâller haksız rekabet hâllerinin başlıcalarıdır: a) Başkasının malları, iş ürünleri, faaliyetleri veya ticari işleri hakkında gerçek dışı veya yanıltıcı açıklamalarla kötülemek, b) Başkalarının iş ürünlerini, faaliyetlerini veya ticari işlerini yanlış, yanıltıcı veya gereksiz yere incitici açıklamalarla kötülemek, c) Başkasının kullandığı ad, unvan, marka, işaret gibi tanıtma araçlarıyla iltibas yaratmak, ç) Üretim ve iş sırlarını hukuka aykırı olarak öğrenmek veya ifşa etmek, d) Rakiplerin ya da başkalarının iş ilişkilerinden yararlanarak çalışanları görevlerini ihlale yöneltmek."
+    },
+    {
+      "provision_ref": "madde210",
+      "section": "210",
+      "chapter": "ÜÇÜNCÜ KISIM - Ticari İşletme / DÖRDÜNCÜ BÖLÜM - Haksız Rekabet",
+      "title": "Hukuki sorumluluk",
+      "content": "Madde 210- (1) Haksız rekabet sebebiyle müşterileri, kredisi, mesleki itibarı, ticari faaliyetleri veya diğer ekonomik menfaatleri zarar gören veya böyle bir tehlikeyle karşılaşan kişi; fiilin haksız olup olmadığının tespitini, haksız rekabetin men'ini, haksız rekabetin sonucu olan maddi durumun ortadan kaldırılmasını, haksız rekabet yanlış veya yanıltıcı beyanlarla yapılmışsa bunların düzeltilmesini ve tecavüzün önlenmesi için kaçınılmaz ise, haksız rekabetin işlenmesinde etkili olan araçların ve malların imhasını isteyebilir."
+    },
+    {
+      "provision_ref": "madde365",
+      "section": "365",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Yönetim kurulu toplantıları",
+      "content": "Madde 365- (1) Yönetim kurulu, üye tam sayısının çoğunluğu ile toplanır ve kararlarını toplantıda hazır bulunan üyelerin çoğunluğu ile alır. Bu kurallar esas sözleşme ile ağırlaştırılabilir. (2) Yönetim kurulu toplantıları, güvenli elektronik imza kullanılarak elektronik ortamda da yapılabilir."
+    },
+    {
+      "provision_ref": "madde390",
+      "section": "390",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Batıl kararlar",
+      "content": "Madde 390- (1) Yönetim kurulunun, kanunun veya esas sözleşmenin özellikle; a) Pay sahiplerinin genel olarak veya özel olarak kanun veya esas sözleşme ile tanınmış haklarını ihlal eden, b) Pay sahipleri arasında eşit işlem ilkesine aykırı olan, c) Anonim şirketin temel yapısına uymayan veya sermayenin korunması ilkesini gözetmeyen, kararları batıldır."
+    },
+    {
+      "provision_ref": "madde395",
+      "section": "395",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / DÖRDÜNCÜ BÖLÜM - Yönetim Kurulu",
+      "title": "Şirketle işlem yapma ve şirkete borçlanma yasağı",
+      "content": "Madde 395- (1) Yönetim kurulu üyesi, genel kuruldan izin almadan, şirketle kendisi veya başkası adına herhangi bir işlem yapamaz; aksi hâlde, şirket, yapılan işlemin batıl olduğunu ileri sürebilir. (2) Yönetim kurulu üyesi, şirkete nakit borçlanamaz. Şirketin, yönetim kurulu üyelerinin yakınlarına borç vermesi veya onlar lehine kefalet, garanti ve teminat vermesi yasaktır."
+    },
+    {
+      "provision_ref": "madde401",
+      "section": "401",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / ALTINCI BÖLÜM - Denetleme",
+      "title": "İbraz yükümlülüğü ve bilgi alma hakkı",
+      "content": "Madde 401- (1) Şirketin yönetim kurulu, finansal tabloları, konsolide finansal tabloları, yönetim kurulunun yıllık faaliyet raporlarını ve topluluk yıllık faaliyet raporlarını, bunlara ilişkin denetim raporlarını düzenleyerek denetçiye vermekle yükümlüdür. (2) Denetçi; defterler, yazışmalar, belgeler, varlıklar, kasa, menkul kıymetler mevcudu ile yazı ve hesap durumlarını inceleyebilir."
+    },
+    {
+      "provision_ref": "madde562",
+      "section": "562",
+      "chapter": "ALTINCI KISIM - Ticari Hükümler / BİRİNCİ BÖLÜM - Ceza Hükümleri",
+      "title": "Defter tutma ve saklama yükümlülüğüne aykırılık",
+      "content": "Madde 562- (1) Bu Kanunun defter tutma, envanter çıkarma ve saklama ile ilgili maddelerine uymayanlar iki yüz günden az olmamak üzere adli para cezasıyla cezalandırılır. (2) Bu Kanun hükümlerine göre tutulması gereken defterleri hiç veya kanuna uygun şekilde tutmayanlar, üç yüz günden az olmamak üzere adli para cezasıyla cezalandırılır. (3) Usulüne uygun düzenlenen finansal tabloları düzenlemeyenler, yüz günden az olmamak üzere adli para cezasıyla cezalandırılır."
     },
     {
       "provision_ref": "madde1524",
       "section": "1524",
-      "chapter": "Dördüncü Kitap",
+      "chapter": "ALTINCI KISIM - Son Hükümler",
       "title": "İnternet sitesi",
-      "content": "Madde 1524 - (1) Her sermaye şirketi, bir internet sitesi açmak ve bu sitenin belirli bir bölümünü şirketin mevcut ve eski ortaklarıyla diğer ilgililer için tahsis etmek zorundadır. (2) Kanunen yapılması gereken ilanlar, şirketin internet sitesinde de yayımlanır."
+      "content": "Madde 1524- (1) Her sermaye şirketi, bir internet sitesi açmak ve bu sitenin belirli bir bölümünü şirketçe kanunen yapılması gereken ilanların yayımlanmasına özgülemek zorundadır. İnternet sitesinde, yönlendirme yapılabilecek bir alan da dahil olmak üzere ayrıca aşağıdaki hususlara yer verilir: a) Şirketin ticaret unvanı, merkezi, tescil tarihi, sicil numarası, b) Esas sözleşme, c) Yönetim kurulu veya müdürler kurulu üyeleri, ç) Son üç yılın finansal tabloları ile denetim raporları, d) Genel kurul kararları, e) Pay sahiplerine yapılan ilanlar. (2) İnternet sitesinde yayımlanması gereken bilgiler, ilgili karar veya işlemin yapılmasından itibaren en geç beş gün içinde, sitede yayımlanır ve en az altı ay süreyle sitede kalır."
+    },
+    {
+      "provision_ref": "madde1525",
+      "section": "1525",
+      "chapter": "ALTINCI KISIM - Son Hükümler",
+      "title": "Güvenli elektronik imza",
+      "content": "Madde 1525- (1) Tarafların açıkça anlaşmaları ve 18 inci maddenin üçüncü fıkrası saklı kalmak kaydıyla, ihbar, ihtar, itiraz ve benzeri beyanlar; fatura, teyit mektubu, iştirak taahhütnamesi, toplantı çağrıları ve bu hüküm uyarınca yapılan elektronik gönderme ve tebligat, kayıtlı elektronik posta sistemi ile yapılabilir. Bu durumda, gönderilmiş olan kayıtlı elektronik postanın, muhatabının kişisel bilgisayarına veya onun strateji belirleyebileceği bilgi işlem sistemine ulaştığı anda tebliğ edilmiş sayılır."
+    },
+    {
+      "provision_ref": "madde407",
+      "section": "407",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / ALTINCI BÖLÜM - Denetleme",
+      "title": "Denetim raporu",
+      "content": "Madde 407- (1) Denetçi, yapılan denetimin türü, kapsamı ve sonuçları hakkında, gereken açıklıkta, anlaşılır, basit bir dille yazılmış ve gerekçeli bir rapor düzenler. (2) Denetçi, finansal tabloların ve yönetim kurulunun yıllık faaliyet raporunun dürüst resim ilkesine uygun olup olmadığını belirtir."
+    },
+    {
+      "provision_ref": "madde411",
+      "section": "411",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / YEDİNCİ BÖLÜM - Genel Kurul",
+      "title": "Genel kurul",
+      "content": "Madde 411- (1) Genel kurul, anonim şirketin en yüksek irade organıdır. Pay sahiplerinin tamamından oluşur. (2) Genel kurul, kanunda ve esas sözleşmede öngörülen konularda karar alır."
+    },
+    {
+      "provision_ref": "madde413",
+      "section": "413",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / YEDİNCİ BÖLÜM - Genel Kurul",
+      "title": "Çağrı",
+      "content": "Madde 413- (1) Genel kurul toplantıya, esas sözleşmede belirtilen şekilde, şirketin internet sitesinde ve Türkiye Ticaret Sicili Gazetesinde yayımlanan ilanla çağrılır. (2) Pay defterinde yazılı pay sahipleriyle önceden şirkete pay senedi veya pay sahipliğini ispatlayıcı belge vererek adresini bildiren pay sahiplerine, toplantı günü ile gündem ve ilanın çıktığı veya çıkacağı gazeteler, iadeli taahhütlü mektupla bildirilir."
+    },
+    {
+      "provision_ref": "madde420",
+      "section": "420",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / YEDİNCİ BÖLÜM - Genel Kurul",
+      "title": "Elektronik ortamda katılma",
+      "content": "Madde 420- (1) Genel kurula elektronik ortamda katılma; öneride bulunma, görüş açıklama ve oy verme, fiziki katılımın ve oy vermenin bütün hukuki sonuçlarını doğurur. (2) Elektronik ortamda genel kurula katılımın usul ve esasları yönetmelikle düzenlenir."
+    },
+    {
+      "provision_ref": "madde437",
+      "section": "437",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / YEDİNCİ BÖLÜM - Genel Kurul",
+      "title": "Bilgi alma ve inceleme hakkı (pay sahipleri)",
+      "content": "Madde 437- (1) Finansal tablolar, konsolide finansal tablolar, yönetim kurulunun yıllık faaliyet raporu, denetleme raporları ve yönetim kurulunun kâr dağıtım önerisi, genel kurul toplantısından en az on beş gün önce, şirket merkezinde ve şubelerinde, pay sahiplerinin incelemesine hazır bulundurulur. (2) Her pay sahibi, genel kurul toplantısında, yönetim kurulundan, şirketin işleri hakkında bilgi isteyebilir."
+    },
+    {
+      "provision_ref": "madde446",
+      "section": "446",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirket / YEDİNCİ BÖLÜM - Genel Kurul",
+      "title": "Genel kurul kararının iptali",
+      "content": "Madde 446- (1) Kanun veya esas sözleşme hükümlerine ve özellikle dürüstlük kuralına aykırı olan genel kurul kararları aleyhine, karar tarihinden itibaren üç ay içinde, şirket merkezinin bulunduğu yerdeki asliye ticaret mahkemesinde iptal davası açılabilir."
+    },
+    {
+      "provision_ref": "madde1527",
+      "section": "1527",
+      "chapter": "ALTINCI KISIM - Son Hükümler",
+      "title": "Elektronik ortamda genel kurul ve yönetim kurulu",
+      "content": "Madde 1527- (1) Şirket sözleşmesinde veya esas sözleşmede düzenlenmiş olması şartıyla, sermaye şirketlerinde yönetim kurulu ve müdürler kurulu tamamen elektronik ortamda yapılabilir. (2) Anonim şirketlerde genel kurullara elektronik ortamda katılma, öneride bulunma, görüş açıklama ve oy verme, fiziki katılımın ve oy vermenin bütün hukuki sonuçlarını doğurur."
+    },
+    {
+      "provision_ref": "madde329",
+      "section": "329",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Kuruluş",
+      "title": "Tanım",
+      "content": "Madde 329- (1) Anonim şirket, sermayesi belirli ve paylara bölünmüş olan, borçlarından dolayı yalnız malvarlığıyla sorumlu bulunan şirkettir. (2) Pay sahipleri, sadece taahhüt etmiş oldukları sermaye payları ile ve şirkete karşı sorumludur."
+    },
+    {
+      "provision_ref": "madde330",
+      "section": "330",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Kuruluş",
+      "title": "Amaç ve konu",
+      "content": "Madde 330- (1) Anonim şirketler, kanunen yasaklanmamış her türlü ekonomik amaç ve konular için kurulabilir."
+    },
+    {
+      "provision_ref": "madde331",
+      "section": "331",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Kuruluş",
+      "title": "Asgari sermaye",
+      "content": "Madde 331- (1) Tamamı esas sözleşmede taahhüt edilmiş bulunan sermayeyi ifade eden esas sermaye ellibin Türk Lirasından ve sermayenin artırılmasında yönetim kuruluna tanınmış yetki tavanını gösteren kayıtlı sermaye sistemini kabul etmiş bulunan halka açık olmayan anonim şirketlerde başlangıç sermayesi yüzbin Türk Lirasından aşağı olamaz."
+    },
+    {
+      "provision_ref": "madde335",
+      "section": "335",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Kuruluş",
+      "title": "Kurucu sayısı",
+      "content": "Madde 335- (1) Anonim şirket kurulabilmesi için pay sahibi olan bir veya daha fazla kurucunun bulunması şarttır."
+    },
+    {
+      "provision_ref": "madde349",
+      "section": "349",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Kuruluş",
+      "title": "Kurucuların sorumluluğu",
+      "content": "Madde 349- (1) Şirketin kuruluşundan, esas sözleşmede öngörülen ve kanuna aykırı bulunan hükümler ve kuruluştaki eksiklikler ve kanuna aykırılıklar sebebiyle doğan zararlardan kurucular sorumludur."
+    },
+    {
+      "provision_ref": "madde376",
+      "section": "376",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Yönetim Kurulu",
+      "title": "Sermayenin kaybı, borca batık olma durumu",
+      "content": "Madde 376- (1) Son yıllık bilançodan, sermaye ile kanuni yedek akçeler toplamının yarısının zarar sebebiyle karşılıksız kaldığı anlaşılırsa, yönetim kurulu, genel kurulu hemen toplantıya çağırır ve bu genel kurula uygun gördüğü iyileştirici önlemleri sunar. (2) Son yıllık bilançoya göre, sermaye ile kanuni yedek akçeler toplamının üçte ikisinin zarar sebebiyle karşılıksız kaldığı anlaşılırsa, derhal toplantıya çağrılan genel kurul, sermayenin üçte biri ile yetinme veya sermayenin tamamlanmasına karar vermediği takdirde şirket kendiliğinden sona erer. (3) Şirketin borca batık durumda bulunduğu şüphesini uyandıran işaretler varsa, yönetim kurulu, aktiflerin hem işletmenin devamı esasına göre hem de muhtemel satış fiyatları üzerinden bir ara bilanço çıkartır."
+    },
+    {
+      "provision_ref": "madde378",
+      "section": "378",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Yönetim Kurulu",
+      "title": "Riskin erken saptanması ve yönetimi",
+      "content": "Madde 378- (1) Pay senetleri borsada işlem gören şirketlerde, yönetim kurulu, şirketin varlığını, gelişmesini ve devamını tehlikeye düşürebilecek stratejik, operasyonel, finansal, uyum ve diğer risklerin erken teşhisi, bunun için gerekli önlemlerin uygulanması ve riskin yönetilmesi amacıyla, uzman bir komite kurmak, sistemi çalıştırmak ve geliştirmekle yükümlüdür. (2) Komite, yönetim kuruluna her iki ayda bir vereceği raporda durumu değerlendirir, varsa tehlikelere işaret eder, çareleri gösterir."
+    },
+    {
+      "provision_ref": "madde379",
+      "section": "379",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Yönetim Kurulu",
+      "title": "Şirketin kendi paylarını iktisap etmesi yasağı",
+      "content": "Madde 379- (1) Bir şirket kendi paylarını, esas veya çıkarılmış sermayesinin onda birini aşan veya bir iktisap sonunda aşacak olan miktarda, ivazlı olarak iktisap ve rehin olarak kabul edemez."
+    },
+    {
+      "provision_ref": "madde392",
+      "section": "392",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Yönetim Kurulu",
+      "title": "Bilgi alma ve inceleme hakkı",
+      "content": "Madde 392- (1) Her yönetim kurulu üyesi şirketin tüm iş ve işlemleri hakkında bilgi isteyebilir, soru sorabilir, inceleme yapabilir. (2) Bir üyenin istediği herhangi bir defter, defter kaydı, yazışma veya belge, yönetim kurulu başkanı tarafından, o üyenin incelemesine sunulur."
+    },
+    {
+      "provision_ref": "madde393",
+      "section": "393",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Yönetim Kurulu",
+      "title": "Müzakereye katılma yasağı",
+      "content": "Madde 393- (1) Yönetim kurulu üyesi, kendisinin şirket dışı kişisel menfaatiyle veya alt ve üstsoyundan birinin ya da eşinin yahut üçüncü derece dâhil üçüncü dereceye kadar kan ve kayın hısımlarından birinin, kişisel ve şirket dışı menfaatiyle şirketin menfaatinin çatıştığı konulara ilişkin müzakerelere katılamaz."
+    },
+    {
+      "provision_ref": "madde394",
+      "section": "394",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Yönetim Kurulu",
+      "title": "Şirketle işlem yapma, şirkete borçlanma yasağı",
+      "content": "Madde 394- (1) Yönetim kurulu üyeleri ve yakınları, şirketle herhangi bir işlem yapamaz ve şirkete borçlanamaz. Bu yasağa aykırı işlemler batıldır."
+    },
+    {
+      "provision_ref": "madde448",
+      "section": "448",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Genel Kurul",
+      "title": "İptal davası",
+      "content": "Madde 448- (1) Kanun veya esas sözleşme hükümlerine ve özellikle dürüstlük kuralına aykırı olan genel kurul kararları aleyhine, karar tarihinden itibaren üç ay içinde, şirket merkezinin bulunduğu yerdeki asliye ticaret mahkemesinde iptal davası açılabilir."
+    },
+    {
+      "provision_ref": "madde449",
+      "section": "449",
+      "chapter": "DÖRDÜNCÜ KISIM - Anonim Şirketler / Genel Kurul",
+      "title": "Dava açabilecekler",
+      "content": "Madde 449- (1) İptal davasını; a) Toplantıda hazır bulunup da karara olumsuz oy veren ve bu muhalefetini tutanağa geçirten, b) Toplantıda hazır bulunsun veya bulunmasın, olumsuz oy kullanmış olsun ya da olmasın; çağrının usulüne göre yapılmadığını, gündemin gereği gibi ilan edilmediğini, genel kurula katılma yetkisi bulunmayan kimselerin veya temsilcilerinin oylamaya katıldıklarını iddia eden pay sahipleri, c) Yönetim kurulu, d) Kararların yerine getirilmesi, yönetim kurulu üyeleri ile diğer ilgililerin kişisel sorumluluğuna sebep olacaksa bunların her biri dava hakkını haizdir."
+    },
+    {
+      "provision_ref": "madde134",
+      "section": "134",
+      "chapter": "ÜÇÜNCÜ KISIM - Birleşme, Bölünme ve Tür Değiştirme",
+      "title": "Birleşme",
+      "content": "Madde 134- (1) Şirketler; a) Bir şirketin diğerini devralması, devralma şeklinde birleşme, b) Yeni bir şirket içinde bir araya gelmeleri, yeni kuruluş şeklinde birleşme, yoluyla birleşebilirler. (2) Birleşme sonucunda, devrolunan şirketin malvarlığı karşılığında, bir değişim oranına göre devralan şirketin payları verilir."
+    },
+    {
+      "provision_ref": "madde159",
+      "section": "159",
+      "chapter": "ÜÇÜNCÜ KISIM - Birleşme, Bölünme ve Tür Değiştirme",
+      "title": "Ortaklık paylarının ve haklarının korunması",
+      "content": "Madde 159- (1) Devrolunan şirketin ortaklarının, mevcut ortaklık paylarını ve haklarını karşılayacak değerde, devralan şirketin payları ve hakları üzerinde istemde bulunma hakları vardır. Bu istem hakkı, birleşmeye katılan şirketlerin malvarlıklarının değeri, oy haklarının dağılımı ve önem taşıyan diğer hususlar dikkate alınarak hesaplanır."
+    },
+    {
+      "provision_ref": "madde169",
+      "section": "169",
+      "chapter": "ÜÇÜNCÜ KISIM - Birleşme, Bölünme ve Tür Değiştirme",
+      "title": "Bölünme",
+      "content": "Madde 169- (1) Bir sermaye şirketi veya kooperatif; a) Tam bölünme yoluyla malvarlığının bölümlerini, var olan veya yeni kurulacak iki veya daha fazla sermaye şirketine veya kooperatife devredebilir; bu hâlde bölünen şirket sona erer. b) Kısmi bölünme yoluyla, malvarlığının bir veya birden fazla bölümünü var olan veya yeni kurulacak bir veya daha fazla sermaye şirketine veya kooperatife devredebilir."
     }
   ],
-  "definitions": []
+  "definitions": [
+    {
+      "term": "Tacir",
+      "definition": "Ticari işletmeyi kısmen veya tamamen kendi adına işleten kişi",
+      "source_provision": "madde18"
+    },
+    {
+      "term": "Anonim şirket",
+      "definition": "Sermayesi belirli ve paylara bölünmüş olan, borçlarından dolayı yalnız malvarlığıyla sorumlu bulunan şirket",
+      "source_provision": "madde329"
+    },
+    {
+      "term": "Yönetim kurulu",
+      "definition": "Anonim şirketin yönetim organı",
+      "source_provision": "madde359"
+    },
+    {
+      "term": "Denetçi",
+      "definition": "Anonim şirketlerin ve şirketler topluluğunun finansal tablolarını uluslararası denetim standartlarına göre denetleyen kişi",
+      "source_provision": "madde397"
+    },
+    {
+      "term": "Kurumsal yönetim",
+      "definition": "Şirketin yönetim yapısı, karar alma süreçleri, pay sahipleri ile ilişkileri ve şeffaflık ilkelerini kapsayan yönetim çerçevesi",
+      "source_provision": "madde375"
+    }
+  ]
 }

@@ -2,42 +2,478 @@
   "id": "tck-5237",
   "type": "statute",
   "title": "Türk Ceza Kanunu",
-  "title_en": "Turkish Criminal Code (TCK)",
+  "title_en": "Turkish Criminal Code No. 5237 (Cybercrime and Related Provisions)",
   "short_name": "TCK",
   "status": "in_force",
   "issued_date": "2004-09-26",
   "in_force_date": "2005-06-01",
   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5237&MevzuatTur=1&MevzuatTertip=5",
-  "description": "Turkish Criminal Code; articles 243-246 cover cybercrime: unauthorized access to information systems (art. 243), damaging/altering/destroying data (art. 244), misuse of bank/credit cards (art. 245), and related provisions (art. 246)",
+  "description": "Turkey's Criminal Code, enacted in 2004 replacing the 1926 code. This extract covers cybercrime offenses (Articles 243-246), personal data crimes (Articles 135-140), forgery of documents (Articles 204-212), fraud (Articles 157-159), intellectual property crimes, and related provisions relevant to cybersecurity and data protection compliance.",
   "provisions": [
+    {
+      "provision_ref": "madde84",
+      "section": "84",
+      "chapter": "ÜÇÜNCÜ BÖLÜM - Hayata Karşı Suçlar",
+      "title": "İntihara yönlendirme",
+      "content": "Madde 84- (1) Başkasını intihara azmettiren, teşvik eden, başkasının intihar kararını kuvvetlendiren ya da başkasının intiharına herhangi bir şekilde yardım eden kişi, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır. (2) İntiharın gerçekleşmesi durumunda, kişi dört yıldan on yıla kadar hapis cezası ile cezalandırılır. (3) Başkalarını intihara alenen teşvik eden kişi, üç yıldan sekiz yıla kadar hapis cezası ile cezalandırılır. Bu fiilin basın ve yayın yolu ile işlenmesi hâlinde, kişi dört yıldan on yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde123",
+      "section": "123",
+      "chapter": "SEKİZİNCİ BÖLÜM - Kişi Hürriyetine Karşı Suçlar",
+      "title": "Kişilerin huzur ve sükununu bozma",
+      "content": "Madde 123- (1) Sırf huzur ve sükûnunu bozmak maksadıyla bir kimseye ısrarla; telefon edilmesi, gürültü yapılması ya da aynı maksatla hukuka aykırı başka bir davranışta bulunulması hâlinde, mağdurun şikâyeti üzerine faile üç aydan bir yıla kadar hapis cezası verilir."
+    },
+    {
+      "provision_ref": "madde124",
+      "section": "124",
+      "chapter": "SEKİZİNCİ BÖLÜM - Haberleşmenin Gizliliğine Karşı Suçlar",
+      "title": "Haberleşmenin engellenmesi",
+      "content": "Madde 124- (1) Kişiler arasındaki haberleşmenin hukuka aykırı olarak engellenmesi hâlinde, bir yıldan üç yıla kadar hapis cezasına hükmolunur. (2) Kamu kurumları arasındaki haberleşmeyi hukuka aykırı olarak engelleyen kişi, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde132",
+      "section": "132",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Haberleşmenin gizliliğini ihlal",
+      "content": "Madde 132- (1) Kişiler arasındaki haberleşmenin gizliliğini ihlal eden kimse, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır. Bu gizlilik ihlali haberleşme içeriklerinin kaydı suretiyle gerçekleşirse, verilecek ceza bir kat artırılır. (2) Kişiler arasındaki haberleşme içeriklerini hukuka aykırı olarak ifşa eden kimse, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır. (3) Kendisiyle yapılan haberleşmelerin içeriğini diğer tarafın rızası olmaksızın hukuka aykırı olarak alenen ifşa eden kişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde133",
+      "section": "133",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Kişiler arasındaki konuşmaların dinlenmesi ve kayda alınması",
+      "content": "Madde 133- (1) Kişiler arasındaki aleni olmayan konuşmaları, taraflardan herhangi birinin rızası olmaksızın bir aletle dinleyen veya bunları bir ses alma cihazı ile kaydeden kişi, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır. (2) Katıldığı aleni olmayan bir söyleşiyi, diğer konuşanların rızası olmadan ses alma cihazı ile kayda alan kişi, altı aydan iki yıla kadar hapis cezası ile cezalandırılır. (3) Birinci ve ikinci fıkralarda yazılı fiillerden biri işlenerek elde edilen bilgilerden yarar sağlayan veya bunları başkalarına veren veya diğer kişilerin bilgi edinmelerini temin eden kişi, iki yıldan beş yıla kadar hapis ve dört bin güne kadar adli para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde134",
+      "section": "134",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Özel hayatın gizliliğini ihlal",
+      "content": "Madde 134- (1) Kişilerin özel hayatının gizliliğini ihlal eden kimse, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır. Gizliliğin görüntü veya seslerin kayda alınması suretiyle ihlal edilmesi hâlinde, verilecek ceza bir kat artırılır. (2) Kişilerin özel hayatına ilişkin görüntü veya sesleri hukuka aykırı olarak ifşa eden kimse iki yıldan beş yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde135",
+      "section": "135",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Kişisel verilerin kaydedilmesi",
+      "content": "Madde 135- (1) Hukuka aykırı olarak kişisel verileri kaydeden kimseye bir yıldan üç yıla kadar hapis cezası verilir. (2) Kişisel verinin, kişilerin siyasi, felsefi veya dini görüşlerine, ırki kökenlerine; hukuka aykırı olarak ahlaki eğilimlerine, cinsel yaşamlarına, sağlık durumlarına veya sendikal bağlantılarına ilişkin olması durumunda birinci fıkra uyarınca verilecek ceza yarı oranında artırılır."
+    },
+    {
+      "provision_ref": "madde136",
+      "section": "136",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Verileri hukuka aykırı olarak verme veya ele geçirme",
+      "content": "Madde 136- (1) Kişisel verileri, hukuka aykırı olarak bir başkasına veren, yayan veya ele geçiren kişi, iki yıldan dört yıla kadar hapis cezası ile cezalandırılır. (2) Suçun konusunun, Ceza Muhakemesi Kanununun 236 ncı maddesinin beşinci ve altıncı fıkraları uyarınca kayda alınan beyan ve görüntüler olması durumunda verilecek ceza bir kat artırılır."
+    },
+    {
+      "provision_ref": "madde137",
+      "section": "137",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Nitelikli hâller",
+      "content": "Madde 137- (1) Yukarıdaki maddelerde tanımlanan suçların; a) Kamu görevlisi tarafından ve görevinin verdiği yetki kötüye kullanılmak suretiyle, b) Belli bir meslek ve sanatın sağladığı kolaylıktan yararlanmak suretiyle, işlenmesi hâlinde, verilecek ceza yarı oranında artırılır."
+    },
+    {
+      "provision_ref": "madde138",
+      "section": "138",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Verileri yok etmeme",
+      "content": "Madde 138- (1) Kanunların belirlediği sürelerin geçmiş olmasına karşın verileri sistem içinde yok etmekle yükümlü olanlara görevlerini yerine getirmediklerinde bir yıldan iki yıla kadar hapis cezası verilir. (2) Suçun konusunun Ceza Muhakemesi Kanunu hükümlerine göre ortadan kaldırılması veya yok edilmesi gereken veri olması hâlinde verilecek ceza bir kat artırılır."
+    },
+    {
+      "provision_ref": "madde139",
+      "section": "139",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Şikâyet",
+      "content": "Madde 139- (1) Kişisel verilerin kaydedilmesi, verileri hukuka aykırı olarak verme veya ele geçirme ve verileri yok etmeme hariç, bu bölümde yer alan suçların soruşturulması ve kovuşturulması şikâyete bağlıdır."
+    },
+    {
+      "provision_ref": "madde140",
+      "section": "140",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Tüzel kişiler hakkında güvenlik tedbiri uygulanması",
+      "content": "Madde 140- (1) Yukarıdaki maddelerde tanımlanan suçların işlenmesi dolayısıyla tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine hükmolunur."
+    },
+    {
+      "provision_ref": "madde141",
+      "section": "141",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Hırsızlık",
+      "content": "Madde 141- (1) Zilyedinin rızası olmadan başkasına ait taşınır bir malı, kendisine veya başkasına bir yarar sağlamak maksadıyla bulunduğu yerden alan kimseye bir yıldan üç yıla kadar hapis cezası verilir."
+    },
+    {
+      "provision_ref": "madde144",
+      "section": "144",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Daha az cezayı gerektiren hâller",
+      "content": "Madde 144- (1) Hırsızlık suçunun; a) Paydaş veya elbirliği ile malik olunan mal üzerinde, b) Bir hukuki ilişkiye dayanan alacağı tahsil amacıyla, işlenmesi hâlinde, şikâyet üzerine, iki aydan bir yıla kadar hapis veya adli para cezasına hükmolunur."
+    },
+    {
+      "provision_ref": "madde148",
+      "section": "148",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Yağma",
+      "content": "Madde 148- (1) Bir başkasını, kendisinin veya yakınının hayatına, vücut veya cinsel dokunulmazlığına yönelik bir saldırı gerçekleştireceğinden ya da malvarlığı itibarıyla büyük bir zarara uğratacağından bahisle tehdit ederek veya cebir kullanarak, bir malı teslime veya malın alınmasına karşı koymamaya mecbur kılan kişi, altı yıldan on yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde150",
+      "section": "150",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Daha az cezayı gerektiren hâl (yağma)",
+      "content": "Madde 150- (1) Kişinin bir hukuki ilişkiye dayanan alacağını tahsil amacıyla tehdit veya cebir kullanması hâlinde, ancak tehdit veya kasten yaralama suçuna ilişkin hükümler uygulanır."
+    },
+    {
+      "provision_ref": "madde151",
+      "section": "151",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Mala zarar verme",
+      "content": "Madde 151- (1) Başkasının taşınır veya taşınmaz malını kısmen veya tamamen yıkan, tahrip eden, yok eden, bozan, kullanılamaz hâle getiren veya kirleten kişi, mağdurun şikâyeti üzerine, dört aydan üç yıla kadar hapis veya adli para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde152",
+      "section": "152",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Mala zarar vermenin nitelikli hâlleri",
+      "content": "Madde 152- (1) Mala zarar verme suçunun; a) Kamu kurum ve kuruluşlarına ait, kamu hizmetine tahsis edilmiş veya kamunun yararlanmasına ayrılmış yer, bina, tesis veya diğer eşya hakkında, b) Yangına, sel veya taşkına, kazaya ve diğer felaketlere karşı korunmaya tahsis edilmiş her türlü eşya veya tesis hakkında, c) Devlet ormanı statüsündeki yerler hariç, nerede olursa olsun, her türlü dikili ağaç, fidan veya bağ çubuğu hakkında, ç) Sulamaya, içme sularının sağlanmasına veya muhafazasına yarayan bir şey hakkında, d) Grev veya lokavt hâllerinde işverene ait mallar hakkında, e) Bilişim sistemi kullanılarak, işlenmesi hâlinde, bir yıldan dört yıla kadar hapis cezasına hükmolunur."
+    },
+    {
+      "provision_ref": "madde160",
+      "section": "160",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Kaybolmuş veya hata sonucu ele geçmiş eşya üzerinde tasarruf",
+      "content": "Madde 160- (1) Kaybedilmiş olması nedeniyle sahibinin zilyedliğinden çıkmış olan ya da hata sonucu ele geçmiş bulunan eşyayı, iade etmeyerek veya yetkili mercilere bildirmeyerek kendisinin veya başkasının yararına olarak tasarrufta bulunan kişi, şikâyet üzerine, bir yıla kadar hapis veya adli para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde161",
+      "section": "161",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Hileli iflâs",
+      "content": "Madde 161- (1) Malvarlığını eksiltmeye yönelik hileli tasarruflarda bulunan kişi, bu hileli tasarruflardan önce veya sonra iflasa karar verilmiş olması hâlinde, üç yıldan sekiz yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde162",
+      "section": "162",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Taksirli iflâs",
+      "content": "Madde 162- (1) Tacir olmanın gerekli kıldığı dikkat ve özenin gösterilmemesi dolayısıyla iflasa sebebiyet veren kişi, iflasa karar verilmiş olması hâlinde, iki aydan bir yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde163",
+      "section": "163",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Karşılıksız yararlanma",
+      "content": "Madde 163- (1) Otomatik aletlerden, bir malın veya hizmetin sağlanması amacıyla kullanılması gereken para yerine, metal veya başka bir şey kullanarak veya herhangi bir yöntemle hukuka aykırı bir şekilde yararlanılması hâlinde, şikâyet üzerine, iki aydan altı aya kadar hapis veya adli para cezasına hükmolunur. (2) Telefon hatları ile frekanslarından veya elektromanyetik dalgalardan izinsiz olarak yararlanma hâlinde, altı aydan iki yıla kadar hapis veya adli para cezasına hükmolunur."
+    },
+    {
+      "provision_ref": "madde164",
+      "section": "164",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Şirket veya kooperatifler hakkında yanlış bilgi",
+      "content": "Madde 164- (1) Bir şirket veya kooperatifin kurucu, ortak, idareci, müdür veya temsilcisi ya da yönetim veya denetim kurulu üyesi veya tasfiye memuru sıfatını taşıyan kişi, kamuya yaptığı beyanlarda veya genel kurul toplantılarında, şirketin veya kooperatifin mali durumu hakkında gerçeğe aykırı bilgi veya açıklama veren kişi, şikâyet üzerine bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde165",
+      "section": "165",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Suç eşyasının satın alınması veya kabul edilmesi",
+      "content": "Madde 165- (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve on bin güne kadar adli para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde235",
+      "section": "235",
+      "chapter": "DOKUZUNCU BÖLÜM - Ekonomi, Sanayi ve Ticarete İlişkin Suçlar",
+      "title": "İhaleye fesat karıştırma",
+      "content": "Madde 235- (1) Kamu kurum veya kuruluşları adına yapılan mal veya hizmet alım veya satımlarına ya da kiralamalara ilişkin ihalelere fesat karıştıran kişi, üç yıldan yedi yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde236",
+      "section": "236",
+      "chapter": "DOKUZUNCU BÖLÜM - Ekonomi, Sanayi ve Ticarete İlişkin Suçlar",
+      "title": "Edimin ifasına fesat karıştırma",
+      "content": "Madde 236- (1) Kamu kurum veya kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, bunların iştirakiyle kurulmuş şirketler, bunların bünyesinde faaliyet icra eden vakıflar, kamu yararına çalışan dernekler ya da kooperatiflere karşı taahhüt altına girilen edimin ifasına fesat karıştıran kişi, üç yıldan yedi yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde244A",
+      "section": "244/A",
+      "chapter": "ONUNCU BÖLÜM - Bilişim Alanında Suçlar",
+      "title": "Bilişim sistemlerinin kullanılması suretiyle hukuka aykırı yarar sağlama",
+      "content": "Madde 244/A- (1) Bir bilişim sistemini kullanarak hukuka aykırı olarak kendi hesabına veya başkasının hesabına para veya değerli kâğıt transfer eden kişi, üç yıldan altı yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde157",
+      "section": "157",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Dolandırıcılık",
+      "content": "Madde 157- (1) Hileli davranışlarla bir kimseyi aldatıp, onun veya başkasının zararına olarak, kendisine veya başkasına bir yarar sağlayan kişiye bir yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası verilir."
+    },
+    {
+      "provision_ref": "madde158",
+      "section": "158",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Nitelikli dolandırıcılık",
+      "content": "Madde 158- (1) Dolandırıcılık suçunun; a) Dinî inanç ve duyguların istismar edilmesi suretiyle, b) Kişinin içinde bulunduğu tehlikeli durum veya zor şartlardan yararlanmak suretiyle, c) Kişinin algılama yeteneğinin zayıflığından yararlanmak suretiyle, d) Kamu kurum ve kuruluşlarının, kamu meslek kuruluşlarının, siyasi parti, vakıf veya dernek tüzel kişiliklerinin araç olarak kullanılması suretiyle, e) Kamu kurum ve kuruluşlarının zararına olarak, f) Bilişim sistemlerinin, banka veya kredi kurumlarının ya da banka veya kredi kartlarının araç olarak kullanılması suretiyle, g) Basın ve yayın araçlarının sağladığı kolaylıktan yararlanmak suretiyle, h) Tacir veya şirket yöneticisi olan ya da şirket adına hareket eden kişilerin ticari faaliyetleri sırasında; kooperatif yöneticilerinin kooperatifin faaliyeti kapsamında, ı) Serbest meslek sahibi kişiler tarafından, mesleklerinden dolayı kendilerine duyulan güvenin kötüye kullanılması suretiyle, j) Banka veya diğer kredi kurumlarınca tahsis edilmemesi gereken bir kredinin açılmasını sağlamak maksadıyla, k) Sigorta bedelini almak maksadıyla, l) Kişinin, kendisini kamu görevlisi veya banka, sigorta ya da kredi kurumlarının çalışanı olarak tanıtması veya bu kurum ve kuruluşlarla ilişkili olduğunu söylemesi suretiyle, işlenmesi hâlinde, üç yıldan on yıla kadar hapis ve beş bin güne kadar adli para cezasına hükmolunur. (2) Kamu görevlileriyle ilişkisinin olduğundan, onlar nezdinde hatırı sayıldığından bahisle ve belli bir işin gördürüleceği vaadiyle aldatarak, başkasından menfaat temin eden kişi, yukarıdaki fıkra hükmüne göre cezalandırılır."
+    },
+    {
+      "provision_ref": "madde159",
+      "section": "159",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Daha az cezayı gerektiren hâl",
+      "content": "Madde 159- (1) Dolandırıcılığın, bir hukuki ilişkiye dayanan alacağı tahsil amacıyla işlenmesi hâlinde, şikâyet üzerine, altı aydan bir yıla kadar hapis veya adli para cezasına hükmolunur."
+    },
+    {
+      "provision_ref": "madde204",
+      "section": "204",
+      "chapter": "DÖRDÜNCÜ BÖLÜM - Kamu Güvenine Karşı Suçlar",
+      "title": "Resmî belgede sahtecilik",
+      "content": "Madde 204- (1) Bir resmî belgeyi sahte olarak düzenleyen, gerçek bir resmî belgeyi başkalarını aldatacak şekilde değiştiren veya sahte resmî belgeyi kullanan kişi, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır. (2) Görevi gereği düzenlemeye yetkili olduğu resmî bir belgeyi sahte olarak düzenleyen, gerçek bir belgeyi başkalarını aldatacak şekilde değiştiren, gerçeğe aykırı olarak belge düzenleyen veya sahte resmî belgeyi kullanan kamu görevlisi üç yıldan sekiz yıla kadar hapis cezası ile cezalandırılır. (3) Resmî belgenin, kanun hükmü gereği sahteliği sabit oluncaya kadar geçerli olan belge niteliğinde olması hâlinde, verilecek ceza yarısı oranında artırılır."
+    },
+    {
+      "provision_ref": "madde205",
+      "section": "205",
+      "chapter": "DÖRDÜNCÜ BÖLÜM - Kamu Güvenine Karşı Suçlar",
+      "title": "Resmî belgeyi bozmak, yok etmek veya gizlemek",
+      "content": "Madde 205- (1) Gerçek bir resmî belgeyi bozan, yok eden veya gizleyen kişi, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır. Suçun kamu görevlisi tarafından işlenmesi hâlinde, verilecek ceza yarı oranında artırılır."
+    },
+    {
+      "provision_ref": "madde206",
+      "section": "206",
+      "chapter": "DÖRDÜNCÜ BÖLÜM - Kamu Güvenine Karşı Suçlar",
+      "title": "Resmî belgenin düzenlenmesinde yalan beyan",
+      "content": "Madde 206- (1) Bir resmî belgeyi düzenlemek yetkisine sahip olan kamu görevlisine yalan beyanda bulunan kişi, üç aydan iki yıla kadar hapis veya adli para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde207",
+      "section": "207",
+      "chapter": "DÖRDÜNCÜ BÖLÜM - Kamu Güvenine Karşı Suçlar",
+      "title": "Özel belgede sahtecilik",
+      "content": "Madde 207- (1) Bir özel belgeyi sahte olarak düzenleyen veya gerçek bir özel belgeyi başkalarını aldatacak şekilde değiştiren ve kullanan kişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır. (2) Bir sahte özel belgeyi bu özelliğini bilerek kullanan kişi de yukarıdaki fıkra hükmüne göre cezalandırılır."
+    },
+    {
+      "provision_ref": "madde208",
+      "section": "208",
+      "chapter": "DÖRDÜNCÜ BÖLÜM - Kamu Güvenine Karşı Suçlar",
+      "title": "Özel belgeyi bozmak, yok etmek veya gizlemek",
+      "content": "Madde 208- (1) Gerçek bir özel belgeyi bozan, yok eden veya gizleyen kişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde210",
+      "section": "210",
+      "chapter": "DÖRDÜNCÜ BÖLÜM - Kamu Güvenine Karşı Suçlar",
+      "title": "Resmî belge hükmünde belgeler",
+      "content": "Madde 210- (1) Özel belgede sahtecilik suçunun konusunun, emre veya hamile yazılı kambiyo senedi, emtiayı temsil eden belge, hisse senedi, tahvil veya vasiyetname olması hâlinde, resmî belgede sahtecilik suçuna ilişkin hükümler uygulanır. (2) Gerçeğe aykırı belge düzenleyen tabip, diş tabibi, eczacı, ebe, hemşire veya diğer sağlık mesleği mensubu, üç aydan bir yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde211",
+      "section": "211",
+      "chapter": "DÖRDÜNCÜ BÖLÜM - Kamu Güvenine Karşı Suçlar",
+      "title": "Daha az cezayı gerektiren hâl",
+      "content": "Madde 211- (1) Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir durumun belgelenmesi amacıyla belgede sahtecilik suçunun işlenmesi hâlinde, verilecek ceza, yarısı oranında indirilir."
+    },
+    {
+      "provision_ref": "madde212",
+      "section": "212",
+      "chapter": "DÖRDÜNCÜ BÖLÜM - Kamu Güvenine Karşı Suçlar",
+      "title": "İçtima",
+      "content": "Madde 212- (1) Sahte resmî veya özel belgenin bir başka suçun işlenmesi sırasında kullanılması hâlinde, hem sahtecilik hem de ilgili suçtan dolayı ayrı ayrı cezaya hükmolunur."
+    },
     {
       "provision_ref": "madde243",
       "section": "243",
-      "chapter": "Onuncu Bölüm - Bilişim Alanında Suçlar",
+      "chapter": "ONUNCU BÖLÜM - Bilişim Alanında Suçlar",
       "title": "Bilişim sistemine girme",
-      "content": "Madde 243 - (1) Bir bilişim sisteminin bütününe veya bir kısmına, hukuka aykırı olarak giren veya orada kalmaya devam eden kimseye bir yıla kadar hapis veya adli para cezası verilir. (2) Yukarıdaki fıkrada tanımlanan fiillerin bedeli karşılığı yararlanılabilecek sistemler hakkında işlenmesi halinde, verilecek ceza yarı oranına kadar artırılır. (3) Bu fiil nedeniyle sistemin içerdiği veriler yok olur veya değişirse, altı aydan iki yıla kadar hapis cezasına hükmedilir."
+      "content": "Madde 243- (1) Bir bilişim sisteminin bütününe veya bir kısmına, hukuka aykırı olarak giren veya orada kalmaya devam eden kimseye bir yıla kadar hapis veya adli para cezası verilir. (2) Yukarıdaki fıkrada tanımlanan fiillerin bedeli karşılığı yararlanılabilen sistemler hakkında işlenmesi hâlinde, verilecek ceza yarı oranına kadar indirilir. (3) Bu fiil nedeniyle sistemin içerdiği veriler yok olur veya değişirse, altı aydan iki yıla kadar hapis cezasına hükmolunur. (4) Bir bilişim sisteminin kendi içinde veya bilişim sistemleri arasında gerçekleşen veri nakillerini, sisteme girmeksizin teknik araçlarla hukuka aykırı olarak izleyen kişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır."
     },
     {
       "provision_ref": "madde244",
       "section": "244",
-      "chapter": "Onuncu Bölüm - Bilişim Alanında Suçlar",
+      "chapter": "ONUNCU BÖLÜM - Bilişim Alanında Suçlar",
       "title": "Sistemi engelleme, bozma, verileri yok etme veya değiştirme",
-      "content": "Madde 244 - (1) Bir bilişim sisteminin işleyişini engelleyen veya bozan kişi, bir yıldan beş yıla kadar hapis cezası ile cezalandırılır. (2) Bir bilişim sistemindeki verileri bozan, yok eden, değiştiren veya erişilmez kılan, sisteme veri yerleştiren, var olan verileri başka bir yere gönderen kişi, altı aydan üç yıla kadar hapis cezası ile cezalandırılır. (3) Bu fiillerin bir banka veya kredi kurumuna ya da bir kamu kurum veya kuruluşuna ait bilişim sistemi üzerinde işlenmesi halinde, verilecek ceza yarı oranında artırılır. (4) Yukarıdaki fıkralarda tanımlanan fiillerin işlenmesi suretiyle kişinin kendisinin veya başkasının yararına haksız bir çıkar sağlanmasının başka bir suç oluşturmaması halinde, iki yıldan altı yıla kadar hapis ve beşbin güne kadar adli para cezasına hükmedilir."
+      "content": "Madde 244- (1) Bir bilişim sisteminin işleyişini engelleyen veya bozan kişi, bir yıldan beş yıla kadar hapis cezası ile cezalandırılır. (2) Bir bilişim sistemindeki verileri bozan, yok eden, değiştiren veya erişilmez kılan, sisteme veri yerleştiren, var olan verileri başka bir yere gönderen kişi, altı aydan üç yıla kadar hapis cezası ile cezalandırılır. (3) Bu fiillerin bir banka veya kredi kurumuna ya da bir kamu kurum veya kuruluşuna ait bilişim sistemi üzerinde işlenmesi hâlinde, verilecek ceza yarı oranında artırılır. (4) Yukarıdaki fıkralarda tanımlanan fiillerin işlenmesi suretiyle kişinin kendisine veya başkasına haksız bir çıkar sağlamasının başka bir suç oluşturmaması hâlinde, iki yıldan altı yıla kadar hapis ve beş bin güne kadar adli para cezasına hükmolunur."
     },
     {
       "provision_ref": "madde245",
       "section": "245",
-      "chapter": "Onuncu Bölüm - Bilişim Alanında Suçlar",
+      "chapter": "ONUNCU BÖLÜM - Bilişim Alanında Suçlar",
       "title": "Banka veya kredi kartlarının kötüye kullanılması",
-      "content": "Madde 245 - (1) Başkasına ait bir banka veya kredi kartını, her ne surette olursa olsun ele geçiren veya elinde bulunduran kimse, kart sahibinin veya kartın kendisine verilmesi gereken kişinin rızası olmaksızın bunu kullanarak veya kullandırtarak kendisine veya başkasına yarar sağlarsa, üç yıldan altı yıla kadar hapis ve beşbin güne kadar adli para cezası ile cezalandırılır. (2) Başkalarına ait banka hesaplarıyla ilişkilendirilerek sahte banka veya kredi kartı üreten, satan, devreden, satın alan veya kabul eden kişi üç yıldan yedi yıla kadar hapis ve onbin güne kadar adli para cezası ile cezalandırılır. (3) Sahte ölüştürülen veya üzerinde sahtecilik yapılan bir banka veya kredi kartını kullanmak suretiyle kendisine veya başkasına yarar sağlayan kişi, fiil daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, dört yıldan sekiz yıla kadar hapis ve beşbin güne kadar adli para cezası ile cezalandırılır."
+      "content": "Madde 245- (1) Başkasına ait bir banka veya kredi kartını, her ne suretle olursa olsun ele geçiren veya elinde bulunduran kimse, kart sahibinin veya kartın kendisine verilmesi gereken kişinin rızası olmaksızın bunu kullanarak veya kullandırtarak kendisine veya başkasına yarar sağlarsa, üç yıldan altı yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır. (2) Başkalarına ait banka hesaplarıyla ilişkilendirilerek sahte banka veya kredi kartı üreten, satan, devreden, satın alan veya kabul eden kişi üç yıldan yedi yıla kadar hapis ve on bin güne kadar adli para cezası ile cezalandırılır. (3) Sahte oluşturulan veya üzerinde sahtecilik yapılan bir banka veya kredi kartını kullanmak suretiyle kendisine veya başkasına yarar sağlayan kişi, dört yıldan sekiz yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır. (4) Birinci fıkrada yer alan suçun; a) Haklarında ayrılık kararı verilmemiş eşlerden birinin, b) Üstsoy veya altsoyunun veya bu derecede kayın hısımlarından birinin veya evlat edinen veya evlatlığın, c) Aynı konutta beraber yaşayan kardeşlerden birinin, zararına olarak işlenmesi hâlinde, ilgili akraba hakkında cezaya hükmolunmaz."
+    },
+    {
+      "provision_ref": "madde245A",
+      "section": "245/A",
+      "chapter": "ONUNCU BÖLÜM - Bilişim Alanında Suçlar",
+      "title": "Yasak cihaz veya programlar",
+      "content": "Madde 245/A- (1) Bir cihazın, bilgisayar programının, şifrenin veya sair güvenlik kodunun; münhasıran bu Bölümde yer alan suçlar ile bilişim sistemlerinin araç olarak kullanılması suretiyle işlenebilen diğer suçların işlenmesi için yapılması veya oluşturulması durumunda, bunları imal eden, ithal eden, sevk eden, nakleden, depolayan, kabul eden, satan, satışa arz eden, satın alan, başkalarına veren veya bulunduran kişi, bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde155",
+      "section": "155",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Güveni kötüye kullanma",
+      "content": "Madde 155- (1) Başkasına ait olup da, muhafaza etmek veya belirli bir şekilde kullanmak üzere zilyedliği kendisine devredilmiş olan mal üzerinde, kendisinin veya başkasının yararına olarak, zilyedliğin devri amacı dışında tasarrufta bulunan veya bu devir olgusunu inkâr eden kişi, şikâyet üzerine, altı aydan iki yıla kadar hapis ve adli para cezası ile cezalandırılır. (2) Suçun, meslek ve sanat, ticaret veya hizmet ilişkisinin ya da hangi nedenden doğmuş olursa olsun, başkasının mallarını idare etmek yetkisinin gereği olarak tevdi ve teslim edilmiş eşya hakkında işlenmesi hâlinde, bir yıldan yedi yıla kadar hapis ve üç bin güne kadar adli para cezasına hükmolunur."
+    },
+    {
+      "provision_ref": "madde239",
+      "section": "239",
+      "chapter": "DOKUZUNCU BÖLÜM - Ekonomi, Sanayi ve Ticarete İlişkin Suçlar",
+      "title": "Ticari sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgelerin açıklanması",
+      "content": "Madde 239- (1) Sıfat veya görevi, meslek veya sanatı gereği vakıf olduğu ticari sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgeleri yetkisiz kişilere veren veya ifşa eden kişi, şikâyet üzerine, bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır. Bu bilgi veya belgelerin, hukuka aykırı yolla elde eden kişiler tarafından yetkisiz kişilere verilmesi veya ifşa edilmesi hâlinde de bu fıkraya göre cezaya hükmolunur. (2) Birinci fıkra hükümleri; a) Fenni keşif ve buluşlara veya sınai uygulamaya ilişkin bilgiler hakkında da uygulanır. b) Yukarıdaki bilgi veya belgelerin Türkiye'de oturmayan bir kişiye veya onun memurlarına açıklanması hâlinde verilecek ceza üçte biri oranında artırılır."
+    },
+    {
+      "provision_ref": "madde240",
+      "section": "240",
+      "chapter": "DOKUZUNCU BÖLÜM - Ekonomi, Sanayi ve Ticarete İlişkin Suçlar",
+      "title": "Mal veya hizmet satımından kaçınma",
+      "content": "Madde 240- (1) Belli bir mal veya hizmeti satmaktan kaçınarak kamu için acil bir ihtiyacın karşılanmasını engelleyen kişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde241",
+      "section": "241",
+      "chapter": "DOKUZUNCU BÖLÜM - Ekonomi, Sanayi ve Ticarete İlişkin Suçlar",
+      "title": "Tefecilik",
+      "content": "Madde 241- (1) Kazanç elde etmek amacıyla başkasına ödünç para veren kişi, iki yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde142",
+      "section": "142",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Nitelikli hırsızlık",
+      "content": "Madde 142- (1) Hırsızlık suçunun; a) Kime ait olursa olsun kamu kurum ve kuruluşlarında veya ibadete ayrılmış yerlerde bulunan ya da kamu yararına veya hizmetine tahsis edilen eşya hakkında, b) Herkesin girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle ya da bina veya eklentileri içinde muhafaza altına alınmış olan eşya hakkında, c) Halkın yararlanmasına sunulmuş ulaşım aracı içinde veya bunların durağında bulunan eşya hakkında, ç) Bir afet veya genel bir felaketin meydana getirebileceği zararları önlemek veya hafifletmek amacıyla hazırlanan eşya hakkında, d) Adet veya tahsis veya kullanımları gereği açıkta bırakılmış eşya hakkında, e) Bilişim sistemlerinin kullanılması suretiyle, işlenmesi hâlinde, üç yıldan yedi yıla kadar hapis cezasına hükmolunur."
+    },
+    {
+      "provision_ref": "madde143",
+      "section": "143",
+      "chapter": "ON BİRİNCİ BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Suçun gece vakti işlenmesi",
+      "content": "Madde 143- (1) Hırsızlık suçunun gece vakti işlenmesi hâlinde, verilecek ceza yarı oranında artırılır."
     },
     {
       "provision_ref": "madde246",
       "section": "246",
-      "chapter": "Onuncu Bölüm - Bilişim Alanında Suçlar",
+      "chapter": "ONUNCU BÖLÜM - Bilişim Alanında Suçlar",
       "title": "Tüzel kişiler hakkında güvenlik tedbiri uygulanması",
-      "content": "Madde 246 - Bu bölümde yer alan suçların işlenmesi suretiyle yararuna haksız menfaat sağlanan tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine hükmedilir."
+      "content": "Madde 246- (1) Bu bölümde yer alan suçların işlenmesi suretiyle yararına haksız menfaat sağlanan tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine hükmolunur."
+    },
+    {
+      "provision_ref": "madde245",
+      "section": "245",
+      "chapter": "ONUNCU BÖLÜM - Bilişim Alanında Suçlar",
+      "title": "Banka veya kredi kartlarının kötüye kullanılması",
+      "content": "Madde 245- (1) Başkasına ait bir banka veya kredi kartını, her ne suretle olursa olsun ele geçiren veya elinde bulunduran kimse, kart sahibinin veya kartın kendisine verilmesi gereken kişinin rızası olmaksızın bunu kullanarak veya kullandırtarak kendisine veya başkasına yarar sağlarsa, üç yıldan altı yıla kadar hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır. (2) Başkalarına ait banka hesaplarıyla ilişkilendirilerek sahte banka veya kredi kartı üreten, satan, devreden, satın alan veya kabul eden kişi üç yıldan yedi yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır. (3) Sahte oluşturulan veya üzerinde sahtecilik yapılan bir banka veya kredi kartını kullanmak suretiyle kendisine veya başkasına yarar sağlayan kişi, dört yıldan sekiz yıla kadar hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde245A",
+      "section": "245/A",
+      "chapter": "ONUNCU BÖLÜM - Bilişim Alanında Suçlar",
+      "title": "Yasak cihaz veya programlar",
+      "content": "Madde 245/A- (1) Bir cihazın, bilgisayar programının, şifrenin veya sair güvenlik kodunun; münhasıran bu Bölümde yer alan suçlar ile bilişim sistemlerinin araç olarak kullanılması suretiyle işlenebilen diğer suçların işlenmesi için yapılması veya oluşturulması durumunda, bunları imal eden, ithal eden, sevk eden, nakleden, depolayan, kabul eden, satan, satışa arz eden, satın alan, başkalarına veren veya bulunduran kişi, bir yıldan üç yıla kadar hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde136",
+      "section": "136",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Verileri hukuka aykırı olarak verme veya ele geçirme",
+      "content": "Madde 136- (1) Kişisel verileri, hukuka aykırı olarak bir başkasına veren, yayan veya ele geçiren kişi, iki yıldan dört yıla kadar hapis cezası ile cezalandırılır. (2) Suçun konusunun, Ceza Muhakemesi Kanununun 236 ncı maddesinin beşinci ve altıncı fıkraları uyarınca kayda alınan beyan ve görüntüler olması durumunda verilecek ceza bir kat artırılır."
+    },
+    {
+      "provision_ref": "madde137",
+      "section": "137",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Nitelikli haller",
+      "content": "Madde 137- (1) Yukarıdaki maddelerde tanımlanan suçların; a) Kamu görevlisi tarafından ve görevinin verdiği yetki kötüye kullanılmak suretiyle, b) Belli bir meslek ve sanatın sağladığı kolaylıktan yararlanmak suretiyle, işlenmesi halinde, verilecek ceza yarı oranında artırılır."
+    },
+    {
+      "provision_ref": "madde138",
+      "section": "138",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Verileri yok etmeme",
+      "content": "Madde 138- (1) Kanunların belirlediği sürelerin geçmiş olmasına karşın verileri sistem içinde yok etmekle yükümlü olanlara görevlerini yerine getirmediklerinde bir yıldan iki yıla kadar hapis cezası verilir. (2) Suçun konusunun Ceza Muhakemesi Kanunu hükümlerine göre ortadan kaldırılması veya yok edilmesi gereken veri olması hâlinde verilecek ceza bir kat artırılır."
+    },
+    {
+      "provision_ref": "madde139",
+      "section": "139",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Şikâyet",
+      "content": "Madde 139- (1) Kişisel verilerin kaydedilmesi, verileri hukuka aykırı olarak verme veya ele geçirme ve verileri yok etmeme hariç, bu bölümde yer alan suçların soruşturulması ve kovuşturulması şikâyete bağlıdır."
+    },
+    {
+      "provision_ref": "madde140",
+      "section": "140",
+      "chapter": "DOKUZUNCU BÖLÜM - Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar",
+      "title": "Tüzel kişiler hakkında güvenlik tedbiri",
+      "content": "Madde 140- (1) Yukarıdaki maddelerde tanımlanan suçların işlenmesi dolayısıyla tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine hükmolunur."
+    },
+    {
+      "provision_ref": "madde155",
+      "section": "155",
+      "chapter": "ONUNCU BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Güveni kötüye kullanma",
+      "content": "Madde 155- (1) Başkasına ait olup da, muhafaza etmek veya belirli bir şekilde kullanmak üzere zilyetliği kendisine devredilmiş olan mal üzerinde, kendisinin veya başkasının yararına olarak, zilyetliğin devri amacı dışında tasarrufta bulunan veya bu devir olgusunu inkâr eden kişi, şikâyet üzerine, altı aydan iki yıla kadar hapis ve adlî para cezası ile cezalandırılır. (2) Suçun, meslek ve sanat, ticaret veya hizmet ilişkisinin ya da hangi nedenden doğmuş olursa olsun, başkasının mallarını idare etmek yetkisinin gereği olarak tevdi ve teslim edilmiş eşya hakkında işlenmesi halinde, bir yıldan yedi yıla kadar hapis ve üçbin güne kadar adlî para cezasına hükmolunur."
+    },
+    {
+      "provision_ref": "madde156",
+      "section": "156",
+      "chapter": "ONUNCU BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Bedelsiz senedi kullanma",
+      "content": "Madde 156- (1) Bedelsiz kalmış bir senedi kullanan kişi, şikâyet üzerine, altı aydan iki yıla kadar hapis ve adlî para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde160",
+      "section": "160",
+      "chapter": "ONUNCU BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Kaybolmuş veya hata sonucu ele geçmiş eşya üzerinde tasarruf",
+      "content": "Madde 160- (1) Kaybedilmiş olması nedeniyle malikinin zilyetliğinden çıkmış olan ya da hata sonucu ele geçirilen eşya üzerinde, iade etmeksizin veya yetkili mercileri durumdan haberdar etmeksizin, malik gibi tasarrufta bulunan kişi, şikâyet üzerine, bir yıla kadar hapis veya adlî para cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde161",
+      "section": "161",
+      "chapter": "ONUNCU BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Hileli iflâs",
+      "content": "Madde 161- (1) Malvarlığını eksiltmeye yönelik hileli tasarruflarda bulunan kişi, bu hileli tasarruflardan önce veya sonra iflâs etmiş olmak koşuluyla, üç yıldan sekiz yıla kadar hapis cezası ile cezalandırılır. Hileli tasarruflardan önce veya sonra iflâs etmiş olmak koşulunun gerçekleşmesi hâlinde, hileli tasarruflar; a) Alacaklıların alacaklarının teminatı mahiyetinde olan malların kaçırılması, gizlenmesi veya değerinin azalmasına neden olunması, b) Malvarlığını kaçırmaya yönelik hileli tasarruflarda bulunulması, c) Gerçeğe aykırı borç ikrar edilmesi olarak kabul edilir."
+    },
+    {
+      "provision_ref": "madde162",
+      "section": "162",
+      "chapter": "ONUNCU BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Taksirli iflâs",
+      "content": "Madde 162- (1) Tacir olmanın gerekli kıldığı dikkat ve özenin gösterilmemesi dolayısıyla iflâsa sebebiyet veren kişi, iflâsa karar verilmiş olması hâlinde, iki aydan bir yıla kadar hapis cezası ile cezalandırılır."
+    },
+    {
+      "provision_ref": "madde163",
+      "section": "163",
+      "chapter": "ONUNCU BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Karşılıksız yararlanma",
+      "content": "Madde 163- (1) Otomatik aletlerden ödeme yapmadan yararlanmak, telefon hatları ile frekanslardan veya elektromanyetik dalgalarla yapılan şifreli veya şifresiz yayınlardan sahibinin veya zilyedinin rızası olmadan yararlanan kişi, iki yıldan beş yıla kadar hapis veya adlî para cezası ile cezalandırılır. (2) Abonelik esasına göre yararlanılabilen elektrik enerjisinin, suyun veya doğal gazın sahibinin rızası olmaksızın ve tüketim miktarının belirlenmesini engelleyecek şekilde tüketilmesi halinde kişi hakkında bir yıldan üç yıla kadar hapis cezasına hükmolunur."
+    },
+    {
+      "provision_ref": "madde164",
+      "section": "164",
+      "chapter": "ONUNCU BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Şirket veya kooperatifler hakkında yanlış bilgi",
+      "content": "Madde 164- (1) Bir şirket veya kooperatifin kurucu, ortak, idareci, müdür veya temsilcileri veya yönetim veya denetim kurulu üyeleri veya tasfiye memuru sıfatını taşıyanlar, kamuya yaptıkları beyanlarda veya genel kurula sundukları raporlarda veya önerilerde ilgililerin zarara uğramasına neden olabilecek nitelikte gerçeğe aykırı önemli bilgiler verenler veya verdirtenler altı aydan üç yıla kadar hapis veya bin güne kadar adlî para cezası ile cezalandırılırlar."
+    },
+    {
+      "provision_ref": "madde165",
+      "section": "165",
+      "chapter": "ONUNCU BÖLÜM - Malvarlığına Karşı Suçlar",
+      "title": "Suç eşyasının satın alınması veya kabul edilmesi",
+      "content": "Madde 165- (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmiş olduğunu bilerek veya bilmesi gerektiği hâlde, satın alan, kabul eden, bulunduran veya satan kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır."
     }
   ],
-  "definitions": []
+  "definitions": [
+    {
+      "term": "Bilişim sistemi",
+      "definition": "Verileri toplayıp yerleştirdikten sonra bunları otomatik işlemlere tabi tutma olanağını veren manyetik sistemler (Yargıtay içtihatları ile belirlenen tanım)",
+      "source_provision": "madde243"
+    },
+    {
+      "term": "Veri",
+      "definition": "Bilişim sistemine girilen, işlenen, saklanan ve iletilen bilgiler",
+      "source_provision": "madde244"
+    },
+    {
+      "term": "Kişisel veri",
+      "definition": "Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgi",
+      "source_provision": "madde135"
+    }
+  ]
 }
