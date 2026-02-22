@@ -1,13 +1,13 @@
 {
   "name": "@ansvar/turkish-law-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcpName": "eu.ansvar/turkish-law-mcp",
   "description": "Turkish law database covering KVKK (Data Protection Law No. 6698), Law No. 5651 (Internet Regulation), TCK (Criminal Code cybercrime arts. 243-246), TTK (Commercial Code No. 6102), Law No. 6563 (Electronic Commerce), and BTK telecommunications regulations with full-text search",
   "author": "Ansvar Systems <hello@ansvar.eu>",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ansvar-Systems/turkish-law-mcp.git"
+    "url": "git+https://github.com/Ansvar-Systems/turkish-law-mcp.git"
   },
   "homepage": "https://ansvar.eu",
   "keywords": [
