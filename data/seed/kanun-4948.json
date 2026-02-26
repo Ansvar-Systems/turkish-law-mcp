@@ -1,0 +1,56 @@
+{
+  "id": "kanun-4948",
+  "type": "statute",
+  "title": "DEVLET MEZARLIĞI DIŞINDA DEFNEDİLEN BAZI DEVLET BÜYÜKLERİNİN MEZARLARI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "DEVLET MEZARLIĞI DIŞINDA DEFNEDİLEN B...",
+  "status": "in_force",
+  "issued_date": "2003-07-22",
+  "in_force_date": "2003-07-22",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4948&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunun amacı; Bakanlar Kurulunca mezarının Devlet Mezarlığıdışında bulunması kararlaştırılan Türkiye Cumhuriyeti Cumhurbaşkanları ile HatayCumhurbaşkanı Tayfur Ata Sökmenn ve eski Başbakanlardan A",
+      "content": "Madde 1 - Bu Kanunun amacı; Bakanlar Kurulunca mezarının Devlet Mezarlığıdışında bulunması kararlaştırılan Türkiye Cumhuriyeti Cumhurbaşkanları ile HatayCumhurbaşkanı Tayfur Ata Sökmenn ve eski Başbakanlardan Adnan Menderes, eski BakanlardanFatin Rüştü Zorlu ve Hasan Polatkan'ın mezarları ve eklerinin yapımı, bakımı, onarımı,korunması, yönetimi ve bu yerler için kamulaştırma yapılması ile ilgili hususlarıdüzenlemektir.Görevli kuruluşlar ve izin"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanunun kapsamına giren mezar ve ekleri ile ilgili tümkamulaştırma, projelendirme ve yapım işleri Bayındırlık ve İskân Bakanlığınca yerinegetirildikten sonra, bu mezarlar, bulunduğu yer il özel ida",
+      "content": "Madde 2 - Bu Kanunun kapsamına giren mezar ve ekleri ile ilgili tümkamulaştırma, projelendirme ve yapım işleri Bayındırlık ve İskân Bakanlığınca yerinegetirildikten sonra, bu mezarlar, bulunduğu yer il özel idaresine ya da belediyesinebir protokolle devredilir. Bu mezar ve eklerinin bakım, onarım, koruma, yönetimve benzeri işleri, işin bulunduğu yer il özel idareleri ya da belediyelerince yürütülür.Malî hükümler"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanunun kapsamına giren mezar ve eklerinin tümkamulaştırma, devir, temlik, projelendirme ve yapım giderleri için İçişleriBakanlığı bütçesinde yer alan ödeneği, bu Bakanlığın talebi üzerine Bayındır",
+      "content": "Madde 3 - Bu Kanunun kapsamına giren mezar ve eklerinin tümkamulaştırma, devir, temlik, projelendirme ve yapım giderleri için İçişleriBakanlığı bütçesinde yer alan ödeneği, bu Bakanlığın talebi üzerine Bayındırlıkve İskân Bakanlığı bütçesine aktarmaya Maliye Bakanlığı yetkilidir.Mezar ve eklerinin bakım, onarım, koruma, yönetim ve benzeri giderleri içinİçişleri Bakanlığı bütçesinde yer alan ödenek, bulundukları yer il özel idareleriya da belediyelerinin talebi üzerine bu bütçelere aktarılarak kullanılabilir.İşbirliği"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bayındırlık ve İskân Bakanlığı ile il özel idareleri ve belediyeler,bu Kanun kapsamına giren mezar ve eklerinin 2 nci maddede öngörülen işleri için;ilgili köyler ve bu amaçla kurulan dernek ve vakıfla",
+      "content": "Madde 4 - Bayındırlık ve İskân Bakanlığı ile il özel idareleri ve belediyeler,bu Kanun kapsamına giren mezar ve eklerinin 2 nci maddede öngörülen işleri için;ilgili köyler ve bu amaçla kurulan dernek ve vakıflarla işbirliği yapabilirler.Yönetmelik"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Bu Kanunun uygulanmasına ilişkin hususlar, Kanununyürürlüğe girmesinden itibaren altı ay içerisinde İçişleri, Maliye ile Bayındırlıkve İskân bakanlıklarınca müştereken hazırlanacak bir yönetmelikle dü",
+      "content": "Madde 5 - Bu Kanunun uygulanmasına ilişkin hususlar, Kanununyürürlüğe girmesinden itibaren altı ay içerisinde İçişleri, Maliye ile Bayındırlıkve İskân bakanlıklarınca müştereken hazırlanacak bir yönetmelikle düzenlenir.Yürürlük"
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 6 - Bu Kanun yayımı tarihinde yürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde7",
+      "section": "7",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 7 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

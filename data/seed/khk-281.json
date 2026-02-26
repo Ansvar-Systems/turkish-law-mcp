@@ -1,0 +1,26 @@
+{
+  "id": "khk-281",
+  "type": "statute",
+  "title": "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ VE KAMU KURUM VE KURULUŞLARI İLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ VE...",
+  "status": "in_force",
+  "issued_date": "1987-06-17",
+  "in_force_date": "1987-06-17",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=281&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "(28/2/1982 tarihli ve 2629 sayılı Kanunun Ekcetvelinin değiştirilmesiyle ilgili olup, yerine işlenmiştir",
+      "content": "Madde 5 - (28/2/1982 tarihli ve 2629 sayılı Kanunun Ekcetvelinin değiştirilmesiyle ilgili olup, yerine işlenmiştir.)Madde6 – (1/2/1989 tarih ve 3520 sayılı Kanun ile 14/7/1965 tarih ve 657 sayılıKanuna ek madde olarak ilave edilmiş ve ilgili yerine işlenmiştir.)Madde7 – (1/2/1989 tarih ve 3520 sayılı Kanun ile 14/7/1965 tarih ve 657 sayılıKanuna ek madde olarak ilave edilmiş ve ilgili yerine işlenmiştir.)Madde8 – (11/11/1983 tarihli ve 2954 sayılı Kanunun 13 üncü maddesinindeğiştirilmesiyle ilgili olup, yerine işlenmiştir.)Madde9 – (8/6/1949 tarihli ve 5434 sayılı Kanunun 64 üncü maddesinindeğiştirilmesiyle ilgili olup, yerine işlenmiştir.)Madde10 – 11-(14/1/1970 tarihli ve 1211 sayılı Kanunun bazı maddelerinindeğiştirilmesiyle ilgili olup, yerlerine işlenmiştir.)Madde12 – 14-(10/10/1984 tarihli ve 356 sayılı Kanunun bazı maddelerinindeğiştirilmesiyle ilgili olup, yerlerine işlenmiştir.)"
+    },
+    {
+      "provision_ref": "madde15",
+      "section": "15",
+      "title": "(13/12/1983 tarihli ve 190 sayılı KHK'nin ekcetvelinin değiştirilmesiyle ilgili olup, yerine işlenmiştir",
+      "content": "Madde 15 - (13/12/1983 tarihli ve 190 sayılı KHK'nin ekcetvelinin değiştirilmesiyle ilgili olup, yerine işlenmiştir.)GeçiciMadde – (Mülga: 13/4/1988 - KHK - 322/3 md.)Madde16 - Bu Kanun Hükmünde Kararname 1/7/1987 tarihindeyürürlüğe girer.Madde17 - Bu Kanun Hükmünde Kararname hükümlerini BakanlarKurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

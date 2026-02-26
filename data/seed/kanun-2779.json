@@ -1,0 +1,20 @@
+{
+  "id": "kanun-2779",
+  "type": "statute",
+  "title": "BAZI KANUNLARDAKİ \"DEVLET BAŞKANI\" UNVANININ \"CUMHURBAŞKANI\" OLARAK DEĞİŞTİRİLMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "BAZI KANUNLARDAKİ \"DEVLET BAŞKANI\" UN...",
+  "status": "in_force",
+  "issued_date": "1983-01-13",
+  "in_force_date": "1983-01-13",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2779&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "BuKanun 9 Kasım 1982 tarihinden geçerli olarak yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 2 - BuKanun 9 Kasım 1982 tarihinden geçerli olarak yayımı tarihinde yürürlüğe girer.Madde3 – BuKanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kanun-3480",
+  "type": "statute",
+  "title": "MALÜLLER İLE ŞEHİT DUL VE YETİMLERİNE TÜTÜN VE ALKOL ÜRÜNLERİNİN SATIŞ BEDELLERİNDEN PAY VERİLMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "MALÜLLER İLE ŞEHİT DUL VE YETİMLERİNE...",
+  "status": "in_force",
+  "issued_date": "1988-10-16",
+  "in_force_date": "1988-10-16",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3480&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "İlgililere 1988 yılında ödenmiş olan1987 yılına aitpaylar ile bu Kanuna göre aynı dönem için ödenecek paylar arasındaki farkayrıca ödenir",
+      "content": "Madde 1 - İlgililere 1988 yılında ödenmiş olan1987 yılına aitpaylar ile bu Kanuna göre aynı dönem için ödenecek paylar arasındaki farkayrıca ödenir. Hesapta arta kalan para hakkında da bu Kanunun 4 üncü maddesinin(d) bendine göre işlem yapılır.Yürürlük:Madde8 – BuKanun yayımı tarihinde yürürlüğe girer.Yürütme:Madde9 – BuKanun hükümlerini Bakanlar Kurulu yürütür.3480SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİRLİSTEKanunNo.FarklıTarihte Yürürlüğe Giren MaddelerYürürlüğeGiriş Tarihi408248/3/1995435541/1/1998 tarihindengeçerliolmak üzere yayımı tarihi olan 4.4.1998 tarihinde47601,21/8/2002 tarihindengeçerli olmak üzere yayımı tarihinde (12/6/2002)52173,41/1/2005$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

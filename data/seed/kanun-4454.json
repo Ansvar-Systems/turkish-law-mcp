@@ -1,0 +1,26 @@
+{
+  "id": "kanun-4454",
+  "type": "statute",
+  "title": "BASIN VE YAYIN YOLUYLA İŞLENEN SUÇLARA İLİŞKİN DAVA VE CEZALARIN ERTELENMESİNE DAİR KANUN",
+  "title_en": "",
+  "short_name": "BASIN VE YAYIN YOLUYLA İŞLENEN SUÇLAR...",
+  "status": "in_force",
+  "issued_date": "1999-09-03",
+  "in_force_date": "1999-09-03",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4454&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Bir Bölümü İptal: Anayasa Mahkemesinin 19/9/2000tarihli ve E",
+      "content": "Madde 1 - (Bir Bölümü İptal: Anayasa Mahkemesinin 19/9/2000tarihli ve E. 1999/39, K. 2000/23 sayılı kararı ile; Yeniden düzenleme:21/12/2000 - 4616/2 md.) 23 Nisan 1999tarihine kadar sorumlu müdür sıfatı ile işlenmiş suçlar dahil, basın yoluyla veyasözlü veya görüntülü yayın araçlarıyla yahut miting, kongre, konferans,seminer, sempozyum, açık oturum veya panel gibi her türlü toplantılarda yapılankonuşmalarla işlenmiş olup; ilgili kanun maddesinde öngörülen şahsi hürriyetibağlayıcı cezanın üst sınırı oniki yılı geçmeyen suçlardan dolayı oniki yılveya daha az şahsi hürriyeti bağlayıcı cezanın üst sınırı oniki yıl geçmeyensuçlardan dolayı oniki yıl veya daha az şahsi hürriyeti bağlayıcı bir cezayamahkum edilmiş bulunan kimselerin cezalarının infazı ertelenmiştir.Halencezalarını çekmekte olanlar hakkında da birinci fıkra hükmü uygulanır.İlgilikanun maddesinde öngörülen şahsi hürriyeti bağlayıcı cezanın üst sınırı onikiyılı geçmeyen suçlardan dolayı birinci fıkrada sayılanlar hakkında henüz takibatageçilmemiş veya hazırlık soruşturmasına girişilmiş olmakla beraber davaaçılmamış veya son soruşturma aşamasına geçilmiş olmakla beraber henüz hükümkurulmamış veya verilen hüküm kesinleşmemiş ise, davanın açılması veya kesinhükme bağlanması ertelenir.ErtelenmeninsonuçlarıMadde2 – Haklarında1 inci madde hükümleri uygulananlar, ertelenme tarihinden itibaren üç yıliçerisinde işledikleri, 1 inci madde kapsamına giren kasıtlı bir cürümdendolayı mahkum edildiklerinde ertelenen cezaları aynen çektirilir.Cezasınıninfazı ertelenenin önceki mahkumiyetinden bu Kanunun yürürlüğe girdiği tarihekadar çektiği kısmı, birinci fıkrada belirtilen halde çekilecek cezaya mahsupedilir. Şartla salıverilmeye ilişkin hükümler saklıdır.Davanınaçılması veya hükme bağlanmasının ertelenmiş bulunduğu hallerde ertelenmetarihinden itibaren üç yıllık süre içerisinde işlenen ve 1 inci madde kapsamınagiren kasıtlı bir suç nedeniyle mahkum olunduğunda, ertelenen suçtan dolayıdava açılır veya ertelenmiş olan davaya devam edilerek hüküm kurulur.Üçyıllık süre, 1 inci madde kapsamına giren kasıtlı bir cürümden dolayı yenidenmahkum edilmeksizin geçirildiğinde, ertelenmeden yararlanan hakkındakimahkumiyet vaki olmamış sayılır veya bu suçtan dolayı kamu davası açılmaz. Açılmışolan davanın ortadan kaldırılmasına karar verilir.(Ek: 6/2/2003-4809/1 md.) 1 inci madde kapsamına giren bir suçtan dolayı mahkûmiyethükmü alıp cezası infaz edilmiş olanlar da, bu Kanunun yayımı tarihine kadargeçen süreyi 1 inci madde kapsamına giren kasıtlı bir cürümden dolayı yenidenmahkûm edilmeksizin geçirdikleri takdirde mahkûmiyet vâki olmamış sayılır.(Ek: 6/2/2003-4809/1 md.) Bu madde uyarınca mahkûmiyeti vâki olmamış sayılanlarınhakları üzerindeki yasaklamalar da kendiliğinden kalkar.Yürürlüktenkaldırılan hükümler"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "14",
+      "content": "Madde 3 - 14.8.1997tarihli ve 4304 sayılı \" 12.7.1997 Tarihine Kadar Sorumlu Müdür Sıfatı ileİşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesine Dair Kanun\"yürürlükten kaldırılmıştır.YürürlükMadde4 – BuKanun yayımı tarihinde yürürlüğe girer.YürütmeMadde5 – BuKanun hükümlerini Bakanlar Kurulu yürütür.4454SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTEKanunNo.FarklıTarihte Yürürlüğe Giren MaddelerYürürlüğeGiriş Tarihi4616121/12/20004809210/2/2003$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

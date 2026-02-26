@@ -1,0 +1,32 @@
+{
+  "id": "kanun-3497",
+  "type": "statute",
+  "title": "KARA SINIRLARININ KORUNMASI VE GÜVENLİĞİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "KARA SINIRLARININ KORUNMASI VE GÜVENL...",
+  "status": "in_force",
+  "issued_date": "1988-11-22",
+  "in_force_date": "1988-11-22",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3497&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Doğu ve Güneydoğu sınırlarının korunması vegüvenliğinin sağlanması görevi Kara Kuvvetleri Komutanlığınca fiilen deviralınıncaya kadar 6815 sayılı Kanundan doğan görevlerin Jandarma GenelKomutanlığınca",
+      "content": "Madde 1 - Doğu ve Güneydoğu sınırlarının korunması vegüvenliğinin sağlanması görevi Kara Kuvvetleri Komutanlığınca fiilen deviralınıncaya kadar 6815 sayılı Kanundan doğan görevlerin Jandarma GenelKomutanlığınca yerine getirilmesine devam olunur.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Genelkurmay Başkanlığınca tespit edilecek esaslardahilinde;1",
+      "content": "Madde 2 - Genelkurmay Başkanlığınca tespit edilecek esaslardahilinde;1.Jandarma sınır birliklerinin subay, astsubay ve uzman jandarma çavuş hariç olmaküzere mevcut diğer personeli halen bulundukları hukuki ve mali statüleri ileKara Kuvvetleri Komutanlığına devredilir.2.Jandarma sınır birliklerinin araç, gereç, silah, mühimmat, melbusat, malzeme vedemirbaş eşyalarından; Devlete ait veya kiralık bina veya tesisler ile diğergayrimenkullerden jandarma içgüvenlik birliklerinin ihtiyacı dışındakilerinnasıl devredileceği hususu, Kara KuvvetleriKomutanlığı ile Jandarma Genel Komutanlığı arasında yapılacak protokolledüzenlenir.Geçici"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Jandarma sınır birliklerinin ihtiyaçlarınınkarşılanması için yapılmış sözleşmeler ve taahhütler Kara KuvvetleriKomutanlığınca uygulanır",
+      "content": "Madde 3 - Jandarma sınır birliklerinin ihtiyaçlarınınkarşılanması için yapılmış sözleşmeler ve taahhütler Kara KuvvetleriKomutanlığınca uygulanır.2886sayılı Devlet İhale Kanununa göre idareye tanınan yetkiler Kara Kuvvetleri Komutanlığıncakullanılır.Gerekpersonelin devri gerekse sözleşme ve taahhütlerin yerine getirilmesindendoğacak harcamaların karşılanması için gerekli ödenekler, İçişleri Bakanlığıbütçesinden Milli Savunma Bakanlığı bütçesine Maliye ve Gümrük Bakanlığıncaaktarılır.YürürlükMadde6 – BuKanun yayımı tarihinde yürürlüğe girer.YürütmeMadde7 – BuKanun hükümlerini Bakanlar Kurulu yürütür.3497 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİRENMEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİRLİSTEDeğiştirenKanunun Numarası3497Sayılı Kanunun Değişen veya İptal Edilen MaddeleriYürürlüğeGiriş Tarihi646233/5/2013[1] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 incimaddesiyle, bu fıkrada yer alan “sakat kalmaları” ibaresi “engelli hâlegelmeleri” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

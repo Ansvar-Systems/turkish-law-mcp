@@ -1,0 +1,26 @@
+{
+  "id": "khk-420",
+  "type": "statute",
+  "title": "ÇEŞİTLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "ÇEŞİTLİ KANUN VE KANUN HÜKMÜNDE KARAR...",
+  "status": "in_force",
+  "issued_date": "1990-04-13",
+  "in_force_date": "1990-04-13",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=420&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde7",
+      "section": "7",
+      "title": "9 – (13/12/1983 tarih ve 190 sayılı KHK'ninekindeki kadro cetvellerinde değişiklik yapmakta olup,muhtevası ile ilgili bilgiler mezkür KHK'nin sonuna eklenen cetveldeverilmiştir",
+      "content": "Madde 7 - 9 – (13/12/1983 tarih ve 190 sayılı KHK'ninekindeki kadro cetvellerinde değişiklik yapmakta olup,muhtevası ile ilgili bilgiler mezkür KHK'nin sonuna eklenen cetveldeverilmiştir.)"
+    },
+    {
+      "provision_ref": "madde10",
+      "section": "10",
+      "title": "(8/6/1984 tarih ve 233 sayılı KHK'nin 15 incimaddesinin değiştirilmesi ile ilgili olup yerine işlenmiştir",
+      "content": "Madde 10 - (8/6/1984 tarih ve 233 sayılı KHK'nin 15 incimaddesinin değiştirilmesi ile ilgili olup yerine işlenmiştir.)Madde11 – 15 – (9/4/1990 tarih ve 418 sayılı KHK'nin bazı maddelerinindeğiştirilmesi ile ilgili olup yerlerine işlenmiştir.)Madde16 – Bu Kanun Hükmünde Kararnamenin 2 nci maddesiyle 832sayılı Kanuna eklenen ek 2 nci madde ile 4,5, 11, 12, 13, 14 ve 15 incimaddeleri 1/1/1991 tarihinde, diğer maddeleri yayımı tarihinde yürürlüğe girer.Madde17 – Bu Kanun Hükmünde Kararnamenin 4 üncü maddesihükümlerini Türkiye Büyük Millet Meclisi Başkanı, diğer hükümlerini BakanlarKurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

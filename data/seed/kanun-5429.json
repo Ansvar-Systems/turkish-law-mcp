@@ -1,0 +1,639 @@
+{
+  "id": "kanun-5429",
+  "type": "statute",
+  "title": "TÜRKİYE İSTATİSTİK KANUNU",
+  "title_en": "",
+  "short_name": "TÜRKİYE İSTATİSTİK KANUNU",
+  "status": "in_force",
+  "issued_date": "2005-11-18",
+  "in_force_date": "2005-11-18",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5429&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanunun uygulanmasında;a) Kurum: Türkiye İstatistikKurumunu (TÜİK),b) Konsey: İstatistik Konseyini,c) Başkanlık: Türkiye İstatistikKurumu Başkanlığını,d) Başkan: Türkiye İstatistikKurumu Başkanını,",
+      "content": "Madde 2 - Bu Kanunun uygulanmasında;a) Kurum: Türkiye İstatistikKurumunu (TÜİK),b) Konsey: İstatistik Konseyini,c) Başkanlık: Türkiye İstatistikKurumu Başkanlığını,d) Başkan: Türkiye İstatistikKurumu Başkanını,e) Kurum ve kuruluşlar: Cumhurbaşkanlığıve bakanlıklar ile bunların bağlı, ilgili ve ilişkili kuruluşlarını, mahallî idarelerve bunların bağlı ve ilgili kuruluşları ile birlik ve şirketlerini, Türkiye CumhuriyetMerkez Bankası, İstanbul Menkul Kıymetler Borsası ve üniversiteler de dâhil olmaküzere, tüzel kişiliği haiz enstitü, teşebbüs, teşekkül, birlik, döner sermaye, fonve sair adlarla kurulmuş olan diğer kurum ve kuruluşlar ile kamu kurumu niteliğindekimeslek kuruluşlarını, [2]f) Program: Resmî İstatistikProgramını,g) Resmî istatistik: Türkiyeİstatistik Kurumu veya Programda yer alan konularda istatistik üretecek kurum vekuruluşlar tarafından derlenen verilerin, kitle özelliklerini ortaya koymak amacıylaişlenmesi ile elde edilen bilgiyi,h) İstatistikî birim: Yapılansayım veya örnekleme çalışmalarına konu olan, hakkında veri toplanacak gerçek vetüzel kişiler ile kurum ve kuruluşları,i) Kitle: Sayım veya örneklemeyekonu olan istatistikî birim veya alt birimlerin tamamını,j) Sayım: Kitle özellikleriniortaya koymak üzere ilgili tüm istatistikî birimlerden veri derlenmesini,k) Örnekleme: Kitleyi oluşturanistatistikî birimler arasından kitleyi temsil etmek üzere belli sayıda birimin seçilmesiişlemini,l) Ulusal kayıt sistemi: Kurumve kuruluşların idarî işlemlerini yürütmek amacıyla kayıt altına aldıkları bilgilerinstandartlaştırılarak tanımlanmış tek bir numara vasıtasıyla ulusal düzeyde ilgilidiğer kurum ve kuruluşların kayıtları ile konuşabilirliğinin sağlandığı veri tabanısistemini,m) Alan çalışması: İstatistikçalışmalarıyla ilgili her türlü veriyi derlemek üzere istatistikî birim ile görüşülmesi,bilgilerin anket formuna aktarılması ve bu formların Başkanlığa teslimine kadargeçen sürede yapılan çalışmaları,n)Veri: Anket veya idarî kayıtlar yoluyla elde edilen nicel ve/veya nitelistatistikî bilgileri,o) Bireysel veri: Hakkındabilgi toplanan istatistikî birimlerin, özellikleri ile birlikte tanımlandığı veriyi,p) Doğrudan tanınma: Bir istatistikîbirimin kimliğinin adı, adresi veya resmen verilmiş ve genel olarak bilinen birkimlik numarası ile ortaya çıkarılmasını,r) Dolaylı tanınma: Bir istatistikîbirimin kimliğinin, doğrudan tanımlamada yer almayan diğer özelliklerinden faydalanılarakortaya çıkarılmasını,s) Gizli veri: İstatistikbirimin doğrudan veya dolaylı bir şekilde özellikleri ile birlikte tanınabilmesineve bu şekilde bireysel bilgilerin açığa çıkarılmasına imkân sağlayan bireysel veyatablo hâlinde saklı tutulan veriyi,t) İstatistik amaçlı kullanım:İstatistik birimlerden toplanan verilerin sadece istatistikî tabloların oluşturulmasıve istatistikî analizlerin yapılması için kullanımını,u)Dağıtım: Kullanılan şekil ve araçlara bakılmaksızın, istatistikî bilgilerinkullanıcılara sunulmasını,İfade eder.İKİNCİ KISIMResmî İstatistik Programı, BilgiDerleme ve GizlilikBİRİNCİ BÖLÜMResmî İstatistik Programı, İlkeler,Uygulama Esasları ve MakamlarıResmî İstatistikProgramı"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Resmî İstatistik Programı, ulusal veuluslararası düzeyde ihtiyaç duyulan konularda üretilecek resmî istatistiklere ilişkinçerçeveyi oluşturur",
+      "content": "Madde 3 - Resmî İstatistik Programı, ulusal veuluslararası düzeyde ihtiyaç duyulan konularda üretilecek resmî istatistiklere ilişkinçerçeveyi oluşturur. Sayım ve araştırmalar Program çerçevesinde yapılır.Program; mevcut kaynakları,cevap verenlerin üzerindeki yükü, fayda-maliyet ilişkisini göz önüne alarak, ülkeninekonomi, sosyal, demografi, kültür, çevre, bilim, teknoloji ve ihtiyaç duyduğu diğeralanlardaki durumunun tespit edilmesi ve izlenmesi için gereken istatistikleri kapsar.Program, Konseyin istişarîgörüşleri doğrultusunda Başkanlık tarafından beş yıllık olarak hazırlanır ve Cumhurbaşkanlığına sunulur. Program, Cumhurbaşkanı kararının Resmî Gazetede yayımlanmasıylayürürlüğe girer. Gerekli hâllerde Programda değişiklik, ilgili kuruluşların görüşüalınarak Başkanlığın teklifi üzerine Cumhurbaşkanı kararı ile yapılır ve Resmî Gazetede yayımlanır. Programın yürütülmesindenBaşkanlık sorumludur. [3]Başkanlık, Programın uygulanmasıkonusunda Konseye sunulmak üzere Yıllık İzleme Raporları hazırlar ve uygun araçlarlakamuoyuna duyurur.İlkeler"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Resmî istatistiklerin kalitesinin geliştirilmesiiçin Program kapsamında üretilen istatistikler, güvenilirlik, tutarlılık, tarafsızlık,istatistikî gizlilik, güncellik ve şeffaflık ilkelerine göre hazır",
+      "content": "Madde 4 - Resmî istatistiklerin kalitesinin geliştirilmesiiçin Program kapsamında üretilen istatistikler, güvenilirlik, tutarlılık, tarafsızlık,istatistikî gizlilik, güncellik ve şeffaflık ilkelerine göre hazırlanır ve uygulanır.Resmî istatistiklerin gerçekleriyansıtmasının sağlanması, tüm kullanıcılara tarafsız ve eş zamanlı olarak sunulması,gizlilik ilkesine riayet edilmesi, kamuoyunun bilgi edinme hakkının gözetilmesitemel esaslardır.Resmî istatistiklerin kalitesininve ilkelere uygunluğunun değerlendirilebilmesi için gerekli tüm bilgiler ve resmîistatistik üretiminde kullanılan yöntemler kamuoyuna açıklanır.Programı uygulayan tüm kurumve kuruluşlar ile görevliler, bu Kanunda ve bu Kanuna dayanılarak çıkarılacak hertürlü düzenleyici işlemlerde belirtilen ilkelere uymakla yükümlüdür.Uygulama esasları"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Programda; üretilecek tüm resmî istatistiklerinamaç, kapsam, yöntem, sıklık, iş plânı ve dağıtım ilkeleri ile çalışmayı yürütecekve koordine edecek kurum ve kuruluşlar açıkça belirtilir",
+      "content": "Madde 5 - Programda; üretilecek tüm resmî istatistiklerinamaç, kapsam, yöntem, sıklık, iş plânı ve dağıtım ilkeleri ile çalışmayı yürütecekve koordine edecek kurum ve kuruluşlar açıkça belirtilir.Sözkonusu kurum ve kuruluşlar, Programda kendilerine verilen görev ve sorumluluklarıbelirtilen zamanda yerine getirmekle yükümlüdür. Bu görev ve sorumluluklarProgramın yürürlüğe girmesiyle başlar.Uygulama makamları"
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "Resmî istatistikler Türkiye İstatistikKurumu Başkanlığı ve Programda belirtilen kurum ve kuruluşlar tarafından üretilir,dağıtılır ve yayımlanır",
+      "content": "Madde 6 - Resmî istatistikler Türkiye İstatistikKurumu Başkanlığı ve Programda belirtilen kurum ve kuruluşlar tarafından üretilir,dağıtılır ve yayımlanır. Kurum ve kuruluşların, görev alanları ile ilgili resmîistatistiklere ilişkin veri derleme, değerlendirme ve yayımlama görev ve yetkisiProgramda açıkça belirtilir. Bu kurum ve kuruluşlar, talep edilmesi durumunda, derlenenverileri istenilen zamanda Başkanlığa vermekle yükümlüdür. Diğer yasal düzenlemelerdekigizlilik hükümleri belirtilerek Kuruma iletilen veri ve bilgilerin korunmasındave saklanmasında söz konusu gizlilik hükümleri aynen uygulanır. Başkanlık, kurumve kuruluşlar tarafından derlenen resmî istatistikleri de yayımlayabilir ve dağıtabilir.Kurum ve kuruluşların Programdayer almayan istatistikî konulardaki çalışmaları ile gerçek kişiler veya özel hukuktüzel kişiliğine sahip kuruluşlarca yapılan sayım veya araştırmalara ait sonuçlarresmî istatistik olarak kabul edilmez.İstatistikî sonuçlar içerenaraştırma faaliyetleri yürüten gerçek kişiler veya özel hukuk tüzel kişiliğine sahipkuruluşlar, araştırmalarının sonuçlarını basın ve yayın yoluyla kamuoyuna açıklamalarıhâlinde, araştırmanın kapsam, örnekleme yöntemi ve örnek hacmi, veri derleme yöntemive uygulama zamanını araştırma sonuçlarıyla birlikte kamuoyuna açıklamakla yükümlüdürler.İKİNCİ BÖLÜMBilgilerin Toplanması, Dağıtımı veGizliliğiBilgi isteme,bilgilerin doğruluğunu araştırma, kontrol ve saklama"
+    },
+    {
+      "provision_ref": "madde7",
+      "section": "7",
+      "title": "Başkanlık, Kurumun görev alanına girenkonularla ilgili sayım ve araştırmalarda, istatistik üretimi için gerekli gördüğüher türlü ortamdaki veri ve bilgiyi, tüm istatistikî birimlerden, Başkanlıkça bel",
+      "content": "Madde 7 - Başkanlık, Kurumun görev alanına girenkonularla ilgili sayım ve araştırmalarda, istatistik üretimi için gerekli gördüğüher türlü ortamdaki veri ve bilgiyi, tüm istatistikî birimlerden, Başkanlıkça belirlenenşekil, süre ve standartlarda doğrudan isteme yetkisine sahiptir.Başkanlık, gerektiğinde verilenveri veya bilgilerin doğruluğunu araştırmaya, kontrol etmeye, ilgililerden ek bilgive belge istemeye, araştırma ve kontroller sonucu düzenlenecek belgelerle gerçekveri ve bilgiyi belirlemeye yetkilidir.Başkanlığın veri ve bilgiderleme ve yayımlama işlemleri dâhil her türlü faaliyetleri elektronik ortamda yapılabilir,arşivlenebilir ve elektronik imza kullanılabilir.Elektronik ortamda tutulanbilgilere ilişkin belgeler, bu veri ve bilgilerin kesinleşip kullanıma açık hâlegelmesine kadar saklanır ve bu sürenin sonunda imha edilir.Cevap vermeyükümlülüğü ve sınırları [4]"
+    },
+    {
+      "provision_ref": "madde8",
+      "section": "8",
+      "title": "(İptal: Anayasa Mahkemesi’nin 20/3/2008tarihli ve E",
+      "content": "Madde 8 - (İptal: Anayasa Mahkemesi’nin 20/3/2008tarihli ve E.: 2006/167, K.: 2008/86 sayılı Kararı ile.; Yeniden Düzenleme: 25/11/2008-5813/1md.)İstatistikîbirimler, ülkenin ekonomi, sosyal, demografi, kültür, çevre, bilim, teknolojive ihtiyaç duyulan diğer alanlardaki resmi istatistikleri üretmek üzere,Anayasa’da belirlenen temel haklar ve ödevler çerçevesinde, kendilerindenistenen veri veya bilgileri, Başkanlığın belirleyeceği şekil, süre vestandartlarda eksiksiz ve doğru olarak ücretsiz vermekle yükümlüdür.İdarî verilere erişim"
+    },
+    {
+      "provision_ref": "madde9",
+      "section": "9",
+      "title": "Kurum ve kuruluşlar, resmî istatistiküretiminde kullanılmak üzere, kendi görev alanları ile ilgili konularda topladıkları,işledikleri ve sakladıkları kayıt ve diğer veri dosyalarını ve her türlü harit",
+      "content": "Madde 9 - Kurum ve kuruluşlar, resmî istatistiküretiminde kullanılmak üzere, kendi görev alanları ile ilgili konularda topladıkları,işledikleri ve sakladıkları kayıt ve diğer veri dosyalarını ve her türlü haritaile uzaktan algılanmış veriyi, belirlenen süre içerisinde ücret talep etmeksizinBaşkanlığa vermek veya kullanımına açmakla yükümlüdürler.Ulusal kayıtsistemleri"
+    },
+    {
+      "provision_ref": "madde10",
+      "section": "10",
+      "title": "Kurum ve kuruluşlar kendi görev alanlarınailişkin ulusal kayıt sistemlerini Başkanlığın belirlediği standartlarda oluşturmak,güncellemek ve Başkanlığın istatistik amaçlı kullanımına açmakla yükümlüdür",
+      "content": "Madde 10 - Kurum ve kuruluşlar kendi görev alanlarınailişkin ulusal kayıt sistemlerini Başkanlığın belirlediği standartlarda oluşturmak,güncellemek ve Başkanlığın istatistik amaçlı kullanımına açmakla yükümlüdür.Bu konuda yapılacak her türlümevzuat çalışmalarında Başkanlığın uygun görüşü alınır.Sınıflamalar"
+    },
+    {
+      "provision_ref": "madde11",
+      "section": "11",
+      "title": "Kurum ve kuruluşlar, Başkanlık tarafındanoluşturulan istatistik amaçlı tanım ve sınıflamaları kullanmakla; kendi ihtiyaçlarıdoğrultusunda belirleyecekleri sınıflamaları kullanmaları hâlinde ise, Başka",
+      "content": "Madde 11 - Kurum ve kuruluşlar, Başkanlık tarafındanoluşturulan istatistik amaçlı tanım ve sınıflamaları kullanmakla; kendi ihtiyaçlarıdoğrultusunda belirleyecekleri sınıflamaları kullanmaları hâlinde ise, Başkanlığınbelirlediği sınıflamalara dönüştürülmesini sağlayacak tedbirleri almakla yükümlüdür.İstatistik sonuçlarınaerişim"
+    },
+    {
+      "provision_ref": "madde12",
+      "section": "12",
+      "title": "Başkanlık ve Programda yer alan kurumve kuruluşlar, üretilen resmî istatistiklere, Programda belirtilen standart ve yayıntarihine uyarak, tüm kullanıcıların kolay ve eşit şartlarda erişmesini sağlayac",
+      "content": "Madde 12 - Başkanlık ve Programda yer alan kurumve kuruluşlar, üretilen resmî istatistiklere, Programda belirtilen standart ve yayıntarihine uyarak, tüm kullanıcıların kolay ve eşit şartlarda erişmesini sağlayacaktedbirleri alırlar.Kurum tarafından derlenenistatistikî bilgiler, kullanıma açılmadan önce herhangi bir şahsa veya makama verilemez.Gizli veriler"
+    },
+    {
+      "provision_ref": "madde13",
+      "section": "13",
+      "title": "Gizli verilere yalnızca resmî istatistiküretiminde görev alanlar, görevlerini yerine getirebilmek için ihtiyaç duyduklarıölçüde erişebilirler",
+      "content": "Madde 13 - Gizli verilere yalnızca resmî istatistiküretiminde görev alanlar, görevlerini yerine getirebilmek için ihtiyaç duyduklarıölçüde erişebilirler.Bireysel verinin toplulaştırılmasıile oluşturulan veri tablosunun herhangi bir hücresindeki istatistikî birim sayısınınüçten az olması veya birim sayısı üç ve daha fazla olduğu hâlde bir veya iki istatistikîbirimin hakim durumda olması hâlinde ilgili hücredeki veri gizli kabul edilir.Resmî istatistiklerin üretilmesiiçin toplanan, işlenen ve saklanan verilerden gizli olanları, idarî, adlî ve askerîhiçbir organ, makam, merci veya kişiye verilemez, istatistik amacı dışında kullanılamazve ispat aracı olamaz. Bu bilgileri derleyen ve değerlendiren memurlar ve diğergörevliler de bu yasağa uymak zorundadır. Bu yükümlülük, görevlilerin görevlerindenayrılmalarından sonra da devam eder.Resmî istatistik üreten kurumve kuruluşların yetkilileri tarafından, gizli verilerin hukuka aykırı erişimine,açıklanmasına veya kullanımına karşı her türlü önlem alınır.Herkese açık kaynaklardanelde edilen veri veya bilgiler gizli kabul edilmez.İstatistikî birimin, kendisineait gizli verilerin açıklanmasına yazılı onay vermesi hâlinde, veri gizliliği ortadankalkar.Gizli veriler, ancak doğrudanveya dolaylı tanımlamaya yol açmayacak şekilde diğer bilgilerle birleştirilerekyayımlanabilir.(Ek fıkra: 25/11/2008-5813/2md.) Dış ticaret istatistiklerindedolaylı tanınma ile gizlilik kapsamına giren veriler için bu gizlilik hükümleri,istatistikî birimin kendisine ait verinin gizlenmesini talep eden yazılı başvurusuhalinde uygulanır.Verigizliliği ve güvenliğine ilişkin usûl ve esaslar, ulusal ve uluslararasıilkeler doğrultusunda, ilgili kurum ve kuruluşların görüşleri alınarakçıkarılacak yönetmelikle düzenlenir.Bireysel verilerinkullanımı"
+    },
+    {
+      "provision_ref": "madde14",
+      "section": "14",
+      "title": "Bireysel veriler, istatistikî birimlerindoğrudan veya dolaylı olarak tanınmasına yol açacak bölümleri gizlendikten sonra,münferit birimlere atıfta bulunmayan bilimsel amaçlı araştırmalarda kullanılmas",
+      "content": "Madde 14 - Bireysel veriler, istatistikî birimlerindoğrudan veya dolaylı olarak tanınmasına yol açacak bölümleri gizlendikten sonra,münferit birimlere atıfta bulunmayan bilimsel amaçlı araştırmalarda kullanılmasıkaydı ve Başkanlığın yazılı izniyle verilebilir. Bireysel verileri kullanma hakkıelde edenler, bu verileri üçüncü şahıslara veremezler.İstatistikî birimlerinhakları"
+    },
+    {
+      "provision_ref": "madde15",
+      "section": "15",
+      "title": "Resmî istatistiklerin üretimi için veriveya bilgi talep edilen istatistikî birimler, sayımın veya araştırmanın amacı, kapsamı,istatistikî verinin gizliliğinin sağlanması için alınan önlemler ve haklar",
+      "content": "Madde 15 - Resmî istatistiklerin üretimi için veriveya bilgi talep edilen istatistikî birimler, sayımın veya araştırmanın amacı, kapsamı,istatistikî verinin gizliliğinin sağlanması için alınan önlemler ve hakları ileilgili konularda 4982 sayılı Bilgi Edinme Hakkı Kanunu çerçevesinde, bilgi edinme,kendilerine ait gizli verinin izinsiz açıklanması durumunda da maddi ve manevi hertürlü zararının tazmin edilmesini isteme hakkına sahiptir.Kendilerine ait gizli verilerinaçıklanması nedeniyle açılan davalarda Başkanlık veya diğer kurum ve kuruluşlaraleyhine tazminata hükmedilmesi durumunda, bu hususta kusuru olan memur ve diğergörevlilere genel hükümlere göre rücu edilir.ÜÇÜNCÜ KISIMTürkiye İstatistik KurumuBİRİNCİ BÖLÜMKuruluş, Görev ve Teşkilât YapısıTürkiye İstatistikKurumu"
+    },
+    {
+      "provision_ref": "madde16",
+      "section": "16",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 16 - (Mülga: 2/7/2018 – KHK-703/99 md.)Bilimsel ve tekniközerklik"
+    },
+    {
+      "provision_ref": "madde17",
+      "section": "17",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 17 - (Mülga: 2/7/2018 – KHK-703/99 md.)Türkiye İstatistikKurumunun görev ve yetkileri"
+    },
+    {
+      "provision_ref": "madde18",
+      "section": "18",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 18 - (Mülga: 2/7/2018 – KHK-703/99 md.)Teşkilât"
+    },
+    {
+      "provision_ref": "madde19",
+      "section": "19",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 19 - (Mülga: 2/7/2018 – KHK-703/99 md.)İKİNCİ BÖLÜMİstatistik Konseyiİstatistik Konseyi"
+    },
+    {
+      "provision_ref": "madde20",
+      "section": "20",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 20 - (Mülga: 2/7/2018 – KHK-703/99 md.)ÜÇÜNCÜ BÖLÜMBaşkanlıkBaşkanlık teşkilâtı"
+    },
+    {
+      "provision_ref": "madde21",
+      "section": "21",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 21 - (Mülga: 2/7/2018 – KHK-703/99 md.)Başkan"
+    },
+    {
+      "provision_ref": "madde22",
+      "section": "22",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 22 - (Mülga: 2/7/2018 – KHK-703/99 md.)Başkanlığa atanmaşartları ve usûlü"
+    },
+    {
+      "provision_ref": "madde23",
+      "section": "23",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 23 - (Mülga: 2/7/2018 – KHK-703/99 md.)Başkan yardımcıları [5]"
+    },
+    {
+      "provision_ref": "madde24",
+      "section": "24",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 24 - (Mülga: 2/7/2018 – KHK-703/99 md.)DÖRDÜNCÜ BÖLÜMAna Hizmet BirimleriAna hizmet birimleri"
+    },
+    {
+      "provision_ref": "madde25",
+      "section": "25",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 25 - (Mülga: 2/7/2018 – KHK-703/99 md.)UlusalHesaplar Daire Başkanlığı [6]"
+    },
+    {
+      "provision_ref": "madde26",
+      "section": "26",
+      "title": "(Mülga : 13/6/2012-6327/40 md",
+      "content": "Madde 26 - (Mülga : 13/6/2012-6327/40 md.)EkonomikGöstergeler ve Fiyat İstatistikleri Daire Başkanlığı"
+    },
+    {
+      "provision_ref": "madde26_A",
+      "section": "26/A",
+      "title": "(Ek : 11/10/2011 - KHK - 662/30 md",
+      "content": "Madde 26/A - (Ek : 11/10/2011 - KHK - 662/30 md.;Mülga : 13/6/2012-6327/40 md.)Tarım ve Çevreİstatistikleri Daire Başkanlığı"
+    },
+    {
+      "provision_ref": "madde27",
+      "section": "27",
+      "title": "(Mülga : 13/6/2012-6327/40 md",
+      "content": "Madde 27 - (Mülga : 13/6/2012-6327/40 md.)İşİstatistikleri Daire Başkanlığı [7]"
+    },
+    {
+      "provision_ref": "madde28",
+      "section": "28",
+      "title": "(Mülga : 13/6/2012-6327/40 md",
+      "content": "Madde 28 - (Mülga : 13/6/2012-6327/40 md.)Sektörelİstatistikler Daire Başkanlığı"
+    },
+    {
+      "provision_ref": "madde28_A",
+      "section": "28/A",
+      "title": "(Ek : 11/10/2011 - KHK - 662/30 md",
+      "content": "Madde 28/A - (Ek : 11/10/2011 - KHK - 662/30 md.;Mülga : 13/6/2012-6327/40 md.)Nüfus veDemografi İstatistikleri Daire Başkanlığı [8]"
+    },
+    {
+      "provision_ref": "madde29",
+      "section": "29",
+      "title": "(Mülga : 13/6/2012-6327/40 md",
+      "content": "Madde 29 - (Mülga : 13/6/2012-6327/40 md.)SosyalSektörler ve Araştırmalar Daire Başkanlığı"
+    },
+    {
+      "provision_ref": "madde29_A",
+      "section": "29/A",
+      "title": "(Ek : 11/10/2011 - KHK - 662/30 md",
+      "content": "Madde 29/A - (Ek : 11/10/2011 - KHK - 662/30 md.;Mülga : 13/6/2012-6327/40 md.)Yöntem AraştırmalarıDaire Başkanlığı"
+    },
+    {
+      "provision_ref": "madde30",
+      "section": "30",
+      "title": "(Mülga : 13/6/2012-6327/40 md",
+      "content": "Madde 30 - (Mülga : 13/6/2012-6327/40 md.)Dış İlişkiler DaireBaşkanlığı"
+    },
+    {
+      "provision_ref": "madde31",
+      "section": "31",
+      "title": "(Mülga : 13/6/2012-6327/40 md",
+      "content": "Madde 31 - (Mülga : 13/6/2012-6327/40 md.)Yayın ve Bilgi DağıtımDaire Başkanlığı"
+    },
+    {
+      "provision_ref": "madde32",
+      "section": "32",
+      "title": "(Mülga : 13/6/2012-6327/40 md",
+      "content": "Madde 32 - (Mülga : 13/6/2012-6327/40 md.)Bilgi ve İletişimTeknolojileri Daire Başkanlığı"
+    },
+    {
+      "provision_ref": "madde33",
+      "section": "33",
+      "title": "(Mülga : 13/6/2012-6327/40 md",
+      "content": "Madde 33 - (Mülga : 13/6/2012-6327/40 md.)BEŞİNCİ BÖLÜMDanışma BirimleriDanışma birimleri"
+    },
+    {
+      "provision_ref": "madde34",
+      "section": "34",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 34 - (Mülga: 2/7/2018 – KHK-703/99 md.)Strateji GeliştirmeDaire Başkanlığı"
+    },
+    {
+      "provision_ref": "madde35",
+      "section": "35",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 35 - (Mülga: 2/7/2018 – KHK-703/99 md.)Hukuk Müşavirliği"
+    },
+    {
+      "provision_ref": "madde36",
+      "section": "36",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 36 - (Mülga: 2/7/2018 – KHK-703/99 md.)Basın ve Halklaİlişkiler Müşavirliği"
+    },
+    {
+      "provision_ref": "madde37",
+      "section": "37",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 37 - (Mülga: 2/7/2018 – KHK-703/99 md.)ALTINCI BÖLÜMYardımcı Hizmet BirimleriYardımcı hizmetbirimleri"
+    },
+    {
+      "provision_ref": "madde38",
+      "section": "38",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 38 - (Mülga: 2/7/2018 – KHK-703/99 md.)İnsan Kaynakları DaireBaşkanlığı"
+    },
+    {
+      "provision_ref": "madde39",
+      "section": "39",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 39 - (Mülga: 2/7/2018 – KHK-703/99 md.)Destek HizmetleriDaire Başkanlığı"
+    },
+    {
+      "provision_ref": "madde40",
+      "section": "40",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 40 - (Mülga: 2/7/2018 – KHK-703/99 md.)YEDİNCİ BÖLÜMKurul, Komisyon ve GruplarVeri Kalite KontrolKurulu"
+    },
+    {
+      "provision_ref": "madde41",
+      "section": "41",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 41 - (Mülga: 2/7/2018 – KHK-703/99 md.)Yayın ve DağıtımKurulu"
+    },
+    {
+      "provision_ref": "madde42",
+      "section": "42",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 42 - (Mülga: 2/7/2018 – KHK-703/99 md.)Danışma kurulları,özel ihtisas komisyonları ve inceleme-araştırma grupları"
+    },
+    {
+      "provision_ref": "madde43",
+      "section": "43",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 43 - (Mülga: 2/7/2018 – KHK-703/99 md.)SEKİZİNCİ BÖLÜMTaşra TeşkilâtıTaşra teşkilâtı"
+    },
+    {
+      "provision_ref": "madde44",
+      "section": "44",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 44 - (Mülga: 2/7/2018 – KHK-703/99 md.)DOKUZUNCU BÖLÜMPersonel RejimiPersonel rejimi vefazla çalışma"
+    },
+    {
+      "provision_ref": "madde45",
+      "section": "45",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 45 - (Mülga: 2/7/2018 – KHK-703/99 md.)Türkiye İstatistikKurumu Uzman Yardımcılığı ve Uzmanlığına atanma"
+    },
+    {
+      "provision_ref": "madde46",
+      "section": "46",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 46 - (Mülga: 2/7/2018 – KHK-703/99 md.)ONUNCUBÖLÜMGörevlendirmeve ÖdemelerKamu kurum ve kuruluşlarındanpersonelin görevlendirilmesi"
+    },
+    {
+      "provision_ref": "madde47",
+      "section": "47",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 47 - (Mülga: 2/7/2018 – KHK-703/99 md.)Sayım komiteleri vegörevlendirme"
+    },
+    {
+      "provision_ref": "madde48",
+      "section": "48",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 48 - (Mülga: 2/7/2018 – KHK-703/99 md.)Ödemeler [9]"
+    },
+    {
+      "provision_ref": "madde49",
+      "section": "49",
+      "title": "Sayım, araştırma ve veri kalite kontrolüile inceleme ve denetleme işlerinde kurum içinden veya dışından (…) 9 geçici görevle görevlendirilecek olan kişilere başka yerde görevlendirildiklerisüre için v",
+      "content": "Madde 49 - Sayım, araştırma ve veri kalite kontrolüile inceleme ve denetleme işlerinde kurum içinden veya dışından (…) 9 geçici görevle görevlendirilecek olan kişilere başka yerde görevlendirildiklerisüre için verilecek gündelikler, 6245 sayılı Harcırah Kanunu hükümleri uyarıncabelirlenecek gündeliklerin birbuçuk katı olarak uygulanır.657sayılı Devlet Memurları Kanununun 4 üncü maddesinin (C) fıkrasına göre sözleşmeliolarak çalıştırılacak geçici personele ödenecek ücretler, Kurum dışındangörevlendirileceklere verilecek zaruri gider karşılıkları ve her çeşitödenekler ile anket formu başına verilecek ödenekler ve bunların usûl veesasları Cumhurbaşkanı kararı ile tespit edilir.657 sayılı Devlet MemurlarıKanununun 4 üncü maddesinin (C) fıkrasına göre sözleşmeli olarak çalıştırılacakgeçici personele, ayrıca en yüksek Devlet memuru aylığının (ek gösterge dâhil) %20’sioranında ödeme yapılır ve bu ödeme damga vergisi hariç herhangi bir vergiye tabitutulmaz. [10]Geçici görevle görevlendirilenlere verilecekyol ve konaklama giderleri ile sürekli görevle görevlendirilenlerin harcırahlarıda 6245 sayılı Harcırah Kanunu hükümleri uyarınca ödenir. [11]Sayım, araştırma, inceleme,denetleme ve veri kalite kontrolü için alanda görevlendirilenler, mahallî idarelerceişletilen toplu taşım araçlarından geçici görev süresince ücretsiz ve kamu kurumve kuruluşlarının konaklama ve sosyal tesis imkânlarından, ilgili kamu kurum vekuruluşlarının personeline uygulanan şartlarla aynen yararlandırılır.DÖRDÜNCÜ KISIMSorumluluk, Yetkiler ve CezaHükümleriBİRİNCİ BÖLÜMSorumluluk ve YetkilerYöneticilerinsorumlulukları"
+    },
+    {
+      "provision_ref": "madde50",
+      "section": "50",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 50 - (Mülga: 2/7/2018 – KHK-703/99 md.)Uluslararası işbirliği"
+    },
+    {
+      "provision_ref": "madde51",
+      "section": "51",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 51 - (Mülga: 2/7/2018 – KHK-703/99 md.)Yetki devri"
+    },
+    {
+      "provision_ref": "madde52",
+      "section": "52",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 52 - (Mülga: 2/7/2018 – KHK-703/99 md.)İKİNCİ BÖLÜMCeza HükümleriCeza hükümleri"
+    },
+    {
+      "provision_ref": "madde53",
+      "section": "53",
+      "title": "Bu Kanunun 13 üncü maddesinde yazılıyasaklara aykırı hareket eden kamu görevlileri, 5237 sayılı Türk Ceza Kanununun258 inci maddesine göre cezalandırılır",
+      "content": "Madde 53 - Bu Kanunun 13 üncü maddesinde yazılıyasaklara aykırı hareket eden kamu görevlileri, 5237 sayılı Türk Ceza Kanununun258 inci maddesine göre cezalandırılır.Bu Kanunun 6 ncı maddesininüçüncü fıkrası ve 14 üncü maddesinde belirtilen yükümlülüklere uymayan gerçek kişilerleözel hukuk tüzel kişilerinin organ ve temsilcilerine adlî para cezası verilir.İdarî para cezalarıMadde54- Sayımlarda geçerli mazereti olmadan verilen görevleri yapmaktankaçınanlara beşyüz Yeni Türk Lirası idarî para cezası uygulanır.Görevlendirilenleri geçerli mazereti olmaksızın eğitim ve toplantılaragöndermeyen veya görev yapmasına izin vermeyen kamu kurum ve kuruluşlarınınyöneticileri ve sorumlularına, izin vermedikleri her kişi için beşyüz Yeni TürkLirası idarî para cezası uygulanır ve bu durum ilgililerin kurumlarınabildirilir. Ayrıca, görevlendirilmek üzere yetiştirme kurslarına katılankimselerden, görevlerini geçerli mazereti olmaksızın yapmaktan kaçındıklarıtakdirde, yetiştirilmeleri için yapılan giderler genel hükümler çerçevesindetahsil edilir.Başkanlık veya kurum ve kuruluşlartarafından Program kapsamında istenen bilgileri, geçerli bir mazereti olmaksızınbelirlenen şekil ve sürede vermeyen veya eksik veya hatalı verenler, bir kereyemahsus olmak üzere uyarılarak yedi gün içerisinde bilgileri vermeleri veya eksikve hataları gidermeleri istenir. Bu uyarıya rağmen, bilgileri hiç vermeyen veyatalep edildiği hâlde eksikleri gidermeyen ve hataları düzeltmeyen gerçek kişilerveya özel hukuk tüzel kişilerinin organ ve temsilcileri hakkında, fiilin;a) Hanehalkı veya bireylerleyapılan araştırmalarda işlenmesi durumunda beşyüz Yeni Türk Lirası,b) (İptal: Anayasa Mahkemesi’nin20/3/2008 tarihli ve E.: 2006/167, K.: 2008/86 sayılı Kararı ile.; Yeniden Düzenleme:25/11/2008-5813/3 md.) Hane halkı veya bireyler dışında kalan diğer istatistikîbirimlerle yapılan araştırmalarda işlenmesi durumunda binbeşyüz Yeni Türk Lirası,c) Sayımlarda işlenmesi durumundaikibin Yeni Türk Lirası,İdarî para cezası uygulanır.(Ek fıkra: 13/6/2012-6327/41md.) Kurum tarafındanbu Kanunun 9 uncu maddesi kapsamında talep edilen her türlü kayıt ve verinin otuzgün içinde verilmemesi veya Kurumun kullanımına açılmaması durumunda ilgili kurumve kuruluşun üst yöneticileri hakkında ikinci fıkranın (b) bendinde belirtilen tutardaidari para cezası uygulanır.İdarî para cezası ve diğercezaların uygulanması, istatistikî birimin bilgi verme yükümlülüğünü ortadan kaldırmaz.7201 sayılı Tebligat Kanunundabelirtilen usûllerden biri ile yapılan tebligatlar veya araştırmada görev alan personeltarafından bilgi ile ilgili dokümanların istatistikî birim yetkilisine verildiğiveya bilginin istenmesi amacıyla istatistikî birimin ziyaret edildiğine ilişkinBaşkanlıkça belirlenen usûllere uygun olarak tanzim edilmiş tutanaklar, istatistikîbirimlerden bilgi istendiğinin tevsikinde yeterli olup, ispat için başka belge aranmaz.Bu madde hükümleri, sözleşmeile üçüncü kişilere yaptırılan araştırmalar için de uygulanır.İdarî para cezalarına ilişkinkarar, sayım için mahallî komiteler kurulması durumunda, komitelerin başkanı tarafından;Programda belirtilmek şartıyla sayımların başka kurum ve kuruluşlar tarafından gerçekleştirilmesidurumunda bu kurum ve kuruluşların en üst yöneticileri tarafından; diğer durumlardaise Başkanlığın merkez veya taşra teşkilâtının en üst amirleri tarafından verilir.BEŞİNCİ KISIMÇeşitli HükümlerDöner Sermayeİşletmesi"
+    },
+    {
+      "provision_ref": "madde55",
+      "section": "55",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 55 - (Mülga: 2/7/2018 – KHK-703/99 md.)Atama"
+    },
+    {
+      "provision_ref": "madde56",
+      "section": "56",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 56 - (Mülga: 2/7/2018 – KHK-703/99 md.)Değiştirilen hükümler"
+    },
+    {
+      "provision_ref": "madde57",
+      "section": "57",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 57 - (Mülga: 2/7/2018 – KHK-703/99 md.)Yürürlükten kaldırılanve uygulanmayacak hükümler ile atılar [12]"
+    },
+    {
+      "provision_ref": "madde58",
+      "section": "58",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 58 - (Mülga: 2/7/2018 – KHK-703/99 md.)KurumungelirleriEk"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Ek:25/12/2024-7537/14md",
+      "content": "Madde 1 - (Ek:25/12/2024-7537/14md.)Kurumungelirleri şunlardır:a)Genel bütçeden yapılacak Hazine yardımları.b)Taşınır ve taşınmaz malların satışı, kiraya verilmesi ve işletilmesinden eldeedilen gelirler.c)Kurumun tarafsızlığını ve bağımsızlığını etkilemeyecek her türlü bağış, yardım,vasiyet ve sair gelirler.ç)Proje ve araştırma gelirleri.d)Diğer gelirler."
+    },
+    {
+      "provision_ref": "gecici_madde1",
+      "chapter": "Geçici Maddeler",
+      "section": "G1",
+      "title": "Madde 1-",
+      "content": "Geçici Madde 1 - Madde 1-"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 1 - (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde2",
+      "chapter": "Geçici Maddeler",
+      "section": "G2",
+      "title": "Madde 2-",
+      "content": "Geçici Madde 2 - Madde 2-"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 2 - (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde3",
+      "chapter": "Geçici Maddeler",
+      "section": "G3",
+      "title": "Madde 3-",
+      "content": "Geçici Madde 3 - Madde 3-"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 3 - (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde4",
+      "chapter": "Geçici Maddeler",
+      "section": "G4",
+      "title": "Madde 4-",
+      "content": "Geçici Madde 4 - Madde 4-"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 4 - (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde5",
+      "chapter": "Geçici Maddeler",
+      "section": "G5",
+      "title": "Madde 5-",
+      "content": "Geçici Madde 5 - Madde 5-"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 5 - (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde6",
+      "chapter": "Geçici Maddeler",
+      "section": "G6",
+      "title": "Madde 6-",
+      "content": "Geçici Madde 6 - Madde 6-"
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 6 - (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde7",
+      "chapter": "Geçici Maddeler",
+      "section": "G7",
+      "title": "Madde 7-",
+      "content": "Geçici Madde 7 - Madde 7-"
+    },
+    {
+      "provision_ref": "madde7",
+      "section": "7",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 7 - (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde8",
+      "chapter": "Geçici Maddeler",
+      "section": "G8",
+      "title": "Madde 8-",
+      "content": "Geçici Madde 8 - Madde 8-"
+    },
+    {
+      "provision_ref": "madde8",
+      "section": "8",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 8 - (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde9",
+      "chapter": "Geçici Maddeler",
+      "section": "G9",
+      "title": "Madde 9-",
+      "content": "Geçici Madde 9 - Madde 9-"
+    },
+    {
+      "provision_ref": "madde9",
+      "section": "9",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 9 - (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde10",
+      "chapter": "Geçici Maddeler",
+      "section": "G10",
+      "title": "Madde 10-",
+      "content": "Geçici Madde 10 - Madde 10-"
+    },
+    {
+      "provision_ref": "madde10",
+      "section": "10",
+      "title": "(Mülga: 2/7/2018 – KHK-703/99 md",
+      "content": "Madde 10 - (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde11",
+      "chapter": "Geçici Maddeler",
+      "section": "G11",
+      "title": "Madde 11-",
+      "content": "Geçici Madde 11 - Madde 11-"
+    },
+    {
+      "provision_ref": "madde11",
+      "section": "11",
+      "title": "(Ek: 25/11/2008-5813/4md",
+      "content": "Madde 11 - (Ek: 25/11/2008-5813/4md.)Bu Kanunun 13 üncü maddesininsekizinci fıkrası, bu maddenin yürürlük tarihinden önceki veri ve bilgiler hakkındada uygulanır."
+    },
+    {
+      "provision_ref": "gecici_madde12",
+      "chapter": "Geçici Maddeler",
+      "section": "G12",
+      "title": "Madde 12-",
+      "content": "Geçici Madde 12 - Madde 12-"
+    },
+    {
+      "provision_ref": "madde12",
+      "section": "12",
+      "title": "(Ek : 11/10/2011 - KHK - 662/36 md",
+      "content": "Madde 12 - (Ek : 11/10/2011 - KHK - 662/36 md.) (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde13",
+      "chapter": "Geçici Maddeler",
+      "section": "G13",
+      "title": "Madde 13-",
+      "content": "Geçici Madde 13 - Madde 13-"
+    },
+    {
+      "provision_ref": "madde13",
+      "section": "13",
+      "title": "(Ek : 11/10/2011 - KHK - 662/36 md",
+      "content": "Madde 13 - (Ek : 11/10/2011 - KHK - 662/36 md.) (Mülga: 2/7/2018 – KHK-703/99 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde14",
+      "chapter": "Geçici Maddeler",
+      "section": "G14",
+      "title": "Madde 14-",
+      "content": "Geçici Madde 14 - Madde 14-"
+    },
+    {
+      "provision_ref": "madde14",
+      "section": "14",
+      "title": "(Ek :13/6/2012-6327/42 md",
+      "content": "Madde 14 - (Ek :13/6/2012-6327/42 md.) [13] (Mülga: 2/7/2018– KHK-703/99 md.)Yürürlük"
+    },
+    {
+      "provision_ref": "madde59",
+      "section": "59",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 59 - Bu Kanun yayımı tarihinde yürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde60",
+      "section": "60",
+      "title": "Bu Kanun hükümlerini Bakanlar Kuruluyürütür",
+      "content": "Madde 60 - Bu Kanun hükümlerini Bakanlar Kuruluyürütür.(I) SAYILI LİSTE(Ek: 11/10/2011-662/36 md.)KURUMU       : TÜRKİYE İSTATİSTİK KURUMUTEŞKİLATI    : MERKEZİHDAS EDİLEN KADROLARINSınıfıUnvanıDerecesiSerbest KadroAdediToplamGİHİstatistik Müşaviri133TOPLAM33(I) SAYILI CETVEL(Mülga: 2/7/2018 – KHK-703/99 md.)EK (II) SAYILI CETVEL(Mülga: 2/7/2018 – KHK-703/99 md.)(III) SAYILI CETVEL(Ek: 17/5/2006-5503/1 md.; Mülga: 11/10/2011-KHK-666/1 md.)5429 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATINVEYA ANAYASA MAHKEMESİ TARAFINDAN İPTALEDİLENHÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİGÖSTERİR LİSTEDeğiştiren Kanunun/ KHK’nin/İptalEden Anayasa Mahkemesi Kararının Numarası5429 Sayılı Kanunun Değişen veyaİptal Edilen MaddeleriYürürlüğe Giriş Tarihi550345, 56, III sayılı Cetvel21/5/2006 tarihinden geçerli olmak üzere24/5/200658138, 13, 54, Geçici Madde 115/12/2008KHK/66222, 23, 24, 25, 26, 26/A, 28, 28/A,29, 29/A, 34, 35, 39, 44, 45, 46, 56, Geçici Madde 12, Geçici Madde 13 , (I) sayılı liste, (I) SAYILI CETVEL2/11/2011KHK/66645454931/12/2011tarihinden geçerli olmak üzere 2/11/2011 tarihinde14/1/2012 tarihinden geçerli olmak üzere2/11/201115/1/201263042018/5/2012632725, 26, 26/A, 27, 28, 28/A, 29, 29/A,30, 31, 32, 33, 54, Geçici Madde 14, (I) sayılı Cetvel29/6/20126495462/8/2013Anayasa Mahkemesi’nin 27/12/2012 tarihlive E.: 2011/139, K.: 2012/205 sayılı Kararı4510/10/20136527581/3/2014KHK/7031,2,3,49, 16 ila 25, 34 ila 48, 50 ila 52 ,55 ila 58,Geçici Madde 1 ila Geçici Madde 10,Geçici Madde 12 ila Geçici Madde 14, Ekli (I) ve (II) Sayılı Cetvelleri24/6/2018 tarihinde birlikteyapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanınınandiçerek göreve başladığı tarihte (9/7/2018)7537Ek Madde 127/12/2024[1] 2/7/2018 tarihli 703 sayılı KHK’nin 99 uncumaddesiyle, bu fıkrada yer alan “sağlamak üzere, Türkiye İstatistik Kurumununkuruluş, görev ve yetkilerine ilişkin esasları düzenlemektir” ibaresi“sağlamaktır” şeklinde değiştirilmiştir.[2] 2/7/2018 tarihli 703 sayılı KHK’nin 99 uncumaddesiyle, bu bentte yer alan “Başbakanlık” ibaresi “Cumhurbaşkanlığı”şeklinde değiştirilmiştir.[3] 2/7/2018 tarihli 703 sayılı KHK’nin 99 uncumaddesiyle, bu fıkrada yer alan “Bakanlar Kuruluna” ibaresi“Cumhurbaşkanlığına” şeklinde “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”şeklinde ve “ilgili kuruluşların görüşü alınarak Başkanlığın teklifi üzerineBakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.[4] Bu madde başlığı “Cevap verme yükümlülüğü” iken,25/11/2008 tarihli ve 5813 sayılı Kanunun 1 inci maddesiyle metne işlendiğişekilde değiştirilmiştir.[5] 11/10/2011 tarihli ve 662 sayılı KHK’nin 30 uncumaddesiyle, bu maddenin birinci fıkrasında yer alan “üç” ibaresi “dört”şeklinde, ikinci fıkrasında yer alan “23 üncü maddede sayılan yüksek öğretimkurumlarından mezun olmaları” ibaresi “en az dört yıllık eğitim veren yükseköğretim kurumlarından ya da bunlara denkliği Yükseköğretim Kurulunca kabuledilmiş yurt dışındaki yüksek öğretim kurumlarından mezun olma” şeklinde değiştirilmişve aynı fıkraya “belge almış” ibaresinden sonra gelmek üzere “veya buna denkkabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip”ibaresi eklenmiştir.[6] Bu maddenin başlığı “Ulusal Hesaplar ve EkonomikGöstergeler Daire Başkanlığı” iken 11/10/2011 tarihli ve 662 sayılı KHK’nin 30uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.[7] Bu maddenin başlığı “Sanayi ve İş İstatistikleriDaire Başkanlığı” iken 11/10/2011 tarihli ve 662 sayılı KHK’nin 30 uncumaddesiyle metne işlendiği şekilde değiştirilmiştir.[8] Bu maddenin başlığı “Sosyal İstatistikler DaireBaşkanlığı” iken 11/10/2011 tarihli ve 662 sayılı KHK’nin 30 uncu maddesiylemetne işlendiği şekilde değiştirilmiştir.[9] 2/7/2018 tarihli 703 sayılı KHK’nin 99 uncumaddesiyle, bu fıkrada yer alan ‘’Bu Kanun gereğince’’ ibaresi madde metnindençıkarılmış, ikinci fıkrasında yer alan “Bakanlar Kurulu” ibaresi“Cumhurbaşkanı” şeklinde değiştirilmiştir.[10] 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 incimaddesiyle, bu fıkrada yer alan “bu Kanunun 45 inci maddesinin dördüncü fıkrasıkapsamında verilecek fazla çalışma ücreti, 15-11 inci dereceden aylık alanlariçin tespit edilen tutar kadar ödenir.” ibaresi “ayrıca en yüksek Devlet memuruaylığının (ek gösterge dâhil) %20’si oranında ödeme yapılır ve bu ödeme damgavergisi hariç herhangi bir vergiye tabi tutulmaz.” şeklinde değiştirilmiştir.[11] 2/7/2018 tarihli 703 sayılı KHK’nin 99 uncumaddesiyle, bu fıkrada yer alan “Bu Kanun gereğince geçici” ibaresi “Geçici”şeklinde değiştirilmiştir.[12] 6527 sayılı Kanunun 14 üncü maddesiyle bu maddeninbaşlığı “Yürürlükten kaldırılan ve uygulanmayacak hükümler” iken, metneişlendiği şekilde değiştirilmiştir.[13] Bu maddede yer alan kadrolarla ilgili olarak29/6/2012 tarihli ve 28338 sayılı Resmi Gazete’ye bakınız.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kurum",
+      "definition": "Türkiye İstatistikKurumunu (TÜİK),b) Konsey: İstatistik Konseyini",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Başkanlık",
+      "definition": "Türkiye İstatistikKurumu Başkanlığını,d) Başkan: Türkiye İstatistikKurumu Başkanını",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Kurum ve kuruluşlar",
+      "definition": "Cumhurbaşkanlığıve bakanlıklar ile bunların bağlı, ilgili ve ilişkili kuruluşlarını",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Program",
+      "definition": "Resmî İstatistikProgramını,g) Resmî istatistik: Türkiyeİstatistik Kurumu veya Programda yer alan konularda istatistik üretecek kurum vekuruluşlar tarafından derlenen verilerin",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "İstatistikî birim",
+      "definition": "Yapılansayım veya örnekleme çalışmalarına konu olan, hakkında veri toplanacak gerçek vetüzel kişiler ile kurum ve kuruluşları",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Kitle",
+      "definition": "Sayım veya örneklemeyekonu olan istatistikî birim veya alt birimlerin tamamını,j) Sayım: Kitle özellikleriniortaya koymak üzere ilgili tüm istatistikî birimlerden veri derlenmesini",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Örnekleme",
+      "definition": "Kitleyi oluşturanistatistikî birimler arasından kitleyi temsil etmek üzere belli sayıda birimin seçilmesiişlemini,l) Ulusal kayıt sistemi: Kurumve kuruluşların idarî işlemlerini yürütmek amacıyla kayıt altına aldıkları bilgilerinstandartlaştırılarak tanımlanmış tek bir numara vasıtasıyla ulusal düzeyde ilgilidiğer kurum ve kuruluşların kayıtları ile konuşabilirliğinin sağlandığı veri tabanısistemini",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Alan çalışması",
+      "definition": "İstatistikçalışmalarıyla ilgili her türlü veriyi derlemek üzere istatistikî birim ile görüşülmesi,bilgilerin anket formuna aktarılması ve bu formların Başkanlığa teslimine kadargeçen sürede yapılan çalışmaları",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Veri",
+      "definition": "Anket veya idarî kayıtlar yoluyla elde edilen nicel ve/veya nitelistatistikî bilgileri,o) Bireysel veri: Hakkındabilgi toplanan istatistikî birimlerin",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Doğrudan tanınma",
+      "definition": "Bir istatistikîbirimin kimliğinin adı, adresi veya resmen verilmiş ve genel olarak bilinen birkimlik numarası ile ortaya çıkarılmasını",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Dolaylı tanınma",
+      "definition": "Bir istatistikîbirimin kimliğinin, doğrudan tanımlamada yer almayan diğer özelliklerinden faydalanılarakortaya çıkarılmasını",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Gizli veri",
+      "definition": "İstatistikbirimin doğrudan veya dolaylı bir şekilde özellikleri ile birlikte tanınabilmesineve bu şekilde bireysel bilgilerin açığa çıkarılmasına imkân sağlayan bireysel veyatablo hâlinde saklı tutulan veriyi,t) İstatistik amaçlı kullanım:İstatistik birimlerden toplanan verilerin sadece istatistikî tabloların oluşturulmasıve istatistikî analizlerin yapılması için kullanımını",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "Dağıtım",
+      "definition": "Kullanılan şekil ve araçlara bakılmaksızın, istatistikî bilgilerinkullanıcılara sunulmasını",
+      "source_provision": "madde2"
+    },
+    {
+      "term": "SAYILI LİSTE(Ek",
+      "definition": "11/10/2011-662/36 md.)KURUMU       : TÜRKİYE İSTATİSTİK KURUMUTEŞKİLATI    : MERKEZİHDAS EDİLEN KADROLARINSınıfıUnvanıDerecesiSerbest KadroAdediToplamGİHİstatistik Müşaviri133TOPLAM33(I) SAYILI CETVEL(Mülga: 2/7/2018 – KHK-703/99 md.)EK (II) SAYILI CETVEL(Mülga: 2/7/2018 – KHK-703/99 md.)(III) SAYILI CETVEL(Ek: 17/5/2006-5503/1 md.; Mülga: 11/10/2011-KHK-666/1 md.)5429 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATINVEYA ANAYASA MAHKEMESİ TARAFINDAN İPTALEDİLENHÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİGÖSTERİR LİSTEDeğiştiren Kanunun/ KHK’nin/İptalEden Anayasa Mahkemesi Kararının Numarası5429 Sayılı Kanunun Değişen veyaİptal Edilen MaddeleriYürürlüğe Giriş Tarihi550345",
+      "source_provision": "madde60"
+    }
+  ]
+}

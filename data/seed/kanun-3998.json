@@ -1,0 +1,26 @@
+{
+  "id": "kanun-3998",
+  "type": "statute",
+  "title": "MEZARLIKLARIN KORUNMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "MEZARLIKLARIN KORUNMASI HAKKINDA KANUN",
+  "status": "in_force",
+  "issued_date": "1994-06-13",
+  "in_force_date": "1994-06-13",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3998&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Devletmezarlığı, Vakıflar Genel Müdürlüğü yönetimindeki tarihi mezarlıklar ile şehitliklerve cemaatlere ait özel statüsü bulunan mezarlıklar hariç, umumi mezarlıkların mülkiyetibelediye bulunan yerler",
+      "content": "Madde 1 - Devletmezarlığı, Vakıflar Genel Müdürlüğü yönetimindeki tarihi mezarlıklar ile şehitliklerve cemaatlere ait özel statüsü bulunan mezarlıklar hariç, umumi mezarlıkların mülkiyetibelediye bulunan yerlerde belediyelere, köylerde köy tüzelkişiliklerine aittir.Bu yerler satılamaz ve kazandırıcı zamanaşımı zilyedliği yolu ile iktisap edilemez.KorunmaMadde2 – Mezarlıklarve şehitlikler ile mezarlar bozulamaz, tahrip edilemez ve kirletilemez. Bu yerlerimar mevzuatı ile veya başka herhangi bir şekilde park, bahçe, meydan, otopark,çocuk parkı, yeşil alan gibi sahalar olarak ayrılamaz ve asli gayesi dışında hiçbir amaç için kullanılamaz. Yol geçme zorunluluğu bulunduğu Çevre ve ŞehircilikBakanlığınca kabul edilen mezarlıklar veya bölümleri bu hükmün dışındadır. [1]İnşa, Bakım ve Onarım"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Belediyelerile köy muhtarlıkları, mezarlıkların etrafını duvarla çevirmek, ağaçlandırıp çiçeklendirmekve gerekli her türlü bakım ve onarımı yaparak korumak zorundadırlar",
+      "content": "Madde 3 - Belediyelerile köy muhtarlıkları, mezarlıkların etrafını duvarla çevirmek, ağaçlandırıp çiçeklendirmekve gerekli her türlü bakım ve onarımı yaparak korumak zorundadırlar.Belediyelerve köy muhtarlıkları birinci fıkrada belirtilen hizmetleri yerine getirebilmek içingerekli ödeneği her yıl bütçelerine koyarlar. Ayrıca İl Özel İdareleri Bütçelerinede köy mezarlıklarına sarfedilmek üzere bu maksatla ödenek konur ve bu hizmetlerimuntazam olarak yürütebilmek için yeterli personeli görevlendirirler. Belediye veköy bütçelerini tasdike yetkili makamlar gerekli ödeneklerin bu idarelerin bütçelerinekonulup konulmadığını araştırırlar.YürürlükMadde4 – BuKanun yayımı tarihinde yürürlüğe girer.YürütmeMadde5 – BuKanun hükümlerini Bakanlar Kurulu yürütür.3998SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYAANAYASAMAHKEMESİ İPTAL KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR LİSTEDeğiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa MahkemesiKararının Numarası3998 Sayılı Kanunun Değişen veya İptal EdilenMaddeleriYürürlüğe Giriş Tarihi7153210/12/2018[1] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 incimaddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik”şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "kanun-2524",
+  "type": "statute",
+  "title": "ANITKABİR HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN KANUN",
+  "title_en": "",
+  "short_name": "ANITKABİR HİZMETLERİNİN YÜRÜTÜLMESİNE...",
+  "status": "in_force",
+  "issued_date": "1981-09-15",
+  "in_force_date": "1981-09-15",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2524&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Ankara'daAtatürk'ün aziz nâşının defnedildiği Anıtkabir'in ve buradaki Atatürk'ün hayatve hatırası ile ilgili müze, kütüphane ve diğer tesislerin her türlühizmetlerinin yürütülmesinden Genelkurmay Baş",
+      "content": "Madde 1 - Ankara'daAtatürk'ün aziz nâşının defnedildiği Anıtkabir'in ve buradaki Atatürk'ün hayatve hatırası ile ilgili müze, kütüphane ve diğer tesislerin her türlühizmetlerinin yürütülmesinden Genelkurmay Başkanlığı sorumludur.Madde2 – Anıtkabirhizmetleri için kurulacak komutanlığın kuruluş, kadro ve görevleri ileAnıtkabir'deki merasimlerin şekli ve ifası, alınacak emniyet tedbirleri, müze,kütüphane ve diğer tesislerin idaresi, mali konular, bakımı, onarımı ve benzerihususlar bu Kanunun yayımını izleyen üç ay içerisinde hazırlanacak biryönetmelikle düzenlenir.Madde3 – Anıtkabir'inher türlü giderleri Milli Savunma Bakanlığı Bütçesinden karşılanır.Madde4 – 6780sayılı Anıtkabir'in Her Türlü Hizmetlerinin Maarif Vekaletince İfasına DairKanun yürürlükten kaldırılmıştır.Geçici"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Anıtkabir Müdürlüğünde görevli personelden gerekligörülenler, tüm özlük ve kazanılmış haklarının muhafazası kaydı ve kadrolarıile Anıtkabir hizmetleri için kurulacak komutanlığın kadrolarına atanırlar",
+      "content": "Madde 1 - Anıtkabir Müdürlüğünde görevli personelden gerekligörülenler, tüm özlük ve kazanılmış haklarının muhafazası kaydı ve kadrolarıile Anıtkabir hizmetleri için kurulacak komutanlığın kadrolarına atanırlar,artan personel Kültür Bakanlığınca uygun görülecek diğer görevlerden istihdamedilirler.2nci maddede yer alan yönetmelik yürürlüğe konuncaya kadar Anıtkabir Müdürlüğüpersoneli mevcut statü içerisinde görevlerine devam ederler.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Anıtkabir Müdürlüğünün tüm araç ve gereçleriGenelkurmay Başkanlığına devredilmiştir",
+      "content": "Madde 2 - Anıtkabir Müdürlüğünün tüm araç ve gereçleriGenelkurmay Başkanlığına devredilmiştir.Geçici"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Anıtkabir giderleri için Kültür Bakanlığının 1981 YılıBütçesine konulmuş bulunan ödeneğin Milli Savunma Bakanlığı bütçesineaktarılması için gerekli işlemleri yapmaya Maliye Bakanı yetkilidir",
+      "content": "Madde 3 - Anıtkabir giderleri için Kültür Bakanlığının 1981 YılıBütçesine konulmuş bulunan ödeneğin Milli Savunma Bakanlığı bütçesineaktarılması için gerekli işlemleri yapmaya Maliye Bakanı yetkilidir.Madde5 – BuKanun yayımı tarihinde yürürlüğe girer.Madde6 – BuKanun hükümleri Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

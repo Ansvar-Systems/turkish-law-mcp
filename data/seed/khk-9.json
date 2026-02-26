@@ -1,0 +1,26 @@
+{
+  "id": "khk-9",
+  "type": "statute",
+  "title": "657 SAYILI DEVLET MEMURLARI KANUNUNUN 1327 SAYILI KANUNLA VE 6,7,8 SAYILI KANUN HÜKMÜNDE KARARNAMELERLE DEĞİŞİK BAZI MADDELERİNİN DEĞİŞTİRİLMESİNE DAİR KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "657 SAYILI DEVLET MEMURLARI KANUNUNUN...",
+  "status": "in_force",
+  "issued_date": "1974-01-19",
+  "in_force_date": "1974-01-19",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kararnamenin yürürlük tarihinde 16 ncı derecedebulunanlar 15 inci dereceye yükseltilmiş sayılırlar ve bu gibilerin aylıkları,haklarında genel hükümlere göre kademe ilerlemesi uygulanıncaya kadar, 1",
+      "content": "Madde 1 - Bu Kararnamenin yürürlük tarihinde 16 ncı derecedebulunanlar 15 inci dereceye yükseltilmiş sayılırlar ve bu gibilerin aylıkları,haklarında genel hükümlere göre kademe ilerlemesi uygulanıncaya kadar, 15 inciderecenin ilk kademesi üzerinden ödenir. 16 ncı derece kadrolar BütçeKanunlarının intibak düzeltmelerine ilişkin hükümlerine göre Bakanlar Kuruluncakarşılığı olan 15 inci derece kadroların ihdası suretiyle iptal edilir. Buişlemler sırasında boş bulunan 16 ncı derecedeki diğer kadrolar, ilgilikurumlarca, 15 inci derece kadrolar olarak değiştirilmek üzere bu Kararnameninyürürlük tarihinden itibaren 6 ay içinde Maliye Bakanlığına ve Devlet PersonelDairesine gönderilir. Bu tarihe kadar işlem görmeyen kadrolar iptal edilmişsayılır.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "23/12/1972 tarihli ve 7/5519 sayılı Bakanlar KuruluKararı ile tespit olunan katsayılarında değişiklik yapılıncaya kadar, sürekligörevle yurt dışında bulunan memurların aylıklarının hesabında, 657 sayı",
+      "content": "Madde 2 - 23/12/1972 tarihli ve 7/5519 sayılı Bakanlar KuruluKararı ile tespit olunan katsayılarında değişiklik yapılıncaya kadar, sürekligörevle yurt dışında bulunan memurların aylıklarının hesabında, 657 sayılıDevlet Memurları Kanununun 1327 sayılı Kanunun 14 üncü maddesi ile değişik 43üncü maddesi ile düzenlenen gösterge tablosu esas alınır.Madde7 – BuKararnamenin 1, 2, 4, 5, 6 ve geçici 1 ve 2 nci maddesi hükümleri 1/2/1974,  3üncü maddesi hükmü 1/3/1974 tarihinde yürürlüğe girer.Madde8 –Bu Kararname hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

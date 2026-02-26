@@ -1,0 +1,20 @@
+{
+  "id": "kanun-3055",
+  "type": "statute",
+  "title": "CUMHURBAŞKANI, CUMHURBAŞKANI YARDIMCILARI VE BAKANLARIN ÖDENEK VE YOLLUKLARI İLE TEMSİL ÖDENEKLERİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "CUMHURBAŞKANI, CUMHURBAŞKANI YARDIMCI...",
+  "status": "in_force",
+  "issued_date": "1984-10-16",
+  "in_force_date": "1984-10-16",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3055&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Ek:27/3/2025-7546/12 md",
+      "content": "Madde 1 - (Ek:27/3/2025-7546/12 md.)Cumhurbaşkanına,Türkiye Büyük Millet Meclisi Başkanına mali ve sosyal haklar kapsamında yapılanher türlü ödemeler toplamının %5 fazlası aynı usul ve esaslar çerçevesindeödenek olarak verilir.Madde6 – BuKanun 1 Ocak 1985 tarihinde yürürlüğe girer.Madde7 – BuKanun hükümlerini Bakanlar Kurulu yürütür.3055 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR TABLODeğiştiren Kanunun/ KHK’nin veyaİptal Eden Anayasa Mahkemesi Kararının Numarası3055 Sayılı Kanunun Değişen veyaİptal Edilen MaddeleriYürürlüğe Giriş TarihiKHK/42011/1/1991KHK/464415/11/1991KHK/703Kanunun Adı, 1, 2, 3, 424/6/2018tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığıseçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte(9/7/2018)7196424/12/20197546Kanunun Adı, Ek Madde 130/3/2025[1] Bu Kanunun adı “BAŞBAKAN VE BAKANLARIN TEMSİLÖDENEKLERİ İLE DIŞARIDAN ATANAN BAKANLARIN ÖDENEK VE YOLLUKLARI HAKKINDA KANUN”iken 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 191 incimaddesiyle metne işlendiği şekilde değiştirilmiştir.[2] Bu Kanunun Adı “ CUMHURBAŞKANIYARDIMCILARI VE BAKANLARIN ÖDENEK VE YOLLUKLARI İLE TEMSİL ÖDENEKLERİ HAKKINDAKANUN ” iken 27/3/2025 tarihli ve 7546 sayılı Kanunun 12 nci maddesiyle metneişlendiği şekilde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

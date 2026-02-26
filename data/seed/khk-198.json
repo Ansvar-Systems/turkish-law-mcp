@@ -1,0 +1,20 @@
+{
+  "id": "khk-198",
+  "type": "statute",
+  "title": "EMNİYET GENEL MÜDÜRLÜĞÜ İÇİN KADRO İHDASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "EMNİYET GENEL MÜDÜRLÜĞÜ İÇİN KADRO İH...",
+  "status": "in_force",
+  "issued_date": "1984-05-08",
+  "in_force_date": "1984-05-08",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=198&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "EmniyetGenel Müdürlüğünün ihtiyacı için ekli cetvelde gösterilen kadrolar ihdasedilmiştir",
+      "content": "Madde 1 - EmniyetGenel Müdürlüğünün ihtiyacı için ekli cetvelde gösterilen kadrolar ihdasedilmiştir.Madde2 – BuKanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.Madde3 – BuKanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.EMNİYETGENEL MÜDÜRLÜĞÜ İÇİN İHDAS EDİLEN KADROLARUnvanıSınıfıDerecesiAdediKomiserEmniyet Hizmetleri52000Komiser Muavini\"            \"5500Polis Memuru\"            \"1115733BaşhekimSağlık Hizmetleri124Uzman Doktor veya Dai. Tabibi\"            \"120Uzman Doktor veya Dai. Tabibi\"            \"225Uzman Doktor veya Dai. Tabibi\"            \"330Uzman Doktor veya Dai. Tabibi\"            \"435Doktor\"            \"5142Diş Tabibi\"            \"562Psikolog\"            \"51Diyetisyen\"            \"51Sosyal Hizmetler Uzmanı\"            \"51Başhemşire\"            \"52Hemşire\"            \"515Sağlık Memuru\"            \"\"5Laborant\"            \"52Başhemşire Yardımcısı\"            \"61Hemşire\"            \"620SağlıkMemuru\"            \"65Laborant\"            \"62HemşireSağlıkHizmetleri725SağlıkMemuru\"            \"75Laborant\"            \"72Hemşire\"            \"830SağlıkMemuru\"            \"85Laborant\"            \"84SağlıkTeknisyeni\"            \"85Hemşire\"            \"958SağlıkMemuru\"            \"910Laborant\"            \"98SağlıkTeknisyeni\"            \"95Hemşire\"            \"1086SağlıkMemuru\"            \"1020SağlıkTeknisyeni\"            \"1019SağlıkMemuru\"            \"1112EczacıKalfası\"            \"112HastabakıcıYardımcıSağlık Hiz.1547HastaneMüdürüGenelİdare Hiz.151HastaneMüdür Yardımcısı\"            \"61Memur\"            \"65Spiker\"            \"63Programcı\"            \"63Kameraman\"            \"75Memur\"            \"75Spiker\"            \"83Memur\"            \"815BİMOperatörü\"            \"920SantralOperatörü\"            \"95BİMOperatörü\"            \"1035SantralOperatörü\"            \"1010BİMOperatörü\"            \"1145SantralOperatörü\"            \"1115TeknisyenTeknikHiz.11100HademeYardımcıHiz.15750Toplam20000$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

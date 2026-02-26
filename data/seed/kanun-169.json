@@ -1,0 +1,20 @@
+{
+  "id": "kanun-169",
+  "type": "statute",
+  "title": "SİLAHLI KUVVETLER YAKACAK, AYDINLATMA, ISITMA VE SOĞUTMA KANUNU",
+  "title_en": "",
+  "short_name": "SİLAHLI KUVVETLER YAKACAK, AYDINLATMA...",
+  "status": "in_force",
+  "issued_date": "1963-02-09",
+  "in_force_date": "1963-02-09",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=169&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Bukanunun hükümlerini Milli Savunma, İçişleri ve Maliye Bakanları yürütür",
+      "content": "Madde 5 - Bukanunun hükümlerini Milli Savunma, İçişleri ve Maliye Bakanları yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

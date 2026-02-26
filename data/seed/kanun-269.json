@@ -1,0 +1,20 @@
+{
+  "id": "kanun-269",
+  "type": "statute",
+  "title": "TAHSİS EDİLDİKLERİ GAYELERDE KULLANILMALARINA İMKAN VEYA LÜZUM KALMAYAN HARB SEFİNELERİNİN SATILMASINA YETKİ VERİLMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "TAHSİS EDİLDİKLERİ GAYELERDE KULLANIL...",
+  "status": "in_force",
+  "issued_date": "1963-07-17",
+  "in_force_date": "1963-07-17",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=269&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(2/12/1969 - 1195 sayılı kanunun numarasız ek maddesi olupteselsül için numaralandırılmıştır",
+      "content": "Madde 1 - (2/12/1969 - 1195 sayılı kanunun numarasız ek maddesi olupteselsül için numaralandırılmıştır.)Bugemilerden biri veya bir kısmı tahmin edilen bedeli karşılığında; Maliye veMilli Savunma Bakanlıklarınca teşkil edilecek bir kurul tarafından pazarlık vedeğer takdiri yapılmak suretiyle yabancı memleketlerden tedarik edilecek birgemi ile değiştirilebilir.Budeğiştirme için üste para vermek gerektiğinde, 3 üncü maddeye göre, MilliSavunma Bakanlığı Bütçesinde açılan özel bölümden, yetmediği takdirde ilgilidiğer tertipten tediye yapılabilir.Madde5 – BuKanun yayımı tarihinde yürürlüğe girer.Madde6 –Bu Kanunun hükümlerini Milli Savunma ve Maliye Bakanları yürütür.269 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞ TARİHİNİGÖSTERİR LİSTEKanunNo.Farklı TarihteYürürlüğe Giren MaddelerYürürlüğe GirişTarihi1195Ek Madde 19/12/19692107110/9/1977294033/11/1983$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

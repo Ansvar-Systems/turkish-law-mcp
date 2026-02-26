@@ -1,0 +1,38 @@
+{
+  "id": "cbk-123",
+  "type": "statute",
+  "title": "BAZI KAMU KURUM VE KURULUŞLARINA KADRO İHDAS EDİLMESİ VE İHDAS EDİLEN KADROLARA EMSAL BELİRLENMESİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 123)",
+  "title_en": "",
+  "short_name": "BAZI KAMU KURUM VE KURULUŞLARINA KADR...",
+  "status": "in_force",
+  "issued_date": "2023-02-15",
+  "in_force_date": "2023-02-15",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=123&MevzuatTur=19&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 2 sayılı Genel Kadrove Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin eki (I) sayılı cetvelinilgili bölümlerine eklenmiştir",
+      "content": "Madde 1 - Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 2 sayılı Genel Kadrove Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin eki (I) sayılı cetvelinilgili bölümlerine eklenmiştir."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "(İptalmadde ve ekli liste: Anayasa Mahkemesinin 4/5/2023 Tarihli ve E: 2023/72, K:2023/75 Sayılı Kararı ile",
+      "content": "Madde 2 - (İptalmadde ve ekli liste: Anayasa Mahkemesinin 4/5/2023 Tarihli ve E: 2023/72, K:2023/75 Sayılı Kararı ile.) [1]"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 3 - Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür",
+      "content": "Madde 4 - Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür.123 SAYILI CUMHURBAŞKANLIĞIKARARNAMESİNDE DEĞİŞİKLİK YAPAN CUMHURBAŞKANLIĞI KARARNAMELERİ İLE ANAYASAMAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİRTABLODeğiştiren Cumhurbaşkanlığı Kararnamesinin/Anayasa Mahkemesi Kararının1 sayılıCumhurbaşkanlığı Kararnamesinin Değişen MaddeleriDeğişikliğinYürürlüğe Giriş TarihiSayısıResmî Gazete TarihiAnayasaMahkemesinin 4/5/2023 Tarihli ve E: 2023/72, K: 2023/75 Sayılı Kararı26/07/20232,(2) sayılı listeYayımlanmasındanbaşlayarak dokuz ay sonra (26/4/2024)[1]Bumaddede belirtilen ekli listeyi görmek için bu Cumhurbaşkanlığı Kararnamesininyayımlandığı Resmî Gazete’ye bakınız.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

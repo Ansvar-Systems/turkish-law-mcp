@@ -1,0 +1,32 @@
+{
+  "id": "khk-504",
+  "type": "statute",
+  "title": "YEDİ İLDE BÜYÜKŞEHİR BELEDİYESİ KURULMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "YEDİ İLDE BÜYÜKŞEHİR BELEDİYESİ KURUL...",
+  "status": "in_force",
+  "issued_date": "1993-09-09",
+  "in_force_date": "1993-09-09",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=504&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Alt kademe belediyeleri kuruluncaya kadar bubelediyelere ait görev, yetki ve sorumluluklar büyükşehir belediyeleritarafından yerine getirilir ve bu süre içerisinde büyükşehir belediyelerininorganları ",
+      "content": "Madde 1 - Alt kademe belediyeleri kuruluncaya kadar bubelediyelere ait görev, yetki ve sorumluluklar büyükşehir belediyeleritarafından yerine getirilir ve bu süre içerisinde büyükşehir belediyelerininorganları 1580 sayılı Kanuna göre teşekkül eder.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu belediyelerde halen görevde bulunan BelediyeBaşkanı, Belediye Meclisi ve Belediye Encümeni, ilk genel mahalli idareseçimine kadar Büyükşehir Belediye Başkanı, Belediye Meclisi ve BelediyeEncümeni o",
+      "content": "Madde 2 - Bu belediyelerde halen görevde bulunan BelediyeBaşkanı, Belediye Meclisi ve Belediye Encümeni, ilk genel mahalli idareseçimine kadar Büyükşehir Belediye Başkanı, Belediye Meclisi ve BelediyeEncümeni olarak 3030 sayılı Kanunda yazılı görev ve yetkilere sahiptirler.Geçici"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "1 inci maddede adı geçen belediyelere verilen avanslar1994 yılının Haziran ayından itibaren Maliye Bakanlığınca belirlenecek esaslarçerçevesinde taksitler halinde mahsup edilir",
+      "content": "Madde 3 - 1 inci maddede adı geçen belediyelere verilen avanslar1994 yılının Haziran ayından itibaren Maliye Bakanlığınca belirlenecek esaslarçerçevesinde taksitler halinde mahsup edilir.Madde2 – BuKanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.Madde3 – BuKanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

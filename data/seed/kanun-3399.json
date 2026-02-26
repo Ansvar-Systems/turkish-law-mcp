@@ -1,0 +1,20 @@
+{
+  "id": "kanun-3399",
+  "type": "statute",
+  "title": "KONYA İLİ MERKEZİNDE KARATAY, SELÇUKLU VE MERAM ADIYLA ÜÇ İLÇE KURULMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "KONYA İLİ MERKEZİNDE KARATAY, SELÇUKL...",
+  "status": "in_force",
+  "issued_date": "1987-06-27",
+  "in_force_date": "1987-06-27",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3399&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Karatay, Selçuklu ve Meram Belediye Seçimleri Türkiyedüzeyinde yapılacak ilk genel mahalli idareler seçimleriyle birlikte yapılır",
+      "content": "Madde 1 - Karatay, Selçuklu ve Meram Belediye Seçimleri Türkiyedüzeyinde yapılacak ilk genel mahalli idareler seçimleriyle birlikte yapılır.Bu süre içinde, Büyükşehir Belediyelerinin yönetimihakkında Kanun Hükmünde Kararnamenin değiştirilerek kabulü hakkında 3030 sayılıKanunda yazılı Büyükşehir ve İlçe Belediyelerine ait yetki ve görevlerin tümüKonya Büyükşehir Belediyesi tarafından yürütülür.KonyaBelediyesinde halen görevde bulunan Belediye Başkanı, Belediye Meclisi veBelediye Encümeni ilk genel mahalli idare seçimine kadar Büyükşehir BelediyeBaşkanı, Belediye Meclisi ve Belediye Encümeni olarak 3030 sayılı Kanundayazılı görev ve yetkilere sahiptir.Madde4 – BuKanunun idari hükümleri yayımı tarihinde, mali hükümleri 1.1.1988 tarihindeyürürlüğe girer.Madde5 – BuKanun hükümlerini Bakanlar Kurulu yürütür.3399SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTEKanunNo.FarklıTarihte Yürürlüğe Giren MaddelerYürürlüğegiriş tarihi3495117/11/1988[1] Bu Kanunun ekindeki listeler aynı tarihli ResmiGazete'de yayımlanmıştır.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

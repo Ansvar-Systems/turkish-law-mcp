@@ -1,0 +1,32 @@
+{
+  "id": "kanun-3842",
+  "type": "statute",
+  "title": "CEZA MUHAKEMELERİ USULÜ KANUNU İLE DEVLET GÜVENLİK MAHKEMELERİNİN KURULUŞ VE YARGILAMA USULLERİ HAKKINDA KANUNUN BAZI MADDELERİNDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "title_en": "",
+  "short_name": "CEZA MUHAKEMELERİ USULÜ KANUNU İLE DE...",
+  "status": "in_force",
+  "issued_date": "1992-12-01",
+  "in_force_date": "1992-12-01",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3842&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunun yürürlüğe girdiği tarihe kadar ağır cezamahkemesinin birden ziyade dairelerinin bulunduğu yerlerden Ceza MuhakemeleriUsulü Kanununun 26 ve 299 uncu maddelerine göre en yakın yer olarak kend",
+      "content": "Madde 1 - Bu Kanunun yürürlüğe girdiği tarihe kadar ağır cezamahkemesinin birden ziyade dairelerinin bulunduğu yerlerden Ceza MuhakemeleriUsulü Kanununun 26 ve 299 uncu maddelerine göre en yakın yer olarak kendilerineiş intikal etmiş bulunan ağır ceza mahkemeleri veya mahkeme başkanları bu işlerhakkında yetkisizlik kararı veremezler.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanunun yürürlüğe girdiği tarihte, CezaMuhakemeleri Usulü Kanununun 110 uncu maddesinin birinci fıkrasında belirtilensüreler dolmuş veya sürelerin dolmasına bir aydan az zaman kalmış ise Kanununyür",
+      "content": "Madde 2 - Bu Kanunun yürürlüğe girdiği tarihte, CezaMuhakemeleri Usulü Kanununun 110 uncu maddesinin birinci fıkrasında belirtilensüreler dolmuş veya sürelerin dolmasına bir aydan az zaman kalmış ise Kanununyürürlük tarihinden itibaren hazırlık evrakı bir ay, dava dosyaları üç ay içindeele alınarak 110 uncu maddeye göre gerekli karar verilir.Geçici"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "1992 yılı için 146 ncı maddenin ikinci fıkrasına göreTürkiye Barolar Birliğine aktarılacak ödenek, 1991 yılı bütçesi esas alınarakhesaplanır ve bu Kanunun yürürlüğe girdiği tarihten itibaren en geç ik",
+      "content": "Madde 3 - 1992 yılı için 146 ncı maddenin ikinci fıkrasına göreTürkiye Barolar Birliğine aktarılacak ödenek, 1991 yılı bütçesi esas alınarakhesaplanır ve bu Kanunun yürürlüğe girdiği tarihten itibaren en geç iki ayiçinde Türkiye Barolar Birliğine aktarılır.Madde32 – Bu Kanun yayımı tarihinde yürürlüğe girer.Madde33 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.3842SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTEKanunNo.FarklıTarihte Yürürlüğe Giren MaddelerYürürlüğeGiriş Tarihi422930,3112/3/199749283119/7/2003$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

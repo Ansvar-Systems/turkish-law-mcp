@@ -1,0 +1,33 @@
+{
+  "id": "kanun-3796",
+  "type": "statute",
+  "title": "İSTANBUL KENTİNDE YAPILACAK OLİMPİYAT OYUNLARI KANUNU",
+  "title_en": "",
+  "short_name": "İSTANBUL KENTİNDE YAPILACAK OLİMPİYAT...",
+  "status": "in_force",
+  "issued_date": "1992-05-05",
+  "in_force_date": "1992-05-05",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3796&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "3 üncü ve 22 nci maddelerde yer alan kurullardagörevli bulunan üyeler bu maddelerde belirtilen asli görevlerinden ayrılmalarıhalinde olimpiyat oyunları onur üyesi olurlar",
+      "content": "Madde 1 - 3 üncü ve 22 nci maddelerde yer alan kurullardagörevli bulunan üyeler bu maddelerde belirtilen asli görevlerinden ayrılmalarıhalinde olimpiyat oyunları onur üyesi olurlar."
+    },
+    {
+      "provision_ref": "gecici_madde2",
+      "chapter": "Geçici Maddeler",
+      "section": "G2",
+      "title": "Madde 2 –",
+      "content": "Geçici Madde 2 - Madde 2 –"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "İstanbulOlimpiyat Oyunları bittikten ve 15 inci maddede öngörülen tasfiye işlemleritamamlandıktan sonra bu Kanun yürürlükten kalkar",
+      "content": "Madde 2 - İstanbulOlimpiyat Oyunları bittikten ve 15 inci maddede öngörülen tasfiye işlemleritamamlandıktan sonra bu Kanun yürürlükten kalkar.Madde23 – Bu Kanun yayımı tarihinde yürürlüğe girer.Madde24 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.3796 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR TABLODeğiştiren Kanunun/ KHK’nin veyaİptal Eden Anayasa Mahkemesi Kararının Numarası3796 Sayılı KanununDeğişen veya İptal Edilen MaddeleriYürürlüğe Giriş Tarihi52721124/12/200453981121/7/200556021121/3/2007 tarihini izleyenaybaşındaKHK/6613, 5, 7, 20, 222/11/2011KHK/7033, 9, 11, 16, 20, 2224/6/2018 tarihindebirlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimlerisonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte(9/7/2018)[1] 2/7/2018 tarihli ve 703 sayılı Kanun HükmündeKararnamenin 194 üncü maddesiyle bu maddenin birinci fıkrasında yer alan “birüye, Gençlik ve Spor Bakanlığı Müsteşarı” ibaresi “üç yönetici üye” şeklinde,dördüncü fıkrasında yer alan “Bakanlığı Müsteşarı veya Bakan” ibaresi “Bakanı”şeklinde değiştirilmiş ve aynı maddenin birinci fıkrasında yer alan “Spor GenelMüdürü,” ibaresi madde metninden çıkarılmıştır.[2] 2/7/2018 tarihli ve 703 sayılı Kanun HükmündeKararnamenin 194 üncü maddesiyle bu fıkrada yer alan yer alan “Bakanlar Kurulu”ibaresi “Cumhurbaşkanı” ve “Genel Müdürlüğüne” ibaresi “Bakanlığına” şeklindedeğiştirilmiştir.[3] 2/7/2018 tarihli ve 703 sayılı Kanun HükmündeKararnamenin 194 üncü maddesiyle bu fıkrada yer alan yer alan “Bakanlar Kurulu”ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.[4] 2/7/2018 tarihli ve 703 sayılı Kanun HükmündeKararnamenin 194 üncü maddesiyle bu maddenin birinci fıkrasında yer alan“Genel” ibaresi “İl” ve ikinci fıkrasında yer alan “Genel Müdürlüğü” ibaresi“Bakanlığı” şeklinde değiştirilmiştir.[5] 2/7/2018 tarihli ve 703 sayılı Kanun HükmündeKararnamenin 194 üncü maddesiyle bu fıkrada yer alan “Bakanlar Kurulu kararıile” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.[6] 2/7/2018 tarihli ve 703 sayılı Kanun HükmündeKararnamenin 194 üncü maddesiyle bu fıkrada yer alan “Bakanlığı Müsteşarı”ibaresi “Bakanın görevlendireceği iki yönetici üye” şeklinde değiştirilmiş veaynı fıkrada yer alan “Spor Genel Müdürü,” ibaresi madde metnindençıkarılmıştır.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

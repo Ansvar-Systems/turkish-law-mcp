@@ -1,0 +1,232 @@
+{
+  "id": "cbk-49",
+  "type": "statute",
+  "title": "COĞRAFİ BİLGİ SİSTEMLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 49)",
+  "title_en": "",
+  "short_name": "COĞRAFİ BİLGİ SİSTEMLERİ HAKKINDA CUM...",
+  "status": "in_force",
+  "issued_date": "2019-11-07",
+  "in_force_date": "2019-11-07",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=49&MevzuatTur=19&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu CumhurbaşkanlığıKararnamesinin amacı coğrafi bilgi sistemleri ile Ulusal Coğrafi Bilgi Sistemive altyapısına ilişkin; kamu kurum ve kuruluşları arasında koordinasyonunsağlanması, hedef ve stratejil",
+      "content": "Madde 1 - (1) Bu CumhurbaşkanlığıKararnamesinin amacı coğrafi bilgi sistemleri ile Ulusal Coğrafi Bilgi Sistemive altyapısına ilişkin; kamu kurum ve kuruluşları arasında koordinasyonunsağlanması, hedef ve stratejilerin oluşturulması, coğrafi veri temaları içindeyer alan coğrafi veri ve bilginin üretilmesi ve güncelliğinin sağlanması, yönetilmesi,kullanılması, erişimi, güvenliğinin sağlanması, paylaşılması ve dağıtımınayönelik usul, esas ve standartlar ile bu Cumhurbaşkanlığı Kararnamesi kapsamındaoluşturulan kurulların, kamu kurum ve kuruluşlarının, gerçek ve tüzel kişileringörev, yetki ve sorumluluklarının belirlenmesidir.Kapsam"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesi, 1 inci maddede belirtilen amaçlarlasınırlı olmak üzere, kamu kurum ve kuruluşları ile gerçek ve tüzel kişileri vebunların faaliyetlerini kapsar",
+      "content": "Madde 2 - (1) Bu Cumhurbaşkanlığı Kararnamesi, 1 inci maddede belirtilen amaçlarlasınırlı olmak üzere, kamu kurum ve kuruluşları ile gerçek ve tüzel kişileri vebunların faaliyetlerini kapsar.(2) Ulusal Coğrafi VeriSorumluluk Matrisinde yer almayan coğrafi veriler bu CumhurbaşkanlığıKararnamesinin kapsamı dışındadır.Tanımlar"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesinin uygulanmasında; [1]a) Ağ hizmetleri:Elektronik ortamda veri erişimi, paylaşımı ve kullanımı için coğrafi veri veveri bilgisinin aranması, görüntülenmesi, dönüştürülm",
+      "content": "Madde 3 - (1) Bu Cumhurbaşkanlığı Kararnamesinin uygulanmasında; [1]a) Ağ hizmetleri:Elektronik ortamda veri erişimi, paylaşımı ve kullanımı için coğrafi veri veveri bilgisinin aranması, görüntülenmesi, dönüştürülmesi, indirilmesi vebedelli veya bedelsiz veri paylaşımına imkân sağlayan hizmetleri,b) Bakanlık: Çevre,Şehircilik ve İklim Değişikliği Bakanlığını,c) Birlikteçalışabilirlik: Farklı işlevsel birimler arasında, bu birimlerin benzersizkarakteristiği hakkında bilgi sahibi olmadan ya da en az bilgiyle, iletişimkurabilme, program yürütebilme, veri gönderebilme ve alabilme yeteneğini,ç) Coğrafi bilgi:Öznitelik bilgisi ve topolojik bilgiyi içeren nitelik kazandırılmış coğrafiveriyi,d) Coğrafi bilgi sistemi:Her türlü coğrafi verinin; üretilmesi, temini, depolanması, işlenmesi,yönetilmesi, analiz edilmesi, paylaşılması, sunulması ve güncel tutulması içingerekli olan donanım, yazılım, insan kaynağı, standartlar ve yöntemlerbütününü,e) Coğrafi veri: Konumbilgisi içeren her türlü veriyi,f) Coğrafi veri hizmeti:Coğrafi veri ve veri bilgisinin standartlara uygun olarak paylaşımına yönelikiş ve işlemleri,g) Coğrafi veri teması:Belirli bir konuya ilişkin olarak ulusal veya uluslararası standartlara uygunhazırlanan coğrafi veri topluluğunu,ğ) Çalışma heyeti:Coğrafi bilgi hizmetleri kapsamında veri tanımlama dokümanı hazırlama,inceleme, araştırma, geliştirme, projelendirme ve danışmanlık faaliyetleriniyürüten heyeti,h) Genel Müdürlük:Coğrafi Bilgi Sistemleri Genel Müdürlüğünü,ı) Kamu kurum vekuruluşları: Coğrafi veri üreten, paylaşan ve kullanan genel bütçe kapsamındakikamu idareleri ve özel bütçeli idareler, bunlara bağlı döner sermayelikuruluşlar, düzenleyici ve denetleyici kurumlar, sosyal güvenlik kurumları,kamu iktisadi teşebbüsleri ve bunların bağlı ortaklıkları ile müessese ve işletmeleri,il özel idareleri, belediyeler ve bağlı kuruluşları ile bunların kurduğu veyaüyesi olduğu mahalli idare birlikleri, müessese, işletme ve bunların dönersermayeli kuruluşları ile özel kanunla kurulan kamu şirket ve kuruluşlarını,i) Kurul: Türkiye CoğrafiBilgi Sistemi Kurulunu,j) Sorumlu kurum: Coğrafiveri sorumluluk matrisinde yer alan coğrafi veri temasının üretim,uyumlaştırma, güncelleme, güvenlik ve paylaşımından sorumlu olan ve ilgilitemaya ait veriyi üreten diğer kamu kurum ve kuruluşlarıyla gereklikoordinasyonu sağlayan kamu kurum ve kuruluşunu,k) Tanımlama dokümanı:Coğrafi veri temalarına ilişkin uygulama kurallarını, teknik esasları vestandartları belirleyen dokümanı,l) Ulusal Coğrafi BilgiPlatformu: Bakanlık tarafından oluşturulan e-Devlet kapısına entegre elektronikaltyapıyı,m) Ulusal Coğrafi BilgiSistemi: Coğrafi verilere, veri setlerine ve veri servislerine erişimi vepaylaşımı kolaylaştırmak amacıyla ulusal kaynakların verimli bir şekildekullanılması, bilgi teknolojilerinden istifade edilmesi ile süreç, koordinasyonve takip mekanizmalarının işletilmesi için gerekli düzenlemelerin veplanlamanın yapılması ve bunların icra edilmesini sağlayan sistemi,n) Ulusal Coğrafi VeriPaylaşım Matrisi: Kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerin;coğrafi veriye erişim, paylaşım ve kullanım yetkilerini tanımlayan matrisi,o) Ulusal Coğrafi VeriSorumluluk Matrisi: Coğrafi veri temaları ile bu temalardan sorumlu olan kamukurum ve kuruluşlarını gösteren matrisi,ö) Veri bilgisi: Coğrafiveri hakkındaki tanımlayıcı ve açıklayıcı bilgileri, metaveriyi,p) Yürütme Kurulu: TürkiyeCoğrafi Bilgi Sistemi Yürütme Kurulunu,ifade eder.İlkeler"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Coğrafi bilgi sistemleri hizmet ve uygulamalarına ilişkin tümfaaliyetlerde;a) Kamu kaynaklarınınetkin ve verimli kullanılması için coğrafi verinin toplanmasında,üretilmesinde, depolanmasında ve paylaş",
+      "content": "Madde 4 - (1) Coğrafi bilgi sistemleri hizmet ve uygulamalarına ilişkin tümfaaliyetlerde;a) Kamu kaynaklarınınetkin ve verimli kullanılması için coğrafi verinin toplanmasında,üretilmesinde, depolanmasında ve paylaşımında mükerrerliğin önlenmesi,b) Coğrafi verinintoplanmasında, üretilmesinde, depolanmasında, paylaşımında, kullanımında vesunumunda ulusal standartlara uyulması,c) Coğrafi verinin veveri bilgisinin doğru ve kaliteli üretilmesinin, güncelliğinin, güvenliğinin,sürekliliğinin ve paylaşılmasının sağlanması,ç)  Ulusal güvenliğe,kişisel verilerin korunmasına, fikri, sınai ve ticari haklara ilişkin mevzuathükümleri ile milletlerarası andlaşma hükümleri saklı kalmak kaydıyla her türlücoğrafi verinin erişilebilir, paylaşılabilir ve kullanılabilir olması,d) Birlikteçalışabilirliğin ve katılımcılığın sağlanması,e) Ülke düzeyindenitelikli insan kaynağı ve kapasitesinin geliştirilmesi,f) Araştırma, geliştirmeve yenilik faaliyetlerinin teşvik edilmesi,g) Standartlarınbelirlenmesinde kamu kurum ve kuruluşlarının ihtiyaçlarının dikkate alınması,ilkeleri gözetilir.İKİNCİ BÖLÜMGörev, Yetkive SorumlulukBakanlığın görevve yetkileri"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Coğrafi bilgi sistemleri kapsamında Bakanlığın görev ve yetkilerişunlardır:a) Ulusal Coğrafi BilgiSisteminin e-Devlet kapısına entegrasyonuna ilişkin iş ve işlemleri yürütmek vesistemin işleyişine yön",
+      "content": "Madde 5 - (1) Coğrafi bilgi sistemleri kapsamında Bakanlığın görev ve yetkilerişunlardır:a) Ulusal Coğrafi BilgiSisteminin e-Devlet kapısına entegrasyonuna ilişkin iş ve işlemleri yürütmek vesistemin işleyişine yönelik izleme raporlarını hazırlamak.b) Ulusal Coğrafi BilgiPlatformunu kurmak, yönetmek, güvenliğini ve sürdürülebilirliğini sağlamak.c) Coğrafi veri temasılistelerinin, Ulusal Coğrafi Veri Sorumluluk Matrisinin, Ulusal Coğrafi VeriPaylaşım Matrisinin, kararların ve tanımlama dokümanlarının yayımlanmasınısağlamak.ç) Coğrafi bilgi sistemlerineilişkin ülke genelinde nitelikli insan kaynağı ve kapasitesinin artırılması ilearaştırma, geliştirme ve yenilik faaliyetlerini teşvik etmek.d) Coğrafi bilgi sistemlerininaltyapısını ve kapasitesini geliştirmek üzere proje ve programlar hazırlamak,gerekli görülmesi durumunda araştırma ve geliştirme merkezleri, enstitüler velaboratuvarlar kurmak veya kurulmasını teşvik etmek.e) Gerçek ve tüzelkişilerden gelen Ulusal Coğrafi Bilgi Sistemine ilişkin faaliyetlerle ilgilitalepleri almak.f) Özel kurum, kuruluşlarve üniversiteler ile veri paylaşımı, veri madenciliği ve yeni veri üretimikonularında, işbirliğine konu veriyi üreten kurumların da katılımıyla çalışmalaryapmak.g) 1 sayılı CumhurbaşkanlığıTeşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde coğrafi bilgi sistemleri ileilgili olarak Bakanlığa verilen görevleri yapmak.Kamu kurum vekuruluşlarının görev ve yetkileri"
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "Kamu kurum ve kuruluşları bu Cumhurbaşkanlığı Kararnamesi kapsamındaüretiminden sorumlu oldukları coğrafi verilerin ve veri bilgilerinin;a) Mükerrer üretimininönlenmesi için gerekli tedbirleri almakla",
+      "content": "Madde 6 - (1)Kamu kurum ve kuruluşları bu Cumhurbaşkanlığı Kararnamesi kapsamındaüretiminden sorumlu oldukları coğrafi verilerin ve veri bilgilerinin;a) Mükerrer üretimininönlenmesi için gerekli tedbirleri almakla,b) Doğruluğunu,kalitesini, güncelliğini, güvenliğini ve gizliliğini sağlamakla,c) Bu Cumhurbaşkanlığı Kararnamesikapsamında belirlenen ilke, usul, esas ve standartlara uyumlaştırılmasını vepaylaşılmasını sağlamakla,ç) Erişim ve paylaşımınısağlamak için gerekli sistem altyapısını kurmak, işletmek ve güvenliğinisağlamakla,d) Ulusal Coğrafi BilgiPlatformuna sunulmasını sağlamakla,görevli ve yetkilidir.(2) Kamu kurum vekuruluşları bu Cumhurbaşkanlığı Kararnamesi kapsamında oluşturulan çalışma heyetlerinekonusunda yetkin kişilerin katılımını sağlar.(3) Kamu kurum vekuruluşları bu Cumhurbaşkanlığı Kararnamesi kapsamında yürütülecek iş veişlemler için ihtiyaç duydukları teknik ve idari danışmanlık hizmetlerineyönelik olarak çalışma heyeti oluşturulmasını Bakanlıktan talep edebilir.(4) Kamu kurum vekuruluşları Ulusal Coğrafi Veri Sorumluluk Matrisinde yer almasını istediklericoğrafi verilerin bu matrise dahil edilmesi için Bakanlığa talepte bulunabilir.(5) Kamu kurum vekuruluşları Ulusal Coğrafi Veri Sorumluluk Matrisinde yer alan ve üretmekleyükümlü oldukları coğrafi verilerin üretim planlamasını yapar.(6) Kamu kurum vekuruluşları Ulusal Coğrafi Veri Sorumluluk Matrisi kapsamındaki coğrafiverilerin gerçek ve tüzel kişilere satışı ile ilgili ücret tarifelerini her yılŞubat ayında Bakanlığa bildirir.(7) Kamu kurum vekuruluşları kurumsal platformları üzerinden yaptıkları veri paylaşımlarınınistatistik bilgisini her ayın ilk iş günü Bakanlığa bildirir.Gerçek ve tüzelkişilerin yetki ve sorumlulukları"
+    },
+    {
+      "provision_ref": "madde7",
+      "section": "7",
+      "title": "14 üncü maddenin dördüncü fıkrasına göre izin almakla yükümlü olanlar topladıkları,ürettikleri, paylaştıkları ya da sattıkları coğrafi verilere ilişkin veri bilgileriniUlusal Coğrafi Bilgi Platformuna",
+      "content": "Madde 7 - (1)14 üncü maddenin dördüncü fıkrasına göre izin almakla yükümlü olanlar topladıkları,ürettikleri, paylaştıkları ya da sattıkları coğrafi verilere ilişkin veri bilgileriniUlusal Coğrafi Bilgi Platformuna kaydetmekle ve güncellemekle yükümlüdür.(2) Bu CumhurbaşkanlığıKararnamesi kapsamında yürütülecek iş ve işlemlere ilişkin faaliyetlerdebulunan gerçek ve tüzel kişilerin yetki ve sorumlulukları ile uyması gereken usulve esaslar Bakanlık tarafından çıkarılacak yönetmelikle düzenlenir.ÜÇÜNCÜ BÖLÜMKurullar, Çalışma Heyetlerive Uzman İstihdamıTürkiye CoğrafiBilgi Sistemi Kurulu [2]"
+    },
+    {
+      "provision_ref": "madde8",
+      "section": "8",
+      "title": "Kurul, Cumhurbaşkanı tarafından görevlendirilen Cumhurbaşkanı Yardımcısınınbaşkanlığında; Çevre, Şehircilik ve İklim Değişikliği Bakanlığının, Enerji veTabii Kaynaklar Bakanlığının, Hazine ve Maliye B",
+      "content": "Madde 8 - (1) Kurul, Cumhurbaşkanı tarafından görevlendirilen Cumhurbaşkanı Yardımcısınınbaşkanlığında; Çevre, Şehircilik ve İklim Değişikliği Bakanlığının, Enerji veTabii Kaynaklar Bakanlığının, Hazine ve Maliye Bakanlığının, İçişleriBakanlığının, Kültür ve Turizm Bakanlığının, Milli Savunma Bakanlığının, SağlıkBakanlığının, Sanayi ve Teknoloji Bakanlığının, Tarım ve Orman Bakanlığının,Ulaştırma ve Altyapı Bakanlığının ilgili Bakan Yardımcılarından, Türkiyeİstatistik Kurumu Başkanından, Milli İstihbarat Teşkilatı Başkanlığının veStrateji ve Bütçe Başkanlığının ilgili Başkan Yardımcılarından oluşur. [3](2) Kurulun görüşeceğikonuların mahiyetinin gerektirdiği durumlarda, Kurula konu ile ilgili kurum temsilcileride çağrılabilir.(3) Kurulun sekretaryasıGenel Müdürlük tarafından yürütülür.(4) Kurulun görevlerişunlardır:a) Bu CumhurbaşkanlığıKararnamesi kapsamındaki ulusal hedefleri belirlemek ve ülke çapındauygulanmasını sağlamak.b) Yürütme Kurulutarafından teklif edilen Ulusal Coğrafi Veri Sorumluluk Matrisi ve UlusalCoğrafi Veri Paylaşım Matrisini onaylamak, sorumlu kurum ve kuruluşlar arasındakoordinasyonu sağlamak.c) Yürütme Kurulutarafından teklif edilen coğrafi veri temalarını onaylamak.ç) Gerekli gördüğühallerde, birden fazla kamu kurum ve kuruluşunu kapsayan coğrafi bilgihizmetleri ile ilgili ortak projelerin yürütülmesi için Yürütme Kurulunugörevlendirmek.d) Yürütme Kurulutarafından sunulan acil, afet ve olağanüstü durumlara ilişkin coğrafi veriüretim ve paylaşım esaslarını onaylamak.(5) Kurul her yıl Nisanayında olağan olarak toplanır. Kurul Başkanı ihtiyaç halinde Kurulu olağanüstütoplantıya çağırabilir.(6) Kurulun ilanı gerektirenkararları Resmî Gazete’de yayımlanır.(7) Kurulun çalışma usul veesasları Bakanlık tarafından çıkarılacak yönetmelikle düzenlenir.Türkiye CoğrafiBilgi Sistemi Yürütme Kurulu"
+    },
+    {
+      "provision_ref": "madde9",
+      "section": "9",
+      "title": "Yürütme Kurulu, Coğrafi Bilgi Sistemleri Genel Müdürünün başkanlığında;Harita Genel Müdürü, Tapu ve Kadastro Genel Müdürü ve Yerel Yönetimler GenelMüdürü doğal üye olmak üzere gündem maddesine göre Ba",
+      "content": "Madde 9 - (1) Yürütme Kurulu, Coğrafi Bilgi Sistemleri Genel Müdürünün başkanlığında;Harita Genel Müdürü, Tapu ve Kadastro Genel Müdürü ve Yerel Yönetimler GenelMüdürü doğal üye olmak üzere gündem maddesine göre Başkan tarafından üye olarakçağrılacak Ulusal Coğrafi Veri Sorumluluk Matrisindeki sorumlu kurumların GenelMüdür ve dengi yöneticilerinden oluşur.(2) Yürütme Kurulu heryıl Şubat, Nisan, Haziran, Ağustos, Ekim ve Aralık aylarında olağan olaraktoplanır ancak ihtiyaç halinde Başkan Yürütme Kurulunu olağanüstü toplantıyaçağırabilir.(3) Toplantının gündeminegöre ilgili kamu kurum ve kuruluşları, gerçek ve tüzel kişiler ile sivil toplumkuruluşlarının yetkili temsilcileri ya da uzmanları görüşleri alınmak üzereBaşkanın daveti ile toplantıya çağrılabilir.(4) Yürütme Kurulu en azüç üyenin katılımıyla toplanır. Kararlar toplantıya katılan üyelerin oy çokluğuile alınır. Oylarda eşitlik olması halinde Başkanın bulunduğu taraf çoğunluksayılır.(5) Yürütme Kurulununsekretarya hizmetleri Genel Müdürlük tarafından yürütülür.(6) Yürütme Kurulunungörevleri şunlardır:a) Kurul tarafındanbelirlenen hedeflerin ülke çapında uygulanmasını izlemek ve Kurula raporlamak.b) Coğrafi bilgihizmetlerinin uygulanmasına yönelik koordinasyonu sağlamak.c) Ulusal Coğrafi VeriSorumluluk Matrisi ve Ulusal Coğrafi Veri Paylaşım Matrisini hazırlayarakKurulun onayına sunmak.ç) Coğrafi veritemalarını güncellemek ve yeni coğrafi veri temalarını tespit ederek Kurulunonayına sunmak.d) Bakanlık tarafındanhazırlanan izleme raporlarını incelemek, gerekirse tavsiye kararı almak ve Kurularaporlamak.e) Çalışma heyetleri tarafındanhazırlanan tanımlama dokümanlarını ve raporları inceleyerek Bakanlığa göndermek.f) Acil, afet veolağanüstü durumlara ilişkin coğrafi veri üretim ve paylaşım esaslarınıbelirlemek ve Kurulun onayına sunmak.g) Kamu kurum vekuruluşları tarafından ücreti belirlenmemiş verilerle ilgili ücret tarifesibelirlemek.ğ) Kurul tarafındanverilen benzeri görevleri yapmak.(7) Yürütme Kurulununçalışma usul ve esasları Bakanlık tarafından çıkarılacak yönetmelikle düzenlenir.Çalışma heyetleri"
+    },
+    {
+      "provision_ref": "madde10",
+      "section": "10",
+      "title": "Çalışma heyetleri; Genel Müdürlük tarafından yapılacak çalışma konusunda yetkinkişilerden oluşturulur",
+      "content": "Madde 10 - (1)Çalışma heyetleri; Genel Müdürlük tarafından yapılacak çalışma konusunda yetkinkişilerden oluşturulur. Çalışma heyetleri Genel Müdürlüğe karşı sorumludur.(2) Çalışma heyetlerinin görevlerişunlardır:a) Ulusal Coğrafi VeriSorumluluk Matrisinde yer alan coğrafi veri temalarına ait tanımlamadokümanlarını hazırlamak ve Genel Müdürlüğe sunmak.b) Görevlendirildiklerikonularla ilgili inceleme, araştırma, geliştirme, projelendirme ve danışmanlıkfaaliyetlerini yapmak.(3) İhtiyaç duyulmasıhalinde çalışma heyetlerine bağlı alt çalışma grupları oluşturulabilir.(4) Çalışma heyetlerinin çalışmausul ve esasları Bakanlık tarafından düzenlenir.Uzman istihdamı"
+    },
+    {
+      "provision_ref": "madde11",
+      "section": "11",
+      "title": "Bakanlıklar ile bağlı, ilgili ve ilişkili kurum ve kuruluşların merkezteşkilatlarında bu Cumhurbaşkanlığı Kararnamesi kapsamındaki görevleri yürütmeküzere, personel istihdam yapısına uygun olarak 14/7",
+      "content": "Madde 11 - (1)Bakanlıklar ile bağlı, ilgili ve ilişkili kurum ve kuruluşların merkezteşkilatlarında bu Cumhurbaşkanlığı Kararnamesi kapsamındaki görevleri yürütmeküzere, personel istihdam yapısına uygun olarak 14/7/1965 tarihli ve 657 sayılıDevlet Memurları Kanununun ek 41 inci maddesine ya da 27/6/1989 tarihli ve 375sayılı Kanun Hükmünde Kararnamenin ek 23 üncü maddesine göre Coğrafi BilgiSistemi Uzmanı ve Coğrafi Bilgi Sistemi Uzman Yardımcısı istihdam edilebilir.(2) (İptalfıkra: Anayasa Mahkemesinin 30/11/2022 Tarihli ve E: 2020/4, K: 2022/147 SayılıKararı ile.)DÖRDÜNCÜBÖLÜMUlusalCoğrafi Bilgi Sistemi AltyapısıCoğrafi veritemaları"
+    },
+    {
+      "provision_ref": "madde12",
+      "section": "12",
+      "title": "Coğrafi veri temaları, bu Cumhurbaşkanlığı Kararnamesi kapsamındaki kamukurum ve kuruluşları ile gerçek ve tüzel kişilerin ihtiyaçları doğrultusunda, ulusalve uluslararası standartlara uygun olarak be",
+      "content": "Madde 12 - (1) Coğrafi veri temaları, bu Cumhurbaşkanlığı Kararnamesi kapsamındaki kamukurum ve kuruluşları ile gerçek ve tüzel kişilerin ihtiyaçları doğrultusunda, ulusalve uluslararası standartlara uygun olarak belirlenir ve güncellenir.(2) (İptal fıkra:Anayasa Mahkemesinin 30/11/2022 Tarihli ve E: 2020/4, K: 2022/147 Sayılı Kararıile.)(3) Coğrafi veritemalarına ait tanımlama dokümanları Resmî Gazete’de yayımlanarak yürürlüğegirer.(4) Tanımlamadokümanlarının yürürlüğe girmesini müteakiben sorumlu kurum, Ulusal CoğrafiVeri Sorumluluk Matrisindeki aynı temada coğrafi veri üreten diğer kamu kurumve kuruluşları ile koordinasyonu sağlar ve coğrafi verinin üretilmesi,güncellenmesi ve paylaşılması için gerekli faaliyetleri yürütür.(5) Coğrafi veri, coğrafiveri temaları ve Ulusal Coğrafi Veri Sorumluluk Matrisi ile ilgili faaliyetler,Bakanlık tarafından belirlenen birlikte çalışabilirlik esasları ve tanımlama dokümanlarınauygun olarak yapılır.Coğrafi verihizmetleri, veri bilgisi"
+    },
+    {
+      "provision_ref": "madde13",
+      "section": "13",
+      "title": "Coğrafi veri hizmetleri, elektronik ortamda ve güncel teknolojilere uygunolarak yürütülür",
+      "content": "Madde 13 - (1) Coğrafi veri hizmetleri, elektronik ortamda ve güncel teknolojilere uygunolarak yürütülür.(2) Ulusal Coğrafi VeriSorumluluk Matrisinde yer alan kamu kurum ve kuruluşları, coğrafi verihizmetlerini ağ hizmetleri altyapısı vasıtasıyla Ulusal Coğrafi BilgiPlatformuna kesintisiz olarak sunar.(3) Kamu kurum vekuruluşları ile gerçek ve tüzel kişilerin ihtiyaçlarına uygun olarak ulusaldüzeyde kullanılacak veri görüntüleme ve paylaşım arayüzü Bakanlık tarafındangeliştirilir. Bakanlığa bilgi verilerek kurumlarca da veri görüntüleme vepaylaşım arayüzleri geliştirilebilir.(4) Ulusal Coğrafi BilgiPlatformuna sunulacak coğrafi verilerin, coğrafi veri servislerinin ve veri bilgilerinintanımlama dokümanlarındaki standartlara uygunluğu Bakanlık tarafından kontroledilerek Ulusal Coğrafi Bilgi Platformunda yayımlanır.(5) Veri bilgisi, coğrafiverinin üretimi aşamasında Bakanlıkça belirlenen standartlara uygun ve güncelolarak elektronik ortamda üretilir ve Ulusal Coğrafi Bilgi Platformuna sunulur.(6) Bu maddeninuygulanmasına ilişkin usul ve esaslar Bakanlık tarafından düzenlenir.Ulusal coğrafibilgi platformu, coğrafi veri erişimi, paylaşımı ve kullanımı"
+    },
+    {
+      "provision_ref": "madde14",
+      "section": "14",
+      "title": "Ulusal Coğrafi Veri Sorumluluk Matrisinde yer alan kamu kurum vekuruluşlarının bu matristeki coğrafi veri ve veri bilgileri, Ulusal CoğrafiVeri Paylaşım Matrisinde yapılan yetkilendirme çerçevesinde, ",
+      "content": "Madde 14 - (1) Ulusal Coğrafi Veri Sorumluluk Matrisinde yer alan kamu kurum vekuruluşlarının bu matristeki coğrafi veri ve veri bilgileri, Ulusal CoğrafiVeri Paylaşım Matrisinde yapılan yetkilendirme çerçevesinde, Ulusal CoğrafiBilgi Platformu üzerinden paylaşılır. Kamu kurum ve kuruluşları coğrafi veri veveri bilgilerini kendi kurumsal veri paylaşım platformlarından da paylaşabilir.(2) Kamu kurum vekuruluşları, uluslararası üyelikleri ve işbirlikleri kapsamında uluslararası ağsistemleri üzerinden temin ettikleri ya da paylaştıkları coğrafi verileri, milletlerarasıandlaşma hükümleri saklı kalmak kaydıyla, veri tanımlama dokümanlarındabelirlenecek şartlarda Ulusal Coğrafi Bilgi Platformu üzerinden de paylaşmaklayükümlüdür.(3) Gerçek ve tüzelkişilerin kamu kurum ve kuruluşlarına ait coğrafi veri ve veri bilgisitaleplerinin Ulusal Coğrafi Bilgi Platformu üzerinden karşılanması esastır.Kurumlara yapılan talepler kurumsal platformlardan da karşılanabilir.(4) Gerçek ve tüzelkişilerin Ulusal Coğrafi Veri Sorumluluk Matrisi kapsamındaki coğrafi verileritoplaması, üretmesi, paylaşması veya satması; (…) [4] ticarifaaliyetleri gerçekleştirmek için gerekli belgelere sahip olması şartı ileBakanlık iznine tabidir.(5) Bu maddeninuygulanmasına ilişkin usul ve esaslar Bakanlık tarafından düzenlenir.İzleme veraporlama"
+    },
+    {
+      "provision_ref": "madde15",
+      "section": "15",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesi kapsamında yürütülen görev ve hizmetlereilişkin izleme ve raporlama faaliyetlerine ait usul, esas ve performansgöstergeleri Genel Müdürlük tarafından hazırlanır",
+      "content": "Madde 15 - (1) Bu Cumhurbaşkanlığı Kararnamesi kapsamında yürütülen görev ve hizmetlereilişkin izleme ve raporlama faaliyetlerine ait usul, esas ve performansgöstergeleri Genel Müdürlük tarafından hazırlanır.Birlikteçalışabilirlik"
+    },
+    {
+      "provision_ref": "madde16",
+      "section": "16",
+      "title": "Kamu kurum ve kuruluşları coğrafi verinin erişimi, paylaşımı ve kullanımınayönelik kurumsal ağ hizmetleri altyapısı ve koordinasyon çalışmalarını Bakanlıktarafından belirlenen birlikte çalışabilirlik ",
+      "content": "Madde 16 - (1)Kamu kurum ve kuruluşları coğrafi verinin erişimi, paylaşımı ve kullanımınayönelik kurumsal ağ hizmetleri altyapısı ve koordinasyon çalışmalarını Bakanlıktarafından belirlenen birlikte çalışabilirlik esasları doğrultusunda yürütür.Güvenlik vegizlilik"
+    },
+    {
+      "provision_ref": "madde17",
+      "section": "17",
+      "title": "Ulusal Coğrafi Veri Sorumluluk Matrisi ve Ulusal Coğrafi Veri PaylaşımMatrisinde yer alan kamu kurum ve kuruluşları sorumlulukları altındaki coğrafiverilerin bilgi güvenliği önlemlerini alır, doğruluğ",
+      "content": "Madde 17 - (1)Ulusal Coğrafi Veri Sorumluluk Matrisi ve Ulusal Coğrafi Veri PaylaşımMatrisinde yer alan kamu kurum ve kuruluşları sorumlulukları altındaki coğrafiverilerin bilgi güvenliği önlemlerini alır, doğruluğunu, bütünlüğünü vegizliliğini sağlar.(2) Ulusal Coğrafi BilgiPlatformundaki veri bilgisi ve coğrafi veri hizmetlerinin güvenliğini vegizliliğini Bakanlık sağlar.BEŞİNCİ BÖLÜMÇeşitli veSon HükümlerMali hükümler"
+    },
+    {
+      "provision_ref": "madde18",
+      "section": "18",
+      "title": "(İptal birinci cümle: Anayasa Mahkemesinin 30/11/2022 Tarihli ve E: 2020/4,K: 2022/147 Sayılı Kararı ile",
+      "content": "Madde 18 - (1)(İptal birinci cümle: Anayasa Mahkemesinin 30/11/2022 Tarihli ve E: 2020/4,K: 2022/147 Sayılı Kararı ile.) Bu kapsamda yürütülen projeler Bakanlıkçabelirlenen usul ve esaslara uygun olarak Ulusal Coğrafi Bilgi Platformuna kaydedilir.(2) (İptal fıkra:Anayasa Mahkemesinin 30/11/2022 Tarihli ve E: 2020/4, K: 2022/147 Sayılı Kararıile.)(3) Ulusal Coğrafi BilgiPlatformunun kurulumu, bakımı, idamesi, geliştirilmesi ve işletilmesine ait tümyazılım, donanım ve danışmanlık giderleri ile Kurul, Yürütme Kurulu ve çalışma heyetlerineait sekretarya, huzur hakkı, ulusal ve uluslararası çalıştay, sempozyum,toplantı ve benzer etkinlik giderleri Bakanlığın bütçesine konulacak ödenektenve/veya Bakanlık Döner Sermaye İşletmesinden karşılanır.(4) Özel kurum,kuruluşlar ve üniversiteler ile yapılacak veri paylaşımı, veri madenciliği veyeni veri üretimi konularındaki işbirlikleri kapsamında yapılan iş ve işlemlerneticesinde elde edilen veri, üçüncü şahıslar ile Bakanlık tarafındanbelirlenen bedel karşılığında paylaşılır.Kadrolar"
+    },
+    {
+      "provision_ref": "madde19",
+      "section": "19",
+      "title": "Ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 2 sayılı GenelKadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin eki (I) sayılı CetvelinÇevre, Şehircilik ve İklim Değişikliği Bakanlığı b",
+      "content": "Madde 19 - (1) Ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 2 sayılı GenelKadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin eki (I) sayılı CetvelinÇevre, Şehircilik ve İklim Değişikliği Bakanlığı bölümüne eklenmiştir. [5] [6]Geçiş hükümleriGEÇİCİ"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Ulusal Coğrafi Veri Sorumluluk Matrisi bu Cumhurbaşkanlığı Kararnamesinin yürürlüğegirdiği tarihten itibaren bir yıl içinde, Ulusal Coğrafi Veri Paylaşım Matrisiise her bir tanımlama dokümanının onayı",
+      "content": "Madde 1 - (1) Ulusal Coğrafi Veri Sorumluluk Matrisi bu Cumhurbaşkanlığı Kararnamesinin yürürlüğegirdiği tarihten itibaren bir yıl içinde, Ulusal Coğrafi Veri Paylaşım Matrisiise her bir tanımlama dokümanının onayını takiben bir yıl içinde Yürütme Kurulutarafından hazırlanarak Kurulun onayına sunulur.(2) Ulusal Coğrafi VeriSorumluluk Matrisinde belirlenen kurumlar, bu Cumhurbaşkanlığı Kararnamesinin yürürlüktarihinden önce ürettikleri elektronik ortamdaki coğrafi veriyi, her birtanımlama dokümanının yayımlanmasını takip eden üç yıl içinde ilgili tanımlamadokümanına uygun hale getirerek Ulusal Coğrafi Bilgi Platformu üzerinden sunar.(3) Kamu kurum vekuruluşları kendi sistemleri üzerinden sundukları ve tanımlama dokümanlarınauygun olan coğrafi veriyi, bu Cumhurbaşkanlığı Kararnamesinin yayımı tarihindenitibaren altı ay içinde Ulusal Coğrafi Bilgi Platformu üzerinden sunar.(4) Bu Cumhurbaşkanlığı Kararnamesindeöngörülen yönetmelikler ile diğer düzenleyici işlemler, bu CumhurbaşkanlığıKararnamesinin yürürlüğe girdiği tarihten itibaren bir yıl içinde çıkarılır.(5) Bu CumhurbaşkanlığıKararnamesi gereğince hazırlanacak yönetmelikler yürürlüğe girinceye kadarBakanlık tarafından hazırlanmış olan mevcut mevzuat hükümlerinin buCumhurbaşkanlığı Kararnamesine aykırı olmayan hükümlerinin uygulanmasına devamolunur.Yürürlük"
+    },
+    {
+      "provision_ref": "madde20",
+      "section": "20",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 20 - (1) Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde21",
+      "section": "21",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür",
+      "content": "Madde 21 - (1)Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür.49 SAYILICUMHURBAŞKANLIĞI KARANAMESİNDE DEĞİŞİKLİK YAPAN CUMHURBAŞKANLIĞIKARARNAMELERİNE İLİŞKİN TABLODeğiştiren CumhurbaşkanlığıKararnamesinin/ İptal Eden Anayasa Mahkemesi Kararının Numarası49 Sayılı CumhurbaşkanlığıKararnamesinin Değişen MaddeleriDeğişikliğin Yürürlüğe Giriş Tarihi8529/10/20213, 8, 1929/10/2021Anayasa Mahkemesinin 30/11/2022 Tarihlive E: 2020/4, K: 2022/147 Sayılı Kararı14, 182/6/202311, 12, 18 inci maddenin ikinci fıkrasıYayımlanmasından başlayarak dokuz aysonra (2/3/2024)18328/3/2025828/3/2025(1) SAYILI LİSTECOĞRAFİ VERİ TEMALARI1. KoordinatReferans Sistemleri ve Coğrafi Grid Sistemleri2. İdariBirimler3. CoğrafiYer Adları4. Kadastro5. Bina6. Adres7. Yükseklik8. Ortogörüntü9. UlaşımAğları10. Hidrografya11. Jeoloji12. AraziÖrtüsü13. AraziKullanımı14. Toprak15. KorumaBölgeleri16. DoğalRisk Bölgeleri17. Altyapı18. EnerjiKaynakları19. Madenler20. İnsanSağlığı ve Güvenliği21. NüfusDağılımı – Demografi22. Çevreİzleme Tesisleri23. SanayiTesisleri24. TarımTesisleri25. KamuYönetim Bölgeleri26. TürDağılımı27. HabitatBölgeleri28. BiyocoğrafyaBölgeleri29. Denizve Tuzlu Su Alanları30. AtmosferVerileri31. MeteorolojiVerileri32. İstatikselRaporlama Bölgeleri[1]29/10/2021tarihli ve 31643 sayılı Resmî Gazete’de yayımlanan 85 sayılı CumhurbaşkanlığıKararnamesinin 37 nci maddesiyle bu maddede yer alan “Çevre veŞehircilik” ibaresi “Çevre, Şehircilik ve İklim Değişikliği” şeklindedeğiştirilmiştir.[2] 29/10/2021 tarihli ve 31643 sayılıResmî Gazete’de yayımlanan 85 sayılı Cumhurbaşkanlığı Kararnamesinin 37 ncimaddesiyle bu maddede yer alan “Çevre ve Şehircilik” ibaresi “Çevre, Şehircilikve İklim Değişikliği” şeklinde değiştirilmiştir.[3]28/3/2025tarihli ve 32855 sayılı Resmî Gazete’ de yayımlanan 183 sayılı CumhurbaşkanlığıKararnamesinin 22 nci maddesiyle, bu fıkrada yer alan“Dijital Dönüşüm Ofisinin ve Türkiye İstatistik Kurumunun Başkanlarından”ibaresi “Türkiye İstatistik Kurumu Başkanından” şeklinde değiştirilmiştir.[4] Anayasa Mahkemesinin 30/11/2022Tarihli ve E: 2020/4, K: 2022/147 Sayılı Kararı ile bu fıkrada yer alan “ Bakanlıkçagerek görülmesi halinde güvenlik soruşturmasının ve/veya arşiv araştırmasınıntamamlanması ” ibaresi, bu ibareden sonra gelen “ve” ibaresi iptal edilmişolup, bu fıkranın kalan kısmına yönelik aynı konuda kanun çıkarılması nedeniyleAnayasanın 104. Maddesinin on yedinci fıkrasının altıncı cümlesi uyarıncahükümsüz hale geldiği mezkûr kararda belirtilmiştir.[5]Bu maddede belirtilen eklilisteyi görmek için bu Cumhurbaşkanlığı Kararnamesinin yayımlandığı ResmîGazete’ye bakınız.[6]29/10/2021 tarihli ve31643 sayılı Resmî Gazete’de yayımlanan 85 sayılı CumhurbaşkanlığıKararnamesinin 37 nci maddesiyle bu maddede yer alan “Çevre ve Şehircilik”ibaresi “Çevre, Şehircilik ve İklim Değişikliği” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bu Cumhurbaşkanlığı Kararnamesinin uygulanmasında; [1]a) Ağ hizmetleri",
+      "definition": "Elektronik ortamda veri erişimi, paylaşımı ve kullanımı için coğrafi veri veveri bilgisinin aranması",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Bakanlık",
+      "definition": "Çevre,Şehircilik ve İklim Değişikliği Bakanlığını",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Birlikteçalışabilirlik",
+      "definition": "Farklı işlevsel birimler arasında, bu birimlerin benzersizkarakteristiği hakkında bilgi sahibi olmadan ya da en az bilgiyle",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Coğrafi bilgi",
+      "definition": "Öznitelik bilgisi ve topolojik bilgiyi içeren nitelik kazandırılmış coğrafiveriyi,d) Coğrafi bilgi sistemi:Her türlü coğrafi verinin",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Coğrafi veri",
+      "definition": "Konumbilgisi içeren her türlü veriyi,f) Coğrafi veri hizmeti:Coğrafi veri ve veri bilgisinin standartlara uygun olarak paylaşımına yönelikiş ve işlemleri",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Coğrafi veri teması",
+      "definition": "Belirli bir konuya ilişkin olarak ulusal veya uluslararası standartlara uygunhazırlanan coğrafi veri topluluğunu,ğ) Çalışma heyeti:Coğrafi bilgi hizmetleri kapsamında veri tanımlama dokümanı hazırlama",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Genel Müdürlük",
+      "definition": "Coğrafi Bilgi Sistemleri Genel Müdürlüğünü,ı) Kamu kurum vekuruluşları: Coğrafi veri üreten",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Kurul",
+      "definition": "Türkiye CoğrafiBilgi Sistemi Kurulunu,j) Sorumlu kurum: Coğrafiveri sorumluluk matrisinde yer alan coğrafi veri temasının üretim",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Tanımlama dokümanı",
+      "definition": "Coğrafi veri temalarına ilişkin uygulama kurallarını, teknik esasları vestandartları belirleyen dokümanı",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Ulusal Coğrafi BilgiPlatformu",
+      "definition": "Bakanlık tarafından oluşturulan e-Devlet kapısına entegre elektronikaltyapıyı,m) Ulusal Coğrafi BilgiSistemi: Coğrafi verilere",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Ulusal Coğrafi VeriPaylaşım Matrisi",
+      "definition": "Kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerin;coğrafi veriye erişim",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Ulusal Coğrafi VeriSorumluluk Matrisi",
+      "definition": "Coğrafi veri temaları ile bu temalardan sorumlu olan kamukurum ve kuruluşlarını gösteren matrisi,ö) Veri bilgisi: Coğrafiveri hakkındaki tanımlayıcı ve açıklayıcı bilgileri",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Yürütme Kurulu",
+      "definition": "TürkiyeCoğrafi Bilgi Sistemi Yürütme Kurulunu,ifade eder.İlkeler",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Coğrafi bilgi sistemleri kapsamında Bakanlığın görev ve yetkilerişunlardır",
+      "definition": "a) Ulusal Coğrafi BilgiSisteminin e-Devlet kapısına entegrasyonuna ilişkin iş ve işlemleri yürütmek vesistemin işleyişine yönelik izleme raporlarını hazırlamak.b) Ulusal Coğrafi BilgiPlatformunu kurmak, yönetmek",
+      "source_provision": "madde5"
+    },
+    {
+      "term": "Yürütme Kurulunungörevleri şunlardır",
+      "definition": "a) Kurul tarafındanbelirlenen hedeflerin ülke çapında uygulanmasını izlemek ve Kurula raporlamak.b) Coğrafi bilgihizmetlerinin uygulanmasına yönelik koordinasyonu sağlamak.c) Ulusal Coğrafi VeriSorumluluk Matrisi ve Ulusal Coğrafi Veri Paylaşım Matrisini hazırlayarakKurulun onayına sunmak.ç) Coğrafi veritemalarını güncellemek ve yeni coğrafi veri temalarını tespit ederek Kurulunonayına sunmak.d) Bakanlık tarafındanhazırlanan izleme raporlarını incelemek, gerekirse tavsiye kararı almak ve Kurularaporlamak.e) Çalışma heyetleri tarafındanhazırlanan tanımlama dokümanlarını ve raporları inceleyerek Bakanlığa göndermek.f) Acil",
+      "source_provision": "madde9"
+    },
+    {
+      "term": "Çalışma heyetlerinin görevlerişunlardır",
+      "definition": "a) Ulusal Coğrafi VeriSorumluluk Matrisinde yer alan coğrafi veri temalarına ait tanımlamadokümanlarını hazırlamak ve Genel Müdürlüğe sunmak.b) Görevlendirildiklerikonularla ilgili inceleme, araştırma",
+      "source_provision": "madde10"
+    },
+    {
+      "term": "(İptal fıkra",
+      "definition": "Anayasa Mahkemesinin 30/11/2022 Tarihli ve E: 2020/4, K: 2022/147 Sayılı Kararıile.)(3) Coğrafi veritemalarına ait tanımlama dokümanları Resmî Gazete’de yayımlanarak yürürlüğegirer.(4) Tanımlamadokümanlarının yürürlüğe girmesini müteakiben sorumlu kurum",
+      "source_provision": "madde12"
+    }
+  ]
+}

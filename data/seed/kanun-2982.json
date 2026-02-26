@@ -1,0 +1,20 @@
+{
+  "id": "kanun-2982",
+  "type": "statute",
+  "title": "KONUT İNŞAATINDA VE KALKINMADA ÖNCELİKLİ YÖRELERDE YAPILACAK YATIRIMLARDA VERGİ, RESİM VE HARÇ İSTİSNA VE MUAFLIKLARI TANINMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "KONUT İNŞAATINDA VE KALKINMADA ÖNCELİ...",
+  "status": "in_force",
+  "issued_date": "1984-03-01",
+  "in_force_date": "1984-03-01",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2982&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde10",
+      "section": "10",
+      "title": "Dinihizmetlerin ifasına mahsus ve umuma açık bulunan ibadethaneler, okullar,kütüphaneler, spor tesisleri ve bunların müştemilatı bu Kanunun uygulanmasıbakımından konut sayılır",
+      "content": "Madde 10 - Dinihizmetlerin ifasına mahsus ve umuma açık bulunan ibadethaneler, okullar,kütüphaneler, spor tesisleri ve bunların müştemilatı bu Kanunun uygulanmasıbakımından konut sayılır.Yürürlük:Madde11 – Bu Kanun yayımı tarihinde yürürlüğe girer.Yürütme:Madde12 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.2982SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTEKanunNo.FarklıTarihte Yürürlüğe Giren MaddelerYürürlüğeGiriş Tarihi339311 ve 12 nci maddeleri1/1/1987Diğermaddeleri30/6/1987KHK/33685/8/198838581,2 ve 3 üncü maddeleri1/1/1993Diğermaddeleri27/12/1992413491/1/1996[1] 19/6/1987 tarih ve 3393 sayılı Kanunun geçici 2 ncimaddesi bu maddenin 31/12/1992 tarihinde yürürlükten kalkacağını hüküm altınaalmış ise de, 23/12/1992 tarih ve 3858 sayılı Kanunun 7 inci maddesi ile sözkonusu geçici 2 nci madde yürürlükten kaldırıldığından madde muhafazaedilmiştir.[2] 19/6/1987 tarih ve 3393 sayılı Kanunun geçici 2 ncimaddesi ile bu bendin 31/12/1992 tarihinde yürürlükten kalkacağı hüküm altınaalınmış ise de; 23/12/1992 tarih ve 3858 sayılı Kanunun 7 nci maddesi ilesözkonusu geçici 2 nci madde yürürlükten kaldırıldığından bent muhafazaedilmiştir.[3] Bu madde ile ilgili olarak 22/7/1998 tarih ve 4369sayılı Kanunun geçici 3 üncü maddesine bakınız.[4] Bu maddede yer alan süre; 18/11/1995 tarih ve 4134sayılı Kanunun 1 inci maddesi ile 31/12/1997 tarihine kadar uzatılmıştır.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

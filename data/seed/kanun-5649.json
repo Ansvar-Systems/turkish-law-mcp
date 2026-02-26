@@ -1,0 +1,44 @@
+{
+  "id": "kanun-5649",
+  "type": "statute",
+  "title": "İSTİKLAL MARŞININ KABUL EDİLDİĞİ GÜNÜ VE MEHMET AKİF ERSOY'U ANMA GÜNÜ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "İSTİKLAL MARŞININ KABUL EDİLDİĞİ GÜNÜ...",
+  "status": "in_force",
+  "issued_date": "2007-05-10",
+  "in_force_date": "2007-05-10",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5649&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Her yıl 12 Mart, İstiklal Marşının kabul edildiği günü ve MehmetAkif Ersoy’u anma günüdür",
+      "content": "Madde 1 - (1) Her yıl 12 Mart, İstiklal Marşının kabul edildiği günü ve MehmetAkif Ersoy’u anma günüdür. Anılan günde bütün kamu kurum ve kuruluşlarınınöncülüğünde, halkımızın ve sivil kuruluşların iştiraki ile anma törenleridüzenlenir."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "İstiklal Marşının kabul edildiği günü ve Mehmet Akif Ersoy’u anmatörenleri ile ilgili yönetmelik, bu Kanunun yayımı tarihinden itibaren dört ayiçinde İçişleri, Millî Eğitim ile Kültür ve Turizm bakanl",
+      "content": "Madde 2 - (1) İstiklal Marşının kabul edildiği günü ve Mehmet Akif Ersoy’u anmatörenleri ile ilgili yönetmelik, bu Kanunun yayımı tarihinden itibaren dört ayiçinde İçişleri, Millî Eğitim ile Kültür ve Turizm bakanlıklarınca müşterekençıkarılır.GEÇİCİ"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Ek:24/12/2020-7261/34 md",
+      "content": "Madde 1 - (Ek:24/12/2020-7261/34 md.)(1) 2021 yılı, İstiklal Marşı yılıdır. 2021 yılı boyunca bütün kamu kurumve kuruluşları tarafından, İstiklal Marşının anlamını ve Kurtuluş Savaşınınönemini anlatmak amacıyla halkımızın ve sivil toplum kuruluşlarının katılımıylaİstiklal Marşının kabulünü ve Mehmet Akif Ersoy’u anma etkinlikleri düzenlenir."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 3 - (1) Bu Kanun yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 4 - (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.5649 SAYILI KANUNDA DEĞİŞİKLİK YAPANMEVZUATINVEYA ANAYASA MAHKEMESİ KARARLARININYÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR LİSTEDeğiştiren Kanunun/ KHK’nin veyaİptal Eden Anayasa Mahkemesi Kararının Numarası5649 Sayılı Kanunun DeğiştirilenMaddeleriYürürlüğe Giriş Tarihi7261Geçici Madde 130/12/2020$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

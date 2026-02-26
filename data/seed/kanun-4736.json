@@ -1,0 +1,33 @@
+{
+  "id": "kanun-4736",
+  "type": "statute",
+  "title": "KAMU KURUM VE KURULUŞLARININ ÜRETTİKLERİ MAL VE HİZMET TARİFELERİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "KAMU KURUM VE KURULUŞLARININ ÜRETTİKL...",
+  "status": "in_force",
+  "issued_date": "2002-01-19",
+  "in_force_date": "2002-01-19",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4736&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "(29",
+      "content": "Madde 5 - (29.6.2001 tarihli ve 4705 sayılı Yurt DışınaÇıkışlardan Harç Alınması ve 4481 Sayılı Kanunda Değişiklik Yapılması HakkındaKanun ile ilgili olup yerine işlenmiştir.)Madde6 – ( 27.6.1984 tarihli ve 3030 sayılı Büyük Şehir Belediyelerinin YönetimiHakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun ileilgili olup yerine işlenmiştir.)Madde7 – (7.11.1984 tarihli ve 3074 sayılı Akaryakıt Tüketim Vergisi Kanunu ileilgili olup yerine işlenmiştir.)Madde8 – ( 27.6.1989 tarihli ve 375 sayılı Kanun Hükmünde Kararname ile ilgili olupyerine işlenmiştir.)"
+    },
+    {
+      "provision_ref": "gecici_madde1",
+      "chapter": "Geçici Maddeler",
+      "section": "G1",
+      "title": "Madde 1-",
+      "content": "Geçici Madde 1 - Madde 1-"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Ek: 12/7/2013-6495/89md",
+      "content": "Madde 1 - (Ek: 12/7/2013-6495/89md.)Bu maddenin yürürlüğe girdiğitarihten önce, yetim aylığı alan ve ücretsiz seyahat hakkı bulunanların bu aylıklarıalmaya devam ettikleri müddetçe ücretsiz seyahat hakkı saklıdır.Madde9 – Bu Kanunun;a) 4üncü Maddesinin (A), (B) ve (D) fıkraları 1.1.2002 tarihinden geçerli olmak üzereyayımı tarihinde,b) 4üncü maddesinin (C) fıkrası 1.3.2002 tarihinde,c) 5inci maddesi ile 6 ncı maddesinin son cümlesi 1.2.2002 tarihinde,d) 7nci maddesinin doğalgazla ilgili hükümleri 1.5.2002 tarihinde, diğer hükümleri 1.2.2002tarihinde,e) 8inci maddesi 15.1.2002 tarihinde,f) Diğerhükümleri yayımı tarihinde,yürürlüğegirer.Madde10 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.4736 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞEGİRİŞ TARİHLERİNİ GÖSTERİR TABLODeğiştiren Kanunun/ KHK’nin veya İptalEden Anayasa Mahkemesi Kararının Numarası4736 Sayılı Kanunun Değişen veya İptalEdilen MaddeleriYürürlüğe Giriş Tarihi64951, Geçici Madde 12/8/2013663717/4/2015KHK/698124/6/2018 tarihinde birlikteyapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanınınandiçerek göreve başladığı tarihte7153110/12/2018[1] 12/7/2013 tarihli ve 6495 sayılıKanunun 88 inci maddesiyle, bu fıkrada yer alan “malûl, yaşlı,” ibaresiyürürlükten kaldırılmıştır.[2] 12/7/2013 tarihli ve 6495 sayılıKanunun 88 inci maddesiyle, bu fıkrada yer alan “ilgili hükümleri” ibaresi “ilgilidiğer hükümleri” şeklinde değiştirilmiştir.[3] 2/7/2018 tarihli ve 698 sayılıKanun Hükmünde Kararnamenin 54 üncü maddesiyle bu fıkrada yer alan “BakanlarKurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.[4] 29/11/2018 tarihli ve 7153 sayılı Kanunun28 nci maddesiyle bu fıkraya “İçişleri” ibaresinden sonra gelmek üzere “, Çevreve Şehircilik” ibaresi eklenmiştir.[5] 12/7/2013 tarihli ve 6495 sayılıKanunun 88 inci maddesiyle, bu fıkrada yer alan “üçüncü fıkrada” ibaresi“beşinci fıkrada” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

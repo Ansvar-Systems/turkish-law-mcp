@@ -1,0 +1,20 @@
+{
+  "id": "khk-366",
+  "type": "statute",
+  "title": "657 SAYILI DEVLET MEMURLARI KANUNU, 926 SAYILI TÜRK SİLAHLI KUVVETLERİ PERSONEL KANUNU VE 3466 SAYILI UZMAN JANDARMA KANUNUNDA YER ALAN AYLIK GÖSTERGE RAKAMLA- RININ DEĞİŞTİRİLMESİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "657 SAYILI DEVLET MEMURLARI KANUNU, 9...",
+  "status": "in_force",
+  "issued_date": "1989-04-11",
+  "in_force_date": "1989-04-11",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=366&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanun Hükmünde Kararname uyarınca aylık gösterge rakamlarınınyeniden tespiti dolayısıyle aylıklarda meydana gelen artışlar hakkında 5434 sayılıT",
+      "content": "Madde 1 - Bu Kanun Hükmünde Kararname uyarınca aylık gösterge rakamlarınınyeniden tespiti dolayısıyle aylıklarda meydana gelen artışlar hakkında 5434 sayılıT.C. Emekli Sandığı Kanununun 14 üncü maddesinin (c) fıkrası hükmü uygulanmaz.Madde2 – BuKanun Hükmünde Kararname 15/4/l989 tarihinde yürürlüğe girer.Madde3 – BuKanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

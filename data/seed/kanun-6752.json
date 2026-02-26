@@ -1,0 +1,38 @@
+{
+  "id": "kanun-6752",
+  "type": "statute",
+  "title": "ANKARA İLİ KAZAN İLÇESİNİN ADININ KAHRAMANKAZAN OLARAK DEĞİŞTİRİLMESİNE VE ULUSAL BAYRAM VE GENEL TATİLLER HAKKINDA KANUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "title_en": "",
+  "short_name": "ANKARA İLİ KAZAN İLÇESİNİN ADININ KAH...",
+  "status": "in_force",
+  "issued_date": "2016-10-29",
+  "in_force_date": "2016-10-29",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6752&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Ankara iline bağlı Kazanilçesinin adı “Kahramankazan” olarak değiştirilmiştir",
+      "content": "Madde 1 - (1) Ankara iline bağlı Kazanilçesinin adı “Kahramankazan” olarak değiştirilmiştir."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "17/3/1981 tarihli ve 2429 sayılıUlusal Bayram ve Genel Tatiller Hakkında Kanunun 2 nci maddesinin birincifıkrasında yer alan “ve 1 Mayıs günü” ibareleri “, 1 Mayıs günü ve 15 Temmuzgünü” olarak ve bir",
+      "content": "Madde 2 - 17/3/1981 tarihli ve 2429 sayılıUlusal Bayram ve Genel Tatiller Hakkında Kanunun 2 nci maddesinin birincifıkrasında yer alan “ve 1 Mayıs günü” ibareleri “, 1 Mayıs günü ve 15 Temmuzgünü” olarak ve birinci fıkranın (C) bendi aşağıdaki şekilde değiştirilmiştir.“C) 1 Ocak günü yılbaşı tatili, 1Mayıs günü Emek ve Dayanışma Günü ve 15 Temmuz günü Demokrasi ve Milli Birlik Günü tatilidir.”"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 3 - (1)Bu Kanun yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 4 - (1)Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

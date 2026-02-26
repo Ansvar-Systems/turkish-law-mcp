@@ -1,0 +1,20 @@
+{
+  "id": "kanun-4639",
+  "type": "statute",
+  "title": "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ HAKKINDAKİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR YETKİ KANUNU",
+  "title_en": "",
+  "short_name": "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ HA...",
+  "status": "in_force",
+  "issued_date": "2001-04-13",
+  "in_force_date": "2001-04-13",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4639&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "BakanlarKurulu 1 inci madde ile verilen yetkiyi kullanırken kamu hizmetlerinin verimli veetkin bir şekilde yürütülmesini; Ülkenin ekonomik ve sosyal durumunu dikkate alarak,memurlar ve diğer kamu göre",
+      "content": "Madde 2 - BakanlarKurulu 1 inci madde ile verilen yetkiyi kullanırken kamu hizmetlerinin verimli veetkin bir şekilde yürütülmesini; Ülkenin ekonomik ve sosyal durumunu dikkate alarak,memurlar ve diğer kamu görevlilerinin mali ve sosyal haklarında hizmetin özellikve gereklerine uygun olarak adaletsizlikleri giderecek düzenlemeler yapılmasınıgöz önünde bulundurur.BuKanunla Bakanlar Kuruluna verilen yetki, Kanunun yayımından itibaren üç ay süreile geçerlidir. Bu süre içinde Bakanlar Kurulu birden fazla kanun hükmünde kararnameçıkarabilir.YürürlükMadde3 – BuKanun yayımı tarihinde yürürlüğe girer.YürütmeMadde4 –Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

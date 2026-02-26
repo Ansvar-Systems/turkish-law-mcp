@@ -2,7 +2,7 @@
   "name": "@ansvar/turkish-law-mcp",
   "version": "1.0.1",
   "mcpName": "eu.ansvar/turkish-law-mcp",
-  "description": "Turkish law database covering KVKK (Data Protection Law No. 6698), Law No. 5651 (Internet Regulation), TCK (Criminal Code cybercrime arts. 243-246), TTK (Commercial Code No. 6102), Law No. 6563 (Electronic Commerce), and BTK telecommunications regulations with full-text search",
+  "description": "Turkish law database covering 994 laws (898 Kanunlar + 63 KHK + 33 Presidential Decrees) with 21,732 provisions and 3,819 definitions from mevzuat.gov.tr — KVKK, Anayasa, Siber Guvenlik Kanunu, TCK, TTK, and more with full-text search",
   "author": "Ansvar Systems <hello@ansvar.eu>",
   "license": "Apache-2.0",
   "repository": {
@@ -47,6 +47,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
+    "census": "node --import tsx scripts/census.ts",
     "ingest": "node --import tsx scripts/ingest.ts",
     "test:contract": "vitest run __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",

@@ -1,0 +1,32 @@
+{
+  "id": "kanun-4771",
+  "type": "statute",
+  "title": "ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN",
+  "title_en": "",
+  "short_name": "ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMA...",
+  "status": "in_force",
+  "issued_date": "2002-08-09",
+  "in_force_date": "2002-08-09",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4771&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Mülga: 14/7/2004 – 5218/1 md",
+      "content": "Madde 1 - (Mülga: 14/7/2004 – 5218/1 md.)Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "(Mülga: 23/1/2003 - 4793/5 md",
+      "content": "Madde 2 - (Mülga: 23/1/2003 - 4793/5 md.)Geçici"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanunda öngörülen yönetmelikler, Kanunun yürürlük tarihinden itibarenbir yıl içinde yürürlüğe konulur",
+      "content": "Madde 3 - Bu Kanunda öngörülen yönetmelikler, Kanunun yürürlük tarihinden itibarenbir yıl içinde yürürlüğe konulur.YürürlükMadde13 - Bu Kanunun 6 ve 7 nci maddeleri, bu Kanunun yayımı tarihinden bir yıl sonra,diğer hükümleri yayımı tarihinde yürürlüğe girer.YürütmeMadde14 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.4771 SAYILI KANUNAEK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞTARİHİNİ GÖSTERİR LİSTEKanun, KHKNo.FarklıTarihte Yürürlüğe Giren MaddelerYürürlüğeGiriş Tarihi4793Geçici Madde24/2/20034928119/7/200352181, GeçiciMadde 121/7/2004$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

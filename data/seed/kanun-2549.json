@@ -1,0 +1,51 @@
+{
+  "id": "kanun-2549",
+  "type": "statute",
+  "title": "DEVLET MEZARLIĞI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "DEVLET MEZARLIĞI HAKKINDA KANUN",
+  "status": "in_force",
+  "issued_date": "1981-11-10",
+  "in_force_date": "1981-11-10",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2549&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "DevletMezarlığının tesisi ve idamesi için yapılacak harcamalarda 1050 sayılı MuhasebeiUmumiye Kanunu ile 2490 sayılı Artırma ve Eksiltme ve İhale Kanunu hükümleri uygulanmaz",
+      "content": "Madde 4 - DevletMezarlığının tesisi ve idamesi için yapılacak harcamalarda 1050 sayılı MuhasebeiUmumiye Kanunu ile 2490 sayılı Artırma ve Eksiltme ve İhale Kanunu hükümleri uygulanmaz.Yönetmelik:"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Bu Kanununuygulanması ile ilgili hususlar, kanunun yürürlüğe girmesinden itibaren üç ay içerisindeMilli Savunma Bakanlığınca çıkarılacak bir yönetmelikle düzenlenir",
+      "content": "Madde 5 - Bu Kanununuygulanması ile ilgili hususlar, kanunun yürürlüğe girmesinden itibaren üç ay içerisindeMilli Savunma Bakanlığınca çıkarılacak bir yönetmelikle düzenlenir."
+    },
+    {
+      "provision_ref": "ek_madde1",
+      "chapter": "Ek Maddeler",
+      "section": "E1",
+      "title": "Madde 1 –",
+      "content": "Ek Madde 1 - Madde 1 –"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Ek: 8/11/2006-5554/2 md",
+      "content": "Madde 1 - (Ek: 8/11/2006-5554/2 md.) Devlet Mezarlığına defnedilecekler hakkında kendisinin vasiyetiveya ailesinin talebi üzerine bu Kanun hükümleri uygulanmayabilir.(Ek fıkra: 28/1/2020-7218/1md.) 1 inci maddenin birinci fıkrasında sayılanların eşleri de vasiyetleri üzerineDevlet Mezarlığına defnedilebilir.Geçici"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Devlet Mezarlığına defnedilecek İstiklal Harbi Kamutanları(Kahramanları) Genelkurmay Başkanlığınca belirlenir ve bu mezarlığa Devletçe nakledilirler",
+      "content": "Madde 1 - Devlet Mezarlığına defnedilecek İstiklal Harbi Kamutanları(Kahramanları) Genelkurmay Başkanlığınca belirlenir ve bu mezarlığa Devletçe nakledilirler.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Anıtkabir bahçesine defnedilen Cemal Gürsel'in kabri DevletMezarlığına; devrim şehitlerinin ise, varsaeşleri, bulunmaması halinde anne ve babaları tarafından başka yere nakledilmemelerihalinde Ankara'",
+      "content": "Madde 2 - Anıtkabir bahçesine defnedilen Cemal Gürsel'in kabri DevletMezarlığına; devrim şehitlerinin ise, varsaeşleri, bulunmaması halinde anne ve babaları tarafından başka yere nakledilmemelerihalinde Ankara'daki askeri şehitliğe Devletçe nakledilirler.Yürürlük:Madde6 – BuKanun yayımı tarihinde yürürlüğe girer.Yürütme:Madde7 – BuKanunu Bakanlar Kurulu yürütür.2549 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİRENMEVZUATIN VEYAANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR TABLODeğiştiren Kanunun/ KHK’nin veya İptalEden Anayasa Mahkemesi Kararının Numarası2549 Sayılı Kanunun Değişen veya İptalEdilen MaddeleriYürürlüğe Giriş Tarihi55541, Ek Madde 110/11/2006KHK/698224/6/2018 tarihinde birlikteyapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanınınandiçerek göreve başladığı tarihte7218Ek Madde 11/1/2020 tarihinden geçerli olmak üzereyayımı tarihinde[1]2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 35 inci maddesiylebu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklindedeğiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

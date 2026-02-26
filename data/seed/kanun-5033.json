@@ -1,0 +1,32 @@
+{
+  "id": "kanun-5033",
+  "type": "statute",
+  "title": "KARŞILIKSIZ ÇEK VE PROTESTOLU SENETLER İLE KREDİ VE KREDİ KARTLARI BORÇLARINA İLİŞKİN KAYITLARIN DİKKATE ALINMAMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "KARŞILIKSIZ ÇEK VE PROTESTOLU SENETLE...",
+  "status": "in_force",
+  "issued_date": "2003-12-31",
+  "in_force_date": "2003-12-31",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5033&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Ödeme tarihi 23",
+      "content": "Madde 1 - Ödeme tarihi 23.12.2003 tarihinden önce olup da;kullandığı nakdî ve gayrî nakdî kredinin ödemelerini aksatan gerçek ve tüzelkişilerin, ticarî faaliyette bulunan ve bulunmayan gerçek kişilerin ve kredimüşterilerinin karşılıksız çıkan çek, protesto edilmiş senet, kredi kartı vediğer kredi borçlarına ilişkin kayıtları, söz konusu borçların bu Kanununyürürlüğe girdiği tarihten önce veya bu Kanunun yürürlüğe girdiği tarihtenitibaren üç ay içinde ödenmesi veya bankaca yeniden yapılandırılması halindeborcun tamamının ödenmesini müteakiben Merkez Bankasında tutulan kayıtlarısilinir.Merkez Bankasınca kayıtlarınsilinmesinden sonra, bankalar ve özel finans kurumlarınca yapılacakkredilendirme, çek karnesi verilmesi ve diğer bankacılık işlemlerinde silinmişkayıtlar dikkate alınmaz."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 2 - Bu Kanun yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 3 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kanun-2674",
+  "type": "statute",
+  "title": "KARASULARI KANUNU",
+  "title_en": "",
+  "short_name": "KARASULARI KANUNU",
+  "status": "in_force",
+  "issued_date": "1982-05-29",
+  "in_force_date": "1982-05-29",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2674&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Türkiyeile kıyıları bitişik veya karşılıklı olan Devletler arasında karasuları anlaşmaile sınırlandırılır",
+      "content": "Madde 2 - Türkiyeile kıyıları bitişik veya karşılıklı olan Devletler arasında karasuları anlaşmaile sınırlandırılır. Bu anlaşma bölgenin bütün ilgili özellikleri ve durumlarıgözönünde bulundurularak, hakkaniyet ilkesine göre yapılır.Madde3 – Karasularınıngenişliği, Cumhurbaşkanınca tespit edilecek esas hatlardan itibaren ölçülür. [2]Madde4 – Esashatların kara tarafında kalan sular ve körfez suları, Türk iç sularıdır. Daimiliman tesisleri kıyının bir parçası sayılır ve bu tesislerden en açıktaolanlarının kara tarafında kalan sular ve dış limanlar iç sulara dahildir.Madde5 – İçsuların dış sınırını belirleyen ve karasularının genişliğini ölçmekte esas olanhatlar, bu amaçla hazırlanan büyük ölçekli deniz haritalarında gösterilir.Madde6 – 15/5/1964tarih ve 476 sayılı Kanunla, diğer kanunların bu Kanuna aykırı hükümleriyürürlükten kaldırılmıştır.Madde7 – BuKanun yayımı tarihinde yürürlüğe girer.Madde8 – BuKanunu Bakanlar Kurulu yürütür.2674 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR TABLODeğiştiren Kanunun/ KHK’nin veyaİptal Eden Anayasa Mahkemesi Kararının Numarası2674 Sayılı Kanunun Değişen veyaİptal Edilen MaddeleriYürürlüğe Giriş TarihiKHK/6981, 324/6/2018 tarihindebirlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimlerisonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte[1] 2/7/2018 tarihli ve 698 sayılı Kanun HükmündeKararnamenin 36 ncı maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi“Cumhurbaşkanı” şeklinde değiştirilmiştir.[2] 2/7/2018 tarihli ve 698 sayılı Kanun HükmündeKararnamenin 36 ncı maddesiyle bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi“Cumhurbaşkanınca” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

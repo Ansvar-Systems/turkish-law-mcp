@@ -1,0 +1,26 @@
+{
+  "id": "kanun-3385",
+  "type": "statute",
+  "title": "KÜÇÜK SANAYİ BÖLGELERİ İÇİNDE DEVLETÇE İNŞA EDİLMİŞ ÖRNEK SANAYİ SİTESİ İŞ YERLERİNİN MÜLKİYETİNİN DEVREDİLMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "KÜÇÜK SANAYİ BÖLGELERİ İÇİNDE DEVLETÇ...",
+  "status": "in_force",
+  "issued_date": "1987-06-25",
+  "in_force_date": "1987-06-25",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3385&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunun yürürlüğe girdiği tarihte kanun kapsamınagiren işyerlerinde halen faaliyette bulunan küçük sanayicilerden; daha önceyatırımlarını gerçekleştiren, yatırımlarının uygun olduğuna dair komisyon",
+      "content": "Madde 1 - Bu Kanunun yürürlüğe girdiği tarihte kanun kapsamınagiren işyerlerinde halen faaliyette bulunan küçük sanayicilerden; daha önceyatırımlarını gerçekleştiren, yatırımlarının uygun olduğuna dair komisyonlarcaraporları tanzim edilen, aralıksız 5 yıl uygun faaliyette bulunduklarını tevsikeden ve talep tarihine kadar kira veya ecrimisil sebebi ile borçlarını datamamen ödeyenler 6 ay içinde başvurdukları takdirde bu Kanundanyararlanabilirler. Aksi halde bir ay içinde işyerlerinden tahliye ettirilirler.Kiracıolarak kalmak isteyenlerin hakları saklıdır.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Haklarında tahsis esaslarına veya taahhütlerineuymamaları sebebi ile tahliye işlemlerine başlananlar bu Kanundanfaydalanamazlar",
+      "content": "Madde 2 - Haklarında tahsis esaslarına veya taahhütlerineuymamaları sebebi ile tahliye işlemlerine başlananlar bu Kanundanfaydalanamazlar. Bu durumda olanlar, Kanunun neşir tarihinden itibaren 6 ayiçinde fizibilite raporlarına uygun ve 1986 yılından önce düzenlenmiş teknikkomisyon raporlarında belirtilen eksikliklerini gidereceklerini taahhüt ederekKanunun neşir tarihinden itibaren 1 ay içinde ilgili kuruluşa başvurup dahaönceki yıllara ait kira veya ecrimisil borçlarını bu sürede ödedikleritakdirde, 6 ayın hitamında yatırımlarını gerçekleştirmek şartıyla mülkiyetindevrini talep edebilirler. Aksi takdirde tahliye işlemi sonuçlandırılır.Madde5 – BuKanun yayımı tarihinde yürürlüğe girer.Madde6 – BuKanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

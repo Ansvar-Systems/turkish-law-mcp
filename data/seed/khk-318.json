@@ -1,0 +1,44 @@
+{
+  "id": "khk-318",
+  "type": "statute",
+  "title": "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ İLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ İL...",
+  "status": "in_force",
+  "issued_date": "1988-03-31",
+  "in_force_date": "1988-03-31",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=318&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "(9/3/1988 tarih ve 3417 sayılı Kanunun Geçicimaddesinin değiştirilmesiyle ilgili olup, yerine işlenmiştir",
+      "content": "Madde 6 - (9/3/1988 tarih ve 3417 sayılı Kanunun Geçicimaddesinin değiştirilmesiyle ilgili olup, yerine işlenmiştir.)"
+    },
+    {
+      "provision_ref": "madde7",
+      "section": "7",
+      "title": "(10/10/1984 tarih ve 3056 sayılı Kanunun 35",
+      "content": "Madde 7 - (10/10/1984 tarih ve 3056 sayılı Kanunun 35.maddesinin değiştirilmesiyle ilgili olup, yerine işlenmiştir.)"
+    },
+    {
+      "provision_ref": "madde8",
+      "section": "8",
+      "title": "(10/2/1954 tarih ve 6245 sayılı Kanunun 33",
+      "content": "Madde 8 - (10/2/1954 tarih ve 6245 sayılı Kanunun 33.maddesinin değiştirilmesiyle ilgili olup, yerine işlenmiştir.)Geçici"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "657 sayılı Devlet Memurları Kanununun 36 ncı maddesininOrtak Hükümler Bölümünün (A) bendinin 11 inci fıkrasında sayılan unvanları sözkonusufıkrada belirtilen şartlarla kazanmamış olmakla birlikte ilgi",
+      "content": "Madde 1 - 657 sayılı Devlet Memurları Kanununun 36 ncı maddesininOrtak Hükümler Bölümünün (A) bendinin 11 inci fıkrasında sayılan unvanları sözkonusufıkrada belirtilen şartlarla kazanmamış olmakla birlikte ilgili kanun, tüzük veyönetmelik hükümlerine dayanarak almış bulunanlardan bir derece yükseltmesindenyararlanmamış olanlar hakkında, bir defaya mahsus olmak üzere sözkonusu unvanlarıfıkrada gösterilen şekilde almış oldukları kabul edilmek suretiyle işlem yapılır.657sayılı Devlet Memurları Kanununun ek geçici 9 uncu maddesinde belirtilen kuruluşlardagörevli bulunanlar hakkında da yukarıdaki fıkra hükmü uygulanır.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "İlgili kanunlarında değişiklik yapılıncaya kadar, 233 sayılıKanun Hükmünde Kararname kapsamı dışında kalan ve yönetim kurulları ile idare edilenkanunla kurulu teşebbüs ve kurumların yönetim kurulu üye",
+      "content": "Madde 2 - İlgili kanunlarında değişiklik yapılıncaya kadar, 233 sayılıKanun Hükmünde Kararname kapsamı dışında kalan ve yönetim kurulları ile idare edilenkanunla kurulu teşebbüs ve kurumların yönetim kurulu üyesi genel müdür ve genelmüdür yardımcılarına kamu iktisadi teşebbüsleri yönetim kurulu üyeleri için öngörülenmiktarda ücret ve ek ödemede bulunulur.Madde9 – BuKanun Hükmünde Kararnamenin 2 nci ve geçici 2 nci maddeleri yayımını takip edenayın başında, diğer maddeleri yayımı tarihinde yürürlüğe girer.Madde10 – Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kuruluyürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

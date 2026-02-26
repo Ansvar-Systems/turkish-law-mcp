@@ -1,0 +1,20 @@
+{
+  "id": "kanun-2581",
+  "type": "statute",
+  "title": "DENİZ TİCARET FİLOSUNUN GELİŞTİRİLMESİ VE GEMİ İNŞA TESİSLERİNİN TEŞVİKİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "DENİZ TİCARET FİLOSUNUN GELİŞTİRİLMES...",
+  "status": "in_force",
+  "issued_date": "1982-01-21",
+  "in_force_date": "1982-01-21",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2581&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Yurtdışında inşa suretiyle veya hazır olarak satın alınan gemilerle, yurt içinde inşa,tadil veya onarılan gemilerde (yüzer havuzlar dahil) ve bu gemilerin donatım veseyirlerinde kullanılan makine, teç",
+      "content": "Madde 1 - Yurtdışında inşa suretiyle veya hazır olarak satın alınan gemilerle, yurt içinde inşa,tadil veya onarılan gemilerde (yüzer havuzlar dahil) ve bu gemilerin donatım veseyirlerinde kullanılan makine, teçhizat ve demirbaş ile gemi üretim tesislerinininşa, tadil, tevsi veya onarımlarında kullanılan makine, teçhizat ve demirbaşlar,ilgili mercilerin müsaadesi şartıyla gümrük vergisi ile ithalde alınan diğer vergive resimlerden (damga resmi dahil) muaftır.Kaldırılanhükümler:Madde2 – 21/3/1938tarihli ve 3339 sayılı Kanun yürürlükten kaldırılmıştır.Yürürlük:Madde3 –Bu Kanun yayımı tarihinde yürürlüğe girer.Yürütme:Madde4 – BuKanunu Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

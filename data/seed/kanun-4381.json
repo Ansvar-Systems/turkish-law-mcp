@@ -1,0 +1,38 @@
+{
+  "id": "kanun-4381",
+  "type": "statute",
+  "title": "SEÇİMLERLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI; TÜRKİYE BÜYÜK MİLLET MECLİSİNİN 21 İNCİ DÖNEM MİLLETVEKİLİ GENEL SEÇİMLERİ VE BİRLİKTE YAPILACAK MAHALLİ İDARELER GENEL SEÇİMLERİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "SEÇİMLERLE İLGİLİ BAZI KANUNLARDA DEĞ...",
+  "status": "in_force",
+  "issued_date": "1998-08-02",
+  "in_force_date": "1998-08-02",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4381&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Birlikte yapılmasına karar verilen 21 inci dönem Milletvekilive Mahalli İdareler Genel Seçimlerinde, seçim ve sandık kurullarına Türkiye BüyükMillet Meclisinde grubu bulunan partilerden ve grubu bulun",
+      "content": "Madde 1 - Birlikte yapılmasına karar verilen 21 inci dönem Milletvekilive Mahalli İdareler Genel Seçimlerinde, seçim ve sandık kurullarına Türkiye BüyükMillet Meclisinde grubu bulunan partilerden ve grubu bulunmamakla birlikte son genelseçimlerde o yerde en çok oy alan partiden birer üye alınır. Bu Kanunun yayımı tarihinitakip eden bir ay içinde yukarıdaki esaslara göre ilçe seçim kurulları yeniden oluşturulur.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "21 inci dönem Milletvekili ve Mahalli İdareler Genel Seçimlerindepropaganda amacıyla bayrak, flama ve benzeri malzemeler, cadde, sokak ve mahallelereasılamaz",
+      "content": "Madde 2 - 21 inci dönem Milletvekili ve Mahalli İdareler Genel Seçimlerindepropaganda amacıyla bayrak, flama ve benzeri malzemeler, cadde, sokak ve mahallelereasılamaz. Siyasi parti teşkilat binalarının önleri ile sadece miting süresince mitingyapılan meydanlar bu hükmün dışındadır. Bu madde hükmüne aykırı hareket edenlerhakkında 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun151 inci maddesinin birinci fıkrası hükmü uygulanır.Geçici"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Seçim suçlarından doğan kamu davası, seçimin bittiği tarihtenitibaren üç ay içinde açılmadığı takdirde kovuşturma yapılamaz",
+      "content": "Madde 3 - Seçim suçlarından doğan kamu davası, seçimin bittiği tarihtenitibaren üç ay içinde açılmadığı takdirde kovuşturma yapılamaz.Geçici"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Seçmen kütüğünde kaydı ve sandık listesinde oy kullanmayeterliliği bulunduğu halde 21 inci dönem Milletvekili ve Mahalli İdareler GenelSeçimlerine hukuki veya fiili mazeretleri olmaksızın katılmayanla",
+      "content": "Madde 4 - Seçmen kütüğünde kaydı ve sandık listesinde oy kullanmayeterliliği bulunduğu halde 21 inci dönem Milletvekili ve Mahalli İdareler GenelSeçimlerine hukuki veya fiili mazeretleri olmaksızın katılmayanlara, 2839 sayılıMilletvekili Seçimi Kanununun 63 üncü maddesinde gösterilen para cezası beş milyonlira olarak uygulanır.Madde9 – BuKanun yayımı tarihinde yürürlüğe girer.Madde10 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

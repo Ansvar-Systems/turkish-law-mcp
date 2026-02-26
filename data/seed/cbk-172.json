@@ -1,0 +1,20 @@
+{
+  "id": "cbk-172",
+  "type": "statute",
+  "title": "NÜFUS POLİTİKALARI KURULU HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 172)",
+  "title_en": "",
+  "short_name": "NÜFUS POLİTİKALARI KURULU HAKKINDA CU...",
+  "status": "in_force",
+  "issued_date": "2024-12-25",
+  "in_force_date": "2024-12-25",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=172&MevzuatTur=19&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Kurulun görev ve yetkileri şunlardır:a)Nüfus politikaları alanında genel koordinasyonu sağlamak",
+      "content": "Madde 4 - (1) Kurulun görev ve yetkileri şunlardır:a)Nüfus politikaları alanında genel koordinasyonu sağlamak.b) Nüfus politikalarının oluşturulması ve uygulanmasındagörev ve sorumluluğu bulunan kurum ve kuruluşlar arasında işbirliği sağlamak vebu kapsamda hazırlanacak eylem planı aracılığıyla planlı ve bütüncül biryaklaşımla çalışmaları koordine etmek.c) Nüfus politikaları ile ilgili yürütülenulusal ve uluslararası çalışmaları izlemek ve değerlendirmek, gerektiğindepolitika uygulamalarına yönelik etki analizleri yaptırmak.ç) Nüfus politikaları ile ilgiliçalışmalarda birden fazla kurumun görev ve yetki alanına giren hususlarda komitelerve/veya çalışma grupları oluşturmak ve bunların iş programları ile çalışma usulve esaslarını belirlemek.d)Demografik yapıda meydana gelen değişimler ile doğurganlık oranının azalmasınaneden olan faktörleri ve bunların ortaya çıkardığı sonuçları kapsamlı olarak incelemekve gerekli tedbirlerin alınmasını sağlamak.e)Doğurganlık hızının nüfusun yenilenme seviyesinin üzerinde tutulması ve ailekurumunun güçlendirilmesi suretiyle sağlıklı ve dinamik nüfus yapısının korunmasıiçin kısa, orta ve uzun vadeli politikaların oluşturulmasını sağlamak.f) Kurul kararları veeylem planının uygulama sonuçlarını değerlendirmek.(2) Kurul faaliyetleri ile Kurul kararlarıve eylem planının uygulama sonuçları Başkan tarafından Cumhurbaşkanına sunulur.SekretaryaMADDE5 -(1) Kurulun sekretarya hizmetlerini yürütmek üzere Aile ve Sosyal HizmetlerBakanlığınca bir bakan yardımcısı ve yeterli sayıda personel görevlendirilir.Sekretarya, Başkana karşı sorumludur.(2)Sekretaryanın görev ve yetkileri şunlardır:a)Kurulun görev alanına giren politika ve program önceliklerini yansıtan eylemplanının hazırlık, uygulama ve izleme çalışmalarını ilgili kurumlarla koordineederek yürütmek.b)Kurul toplantılarına yönelik üyelerin gündem önerilerini Başkanın onayınasunmak.c)Toplantı davetinin yapılması, gündeme ilişkin dokümanların üyelerlepaylaşılması ile diğer toplantı hazırlıklarını yürütmek.ç)Kurul toplantılarında alınan kararların uygulanmasına yönelik izleme vedeğerlendirme yapmak ve sonuçlarını Kurula sunmak.d)Kurul çalışmalarına ve eylem planının uygulanmasına yönelik Kurul toplantısıöncesi ilerleme raporlarını hazırlamak ve Başkana sunmak.e)Başkanı bilgilendirerek Kurul çalışmalarına ilişkin gerekli diğer faaliyetleriilgili kurum ve kuruluşlar, komiteler ve çalışma grupları ile işbirliği içindeyürütmek.f)Kurulun görev alanıyla ilgili Başkan tarafından verilen diğer işleri yapmak.YürürlükMADDE6-(1) Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer.YürütmeMADDE7-(1) Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

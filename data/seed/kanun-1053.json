@@ -1,0 +1,27 @@
+{
+  "id": "kanun-1053",
+  "type": "statute",
+  "title": "BELEDİYE TEŞKİLÂTI OLAN YERLEŞİM YERLERİNE  İÇME, KULLANMA VE ENDÜSTRİ SUYU TEMİNİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "BELEDİYE TEŞKİLÂTI OLAN YERLEŞİM YERL...",
+  "status": "in_force",
+  "issued_date": "1968-07-16",
+  "in_force_date": "1968-07-16",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1053&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "ek_madde1",
+      "chapter": "Ek Maddeler",
+      "section": "E1",
+      "title": "Madde 1 –",
+      "content": "Ek Madde 1 - Madde 1 –"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Ek:13/2/2011-6111/125 md",
+      "content": "Madde 1 - (Ek:13/2/2011-6111/125 md.)Barajlarda ve/veyatesislerde bu Kanunun 4 üncü maddesine göre veya diğer kanunlara istinadenbelirlenen maksat oranı veya oranları Cumhurbaşkanının onayı ile değiştirilebilir. [3]Madde11 – Bu kanun yayımı tarihinde yürürlüğe girer.Madde12 – Bu kanunu İçişleri, Maliye ve Enerji ve TabiiKaynaklar Bakanları yürütür.1053SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYAANAYASAMAHKEMESİ İPTAL KARARLARININYÜRÜRLÜĞEGİRİŞ TARİHLERİNİ GÖSTERİR TABLODeğiştiren Kanunun/KHK’nin veya İptal Eden AnayasaMahkemesi Kararının Numarası1053 sayılı Kanunun değişen veya iptal edilenmaddeleriYürürlüğe Giriş Tarihi5625Kanunun Adı, 1026/4/20076111Ek Madde 125/2/20117139428/4/2018KHK/698Ek Madde 124/6/2018 tarihinde birlikte yapılan Türkiye BüyükMillet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanınınandiçerek göreve başladığı tarihte7153410/12/2018[1]18/4/2007 tarihli ve 5625 sayılı Kanunun 4 üncü maddesiyle bu Kanunun adı “Ankara, İstanbul ve Nüfusu Yüzbinden Yukarı Olan Şehirlerde İçme, Kullanma veEndüstri Suyu Temini Hakkında Kanun” iken, metne işlendiği şekildedeğiştirilmiştir.[2]29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkrada yeralan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.[3]2/7/2018  tarihli ve 698  sayılı Kanun Hükmünde Kararnamenin 29 uncu maddesiile bu fıkrada  yer alan “Devlet Su İşleri Genel Müdürlüğünün bağlı olduğuBakanlığın teklifi ve Başbakanın” ibaresi “Cumhurbaşkanının” şeklindedeğiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

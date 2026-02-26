@@ -1,0 +1,32 @@
+{
+  "id": "kanun-4358",
+  "type": "statute",
+  "title": "VERGİ KİMLİK NUMARASI KULLANIMININ YAYGINLAŞTIRILMASI VE NOTERLİK KANUNU, İCRA VE İFLAS KANUNU TAPU KANUNU KARAYOLLARI TRAFİK KANUNU ÇEKLE ÖDEMELERİN DÜZENLENMESİ VE ÇEK HAMİLLERİNİN KORUNMASI HAKKINDA KANUN, BANKALAR KANUNU, POSTA KANUNU İLE PASAPORT KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "VERGİ KİMLİK NUMARASI KULLANIMININ YA...",
+  "status": "in_force",
+  "issued_date": "1998-04-04",
+  "in_force_date": "1998-04-04",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4358&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "(Çeşitli Kanunlarda değişiklik yapmakta olup ilgiliyerlerine işlenmiştir",
+      "content": "Madde 3 - (Çeşitli Kanunlarda değişiklik yapmakta olup ilgiliyerlerine işlenmiştir.)Maliye Bakanlığının düzenleme yetkisiMadde4 – Yaptıklarıtescil, izin, onay ve diğer işlemler nedeniyle bu işlemlere taraf veya muhatap olanlarınvergi kimlik numaralarını tespit ve kayıt ve belgelerinde gösterme mecburiyeti kapsamınaalınan gerçek ve tüzel kişiler ile kamu idare ve müesseselerine, mecburiyet kapsamınaalındıkları tarih itibariyle mevcut belge ve kayıtlarında vergi kimlik numarasınailişkin eksikliklerin giderilmesi için süre tespit etmeye, belge ve işlem türleriitibariyle uygulamanın başlangıç tarihlerini belirlemeye ve bu Kanunun uygulanmasıile ilgili usul ve esasları düzenlemeye Maliye Bakanlığı yetkilidir.Ceza hükümleri"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Özelkanunlar veya bu Kanun hükümleri uyarınca Maliye Bakanlığı tarafından getirilenvergi kimlik numarasını tespit etmek, belge, hesap ve kayıtlarında göstermek zorunluluğunauymayanlar hakkında 213 say",
+      "content": "Madde 5 - Özelkanunlar veya bu Kanun hükümleri uyarınca Maliye Bakanlığı tarafından getirilenvergi kimlik numarasını tespit etmek, belge, hesap ve kayıtlarında göstermek zorunluluğunauymayanlar hakkında 213 sayılı Vergi Usul Kanununun 353 üncü maddesinin 7 nci bendindeyazılı özel usulsüzlük cezası kesilir ve ayrıca, özel kanunlarında daha ağır birceza öngörülmediği takdirde, üç aydan bir yıla kadar hapis cezası hükmolunur. Şukadar ki kamu idarelerince yapılan işlemlerde bu cezanın muhatabı, ilgili mevzuatagöre belgeleri düzenlerken, hesap ve kayıtları tutarken vergi kimlik numarasınıtespit ve kaydetmekle yetkili ve görevli olanlardır.BuKanuna aykırı olarak vergi kimlik numaralarını gizleyen veya bilerek bu konuda gerçeğeaykırı beyanda bulunan veya sahte veya yanıltıcı belgeler ibraz edenler hakkındaüç aydan on aya kadar hapis cezasına hükmolunur.Tüzelkişiler, küçükler, kısıtlılar ile tüzel kişiliği olmayan teşekküller adına yukarıdayazılı fiillerin işlenmesi halinde uygulanacak hapis cezası bu fiilleri işleyenlerhakkında uygulanır.Geçici"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunun yayımı tarihinden önceki işlemler için bu Kanunhükümleri uygulanmaz",
+      "content": "Madde 1 - Bu Kanunun yayımı tarihinden önceki işlemler için bu Kanunhükümleri uygulanmaz.Madde6 – BuKanun yayımı tarihinde yürürlüğe girer.Madde7 – BuKanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

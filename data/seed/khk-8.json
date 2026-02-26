@@ -1,0 +1,20 @@
+{
+  "id": "khk-8",
+  "type": "statute",
+  "title": "657 SAYILI DEVLET MEMURLARI KANUNU İLE BU KANUNUN 1327 SAYILI KANUNLA DEĞİŞİK BAZI MADDELERİNİN DEĞİŞTİRİLMESİNE DAİR KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "657 SAYILI DEVLET MEMURLARI KANUNU İL...",
+  "status": "in_force",
+  "issued_date": "1973-10-18",
+  "in_force_date": "1973-10-18",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Durumları bu Kararname ile değiştirilen veya yenidengetirilen hükümlere uyanların intibakları 657 sayılı Kanunun değişik 36 ncımaddesinin bu Kararnameyle değişik hükümleri ile 2 ve 5 sayılı Kanun Hükm",
+      "content": "Madde 1 - Durumları bu Kararname ile değiştirilen veya yenidengetirilen hükümlere uyanların intibakları 657 sayılı Kanunun değişik 36 ncımaddesinin bu Kararnameyle değişik hükümleri ile 2 ve 5 sayılı Kanun HükmündeKararnamelerin geçici 1 - 4 üncü maddeleri hükümleri de gözönünde bulundurularakve söz konusu geçici maddelerdeki tarihlerden geçerli olmak üzere yenidendüzenlenir. Ancak intibak ve kadro işlemlerinin tamamlanması 28/2/1974 tarihinigeçemez.Madde24 – Bu Kararnamenin 6 ncı maddesi hükmü, 1/12/1973tarihinde, diğer hükümleri yayımı tarihinde yürürlüğe girer.Madde25 – Bu Kararname hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "kanun-6324",
+  "type": "statute",
+  "title": "İZMİR EXPO ALANI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "İZMİR EXPO ALANI HAKKINDA KANUN",
+  "status": "in_force",
+  "issued_date": "2012-06-15",
+  "in_force_date": "2012-06-15",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6324&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunun amacı, 2020 yılında gerçekleştirilecek EXPO Fuar Organizasyonuiçin aday olan İzmir ilinde EXPO Fuar Organizasyonunun gerçekleştirileceği alaniçin yer belirlenmesi, belirlenen alanın ve yakı",
+      "content": "Madde 1 - (1) Bu Kanunun amacı, 2020 yılında gerçekleştirilecek EXPO Fuar Organizasyonuiçin aday olan İzmir ilinde EXPO Fuar Organizasyonunun gerçekleştirileceği alaniçin yer belirlenmesi, belirlenen alanın ve yakın çevresinin planlanması vealanda yapılacak imar uygulamalarına ilişkin usul ve esasları belirlemektir.EXPO alanı"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "İzmir ili, Balçova ilçesinde yer alan İzmir-İnciraltı Turizm Merkezininİnciraltı kesiminde 17/8/2011 tarihinde Kültür ve Turizm Bakanlığı tarafındanonaylanan 1/25",
+      "content": "Madde 2 - (1) İzmir ili, Balçova ilçesinde yer alan İzmir-İnciraltı Turizm Merkezininİnciraltı kesiminde 17/8/2011 tarihinde Kültür ve Turizm Bakanlığı tarafındanonaylanan 1/25.000 ölçekli Çevre Düzeni Planında büyük kentsel yeşil alanolarak planlanan ve 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun 18 incimaddesi kapsamında düzenleme ortaklık payı ile elde edilecek alan ve eklikrokide sınır ve koordinatları gösterilen alan, EXPO alanı olarakbelirlenmiştir.Planlama ve uygulamayailişkin esaslar"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "EXPO alanında imar uygulaması, İzmir-İnciraltı Turizm Merkezinin İnciraltıkesiminde 1/5",
+      "content": "Madde 3 - (1) EXPO alanında imar uygulaması, İzmir-İnciraltı Turizm Merkezinin İnciraltıkesiminde 1/5.000 ölçekli Koruma Amaçlı Nazım İmar Planı ve 1/1.000 ölçekliKoruma Amaçlı Uygulama İmar Planının ilgili mevzuat kapsamında onaylanmasınımüteakip İzmir Büyükşehir Belediyesi ve Balçova Belediyesince öncelikleyapılır. Bu planların 2 nci maddeye göre belirlenen EXPO alanı dışında kalankısımları sağlık, turizm ve nitelikli konut amaçlı planlanır. İmarplanlamalarında ihtiyaç duyulan yol düzenlemeleri için yeterli alan ayrılır.Yapılaşmaya esas inşaat hakkı, emsal (E)=0,80’i ve dört katı geçemez.(2) EXPO alanında İzmirBüyükşehir Belediyesi ve Balçova Belediyesinin görüşü alınarak EXPO 2020 İzmirYönlendirme Kurulu tarafından hazırlanan ve Kültür ve Turizm Bakanlığı ileÇevre ve Şehircilik Bakanlığınca uygun görülen vaziyet planları doğrultusundasabit olmayan, sökülüp takılabilir nitelikte geçici yapı elemanlarıkullanılarak ihtiyaç duyulan kullanım alanları oluşturulur. Organizasyonunbitimini takip eden bir yıl içinde bu yapılar kaldırılarak EXPO alanı büyükkentsel yeşil alan olarak düzenlenir. Ancak, EXPO alanının yüzde üçünü geçmemekkaydıyla EXPO’ya ilişkin simgesel yapılar korunabilir.(3) EXPO alanına ilişkin ruhsatişlemleri; jeolojik, jeofizik ve jeoteknik etütler ile zemin etüt raporlarıesas alınarak mahalli idareler tarafından tanzim ve takip edilir.(4) EXPO alanındayapılacak olan planlama, imar uygulamaları ve düzenlemeler, diğer mevzuatta yeralan kısıtlamalara ve prosedürlere tabi değildir.Yürürlük"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 4 - (1) Bu Kanun yayımı tarihinde yürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 5 - (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

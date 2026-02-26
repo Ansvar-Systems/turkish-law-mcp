@@ -1,0 +1,26 @@
+{
+  "id": "kanun-3964",
+  "type": "statute",
+  "title": "KARADENİZ EKONOMİK İŞBİRLİĞİ ULUSLARARASI SEKRETARYASI İLE KARADENİZ EKONOMİK İŞBİRLİĞİ PARLAMENTER ASAMBLESİ ULUSLARARASI SEKRETARYASININ TÜRKİYE´DE YARARLANACAĞI AYRICALIKLAR,BAĞIŞIKLIKLAR VE KOLAYLIKLARA DAİR KANUN",
+  "title_en": "",
+  "short_name": "KARADENİZ EKONOMİK İŞBİRLİĞİ ULUSLARA...",
+  "status": "in_force",
+  "issued_date": "1994-02-01",
+  "in_force_date": "1994-02-01",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3964&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "25",
+      "content": "Madde 1 - 25.6.1992tarihinde imzalanan \"Karadeniz Ekonomik İşbirliği Zirve Deklarasyonu\"ile ihdas edilmiş bulunan Karadeniz Ekonomik İşbirliği'ne (KEI) Katılan Devletlerinİstanbul'da kurulmasını kararlaştırdıkları Karadeniz Ekonomik İşbirliği UluslararasıSekretaryası ile 26.2.1993 tarihinde imzalanan \"Karadeniz Ekonomik İşbirliğiParlamenter Asamblesi Kuruluş Deklarasyonu\" ile oluşturulan Karadeniz Ekonomikİşbirliği Parlamenter Asamblesi'nin (KEIPA) İstanbul'daki Uluslararası SekretaryasıTürkiye Cumhuriyeti'nde tüzelkişiliğe sahiptir.Sekretarya ve SekretaryaÇalışanlarının Yararlanacağı Ayrıcalıklar, Bağışıklıklar ve KolaylıklarMadde2 – a)Sekreteryalar Türkiye Cumhuriyetinin 21 Mart 1950 tarihince katıldığı, 13 Şubat1946 tarihli Birleşmiş Milletler'in Ayrıcalık ve Muafiyetlerine Dair Sözleşme'ninI inci maddesinin hükümlerine, II nci maddesinin 6 ncı bent dışındaki hükümlerineve III ncü maddesinin 10 uncu bent dışındaki hükümlerine mümasil hükümlere tabiolacaklardır.b)Sekreteryalarda çalışan Direktör, Direktör Yardımcıları, Genel Sekreter, Genel SekreterYardımcıları, Uzman, Uzman Yardımcıları, İdari ve Teknik Personel Türkiye Cumhuriyeti'nin21 Mart 1950 tarihinde katıldığı, 13 Şubat 1946 tarihli Birleşmiş Milletler'in Ayrıcalıkve Muafiyetlerine Dair Sözleşme'nin V inci maddesinin 18, 20 ve 21 inci bentlerindeifade edilen mümasil hükümlere tabi olacaklardır.UygulamaMadde3 – TürkiyeCumhuriyeti Dışişleri Bakanlığı bu yasadaki dokunulmazlık, ayrıcalık, bağışıklıkve kolaylıkların uygulanmasına ilişkin usulleri yönetmelik ile tespit eder.Kapsam"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "TürkiyeCumhuriyeti vatandaşları ile Türkiye'de daimi ikamet eden kimseler yukarıda öngörülenayrıcalık, bağışıklık, dokunulmazlık ve kolaylıklardan yararlanamazlar",
+      "content": "Madde 4 - TürkiyeCumhuriyeti vatandaşları ile Türkiye'de daimi ikamet eden kimseler yukarıda öngörülenayrıcalık, bağışıklık, dokunulmazlık ve kolaylıklardan yararlanamazlar.YürürlükMadde5 – BuKanun yayımlandığı tarihte yürürlüğe girer.YürütmeMadde6 – BuKanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

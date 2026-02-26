@@ -1,0 +1,26 @@
+{
+  "id": "kanun-697",
+  "type": "statute",
+  "title": "ULAŞTIRMA VE HABERLEŞME HİZMETLERİNİN OLAĞANÜSTÜ HALLERDE VE SAVAŞTA NE SURETLE YÜRÜTÜLECEĞİNE DAİR KANUN",
+  "title_en": "",
+  "short_name": "ULAŞTIRMA VE HABERLEŞME HİZMETLERİNİN...",
+  "status": "in_force",
+  "issued_date": "1965-07-26",
+  "in_force_date": "1965-07-26",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=697&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Yukarıdakimaddeye göre hazırlanan planların aksatılmadan yürütülebilmesini sağlamak için,lüzumlu görülecek araç, malzeme, tesis, fabrika ve atelyelerin bu kanunkapsamına giren daire, teşekkül, müesses",
+      "content": "Madde 3 - Yukarıdakimaddeye göre hazırlanan planların aksatılmadan yürütülebilmesini sağlamak için,lüzumlu görülecek araç, malzeme, tesis, fabrika ve atelyelerin bu kanunkapsamına giren daire, teşekkül, müessese ve ortaklıklar elinde bırakılmasıveya lüzumlu görülecek araç, malzeme, tesis, fabrika, atelye ve personelinbunların emrine tahsisi için yapılacak işlem Genelkurmay Başkanlığınınmütalâası alınmak şartı ile Milli Savunma, İçişleri ve Ulaştırma Bakanlığıncamüştereken tesbit olunur.Madde4 –Olağanüstü hallerde ve savaşta kritik harekat alanlarının bir kısmının veyatamamının ulaştırma ve haberleşme harekat kontrolu veya gereğinde özelbirlikler vasıtası ile işletme yetkisi, Genelkurmay Başkanlığının istemiüzerine Ulaştırma Bakanlığınca Türk Silahlı Kuvvetlerine verilir.Barıştaaskeri icaplardan dolayı ulaştırma ve haberleşme tesis ve yerlerinden Türk SilahlıKuvvetleri Cumhurbaşkanı kararı ile faydalanır. [1]Madde5 – BuKanun kapsamına giren daire, teşekkül, müessese ve ortaklıklar olağanüstühallerde ve savaşta, 2 nci maddedeki planlara göre yürütecekleri hizmetleringerektirdiği masrafları kendi kaynaklarından karşılarlar. Ancak bu teşekküllerinmali durumları hazırlanan planları yürütmeye kafi gelmediği takdirde: O yılplanın karşılanmıyan kısımları için gerekli ödenek genel bütçeden karşılanır.Bu ödeneğin sarf şekli Milli Savunma, Ulaştırma ve Maliye Bakanlıklarıncamüştereken tesbit edilir."
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "Olağanüstü hallerde ve savaşta mevcut ödenek yetmediği ve yeni ödenekalınmasına da vakit müsait olmadığı takdirde Ulaştırma Bakanlığının direktif vekoordinatörlüğündeki ulaştırma ve haberleşme işlerin",
+      "content": "Madde 6 - Olağanüstü hallerde ve savaşta mevcut ödenek yetmediği ve yeni ödenekalınmasına da vakit müsait olmadığı takdirde Ulaştırma Bakanlığının direktif vekoordinatörlüğündeki ulaştırma ve haberleşme işlerinin durmaksızıngörülebilmesini sağlamak üzere Muhasebei Umumiye Kanununun 58 inci maddesihükmünü uygulamaya Cumhurbaşkanı yetkilidir. [2]Madde7 –Bu Kanunun uygulanmasına ait esaslar Cumhurbaşkanınca tesbit edilir. [3]Madde8 – 4655sayılı Kanun ve bu kanuna aykırı diğer hükümleri yürürlükten kaldırılmıştır.Madde9 – BuKanun yayımı tarihinde yürürlüğe girer.Madde10 – Bu Kanunu Bakanlar Kurulu yürütür.697 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ İPTAL KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR LİSTEDeğiştirenKanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası697 SayılıKanunun Değişen veya İptal Edilen MaddeleriYürürlüğeGiriş TarihiKHK/7004, 6, 724/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi veCumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek görevebaşladığı tarihte (9/7/2018)[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 54 üncümaddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”şeklinde değiştirilmiştir.[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 54 üncümaddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”şeklinde değiştirilmiştir.[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 54 üncümaddesiyle, bu maddede yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca”şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

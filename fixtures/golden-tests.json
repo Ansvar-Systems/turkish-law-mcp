@@ -1,21 +1,21 @@
 {
   "$schema": "./golden-tests.schema.json",
-  "version": "1.0",
+  "version": "2.0",
   "mcp_name": "Turkish Law MCP",
-  "description": "Golden contract tests for the Turkish Law MCP covering KVKK (Data Protection Law No. 6698), Law No. 5651 (Internet Regulation), TCK (Criminal Code cybercrime arts. 243-246), TTK (Commercial Code No. 6102), Law No. 6563 (Electronic Commerce), and BTK regulations",
+  "description": "Golden contract tests for the Turkish Law MCP covering 994 Turkish laws — Kanunlar, KHK, Cumhurbaşkanlığı Kararnameleri — from mevzuat.gov.tr with 21,732 provisions and 3,819 definitions",
   "tests": [
     {
       "id": "tr-001",
       "category": "article_retrieval",
-      "description": "Retrieve Madde 1 of KVKK (Law No. 6698) -- purpose of the Personal Data Protection Law (amac)",
+      "description": "Retrieve Madde 1 of KVKK (Law No. 6698) -- purpose of the Personal Data Protection Law (amaç)",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Kisisel Verilerin Korunmasi Kanunu",
+        "law_identifier": "Kişisel Verilerin Korunması Kanunu",
         "article": "1"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["kisisel veri", "koruma", "islenmesi"],
+        "any_result_contains": ["kişisel veri", "koruma", "işlenmesi"],
         "fields_present": ["text", "article_number"],
         "text_not_empty": true
       }
@@ -23,15 +23,15 @@
     {
       "id": "tr-002",
       "category": "article_retrieval",
-      "description": "Retrieve Madde 243 of the Turk Ceza Kanunu (TCK) -- bilisim sistemine girme (unauthorized access to information system)",
+      "description": "Retrieve Madde 1 of İklim Kanunu (Law No. 7552) -- purpose of the Climate Law",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Turk Ceza Kanunu",
-        "article": "243"
+        "law_identifier": "İklim Kanunu",
+        "article": "1"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["bilisim sistemi", "girilmesi", "erisim"],
+        "any_result_contains": ["iklim", "sera gazı", "emisyon"],
         "fields_present": ["text", "article_number"],
         "text_not_empty": true
       }
@@ -39,15 +39,15 @@
     {
       "id": "tr-003",
       "category": "article_retrieval",
-      "description": "Retrieve Madde 1 of the Turk Ticaret Kanunu (TTK, Law No. 6102) -- scope of the Commercial Code",
+      "description": "Retrieve Madde 1 of Siber Güvenlik Kanunu (Law No. 7545) -- purpose of the Cybersecurity Law",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Turk Ticaret Kanunu",
+        "law_identifier": "Siber Güvenlik Kanunu",
         "article": "1"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["ticaret", "ticari"],
+        "any_result_contains": ["siber", "güvenlik"],
         "fields_present": ["text", "article_number"],
         "text_not_empty": true
       }
@@ -55,15 +55,15 @@
     {
       "id": "tr-004",
       "category": "article_retrieval",
-      "description": "Retrieve Madde 1 of Law No. 5651 -- purpose and scope of internet regulation",
+      "description": "Retrieve Madde 20 of the Constitution (Law No. 2709) -- right to privacy",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "5651 Sayili Kanun",
-        "article": "1"
+        "law_identifier": "Türkiye Cumhuriyeti Anayasası",
+        "article": "20"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["internet", "icerik", "erisim"],
+        "any_result_contains": ["özel hayat", "kişisel veri"],
         "fields_present": ["text", "article_number"],
         "text_not_empty": true
       }
@@ -71,35 +71,35 @@
     {
       "id": "tr-005",
       "category": "search",
-      "description": "Full-text search for 'kisisel veri' (personal data) returns KVKK provisions",
+      "description": "Full-text search for 'kişisel veri' (personal data) returns KVKK provisions",
       "tool": "search_legislation",
       "input": {
-        "query": "kisisel veri"
+        "query": "kişisel veri"
       },
       "assertions": {
         "result_not_empty": true,
         "min_results": 1,
-        "any_result_contains": ["kisisel veri", "koruma", "isleme"]
+        "any_result_contains": ["kişisel veri", "koruma", "işleme"]
       }
     },
     {
       "id": "tr-006",
       "category": "search",
-      "description": "Full-text search for 'siber guvenlik' (cybersecurity) returns related provisions",
+      "description": "Full-text search for 'siber güvenlik' (cybersecurity) returns related provisions",
       "tool": "search_legislation",
       "input": {
-        "query": "siber guvenlik"
+        "query": "siber güvenlik"
       },
       "assertions": {
         "result_not_empty": true,
         "min_results": 1,
-        "any_result_contains": ["siber", "guvenlik", "bilisim", "bilgi"]
+        "any_result_contains": ["siber", "güvenlik", "bilişim", "bilgi"]
       }
     },
     {
       "id": "tr-007",
       "category": "search",
-      "description": "Full-text search for 'elektronik ticaret' (electronic commerce) returns Law No. 6563 provisions",
+      "description": "Full-text search for 'elektronik ticaret' (electronic commerce) returns provisions",
       "tool": "search_legislation",
       "input": {
         "query": "elektronik ticaret"
@@ -107,17 +107,17 @@
       "assertions": {
         "result_not_empty": true,
         "min_results": 1,
-        "any_result_contains": ["elektronik ticaret", "ticari iletisim", "hizmet"]
+        "any_result_contains": ["elektronik ticaret", "ticari iletişim", "hizmet"]
       }
     },
     {
       "id": "tr-008",
       "category": "citation_roundtrip",
-      "description": "Citation for KVKK Madde 2 includes mevzuat.gov.tr URL pattern",
+      "description": "Citation for KVKK Madde 3 includes mevzuat.gov.tr URL pattern",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Kisisel Verilerin Korunmasi Kanunu",
-        "article": "2"
+        "law_identifier": "Kişisel Verilerin Korunması Kanunu",
+        "article": "3"
       },
       "assertions": {
         "result_not_empty": true,
@@ -127,30 +127,30 @@
     },
     {
       "id": "tr-009",
-      "category": "citation_roundtrip",
-      "description": "Citation for TTK Madde 1 includes Resmi Gazete reference",
-      "tool": "get_provision",
+      "category": "search",
+      "description": "Full-text search for 'ceza' (penalty) returns penal code and other provisions",
+      "tool": "search_legislation",
       "input": {
-        "law_identifier": "Turk Ticaret Kanunu",
-        "article": "1"
+        "query": "ceza"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["Resmi Gazete"],
-        "text_not_empty": true
+        "min_results": 5,
+        "any_result_contains": ["ceza", "suç", "hapis"]
       }
     },
     {
       "id": "tr-010",
-      "category": "eu_cross_reference",
-      "description": "KVKK cross-reference to GDPR -- Turkey is EU candidate with adequacy negotiations; KVKK modeled on EU DPD 95/46/EC with GDPR alignment ongoing",
-      "tool": "get_provision_eu_basis",
+      "category": "search",
+      "description": "Full-text search for 'veri sorumlusu' returns KVKK data controller provisions",
+      "tool": "search_legislation",
       "input": {
-        "law_identifier": "Kisisel Verilerin Korunmasi Kanunu"
+        "query": "veri sorumlusu"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679", "95/46", "EU candidate"]
+        "min_results": 1,
+        "any_result_contains": ["veri sorumlusu", "kişisel veri"]
       }
     },
     {
@@ -159,7 +159,7 @@
       "description": "Non-existent Turkish law returns graceful error or empty result",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Kuantum Bilisim Kanunu 9999",
+        "law_identifier": "Kuantum Bilişim Kanunu 9999",
         "article": "1"
       },
       "assertions": {
@@ -172,7 +172,7 @@
       "description": "Malformed article number returns graceful error or empty result",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Kisisel Verilerin Korunmasi Kanunu",
+        "law_identifier": "Kişisel Verilerin Korunması Kanunu",
         "article": "999ZZZ-INVALID"
       },
       "assertions": {

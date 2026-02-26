@@ -1,0 +1,493 @@
+{
+  "id": "kanun-6493",
+  "type": "statute",
+  "title": "ÖDEME VE MENKUL KIYMET MUTABAKAT SİSTEMLERİ, ÖDEME HİZMETLERİ VE ELEKTRONİK PARA KURULUŞLARI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "ÖDEME VE MENKUL KIYMET MUTABAKAT SİST...",
+  "status": "in_force",
+  "issued_date": "2013-06-27",
+  "in_force_date": "2013-06-27",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6493&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunun amacı,ödeme ve menkul kıymet mutabakat sistemlerine , ödeme hizmetlerine, ödeme kuruluşlarına ve elektronikpara kuruluşlarına ilişkin usul ve esasları düzenlemektir",
+      "content": "Madde 1 - (1) Bu Kanunun amacı,ödeme ve menkul kıymet mutabakat sistemlerine , ödeme hizmetlerine, ödeme kuruluşlarına ve elektronikpara kuruluşlarına ilişkin usul ve esasları düzenlemektir.Kapsam"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanun, ödeme ve menkul kıymetmutabakat sistemlerini, ödeme hizmetlerini, ödeme kuruluşları ile elektronik parakuruluşlarını kapsar",
+      "content": "Madde 2 - (1) Bu Kanun, ödeme ve menkul kıymetmutabakat sistemlerini, ödeme hizmetlerini, ödeme kuruluşları ile elektronik parakuruluşlarını kapsar.Tanımlar"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanunun uygulanmasında;a) Alıcı: Ödeme işlemine konu fonun ulaşması istenen gerçekveya tüzel kişiyi,b) Banka: Türkiye Cumhuriyet Merkez Bankası Anonim Şirketini,c) Elektronik haberleşme işletmecisi",
+      "content": "Madde 3 - (1) Bu Kanunun uygulanmasında;a) Alıcı: Ödeme işlemine konu fonun ulaşması istenen gerçekveya tüzel kişiyi,b) Banka: Türkiye Cumhuriyet Merkez Bankası Anonim Şirketini,c) Elektronik haberleşme işletmecisi: 5/11/2008 tarihlive 5809 sayılı Elektronik Haberleşme Kanunu çerçevesinde tanımlanan işletmeciyi,ç) Elektronik para: Elektronik para ihraç eden kuruluştarafından kabul edilen fon karşılığı ihraç edilen, elektronik olarak saklanan,bu Kanunda tanımlanan ödeme işlemlerini gerçekleştirmek için kullanılan ve elektronikpara ihraç eden kuruluş dışındaki gerçek ve tüzel kişiler tarafından da ödeme aracıolarak kabul edilen parasal değeri,d) Elektronik para kuruluşu: Bu Kanun kapsamında elektronikpara ihraç etme yetkisi verilen tüzel kişiyi,e) Fon: Banknot, madeni para, kaydi para veya elektronikparayı,f) Gönderen: Kendi ödeme hesabından veya ödeme hesabı bulunmaksızınödeme emri veren gerçek veya tüzel kişiyi,g) Katılımcı: Sisteme katılarak doğrudan transfer emriverme yetkisi bulunan ve sistem kurallarına uymakla yükümlü tüzel kişiyi,ğ) Kişisel güvenlik bilgileri: Ödeme aracı ile işlem gerçekleştirirkenkullanılabilecek şifre, son kullanma tarihi, güvenlik numarası gibi ödeme aracınıve ödeme aracı kullanıcısının kimliğini belirleyici bilgileri,h) Kontrol: Bir tüzel kişinin; sermayesinin, asgari yüzdeelli birine sahip olma şartı aranmaksızın, çoğunluğuna doğrudan veya dolaylı olaraksahip olunması veya bu çoğunluğa sahip olunmamakla birlikte imtiyazlı hisselerinelde bulundurulması veya diğer hissedarlarla yapılan anlaşmalara istinaden oy hakkınınçoğunluğu üzerinde tasarrufta bulunulması suretiyle veya herhangi bir suretle yönetimkurulu üyelerinin karara esas çoğunluğunu atayabilme ya da görevden alma gücününelde bulundurulmasını,ı) Kurul: Bankacılık Düzenleme ve Denetleme Kurulunu,i) Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu,j) Menkul kıymet mutabakat sistemi: Üç veya daha fazlakatılımcı arasındaki transfer emirlerinden kaynaklanan menkul kıymet aktarımlarınıngerçekleştirilmesini sağlamak amacıyla yapılan takas ve mutabakat işlemleri içingerekli altyapıyı sunan ve ortak kuralları olan yapıyı,k) Merkezî karşı taraf: Bir veya daha fazla piyasada işlemgören finansal sözleşmelerin tarafları arasında alıcıya karşı satıcı, satıcıya karşıda alıcı rolünü üstlenerek işlemlerin tamamlanmasını taahhüt eden kuruluşu,l) Mutabakat: İki ya da daha fazla taraf arasındaki fonya da menkul kıymet aktarımından kaynaklanan yükümlülüklerin yerine getirilmesini,m) Mutabakat hesabı: Banka, bir mutabakat kuruluşu veyamerkezi karşı taraf nezdinde bulunan, fon veya menkul kıymetleri muhafaza etmekve sistemdeki katılımcılar arasındaki işlemlerin mutabakatını sağlamak amacıylakullanılan hesabı,n) Mutabakat kuruluşu: Nezdinde mutabakat hesabı bulunduranve gerektiğinde katılımcıya mutabakat amacıyla kredi verebilen kuruluşu,o) Netleştirme: Bir katılımcının gönderdiğive aldığı transfer emirlerinden kaynaklanan alacak ve borçların karşılıklı mahsupedilerek tek bir alacak veya borca dönüştürülmesini,ö) Ödeme aracı: Ödeme hizmeti sağlayıcısı ile kullanıcısıarasında belirlenen ve ödeme hizmeti kullanıcısı tarafından ödeme emrini vermekiçin kullanılan kart, cep telefonu, şifre ve benzeri kişiye özel aracı,p) Ödeme emri: Ödeme hizmeti kullanıcısı tarafından ödemeişleminin gerçekleşmesi amacıyla ödeme hizmeti sağlayıcısına verilen talimatı,r) Ödeme hesabı: Ödeme hizmeti kullanıcısı adına açılanve ödeme işleminin yürütülmesinde kullanılan hesabı,s) Ödeme hizmeti: Bu Kanunun 12 nci maddesinde belirtilenhizmetleri,ş) Ödeme hizmeti kullanıcısı: Gönderen, alıcı veya herikisi sıfatıyla belirli bir ödeme hizmetinden faydalanan gerçek veya tüzel kişiyi,t) Ödeme hizmeti sağlayıcısı: Bu Kanunun 13 üncü maddesindebelirtilen kuruluşları,u) Ödeme işlemi: Gönderen veya alıcının talimatı üzerinegerçekleştirilen fon yatırma, aktarma veya çekme faaliyetini,ü) Ödeme kuruluşu: Ödeme hizmeti sağlamak ve gerçekleştirmekiçin bu Kanun kapsamında yetkilendirilmiş tüzel kişiyi,v) Ödeme sistemi: Üç veya daha fazla katılımcı arasındakitransfer emirlerinden kaynaklanan fon aktarımlarının gerçekleştirilmesini sağlamakamacıyla yapılan takas ve mutabakat işlemleri için gerekli altyapıyı sunan ve ortakkuralları olan yapıyı,y) Para havalesi: Gönderenveya alıcı adına herhangi bir hesap açılmaksızın gönderenin, alıcıya veya alıcıadına hareket eden ödeme hizmeti sağlayıcısına fon aktarımı gerçekleştirdiği ödemehizmetini,z) Sistem: Ödeme sistemi ve menkul kıymet mutabakat sistemini,aa) Sistem işleticisi: Sistemin günlük işleyişinden sorumluolan ve sistem işletimi için gerekli olan faaliyet iznine sahip tüzel kişiyi,bb) Takas: Sisteme gönderilen transfer emirlerinin aktarımı,bu emirlerin karşılıklı olarak iletilmesine ve mutabakat öncesi provizyon alındığıdurumlarda provizyon alınmasına aracılık edilmesi ve bazı durumlarda bu emirlerinnetleştirilmesi işlemlerini,cc) Takas odası: Katılımcıların net borç veya alacak durumununhesaplanmasından sorumlu kuruluşu,çç) Transfer emri:1) Belirli miktarda fonun sistem içerisinde katılımcılararasında devrolunmasına ilişkin katılımcı talimatını,2) Ödeme yükümlülüğünün üstlenilmesi veya yerine getirilmesisonucunu doğuran, sistem kurallarına uygun talimatı,3) Menkul kıymetler ve diğer sermaye piyasası araçlarıüzerindeki hakları kaydi olarak veya sair şekilde sistem içerisinde devretmeye yönelikkatılımcı talimatını,dd) (Ek:12/11/2019-7192/4 md.)Birlik: Türkiye Ödeme ve Elektronik Para Kuruluşları Birliğini,ifade eder.İKİNCİ BÖLÜMSistemGenel hükümler"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Sistem, sistem işleticisi tarafındanişletilir",
+      "content": "Madde 4 - (1) Sistem, sistem işleticisi tarafındanişletilir. Banka ve bu Kanunun 5 inci maddesi uyarınca faaliyet izni alanlar dışındakikişiler sistem işleticisi olarak faaliyette bulunamaz.(2) Sistemin işleyişine ve sisteme katılıma ilişkin kuralve sözleşmeler, Bankaca çıkarılacak yönetmeliğe uygun olarak sistem işleticisi tarafındanbelirlenir.(3) Banka, sistemlerin sorunsuz ve kesintisiz işlemesinisağlamak üzere gerekli düzenlemeleri yapmaya yetkilidir.Sistem işleticisinin faaliyet izni"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Sistem işleticisiBankadan izin alması kaydıyla bu Kanun kapsamında sistem işletebilir",
+      "content": "Madde 5 - (1) Sistem işleticisiBankadan izin alması kaydıyla bu Kanun kapsamında sistem işletebilir.(2) Sistem işleticisinin;a) Anonim şirket şeklinde kurulması,b) Nakden ve her türlü muvazaadan ari olarak ödenmiş sermayesininen az beş milyon Türk Lirası olması,c) Sistemi işletebilmek için yeterli sayıda nitelikli personelçalıştırması ve gerekli teknik donanım ile yönetime sahip olması,ç) Yeterli risk yönetimine sahip olması ve bilgilerin güvenliğiile güvenilirliğine ve iş sürekliliğine dair gerekli tedbirleri alması,d) Sistemin, katılımcılarınve işletim kurallarının bu Kanuna ve bu Kanun uyarınca çıkarılacak düzenlemelereuygunluğunu sağlaması,e) Pay senetlerinin nakit karşılığı çıkarılması ve tamamınınnama yazılı olması,f) Bankanın etkin gözetimini engellemeyecek şeffaf ve açıkbir ortaklık yapısı ve organizasyon şemasına sahip olması,g) Sermayesinde yüzde on ve üzerinde paya sahip olanlarınve kontrolü elinde bulunduranların 19/10/2005 tarihli ve 5411 sayılı BankacılıkKanununda banka kurucuları için aranan nitelikleri haiz olması,gerekir.(3) (Mülga:12/11/2019-7192/5 md.)(4) Faaliyet izni verilen sistem işleticisi, faaliyetebaşladığı tarihten itibaren on gün içinde faaliyete başladığına dair Bankaya bildirimdebulunur.(5) Bu maddenin uygulanmasına ilişkin usul ve esaslar Bankacaçıkarılacak yönetmelikle düzenlenir.(6) Bankaca işletilen sistemlere bu madde hükümleri uygulanmaz.Faaliyet izni başvurusunun değerlendirilmesi"
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "Bu Kanun kapsamında aranan koşulların,niteliklerin ve yeterliliklerin sağlanması, Bankaca istenecek bilgi ve belgelerineksiksiz tamamlanması ve Banka tarafından söz konusu başvurunun olumlu olduğunaka",
+      "content": "Madde 6 - (1) Bu Kanun kapsamında aranan koşulların,niteliklerin ve yeterliliklerin sağlanması, Bankaca istenecek bilgi ve belgelerineksiksiz tamamlanması ve Banka tarafından söz konusu başvurunun olumlu olduğunakarar verilmesi durumunda bu Kanunun 5 inci maddesi kapsamında sistem işleticisiolarak faaliyette bulunmak üzere izin verilir ve faaliyet izni verilmesine ilişkinkarar Resmî Gazete’de yayımlanır.(2) Bu Kanun hükümleri uyarınca Bankaya yapılan sistemişleticiliğine ilişkin izin başvurusu, başvuruya ilişkin istenen bilgi ve belgelerineksiksiz olarak tamamlanmasını müteakip altı ay içinde Banka tarafından sonuçlandırılır.Karar, olumsuz olması hâlinde gerekçeleri ile birlikte ilgililere bildirilir.Faaliyet izninin sona ermesi"
+    },
+    {
+      "provision_ref": "madde7",
+      "section": "7",
+      "title": "Sistem işleticisininfaaliyet izni;a) Birleşme veya bölünme gibi sistemişleticisinin hukuki yapısını değiştiren işlemlerde sistem işleticisinin tüzel kişiliğininsona ermesi durumunda, tüzel kişiliğin s",
+      "content": "Madde 7 - (1) Sistem işleticisininfaaliyet izni;a) Birleşme veya bölünme gibi sistemişleticisinin hukuki yapısını değiştiren işlemlerde sistem işleticisinin tüzel kişiliğininsona ermesi durumunda, tüzel kişiliğin sona erdiği,b) Sistem işleticisinin 13/1/2011 tarihli ve 6102 sayılıTürk Ticaret Kanununun 529 uncu, 530 uncu ve 531 inci maddeleri uyarınca sona erdiği,c) Sistem işleticisinin faaliyete başladıktan sonra biryıl içinde altı aydan uzun süreyle faaliyette bulunmamış olması durumunda altı aylıksürenin dolduğu,tarihte kendiliğinden sona erer.(2) Birinci fıkrada düzenlenen durumların bu Kanunun 23üncü maddesinin üçüncü fıkrası uyarınca sistem işleticisi tarafından Bankaya bildirilmesiniveya bu durumların tespitini takiben Banka, faaliyet izninin sona erdiğini ResmîGazete’de yayımlar.Sistem gözetimi"
+    },
+    {
+      "provision_ref": "madde8",
+      "section": "8",
+      "title": "Banka kurulmuş ya da kurulacak olansistemlerin kesintisiz işletimini sağlamak üzere gözetimini yapmaya yetkilidir",
+      "content": "Madde 8 - (1) Banka kurulmuş ya da kurulacak olansistemlerin kesintisiz işletimini sağlamak üzere gözetimini yapmaya yetkilidir.(Ek cümle:12/11/2019-7192/6 md.) Bankanın gözetim yetkisi; sistem işleticisi,sistem katılımcıları, mutabakat kuruluşu, bağlantılı diğer sistemler ile dış hizmetsağlayıcıları gibi faaliyetleri sistemin çalışmasıyla yakından ilgili tüm taraflarıkapsar.(2) (Değişik:12/11/2019-7192/6 md.) Banka, gözetimfaaliyetlerinin kapsamına giren kuruluşların gerçekleştirdiği bütün işlemlere ilişkinkayıt, bilgi ve belgeyi, gerekli gördüğü durumlarda anlık ve işlem bazında olmaküzere talep edebilir. Gözetim faaliyetlerinin kapsamına giren kuruluşlar, her türlükayıt, bilgi ve belgeyi gizli dahi olsa Bankaca belirlenecek usul ve esaslar çerçevesindeBankaya tevdi etmek ve Bankanın gözetimine hazır hâle getirmekle yükümlüdür.(3) Sistem gözetimine ilişkin usul ve esaslar Bankaca çıkarılacakyönetmelikle belirlenir.(4) (Ek:12/11/2019-7192/6 md.) Banka, sistemlerinkesintisiz işletimini sağlamak amacıyla sistemik öneme sahip kurulmuş ve kurulacaksistem işleticilerine hissedar olabilir.Önlem alınmasını gerektiren hâller vealınacak tedbirler"
+    },
+    {
+      "provision_ref": "madde9",
+      "section": "9",
+      "title": "Banka;a) Faaliyet izni kapsamı dışında hareket edilmesi,b) Bu Kanun ve bu Kanun uyarınca çıkarılmış düzenlemelereaykırı hareket edilmesi,c) Sistemin güvenliğinin, sağlamlığının ve istikrarınıntehlikey",
+      "content": "Madde 9 - (1) Banka;a) Faaliyet izni kapsamı dışında hareket edilmesi,b) Bu Kanun ve bu Kanun uyarınca çıkarılmış düzenlemelereaykırı hareket edilmesi,c) Sistemin güvenliğinin, sağlamlığının ve istikrarınıntehlikeye düşürülmesi,ç) Sistem işleticisinin bu Kanunun 5 inci maddesinde belirtilenşartları kaybettiğinin tespit edilmesi,d) Sistem işleticisinin, sistemin gözetimi konusunda işbirliği yapmaktan kaçınması,e) Faaliyet izninin alınmasından itibaren bu yetkinin kullanılmasınabir yıl içinde başlanmaması,f) Sistem işleticisinin sistem işletme yetkisinden açıkçaferagat ettiğini veya sistem faaliyetlerini durdurduğunu Bankaya bildirmesi,g) Faaliyet izninin gerçeğe aykırı beyan ve belgeyle alınmışolduğunun tespit edilmesi,ğ) Bu Kanunun 23 üncü maddesinin üçüncü fıkrasına aykırıdavranılması,h) Banka tarafından, sistem işleticisinin sistemi işletmeyedevam etmesinin finansal sistemin istikrarını tehdit ettiği sonucuna varılması,hâllerini tespit etmesi durumunda sistemin işleyişiyleilgili uygun tedbirleri alır.(2) Banka, birinci fıkradaki hâlleri tespit etmesi durumundaihlalin ağırlığına göre;a) Sistem işleticisine ihlalin ortadan kaldırılması içinmakul bir süre tanımak,b) Sistem işleticisinden mutabakatın gerçekleşmesini teminenBankanın uygun bulduğu önlemleri almasını istemek,c) Sistem işleticisinden bu Kanun kapsamındaki yükümlülükleriniyerine getirmeyen katılımcıların sistemden ihracını istemek,ç) Sistem işleticisinin faaliyet iznini iptal etmek veyatespit edilen ihlal ortadan kaldırılıncaya kadar sistem işleticisine verilen faaliyetiznini geçici olarak durdurmak,d) Finansal istikrarı tehdit edebilecek bir sistemik riskinortaya çıkmasını önlemek amacıyla sistem işleticisinin yönetimini geçici olarakdevralmak,tedbirlerini uygular.(3) Banka, ikinci fıkra kapsamında uygulayacağı tedbirlerigerekçeleri ile birlikte ilgili sistem işleticisine bildirir.(4) Banka, ikinci fıkranın (ç) ve (d) bentlerinde yer alantedbirleri alması durumunda bu hususu Resmî Gazete’de yayımlar.ÜÇÜNCÜ BÖLÜMTransfer Emri, Netleştirme ve Teminatlar ile SistemlerinBelirlenmesiTransfer emri, netleştirme ve teminatlar"
+    },
+    {
+      "provision_ref": "madde10",
+      "section": "10",
+      "title": "Sistem kurallarında transfer emriningeri alınamaz hâle geldiği an açıkça belirlenir ve transfer emri bu andan sonrakatılımcı veya üçüncü bir kişi tarafından geri alınamaz",
+      "content": "Madde 10 - (1) Sistem kurallarında transfer emriningeri alınamaz hâle geldiği an açıkça belirlenir ve transfer emri bu andan sonrakatılımcı veya üçüncü bir kişi tarafından geri alınamaz.(2) Transfer emrinin sisteme giriş anı sistem kurallarındabelirlenir.(3) Katılımcının veya sistem işleticisinin fon veya menkulkıymet aktarımlarının askıya alınmasını, bunlara sınırlama getirilmesini veya sürekliolarak durdurulmasını da içerecek şekilde fon veya menkul kıymetleri üzerinde tasarrufetmesini engelleyen kanunlarla düzenlenmiş her türlü tedbir ve karar, sistem işleticisinesöz konusu tedbir ve karara ilişkin tebligat yapıldıktan sonra sisteme girecek transferemirleri için uygulanır.(4) Sistemin netleştirme prensibine göre çalışması durumunda,üçüncü fıkrada yer alan tedbir ve karara ilişkin sistem işleticisine tebligat yapılmadanönce sisteme girmiş transfer emirleri netleştirme işlemine dâhil edilir.(5) Üçüncü fıkrada yer alan tedbir ve kararlar sistem işleticisinetebliğ edildiği gün katılımcının mutabakat hesabında bulunan fon ve menkul kıymetler,öncelikle katılımcının sistemde var olan yükümlülüklerinin yerine getirilmesi içinkullanılır.(6) Üçüncü fıkrada yer alan tedbir ve kararlar katılımcınınveya sistem işleticisinin sistemdeki hak ve yükümlülükleri bakımından sistem işleticisinesöz konusu tedbir ve karara ilişkin tebligat yapıldığı andan itibaren sonuç doğurur.(7) (Değişik:12/11/2019-7192/7md.) Sistem işleticisi, sistemdeki işlemlerin herhangi bir sebeple sonlandırılamamasıveya katılımcının sistemdeki yükümlülüklerini yerine getirememesi durumunda kullanılmaküzere katılımcılardan teminat talep edebilir. Teminatlar ayrı bir hesapta izlenir.Bu teminatlara üçüncü fıkradaki tedbir ve kararlar uygulanmaz. Bu madde kapsamındasermaye piyasası araçlarının teminat olarak alınması hâlinde 6/12/2012 tarihli ve6362 sayılı Sermaye Piyasası Kanununun 47 nci maddesi uygulanır. Bu madde kapsamındasermaye piyasası araçları haricindeki varlıkların teminat olarak alınması hâlinde,sistem işleticisi sistem kuralları çerçevesinde sistemdeki işlemlerin sonlandırılmasıve katılımcının sistemdeki yükümlülüklerinin yerine getirilmesi için herhangi birihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka bir yol ile nakde çevirme gibi herhangibir ön şartı yerine getirme yükümlülüğü olmaksızın bu teminatları nakde çevirebilirve kullanabilir.Sistemlerin belirlenmesi ve duyurulması"
+    },
+    {
+      "provision_ref": "madde11",
+      "section": "11",
+      "title": "Banka, bu Kanunun 10 uncu maddesindeyer alan hükümlere tabi olacak sistemleri belirleyerek Resmî Gazete’de kamuoyunaduyurur",
+      "content": "Madde 11 - (1) Banka, bu Kanunun 10 uncu maddesindeyer alan hükümlere tabi olacak sistemleri belirleyerek Resmî Gazete’de kamuoyunaduyurur.DÖRDÜNCÜ BÖLÜMÖdeme Hizmetleri ve Ödeme KuruluşlarıÖdeme hizmeti"
+    },
+    {
+      "provision_ref": "madde12",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "12",
+      "title": "Bu Kanun uyarınca ödeme hizmetleri;a) Ödeme hesabına para yatırılması ve ödeme hesabındanpara çekilmesine imkan veren hizmetler de dâhil olmak üzere ödeme hesabının işletilmesiiçin gerekli tüm işlemle",
+      "content": "Madde 12 - (1) Bu Kanun uyarınca ödeme hizmetleri;a) Ödeme hesabına para yatırılması ve ödeme hesabındanpara çekilmesine imkan veren hizmetler de dâhil olmak üzere ödeme hesabının işletilmesiiçin gerekli tüm işlemleri,b) Ödeme hizmeti kullanıcısının ödeme hizmeti sağlayıcısınezdinde bulunan ödeme hesabındaki fonun aktarımını içeren, bir defaya mahsus olanlarda dâhil doğrudan borçlandırma işlemi, ödeme kartı ya da benzer bir araçla yapılanödeme işlemi ile düzenli ödeme emri dâhil para transferini,c) Ödeme aracının ihraç veya kabulünü,ç) Para havalesini,d) Gönderen tarafından ödeme işleminin yapılmasına ilişkinonayın bir bilişim veya elektronik haberleşme cihazı aracılığıyla verildiği ve ödemeninödeme hizmeti kullanıcısı ile mal veya hizmet sağlayan arasında sadece aracı olarakfaaliyet gösteren bir bilişim veya elektronik haberleşme işletmecisine yapıldığıödeme işlemini,e) Fatura ödemelerine aracılık edilmesine yönelik hizmetleri,f) (Ek:12/11/2019-7192/8 md.) Ödeme hizmeti kullanıcısınınisteği üzerine başka bir ödeme hizmeti sağlayıcısında bulunan ödeme hesabıyla ilgilisunulan ödeme emri başlatma hizmetini,g) (Ek:12/11/2019-7192/8 md.) Ödeme hizmeti kullanıcısınınonayının alınması koşuluyla, ödeme hizmeti kullanıcısının ödeme hizmeti sağlayıcılarınezdinde bulunan bir veya daha fazla ödeme hesabına ilişkin konsolide edilmiş bilgilerinçevrim içi platformlarda sunulması hizmetini,ğ) (Ek:12/11/2019-7192/8 md.) Ödemeler alanındatoplam büyüklük veya etki alanı açısından Bankaca belirlenecek seviyeye ulaşan diğerişlem ve hizmetleri,ifade eder.(2) Aşağıda yer alan işlem ve hizmetler bu Kanun kapsamındaödeme hizmeti olarak değerlendirilmez:a) Ödeme işleminin aracı kullanılmaksızın doğrudan alıcıyanakit olarak yapılmasıb) Ödeme işleminin, gönderen ya da alıcı namına mal veyahizmet pazarlığına ya da alım satımına yetkili olan ticari temsilci aracılığıylayapılmasıc) Kâr amacı gütmeyen veya yardım amacıyla yapılan faaliyetlerçerçevesinde paranın nakit olarak toplanması ve teslimi suretiyle yapılan ödemeişlemleriç) Mal veya hizmet alımından kaynaklanan ödeme işleminingerçekleştirilmesinden hemen önce ödeme hizmeti kullanıcısının açık talebi üzerine,işlemin bir parçası olarak nakit paranın alıcıdan gönderene verildiği hizmetlerd) Ödeme hesabına bağlı olmaksızınnakit olarak gerçekleşen döviz alım ve satım işlemlerie) 6102 sayılı Kanun kapsamındaki kıymetli evrak, yabancıbanka çekleri, seyahat çekleri ve kâğıt posta havalelerinden herhangi biriyle gerçekleşenödeme işlemlerif) Sistemlerde; Banka, mutabakat kuruluşu, merkezî karşıtaraf, takas odaları, ödeme hizmeti sağlayıcıları ve sistemin diğer katılımcılarınınaralarında kendi nam ve hesaplarına gerçekleştirdikleri ödeme işlemlerig) Bu fıkranın (f) bendi kapsamında belirtilen tüzel kişilerve sermaye piyasası kurumlarının 6/12/2012 tarihli ve 6362 sayılı Sermaye PiyasasıKanunu kapsamındaki sermaye piyasası faaliyetleri ile ilgili ödeme işlemleriğ) Teknik hizmet sağlayanların sunduğu, ödeme hizmetlerindeprovizyon işlemlerinin yapılmasını destekleyen, verinin işlenmesi, saklanması, güvenliğininsağlanması, gizliliğinin korunması ve doğrulanması ile bilgi teknolojisi, iletişimağı ve ödeme hizmetleri için kullanılan araçların tedarik ve bakımını kapsayan,teknik hizmet sağlayanların işlemin herhangi bir anında transfer edilen fonun sahibiolmadığı hizmetlerh) Sadece ödeme aracını çıkaranın iş yerinde, sınırlı birhizmet sağlayıcı ağında ya da sınırlı bir mal veya hizmet çeşidi için ödeme aracınıihraç eden ile yapılan ticari bir anlaşma çerçevesinde gerçekleştirilen mal veyahizmet alımında kullanılabilen araçlara ilişkin işlemlerı) Bir bilişim veya elektronik haberleşme cihazı aracılığıylagerçekleşen, bilişim veya elektronik haberleşme işletmecisinin ödeme hizmeti kullanıcısıile mal veya hizmet sağlayıcısı arasında sadece aracı olarak faaliyet göstermediğidurumlarda, satın alınan mal veya hizmetlerin bilişim veya elektronik haberleşmecihazına aktarıldığı ve söz konusu cihaz aracılığıyla kullanıldığı ödeme işlemlerii) Ödeme hizmeti sağlayıcıları ile bunların temsilcileriveya şubeleri arasında kendi nam ve hesaplarına yapılan ödeme işlemlerij) Ana şirket ile bağlı ortaklıkları veya bağlı ortaklıklarınkendi aralarında gerçekleşen ve aynı gruba ait bir şirket dışında hiçbir ödeme hizmetisağlayıcısının aracılık etmediği ödeme hizmetlerik) Ödeme hizmetlerinden herhangi birini sunmayan ve ödemehesabından para çeken müşteri ile yapılmış çerçeve sözleşmenin tarafı olmayan birhizmet sağlayıcı tarafından işletilen ve kart çıkaran bir veya daha fazla kuruluşadına çalışan ATM’ler aracılığıyla nakit çekimi hizmetleril) Bankaca belirlenecek diğer işlem ve hizmetler [1](3) (Değişik:12/11/2019-7192/8 md.) Ödeme hizmetlerine,ödeme hizmetleri kapsamında tarafların hak ve yükümlülüklerine, ödeme hizmetineilişkin sağlanacak bilgi ve koşullar ile çerçeve sözleşmeye ilişkin usul ve esaslar,Mali Suçları Araştırma Kurulunun görüşünün alınması suretiyle Bankaca çıkarılacakyönetmelikle belirlenir. (Ek cümle:18/6/2020-7247/16md.) Çerçeve sözleşme yazılı şekilde veya uzaktan iletişim araçlarınınkullanılması suretiyle mesafeli olarak ya da mesafeli olsun olmasın Bankanın yazılışeklin yerine geçebileceğini belirlediği ve bir bilişim veya elektronik haberleşmecihazı üzerinden gerçekleştirilecek ve müşteri kimliğinin biyometrik yöntemlerleveya elektronik kimlik doğrulama kabiliyetini haiz kimlik belgeleriyle doğrulanmasına imkân verecek yöntemleryoluyla kurulacak şekilde düzenlenir. [2](4) (Ek:12/11/2019-7192/8 md.) Banka, ödeme hizmetikapsamındaki belirli bir işlem türüne ilişkin olarak herhangi bir isim altında işlemintaraflarından birinin aldığı ücret, masraf, komisyon ve diğer menfaatlerin nitelikleriile azami miktar ya da oranlarını tespit etmeye, bunları kısmen veya tamamen serbestbırakmaya yetkilidir.(5) (Ek:12/11/2019-7192/8 md.) Banka, ikinci fıkranın(b) ve (h) bentlerinde yer alan işlemlerin toplam büyüklük ve etki alanı açısındanBankaca belirlenecek seviyeye ulaşması durumunda, bu Kanun kapsamında ödeme hizmetiolarak değerlendirilmesine karar verebilir.(6) (Ek:12/11/2019-7192/8 md.) Ödeme hizmeti sağlayıcılarınınbu Kanuna tabi faaliyetleri nedeniyle taraf oldukları hukuki ilişkiler Banka tarafındanizlenir. Banka, ödeme hizmeti sağlayıcılarının bu Kanuna tabi faaliyetleri nedeniyletaraf oldukları hukuki ilişkiler kapsamında, ödemeler alanının gelişimini olumsuzetkileyebilecek nitelikte uygulamaların bulunduğunu tespit etmesi durumunda, ödemehizmeti sağlayıcılarının bu Kanuna tabi faaliyetleri nedeniyle taraf oldukları hukukiilişkilerle ilgili olarak uyulması gereken usul ve esasları belirlemeye yetkilidir.(7) (Ek:12/11/2019-7192/8 md.)Banka, bu Kanuna tabi faaliyetler kapsamında ödemeler alanının gelişimini olumsuzetkileyebilecek nitelikte durum ve uygulamaların bulunduğunu tespit etmesi durumunda,konu ile ilgili çalışma komiteleri kurmaya, bu komitelerin çalışma usul ve esaslarınıilgili tarafların görüşlerini alarak belirlemeye ve bu komitelerde alınan kararlarınuygulamaya geçirilmesi için gerekli iş ve işlemleri yapmaya yetkilidir.Ödeme hizmeti sağlayıcısı"
+    },
+    {
+      "provision_ref": "madde13",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "13",
+      "title": "Bu Kanun uyarınca;a) 5411 sayılı Kanun kapsamındaki bankalar,b) Elektronik para kuruluşları,c) Ödeme kuruluşları,ç) (Ek: 17/4/2017-KHK/690-68 md",
+      "content": "Madde 13 - (1) Bu Kanun uyarınca;a) 5411 sayılı Kanun kapsamındaki bankalar,b) Elektronik para kuruluşları,c) Ödeme kuruluşları,ç) (Ek: 17/4/2017-KHK/690-68 md.; Aynen kabul: 1/2/2018-7077/58md.) Posta ve Telgraf Teşkilatı Anonim Şirketi,ödeme hizmeti sağlayıcısıdır.(2) Banka ve ödeme hizmeti sağlayıcısı dışındaki kişilerödeme hizmeti sunamazlar.Ödeme kuruluşu [3]"
+    },
+    {
+      "provision_ref": "madde14",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "14",
+      "title": "Bu Kanun kapsamında ödeme hizmetlerialanında faaliyette bulunmak isteyen ödeme kuruluşu Bankadan izin almak kaydıylafaaliyette bulunabilir",
+      "content": "Madde 14 - (1) Bu Kanun kapsamında ödeme hizmetlerialanında faaliyette bulunmak isteyen ödeme kuruluşu Bankadan izin almak kaydıylafaaliyette bulunabilir.(2) Ödeme kuruluşunun;a) Anonim şirket şeklinde kurulması,b) Sermayesinde yüzde on ve üzerinde paya sahip olanlarınve kontrolü elinde bulunduranların 5411 sayılı Kanunda banka kurucuları için aranannitelikleri haiz olması,c) Pay senetlerinin nakit karşılığı çıkarılması ve tamamınınnama yazılı olması,ç) Nakden ve her türlü muvazaadanari ödenmiş sermayesinin bu Kanunun 12 nci maddesinin birinci fıkrasının (e) bendindeyer alan hizmetleri sunan ödeme kuruluşları için en az bir milyon Türk Lirası, diğerödeme kuruluşları için ise en az iki milyon Türk Lirası olması,d) Bu Kanun kapsamındaki işlemleri gerçekleştirebilecekyönetim, yeterli personel ve teknik donanıma sahip olması ve şikâyet ve itirazlarlailgili birimleri oluşturması,e) Bu Kanun kapsamında yürütecekleri faaliyetlerin sürekliliğineve ödeme hizmeti kullanıcılarına ilişkin fon ve bilgilerin güvenliğine ve gizliliğinedair gerekli tedbirleri alması,f) Bankanın denetimini engellemeyecekşeffaf ve açık bir ortaklık yapısı ve organizasyon şemasına sahip olması,şarttır.(3) Ödeme kuruluşu, ödeme hizmeti sunarken sadece ödemeişlemi için kullanılıyor olması şartıyla ödeme hesabı tutabilir. Ödeme ve elektronikpara kuruluşlarının ödeme hizmeti ile ilgili olarak aldığı fonlar, 5411 sayılı Kanunun60 ıncı maddesine göre mevduat veya katılım fonu veya bu Kanun kapsamında elektronikpara olarak değerlendirilmez.(4) Ödeme kuruluşu kredi verme faaliyetinde bulunamaz.Ödeme hizmetleri ile ilgili olarak yürütülen faaliyetlerin kredi verme faaliyetikapsamına girip girmediği Bankaca çıkarılacak yönetmelikle belirlenir.(5) Banka, ödeme kuruluşu tarafındanyapılamayacak faaliyetleri belirlemeye yetkilidir.(6) Bu maddenin uygulanmasına, ödemekuruluşunun kurulmasına ilişkin istenecek bilgi ve belgelere, işleyişine, sermayeve özkaynak yapısına, şube, temsilci veya dış hizmet sağlayıcı kullanımına, kurumsalyönetim ilkelerine, iç sistemlerine, bilgi sistemleri yönetimine ve bu Kanun kapsamınagirmeyen diğer faaliyetlerine ilişkin usul ve esaslar, Mali Suçları Araştırma Kurulunungörüşünün alınması suretiyle Bankaca çıkarılacak yönetmelikle belirlenir.Özellik gösteren ödeme hizmetleri"
+    },
+    {
+      "provision_ref": "madde14_A",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "14/A",
+      "title": "(Ek:12/11/2019-7192/9 md",
+      "content": "Madde 14/A - (Ek:12/11/2019-7192/9 md.)(1) 12 nci maddenin birinci fıkrasının münhasıran (g) bendindeyer alan hizmeti sunan ödeme kuruluşları için bu Kanunda öngörülen pay senetlerininnakit karşılığı çıkarılması, tamamının nama yazılı olması ve asgari sermaye yükümlülüğüaranmaz.(2) Banka, bir ödeme hizmeti sağlayıcısındaki verilerin12 nci maddenin birinci fıkrasının (f) ve (g) bentlerinde yer alan faaliyetler kapsamındabaşka bir ödeme hizmeti sağlayıcısı ile paylaşılmasına ilişkin her türlü usul veesası belirlemeye yetkilidir.Faaliyet izni başvurusunun değerlendirilmesi [4]"
+    },
+    {
+      "provision_ref": "madde15",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "15",
+      "title": "Bu Kanun kapsamında aranan koşulların,niteliklerin ve yeterliliklerin sağlanması, Bankaca istenecek bilgi ve belgelerineksiksiz tamamlanması ve Banka tarafından söz konusu başvurunun olumlu olduğunaka",
+      "content": "Madde 15 - (1) Bu Kanun kapsamında aranan koşulların,niteliklerin ve yeterliliklerin sağlanması, Bankaca istenecek bilgi ve belgelerineksiksiz tamamlanması ve Banka tarafından söz konusu başvurunun olumlu olduğunakarar verilmesi durumunda bu Kanunun 14 üncü maddesi kapsamında ödeme kuruluşu olarakfaaliyette bulunmak üzere izin verilir ve faaliyet izni verilmesine ilişkin kararResmî Gazete’de yayımlanır.(2) (Mülga:12/11/2019-7192/17 md.)(3) Ödeme kuruluşunun ödeme hizmeti dışındaki alanlardafaaliyet göstermesi ve bu faaliyetlerin ödeme kuruluşunun finansal durumunu veyaBankanın ödeme kuruluşunun bu Kanun ve bu Kanun uyarınca çıkarılacak yönetmelikhükümlerine uygunluğunu izlemesini olumsuz yönde etkilemesi veya etkileyebilecekolması durumunda, Banka ödeme hizmetleri için ayrı bir kuruluş ihdas edilmesiniisteyebilir.(4) Bu Kanunun 14 üncü maddesi kapsamında Bankaya yapılanizin başvurusu, başvuruya ilişkin istenen bilgi ve belgelerin eksiksiz olarak tamamlanmasınımüteakip altı ay içinde Banka tarafından sonuçlandırılır. Karar, olumsuz olmasıhâlinde gerekçeleri ile birlikte ilgililere bildirilir.(5) Faaliyet izni verilen kuruluş, faaliyete başladığıtarihten itibaren on gün içinde faaliyete başladığına dair Bankaya bildirimde bulunur.Faaliyet izninin iptali"
+    },
+    {
+      "provision_ref": "madde16",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "16",
+      "title": "Banka, ödeme kuruluşuna verilmiş olanfaaliyet iznini; [5]a) Faaliyet izninin alınmasından itibaren bu yetkinin kullanılmasınabir yıl içinde başlanmaması,b) Ödeme kuruluşunun bu yetkiden açıkça feragat",
+      "content": "Madde 16 - (1) Banka, ödeme kuruluşuna verilmiş olanfaaliyet iznini; [5]a) Faaliyet izninin alınmasından itibaren bu yetkinin kullanılmasınabir yıl içinde başlanmaması,b) Ödeme kuruluşunun bu yetkiden açıkça feragat ettiğiniveya faaliyetlerini durdurduğunu Bankaya bildirmesi,c) Faaliyet izninin gerçeğe aykırı beyan ve belgeyle alınmışolduğunun tespit edilmesi,ç) Ödeme kuruluşunun bu Kanunun 14üncü maddesinde belirtilen şartları kaybettiğinin tespit edilmesi,d) Bu Kanunun 23 üncü maddesinin üçüncü fıkrasına aykırıdavranılması,e) Banka tarafından, ödeme kuruluşunun faaliyetlerine devametmesinin ödemelerin güvenliğini tehdit ettiği sonucuna varılması,durumlarında iptal edebilir.(2) Banka, faaliyet izninin iptalinigerekçeleri ile birlikte ilgili ödeme kuruluşuna bildirir.(3) Banka, faaliyet izninin iptalini Resmî Gazete’de yayımlar.İptal kararının Resmî Gazete’de yayımlanması ilgililere yapılacak tebligat hükmündedir.Faaliyet izninin sona ermesi"
+    },
+    {
+      "provision_ref": "madde17",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "17",
+      "title": "Bu Kanunun 16 ncı maddesinin birincifıkrasında belirtilen durumlar dışında ödeme kuruluşunun faaliyet izni;a) Birleşme veya bölünme gibi ödemekuruluşunun hukuki yapısını değiştiren işlemlerde ödeme ku",
+      "content": "Madde 17 - (1) Bu Kanunun 16 ncı maddesinin birincifıkrasında belirtilen durumlar dışında ödeme kuruluşunun faaliyet izni;a) Birleşme veya bölünme gibi ödemekuruluşunun hukuki yapısını değiştiren işlemlerde ödeme kuruluşunun tüzel kişiliğininsona ermesi durumunda, tüzel kişiliğin sona erdiği,b) Ödeme kuruluşunun 6102 sayılı Kanunun 529 uncu, 530uncu ve 531 inci maddeleri uyarınca sona erdiği,c) Ödeme kuruluşunun faaliyete başladıktan sonra bir yıliçinde altı aydan uzun süreyle faaliyette bulunmamış olması durumunda altı aylıksürenin dolduğu,tarihte kendiliğinden sona erer.(2) Birinci fıkrada düzenlenen durumların bu Kanunun 23üncü maddesinin üçüncü fıkrası uyarınca ödeme kuruluşu tarafından Bankaya bildirilmesiniveya bu durumların tespitini takiben Banka, faaliyet izninin sona erdiğini ResmîGazete’de yayımlar. [6]BEŞİNCİ BÖLÜMElektronik Para Kuruluşları ile Elektronik Paranın İhracıElektronik para ihraç eden kuruluşlar [7]"
+    },
+    {
+      "provision_ref": "madde18",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "18",
+      "title": "5411 sayılı Kanun uyarınca faaliyetgösteren bankalar, Posta ve Telgraf Teşkilatı Anonim Şirketi ve bu Kanun kapsamındaelektronik para çıkarma izni verilen elektronik para kuruluşları dışındaki kişiler",
+      "content": "Madde 18 - (1) 5411 sayılı Kanun uyarınca faaliyetgösteren bankalar, Posta ve Telgraf Teşkilatı Anonim Şirketi ve bu Kanun kapsamındaelektronik para çıkarma izni verilen elektronik para kuruluşları dışındaki kişilerinelektronik para ihracı faaliyetinde bulunmaları yasaktır. [8](2) Bu Kanun kapsamında elektronik para ihraç etmek isteyenelektronik para kuruluşu Bankadan izin almak kaydıyla faaliyette bulunabilir.(3) Elektronik para kuruluşunun;a) Anonim şirket şeklinde kurulması,b) Sermayesinde yüzde on ve üzerinde paya sahip olanlarınve kontrolü elinde bulunduranların 5411 sayılı Kanunda banka kurucuları için aranannitelikleri haiz olması,c) Pay senetlerinin nakit karşılığı çıkarılması ve tamamınınnama yazılı olması,ç) Nakden ve her türlü muvazaadan ari ödenmiş sermayesininen az beş milyon Türk Lirası olması,d) Bu Kanun kapsamındaki işlemleri gerçekleştirebilecekyönetim, yeterli personel ve teknik donanıma sahip olması, şikâyet ve itirazlarlailgili birimleri oluşturması,e) Bu Kanun kapsamında yürütecekleri faaliyetlerin sürekliliğineve elektronik para kullanıcılarına ilişkin fon ve bilgilerin güvenliğine ve gizliliğinedair gerekli tedbirleri alması,f) Bankanın denetimini engellemeyecek şeffaf ve açık birortaklık yapısı ve organizasyon şemasına sahip olması,şarttır.(4) Elektronik para kuruluşları faaliyetlerini 5411 sayılıKanunda tanımlanan bankalar aracılığıyla yürütürler.(5) (Değişik:12/11/2019-7192/10 md.) Elektronikparayı ihraç eden kuruluşun sadece kendi mağaza ağında, sadece belirli bir mal veyahizmet grubunun satın alınmasında veya yapılan bir anlaşma sonucunda sadece belirlibir hizmet ağında kullanılabilen ön ödemeli araçlar bu Kanun kapsamı dışındadır.Banka, bu fıkrada bahsi geçen ödeme araçları ile yapılan işlemlerin toplam büyüklükve etki alanı açısından Bankaca belirlenecek seviyeye ulaşması durumunda, bu Kanunkapsamında değerlendirilmesine karar verebilir.(6) (Değişik:12/11/2019-7192/10 md.) Bu maddeninuygulanmasına, elektronik para kuruluşunun kurulmasına ilişkin istenecek bilgi vebelgelere, işleyişine, sermaye ve özkaynak yapısına, şube, temsilci veya dış hizmetsağlayıcı kullanımına, kurumsal yönetim ilkelerine, iç sistemlerine, bilgi sistemleriyönetimine ve bu Kanun kapsamına girmeyen diğer faaliyetlerine, elektronik paranınihraç edilmesi ve geri ödenmesine ilişkin usul ve esaslar Mali Suçları AraştırmaKurulunun görüşünün alınması suretiyle Bankaca çıkarılacak yönetmelikle belirlenir.Elektronik para kuruluşuna uygulanacakdiğer hükümler"
+    },
+    {
+      "provision_ref": "madde19",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "19",
+      "title": "Bu Kanunun 15 inci, 16 ncıve 17 ncimaddelerinde yer alan hükümler elektronik para kuruluşları için de uygulanır",
+      "content": "Madde 19 - (1) Bu Kanunun 15 inci, 16 ncıve 17 ncimaddelerinde yer alan hükümler elektronik para kuruluşları için de uygulanır.Elektronik para ihracı"
+    },
+    {
+      "provision_ref": "madde20",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "20",
+      "title": "Elektronik para ihraç eden kuruluş,aldığı fon kadar elektronik para ihraç eder",
+      "content": "Madde 20 - (1) Elektronik para ihraç eden kuruluş,aldığı fon kadar elektronik para ihraç eder.(2) Elektronik para ihraç eden kuruluş, elektronik parakullanıcısı tarafından yatırılan fonları gecikmeksizin elektronik paraya çevirerekkullanıma hazır hâle getirir.(3) (Değişik:12/11/2019-7192/11 md.) Elektronikpara kuruluşu, elektronik para ihracı karşılığında topladığı fonları 5411 sayılıKanunda tanımlanan bankalar nezdinde açılacak ayrı bir hesaba aktarmak zorundadır.Bu fıkranın uygulanmasına ilişkin usul ve esaslar Bankaca belirlenir.(4) Elektronik para kuruluşu krediverme faaliyetinde bulunamaz. (Ek cümle:12/11/2019-7192/11 md.) Elektronikpara kuruluşunun, ödeme hizmetleri ile ilgili olarak yürüttüğü faaliyetlerin krediverme faaliyeti kapsamına girip girmediği Bankaca çıkarılacak yönetmelikle belirlenir.(5) Elektronik para ihraç eden kuruluş, elektronik parayıelinde bulundurma süresine bağlı olarak elektronik para hamiline faiz veremez veherhangi bir menfaat sağlayamaz.(6) Banka, elektronik para kuruluşu tarafından yapılamayacakdiğer faaliyetleri belirlemeye yetkilidir. [9](7) Elektronik para kuruluşlarının elektronik para ihracıkarşılığında aldığı fonlar, 5411 sayılı Kanunun 60 ıncı maddesine göre mevduat veyakatılım fonu olarak kabul edilmez.ALTINCI BÖLÜMDiğer HükümlerDenetim"
+    },
+    {
+      "provision_ref": "madde21",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "21",
+      "title": "(Değişik:12/11/2019-7192/12 md",
+      "content": "Madde 21 - (Değişik:12/11/2019-7192/12 md.)(1) 5411 sayılı Kanun kapsamındaki bankalar,ödeme kuruluşu ve elektronik para kuruluşu ile Posta ve Telgraf Teşkilatı AnonimŞirketinin bu Kanun kapsamındaki denetimi Banka tarafından yapılır.(2) Banka, birinci fıkrada belirtilenkuruluşların şubesinde, temsilcisinde veya dışarıdan hizmet aldığı kuruluşlardadenetim yapmaya yetkilidir.(3) Birinci fıkrada belirtilen kuruluşlarve ilgili diğer gerçek ve tüzel kişiler Bankanın yerinde denetim yapmaya yetkilipersoneli tarafından istenecek her türlü bilgi ve belgeyi vermek, defter ve belgeleriniibraz etmek ve incelemeye hazır tutmak zorundadır.(4) Banka, bu maddekapsamında denetlemekle sorumlu olduğu kuruluşların gerçekleştirdiği bütün işlemlereilişkin kayıt, bilgi ve belgeyi, gerekli gördüğü durumlarda anlık ve işlem bazındaolmak üzere talep edebilir. Bu madde kapsamında denetime tabi olan kuruluşlar, hertürlü kayıt, bilgi ve belgeyi gizli dahi olsa Bankaca belirlenecek usul ve esaslarçerçevesinde Bankaya tevdi etmek ve Bankanın denetimine hazır hâle getirmekle yükümlüdür.(5) Kamu kurum vekuruluşları, Devletin güvenliği ve temel dış yararlarına karşı ağır sonuçlar doğuracakhâller ile meslek sırrı, aile hayatının gizliliği, soruşturmanın gizliliği ve savunmahakkına ilişkin hükümler saklı kalmak kaydıyla özel kanunlardaki yasaklayıcı vesınırlayıcı hükümler dikkate alınmaksızın gizli dahi olsa Banka tarafından bu Kanunkapsamında verilen görevler ile sınırlı olmak üzere istenecek her türlü bilgi vebelgeyi uygun süre ve ortamda, sürekli veya münferit olarak vermek zorundadır.(6) Ödeme ve elektronik para kuruluşları,bağımsız denetime tabidirler. Ödeme ve elektronik para kuruluşlarının fınansal açıdan bağımsız denetimi 26/9/2011tarihli ve 660 sayılı Kamu Gözetimi, Muhasebe ve Denetim Standartları KurumununTeşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname çerçevesinde yapılır. Ödemeve elektronik para kuruluşlarının bağımsız denetim kuruluşlarınca gerçekleştirilecekbilgi sistemleri denetimi ise Bankaca belirlenen usul ve esaslar çerçevesinde yerinegetirilir.(7) Banka, ihtiyaç duyması hâlinde,Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından yetkilendirilmişbağımsız denetim kuruluşlarından bu Kanun uyarınca bağımsız denetim faaliyetindebulunacaklar için ilave şartlar belirlemeye ve bu şartları haiz bağımsız denetimkuruluşlarına ilişkin listeyi kamuoyuna açıklamaya yetkilidir. Banka, bu Kanun uyarıncabağımsız denetim faaliyetinde bulunacaklar için ilave şartlar belirlemesi durumunda,listede yer alan bağımsız denetim kuruluşlarının bu Kanun kapsamındaki bağımsızdenetim faaliyetlerine ilişkin yapacağı kalite kontrol ve denetim çalışmaları neticesindestandartlara ve mevzuata aykırılıkları tespit edilenleri listeden çıkarmaya yetkilidir.Banka, yapacağı kalite kontrol ve denetim çalışmalarının sonuçlarını Kamu Gözetimi,Muhasebe ve Denetim Standartları Kurumuna bildirir. Bu madde kapsamında bağımsızdenetim kuruluşlarınca gerçekleştirilecek denetim çalışmalarına ilişkin diğer usulve esaslar, Bankaca belirlenir.(8) Banka, ödeme kuruluşuve elektronik para kuruluşu ile ilgili olarak tespit edilen hususlarda gerekli tedbirlerinalınmasını istemeye, tedbirlerin alınması için altı ayı geçmemek üzere makul süretanımaya, bu süre içinde gerekli tedbirler alınıncaya kadar ödeme kuruluşunun veelektronik para kuruluşunun faaliyet iznini geçici olarak durdurmaya ve ilgili tedbirlerinbelirlenen süre içinde alınmaması hâlinde faaliyet iznini iptal etmeye yetkilidir.(9) Birinci fıkrada belirtilen kuruluşlarındenetimine ilişkin diğer usul ve esaslar Bankaca çıkarılacak yönetmelikle belirlenir.(10) Banka, gerekli gördüğü durumlarda5411 sayılı Kanun kapsamındaki bankaların bilgi sistemlerinin bu Kanun kapsamındakifaaliyetleri ile ilgili olarak bağımsız denetim kuruluşlarınca denetlenmesini isteyebilir.(11) Banka, 5411 sayılıKanun kapsamındaki bankalar ve Posta ve Telgraf Teşkilatı Anonim Şirketi ile ilgiliolarak tespit edilen hususlarda gerekli tedbirlerin alınmasını istemeye, tedbirlerinalınması için altı ayı geçmemek üzere makul süre tanımaya, bu süre içinde gereklitedbirler alınıncaya kadar ilgili kuruluşun ödeme hizmeti sunma veya elektronikpara ihraç etme faaliyetini geçici olarak durdurmaya ve ilgili tedbirlerin belirlenensüre içinde alınmaması hâlinde söz konusu faaliyetleri süresiz durdurmaya yetkilidir.(12) Banka tarafından5411 sayılı Kanun kapsamındaki bankalara ilişkin bu Kanun kapsamında uygulanacaktedbirler ve tedbir alınmasını gerektiren hususlar Kurum ile paylaşılır.Fonların korunması ve teminat [10]"
+    },
+    {
+      "provision_ref": "madde22",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "22",
+      "title": "Ödeme kuruluşu tarafından ödeme hizmetiningerçekleştirilmesi amacıyla alınan fonlar ile elektronik para kuruluşunun elektronikpara ihracı karşılığında topladığı fonlar Bankaca çıkarılacak yönetmelikle",
+      "content": "Madde 22 - (1) Ödeme kuruluşu tarafından ödeme hizmetiningerçekleştirilmesi amacıyla alınan fonlar ile elektronik para kuruluşunun elektronikpara ihracı karşılığında topladığı fonlar Bankaca çıkarılacak yönetmelikle belirlenecekusul ve esaslar çerçevesinde korunur.(2) Banka, bu Kanun kapsamındaki ödeme ve elektronik parakuruluşlarına, belirleyeceği usul ve esaslara uygun olarak Banka nezdinde teminatbulundurma yükümlülüğü getirebilir.(3) Ödeme ve elektronik para kuruluşları tarafından kabuledilen fonlar ve bu fonların tutulduğu hesaplar, ödeme veya elektronik para kuruluşununiradi ya da zorunlu tasfiyeye tabi tutulması, faaliyet izninin iptal edilmesi gibihâllerin gerçekleşmesi durumunda başka kanunlarda belirtilen önceliklere bakılmaksızınfon sahiplerinin haklarının tazmin edilmesi ve bu Kanundan kaynaklanan yükümlülüklerinyerine getirilmesini teminen kullanılır. Ödeme ve elektronik para kuruluşları, fonsahiplerinin haklarının tazmin edilmesinden sorumludur.(4) Banka, bu Kanun kapsamındaki sistem işleticilerinebelirleyeceği usul ve esaslara uygun olarak nezdinde teminat bulundurma yükümlülüğügetirebilir.Belge ve kayıtların saklanması ile kişiselbilgilerin korunması, değişikliklerin bildirilmesi [11]"
+    },
+    {
+      "provision_ref": "madde23",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "23",
+      "title": "(Değişik:27/3/2015-6637/13 md",
+      "content": "Madde 23 - (1) (Değişik:27/3/2015-6637/13 md.) Sistem işleticisi, ödeme kuruluşu ve elektronik parakuruluşu bu Kanunda yer alan hususlar ile ilgili belgeleri ve kayıtları en az onyıl süreyle güvenli ve istenildiği an erişime imkân sağlayacak şekilde yurt içindesaklar. Sistem işleticisinin faaliyetlerini yürütmede kullandığı bilgi sistemlerive bunların yedekleri de yurt içinde tutulur. Ödeme kuruluşu ve elektronik parakuruluşunun faaliyetlerini yürütmede kullandıkları bilgi sistemlerine ilişkin usulve esaslar Bankaca belirlenir.(2) Ödeme usulsüzlüklerini önlemek, araştırmak ve ortayaçıkarmak için gerekli durumlarda, sistem işleticisi ve ödeme hizmeti sağlayıcısı,kişisel bilgileri kişisel verilerin korunmasına ilişkin gerekli tedbirleri alarakkullanır.(3) Banka tarafından istenen bilgi ve belgelerin geçerliliğinietkileyecek herhangi bir değişikliğin olması durumunda sistem işleticisi, ödemekuruluşu ve elektronik para kuruluşu Bankayı bu konuda derhâl bilgilendirir.Muafiyet ve istisnalar"
+    },
+    {
+      "provision_ref": "madde24",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "24",
+      "title": "Banka ve kredi kartları ile ilgiliolarak 23/2/2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanunuile 5464 sayılı Kanun uyarınca yapılan düzenlemelerde yer alan hususlarda bu Kanunhüküm",
+      "content": "Madde 24 - (1) Banka ve kredi kartları ile ilgiliolarak 23/2/2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanunuile 5464 sayılı Kanun uyarınca yapılan düzenlemelerde yer alan hususlarda bu Kanunhükümleri uygulanmaz.(2) Banka ve kredi kartlarına ilişkin ödeme sistemleribirinci fıkra kapsamı dışındadır.(3) Sistemlerle ilgili olarak Sermaye Piyasası Kurulu ileKurulun diğer mevzuattan kaynaklanan yetkileri saklıdır.(4) (Değişik: 17/4/2017-KHK/690-71 md.; Aynen kabul:1/2/2018-7077/61 md.) Posta ve Telgraf Teşkilatı Anonim Şirketi, bu Kanunun14 üncü maddesinin birinci ve ikinci fıkrası ile 18 inci maddesinin ikinci ve üçüncüfıkrası hükümlerine tabi değildir. Bu Kanunun diğer hükümlerinin Posta ve TelgrafTeşkilatı Anonim Şirketine uygulanmasına ilişkin usul ve esaslar Bankaca belirlenir.Banka, bu Kanun kapsamında Bankaca yapılacak denetim sonucunda Posta ve TelgrafTeşkilatı Anonim Şirketinin, bu Kanun kapsamındaki ödeme hizmeti sunma veya elektronikpara ihraç etme faaliyetlerini geçici veya süresiz olarak durdurabilir. [12]Pay edinim ve devirleri ile değişikliklerinbildirilmesi [13]"
+    },
+    {
+      "provision_ref": "madde25",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "25",
+      "title": "Doğrudan veya dolaylı pay sahipliğiyoluyla sermayenin yüzde onunu ve daha fazlasını temsil eden payları edinmesi veyabir ortağa ait doğrudan veya dolaylı payların sermayenin yüzde on, yüzde yirmi,yüzd",
+      "content": "Madde 25 - (1) Doğrudan veya dolaylı pay sahipliğiyoluyla sermayenin yüzde onunu ve daha fazlasını temsil eden payları edinmesi veyabir ortağa ait doğrudan veya dolaylı payların sermayenin yüzde on, yüzde yirmi,yüzde otuz üç veya yüzde ellisini aşması sonucunu veren pay edinimleri ile bir ortağaait payların bu oranların altına düşmesi sonucunu veren pay devirleri, Bankanıniznine tabidir. Oy hakkını içeren intifa hakkı tesisi ve sona ermesi bu fıkradabelirtilen oran dâhilinde edinim ve devir sayılır.(2) Yönetim kuruluna veya denetim komitesine üye belirlemeimtiyazı veren payların tesisi, devri veya yeni imtiyazlı pay ihracı birinci fıkradayer alan oransal sınırlara bakılmaksızın Bankanın iznine tabidir.(3) Kuruluş sermayesinde yüzde on ve üzeri paya sahip olantüzel kişilerin kontrolünün el değiştirmesi sonucunu doğuran pay devirleri, Bankanıniznine tabidir.(4) İzne tabi pay devirlerinde pay devralacakların 5411sayılı Kanunda banka kurucuları için aranan nitelikleri haiz olması şarttır.(5) İzne tabi olup izin alınmadan yapılan pay devirleripay defterine kaydolunamaz. Bu hükme aykırı olarak pay defterine yapılan kayıtlarhükümsüzdür.(6) Bu maddenin uygulanmasına ilişkin usul ve esaslar,Bankaca çıkarılacak yönetmelikle belirlenir.Kurumlar arası iş birliği"
+    },
+    {
+      "provision_ref": "madde26",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "26",
+      "title": "(Değişik:12/11/2019-7192/13 md",
+      "content": "Madde 26 - (1) (Değişik:12/11/2019-7192/13 md.)Bu Kanunun ödeme ve elektronik para kuruluşları ile ilgili hükümlerinin uygulanmasınailişkin konularda ve 5411 sayılı Kanun kapsamındaki bankaların bu Kanuna tabi faaliyetlerineilişkin olarak Banka ve Kurum karşılıklı mütalaada veya bilgi teatisinde bulunur.(2) (Değişik:12/11/2019-7192/13 md.) Kurum, Bankanıntalebi üzerine veri tabanlarında yer alan bilgileri bu Kanunda belirtilen görevleriyerine getirmesi amacıyla gizlilik hükümleri çerçevesinde Bankayla paylaşır.(3) Yurt içi ve yurt dışı yetkili mercilerle denetime,bilgi paylaşımına ve diğer hususlara dair yapılacak iş birliğine ilişkin usul veesaslar, Bankaca ilgili tarafların görüşü alınmak suretiyle belirlenir. [14]YEDİNCİ BÖLÜMYaptırımlar, Soruşturma ve Kovuşturma UsulüDüzenleme ve kararlara uymamak"
+    },
+    {
+      "provision_ref": "madde27",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "27",
+      "title": "(Değişik birinci ve ikinci cümle:12/11/2019-7192/14md",
+      "content": "Madde 27 - (1) (Değişik birinci ve ikinci cümle:12/11/2019-7192/14md.) Bu Kanunda ve bu Kanuna dayanılarakçıkarılacak düzenlemelerde ve alınan kararlarda yer alan ve bu Bölümde ayrı bircezai yaptırım öngörülmeyen hususlara aykırı davranan ve sistem işleticisi veyaödeme hizmeti sağlayıcısı olarak faaliyet gösteren tüzel kişiler hakkında BankaYönetim Komitesince kırk bin Türk lirasından dokuz yüz bin Türk lirasına kadar idaripara cezası verilir. Ancak, bu suretle menfaat temin edilmiş ya da zarara sebebiyetverilmiş olunması hâlinde verilecek idari para cezasının miktarı bu menfaatin yada sebep olunan zararın iki katından az olamaz. Bu kabahatlerden birinin idari yaptırımkararı verilinceye kadar birden çok işlenmesi hâlinde, ilgiliye bir idari para cezasıverilir ve verilecek ceza iki kat artırılır. Ancak, bu kabahatin işlenmesi suretiylebir menfaat temin edilmesi veya zarara neden olunması hâlinde idari para cezasınınmiktarı bu menfaat veya zararın üç katından az olamaz.(2) Birinci fıkra kapsamında alınankararlar gerekçeleri ile birlikte ilgili kuruluşa bildirilir.(3) İdari para cezasına, ilgilinin savunması alındıktansonra karar verilir. Savunma istendiğine ilişkin yazının tebliğ tarihinden itibarenbir ay içinde savunma verilmemesi hâlinde savunma hakkından feragat edildiği kabuledilir.(4) Bu Kanuna göre verilen idari para cezaları kararıntebliğ tarihinden itibaren bir ay içinde ödenir.(5) (Ek:12/11/2019-7192/14 md.) Bu madde uyarıncaverilecek idari para cezalarına karşı yetkili idare mahkemesinde dava açılabilir.İzinsiz faaliyette bulunmak"
+    },
+    {
+      "provision_ref": "madde28",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "28",
+      "title": "Bu Kanuna göre alınması gereken izinlerialmaksızın sistem işleticisi, ödeme kuruluşu veya elektronik para kuruluşu gibifaaliyet gösteren gerçek kişiler ile tüzel kişilerin görevlileri bir yıldan üç yı",
+      "content": "Madde 28 - (1) Bu Kanuna göre alınması gereken izinlerialmaksızın sistem işleticisi, ödeme kuruluşu veya elektronik para kuruluşu gibifaaliyet gösteren gerçek kişiler ile tüzel kişilerin görevlileri bir yıldan üç yılakadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır.(2) Bu Kanuna göre alınması gereken izinleri almaksızınticaret unvanlarında, her türlü belgelerde, ilan ve reklamlarda veya kamuoyuna yaptıklarıaçıklamalarda sistem işleticisi, ödeme kuruluşu veya elektronik para kuruluşu gibifaaliyet gösterdiği izlenimini yaratacak söz ve deyimleri kullanan gerçek kişilerile tüzel kişilerin görevlileri bir yıldan üç yıla kadar hapis ve beş bin güne kadaradli para cezası ile cezalandırılır.(3) Birinci ve ikinci fıkra kapsamında tanımlanan suçlarınbir iş yeri bünyesinde işlenmesi hâlinde bu işyerinin iki aydan altı aya kadar,tekerrür hâlinde sürekli olarak kapatılmasına karar verilebilir.(4) Bu Kanun kapsamında verilmiş olan faaliyet izni iptaledilen sistem işleticisinin, ödeme kuruluşunun veya elektronik para kuruluşununfaaliyetine devam etmesi durumunda da bu madde hükümleri uygulanır.Denetim ve gözetim faaliyetlerini engellemekve istenilen bilgileri vermemek [15]"
+    },
+    {
+      "provision_ref": "madde29",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "29",
+      "title": "Bu Kanun uyarıncaBanka tarafından yapılan denetim ve gözetim görevlerinin yerine getirilmesini engelleyenkişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır",
+      "content": "Madde 29 - (1) Bu Kanun uyarıncaBanka tarafından yapılan denetim ve gözetim görevlerinin yerine getirilmesini engelleyenkişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.(2) Bu Kanun uyarınca Banka tarafından yapılan denetimve gözetim faaliyetleri kapsamında istenen bilgi ve belgeleri vermeyen kişi, üçaydan bir yıla kadar hapis ve bin beş yüz güne kadar adli para cezası ile cezalandırılır.Gerçeğe aykırı beyanda bulunmak"
+    },
+    {
+      "provision_ref": "madde30",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "30",
+      "title": "Bu Kanun kapsamındaki sistem işleticisi,ödeme kuruluşu ve elektronik para kuruluşunun bu Kanunda gösterilen merciler iledenetim ve gözetim faaliyetinde bulunan görevlilere ve mahkemelere verdikleri ve",
+      "content": "Madde 30 - (1) Bu Kanun kapsamındaki sistem işleticisi,ödeme kuruluşu ve elektronik para kuruluşunun bu Kanunda gösterilen merciler iledenetim ve gözetim faaliyetinde bulunan görevlilere ve mahkemelere verdikleri veyayayımladıkları belgelerdeki gerçeğe aykırı beyanlardan dolayı, bu belgeleri imzalayankişi ve kişiler, bir yıldan üç yıla kadar hapis ve iki bin güne kadar adli paracezası ile cezalandırılır.Belgelerin saklanması ve bilgi güvenliğiyükümlülüğüne aykırı davranmak"
+    },
+    {
+      "provision_ref": "madde31",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "31",
+      "title": "Bu Kanunun 23 üncü maddesinin birincifıkrasında belirtilen yükümlülüğe uymayanlar bir yıldan üç yıla kadar hapis ve beşyüz günden bin beş yüz güne kadar adli para cezası ile cezalandırılır",
+      "content": "Madde 31 - (1) Bu Kanunun 23 üncü maddesinin birincifıkrasında belirtilen yükümlülüğe uymayanlar bir yıldan üç yıla kadar hapis ve beşyüz günden bin beş yüz güne kadar adli para cezası ile cezalandırılır.(2) Ödeme hizmeti kullanıcısının ödemearacıyla ilgili yükümlülükleri saklı kalmak kaydıyla, ödeme aracını kullanmaya yetkiliolanlar dışındaki üçüncü kişilerin ödeme aracı ile ilgili kişisel güvenlik bilgilerineerişimlerinin engellenmesi için gerekli önlemleri almayan, ödeme aracının ve ödemearacı ile ilgili kişisel güvenlik bilgilerinin ödeme hizmeti kullanıcısına güvenlibir şekilde ulaştırılmasını sağlamayan kuruluşların görevlileri ve işlemi yapankişiler, bir yıldan üç yıla kadar hapis ve bin güne kadar adli para cezası ile cezalandırılır.(3) Bu maddenin ikinci fıkrasında tanımlanan suçun dikkatsizlikveya tedbirsizlik veya meslekte yetersizlik nedeniyle işlenmesi durumunda, ilgilikuruluşların görevlileri ve işlemi yapan kişiler bin güne kadar adli para cezasıile cezalandırılır.Sırların açıklanması"
+    },
+    {
+      "provision_ref": "madde32",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "32",
+      "title": "Bu Kanun kapsamındaki sistem işleticisinin,ödeme kuruluşunun ve elektronik para kuruluşunun ortakları, yönetim kurulu üyeleri,mensupları, bunlar adına hareket eden kişiler ile görevlileri, sıfat ve gö",
+      "content": "Madde 32 - (1) Bu Kanun kapsamındaki sistem işleticisinin,ödeme kuruluşunun ve elektronik para kuruluşunun ortakları, yönetim kurulu üyeleri,mensupları, bunlar adına hareket eden kişiler ile görevlileri, sıfat ve görevleridolayısıyla öğrendikleri bu kuruluşlara ve müşterilerine ait sırları, görevden ayrılmışolsalar dahi, kanunen açıkça yetkili kılınan mercilerden başkasına açıklamalarıdurumunda bir yıldan üç yıla kadar hapis ile bin güne kadar adli para cezası ilecezalandırılır.(2) Birinci fıkrada sayılan kuruluşlara ve müşterilerineait sırları açıklayan dış hizmet sağlayıcısının çalışanları ile üçüncü kişiler hakkındada birinci fıkra hükümleri uygulanır.İtibarın zedelenmesi"
+    },
+    {
+      "provision_ref": "madde33",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "33",
+      "title": "9/6/2004 tarihlive 5187 sayılı Basın Kanununda belirtilen araçlarla ya da radyo, televizyon, video,internet, kablolu yayın veya elektronik bilgi iletişim araçları ve benzeri yayınaraçlarından biri vas",
+      "content": "Madde 33 - (1) 9/6/2004 tarihlive 5187 sayılı Basın Kanununda belirtilen araçlarla ya da radyo, televizyon, video,internet, kablolu yayın veya elektronik bilgi iletişim araçları ve benzeri yayınaraçlarından biri vasıtasıyla; bu Kanun kapsamındaki sistem işleticisinin, ödemekuruluşunun ve elektronik para kuruluşunun itibarını kırabilecek veya şöhretineya da servetine zarar verebilecek bir hususa kasten sebep olanlar veya bu yollaasılsız haber yayanlar bir yıldan üç yıla kadar hapis ve bin günden iki bin günekadar adli para cezası ile cezalandırılır.Elektronik para kuruluşlarının görevlive ilgililerinin cezai sorumluluğu"
+    },
+    {
+      "provision_ref": "madde34",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "34",
+      "title": "Bu Kanunun 18inci maddesinin dördüncü fıkrası ile 20 nci maddesinde yer alan hükümlere aykırıhareket eden elektronik para kuruluşunun görevlileri ve ilgili kişileri bir yıldanüç yıla kadar hapis ile b",
+      "content": "Madde 34 - (1) Bu Kanunun 18inci maddesinin dördüncü fıkrası ile 20 nci maddesinde yer alan hükümlere aykırıhareket eden elektronik para kuruluşunun görevlileri ve ilgili kişileri bir yıldanüç yıla kadar hapis ile beş bin güne kadar adli para cezası ile cezalandırılır.İşlemlerin kayıt dışı bırakılması ve gerçeğeaykırı muhasebeleştirme"
+    },
+    {
+      "provision_ref": "madde35",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "35",
+      "title": "Bu Kanun kapsamındaki ödeme kuruluşuve elektronik para kuruluşunun işlemlerinin kayıt dışı bırakılmasından, gerçek mahiyetlerineuygun düşmeyen bir şekilde muhasebeleştirilmesinden dolayı, bu belgeleri",
+      "content": "Madde 35 - (1) Bu Kanun kapsamındaki ödeme kuruluşuve elektronik para kuruluşunun işlemlerinin kayıt dışı bırakılmasından, gerçek mahiyetlerineuygun düşmeyen bir şekilde muhasebeleştirilmesinden dolayı, bu belgeleri imzalayankişi ve kişiler bir yıldan üç yıla kadar hapis ve iki bin güne kadar adli para cezasıile cezalandırılır.Zimmet"
+    },
+    {
+      "provision_ref": "madde36",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "36",
+      "title": "Görevi nedeniyle zilyetliği kendisinedevredilmiş olan veya koruma ve gözetimiyle yükümlü olduğu para ve para yerine geçenevrak veya senetleri veya diğer malları kendisinin ya da başkasının zimmetine g",
+      "content": "Madde 36 - (1) Görevi nedeniyle zilyetliği kendisinedevredilmiş olan veya koruma ve gözetimiyle yükümlü olduğu para ve para yerine geçenevrak veya senetleri veya diğer malları kendisinin ya da başkasının zimmetine geçirenbu Kanun kapsamındaki sistem işleticisi, ödeme kuruluşu ve elektronik para kuruluşuortakları, yönetim kurulu başkan ve üyeleri, mensupları, bunlar adına hareket edenkişiler ile görevlileri, altı yıldan on iki yıla kadar hapis ve beş bin güne kadaradli para cezası ile cezalandırılacakları gibi ilgili kuruluşun uğradığı zararıtazmine mahkûm edilir.(2) Suçun, zimmetin açığa çıkmamasınısağlamaya yönelik hileli davranışlarla işlenmesi hâlinde faile on iki yıldan azolmamak üzere hapis ve yirmi bin güne kadar adli para cezası verilir; ancak, adlipara cezasının miktarı ilgili kuruluşun uğradığı zararın üç katından az olamaz.Ayrıca meydana gelen zararın ödenmemesi hâlinde mahkemece resen ödettirilmesinehükmolunur.(3) Soruşturma başlamadan önce, zimmetegeçirilen para veya para yerine geçen evrak veya senetlerin veya diğer mallarınaynen iade edilmesi veya uğranılan zararın tamamen tazmin edilmesi hâlinde, verilecekcezanın üçte ikisi indirilir. Kovuşturma başlamadan önce, gönüllü olarak, zimmetegeçirilen para veya para yerine geçen evrak veya senetlerin veya diğer mallarınaynen iade edilmesi veya uğranılan zararın tamamen tazmin edilmesi hâlinde, verilecekcezanın yarısı indirilir. Bu durumun hükümden önce gerçekleşmesi hâlinde, verilecekcezanın üçte biri indirilir.(4) Zimmet suçunun konusunu oluşturan para veya para yerinegeçen evrak veya senetlerin veya diğer malların değerinin azlığı nedeniyle, verilecekceza üçte birden yarıya kadar indirilir.Soruşturma ve kovuşturma usulü"
+    },
+    {
+      "provision_ref": "madde37",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "37",
+      "title": "Bu Kanunun 28 inci, 29 uncu ve 31inci maddelerinde belirtilen suçlara ilişkin soruşturma ve kovuşturma yapılması,Banka tarafından Cumhuriyet başsavcılığına yazılı başvuruda bulunulmasına bağlıdır",
+      "content": "Madde 37 - (1) Bu Kanunun 28 inci, 29 uncu ve 31inci maddelerinde belirtilen suçlara ilişkin soruşturma ve kovuşturma yapılması,Banka tarafından Cumhuriyet başsavcılığına yazılı başvuruda bulunulmasına bağlıdır.Bu başvuru muhakeme şartı niteliğindedir. [16](2) Bu Kanunun 31 inci maddesinde belirtilen suçtan dolayıilgililerin Cumhuriyet başsavcılığına başvurması hâlinde yazılı başvuru şartı aranmaz.(3) Bu Kanun ve bu Kanuna dayanılarakçıkarılacak düzenlemelerde belirtilen görevlerin yerine getirilmesi sırasındakifiilleri dolayısıyla Banka personeli hakkında soruşturma ve kovuşturma yapılması,Bankanın Cumhuriyet başsavcılığına yazılı başvuruda bulunmasına bağlıdır."
+    },
+    {
+      "provision_ref": "madde38",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "38",
+      "title": "39 – (14/1/1970 tarihli ve1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanunu ile ilgili olup yerine işlenmiştir",
+      "content": "Madde 38 - 39 – (14/1/1970 tarihli ve1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanunu ile ilgili olup yerine işlenmiştir.)"
+    },
+    {
+      "provision_ref": "madde40",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "40",
+      "title": "41 – (19/10/2005 tarihli ve 5411 sayılıBankacılık Kanunu ile ilgili olup yerine işlenmiştir",
+      "content": "Madde 40 - 41 – (19/10/2005 tarihli ve 5411 sayılıBankacılık Kanunu ile ilgili olup yerine işlenmiştir.)SEKİZİNCİ BÖLÜMGeçici ve Son HükümlerTürkiye Ödeme ve Elektronik Para KuruluşlarıBirliği"
+    },
+    {
+      "provision_ref": "ek_madde1",
+      "chapter": "Ek Maddeler",
+      "section": "E1",
+      "title": "MADDE 1-",
+      "content": "Ek Madde 1 - MADDE 1-"
+    },
+    {
+      "provision_ref": "madde1",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "1",
+      "title": "(Ek:12/11/2019-7192/15 md",
+      "content": "Madde 1 - (Ek:12/11/2019-7192/15 md.)(1) Ödeme kuruluşları ve elektronik para kuruluşları, tüzelkişiliği haiz ve kamu kurumu niteliğinde meslek kuruluşu olan Türkiye Ödeme ve ElektronikPara Kuruluşları Birliğine, faaliyet izni aldıkları tarihten itibaren bir ay içindeüye olmak için başvurmak zorundadırlar.(2) Birlik;a) Mesleğin gelişmesini sağlamak amacıyla eğitim, tanıtımve araştırma faaliyetlerinde bulunmak,b) Meslek ilkelerini belirlemek suretiyle üyelerin mesleğingerektirdiği disiplin ve birlik içinde ekonominin ihtiyaçlarına uygun olarak çalışmalarınısağlamak,c) Üye kuruluş mensuplarının uyacakları meslek ilkelerive standartlarını belirlemek,ç) İlgili mevzuat uyarınca alınan kararlar ile Bankacaalınması istenilen tedbirleri üyelerine duyurmak,d) Üyeleri arasında haksız rekabeti önlemek amacıyla gerekliher türlü tedbiri almak ve uygulamak,e) Üyelerin ilan ve reklamlarında uyacakları esas ve şartlarıtür, şekil, nitelik ve miktar itibarıyla tespit etmek,f) Üyelerin ortak menfaatlerini ilgilendiren konulardayönetim kurulu kararına istinaden dava açmak,g) Üyeleri arasında ortak projelere ilişkin iş birliğinitemin etmek,ğ) 7/11/2013 tarihli ve 6502 sayılı Tüketicinin KorunmasıHakkında Kanun hükümleri ve diğer kanunlarla tanınmış müracaat hakları saklı kalmakkaydıyla üyeler ve bireysel müşterileri arasındaki ihtilafların değerlendirilmesive çözüme kavuşturulmasını temin etmek üzere hazırlayacağı ve Bankaca onaylananusul ve esaslar dâhilinde hakem heyeti oluşturmak,h) Bu Kanunda sayılan diğer görevleri yerine getirmek,ile görevli ve yetkilidir.(3) Birlik organ seçimleri bu Kanunda öngörülen esaslarçerçevesinde gizli oyla ve yargı gözetimi altında gerçekleştirilir. Seçim yapılacakgenel kurul toplantısından en az on beş gün önce seçimlere katılacak üyeleri vetemsilcilerini belirleyen liste, toplantının gündemini, yerini, gününü, saatinive çoğunluk olmadığı takdirde yapılacak ikinci toplantıya ilişkin hususları belirtenbir yazı ile birlikte üç nüsha olarak Yüksek Seçim Kurulunca belirlenecek seçimkurulu başkanı hâkime tevdi edilir. Hâkim gerekli incelemeyi yaparak listeyi vediğer hususları onaylar, bir sandık kurulu başkanı ve iki sandık kurulu üyesi ilebunlar için birer yedek üye atar. Oy verme işlemi gizli oy, açık sayım ilkelerinegöre yapılır. Seçim süresinin sonunda seçim sonuçları tutanakla tespit edilip seçimsandık kurulu başkanı ve üyeleri tarafından imzalanır. Tutanağın düzenlenmesindenitibaren iki gün içinde seçimlere yapılacak her türlü itiraz hâkim tarafından aynıgün incelenir ve kesin olarak karara bağlanır.(4) Birliğin organları, gelirleri, giderleri, çalışma esaslarıve faaliyetlerinin kapsamı, üyeliğe kabul, üyelikten geçici ve sürekli çıkarma esasları,statüyle düzenlenir. Bu statü, sektör temsilcilerinin görüşleri alınarak Bankanınyapacağı öneri üzerine Cumhurbaşkanı kararı ile yürürlüğe konulur. Üyeler, Birliğinstatüsüne ve Birlik tarafından alınacak karar ve tedbirlere uymak zorundadır. Birlikgiderleri, statü gereğince tespit olunan oy sayısına göre üyelere dağıtılır. Üyeler,kendilerine düşen masraf paylarını statüde belirtilen süre içinde yatırmak zorundadır.Masraf iştirak payları belirlenen süre içinde ödenmediği takdirde Birlik tarafındanicra yoluyla tahsil olunur. Masraf iştirak paylarının ödenmesine dair kararlar 9/6/1932tarihli ve 2004 sayılı İcra ve İflas Kanununun 68 inci maddesinde yazılı resmî belgeniteliğindedir.(5) Birlik, aldığı genel ya da özelnitelikteki karar ve tedbirlere zamanında ve tam olarak uymayan üyelerine bin Türklirasından on bin Türk lirasına kadar idari para cezası verir.YönetmelikGEÇİCİ"
+    },
+    {
+      "provision_ref": "madde1",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "1",
+      "title": "Bu Kanunda öngörülen yönetmeliklerbu Kanunun yayımı tarihinden itibaren bir yıl içinde hazırlanarak yürürlüğe konulur",
+      "content": "Madde 1 - (1) Bu Kanunda öngörülen yönetmeliklerbu Kanunun yayımı tarihinden itibaren bir yıl içinde hazırlanarak yürürlüğe konulur.Geçiş hükümleriGEÇİCİ"
+    },
+    {
+      "provision_ref": "madde2",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "2",
+      "title": "Bu Kanunun yürürlüğe girdiği tarihitibarıyla faaliyette bulunan sistem işleticileri, sistemlerini bu Kanun kapsamındaBankaca çıkarılacak ilgili yönetmeliğin yayımı tarihinden itibaren bir yıl içindebu",
+      "content": "Madde 2 - (1) Bu Kanunun yürürlüğe girdiği tarihitibarıyla faaliyette bulunan sistem işleticileri, sistemlerini bu Kanun kapsamındaBankaca çıkarılacak ilgili yönetmeliğin yayımı tarihinden itibaren bir yıl içindebu Kanunla uyumlu hâle getirmek ve Bankaya başvurarak gerekli izinleri almak zorundadır.(2) Bu Kanunun yürürlüğe girdiği tarih itibarıyla ödemehizmetleri sunmakta olup bu Kanun kapsamında ihdas edilen ödeme kuruluşu kategorisinedâhil edilebilecek olan kuruluşlar, bu Kanun kapsamında Kurumca çıkarılacak ilgiliyönetmeliklerin yayımı tarihinden başlayarak bir yıl içinde Kuruma başvurarak gerekliizinleri almak zorundadır.(3) Bu Kanunun yürürlüğe girdiği tarih itibarıyla elektronikpara ihraç etmekte olup bu Kanun kapsamında ihdas edilen elektronik para kuruluşukategorisine dâhil edilebilecek olan kuruluşlar, bu Kanun kapsamında Kurumca çıkarılacakilgili yönetmeliklerin yayımı tarihinden başlayarak bir yıl içinde Kuruma başvurarakgerekli izinleri almak zorundadır.(4) İkinci ve üçüncü fıkra hükümleri uyarınca Kurumdanizin alma yükümlülüğü bulunan kuruluşlar ile bunların dışındaki ödeme hizmeti sağlayıcıları,uygulamalarını bu Kanun kapsamında Kurumca çıkarılacak ilgili yönetmeliklerin yayımıtarihinden başlayarak bir yıl içinde bu Kanun ve bu Kanuna dayanılarak çıkarılacakdüzenlemelerde yer alan hükümlere uygun hâle getirmek zorundadır.(5) Bu maddenin birinci, ikinci ve üçüncü fıkralarındabelirtilen süreler içinde faaliyet izni alması gereken kuruluşlar, söz konusu iznialmamaları durumunda bu Kanun kapsamında faaliyette bulunamazlar.Yürürlükteki düzenlemelere ilişkin geçişhükümleriGEÇİCİ"
+    },
+    {
+      "provision_ref": "madde3",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "3",
+      "title": "(Ek:12/11/2019-7192/16 md",
+      "content": "Madde 3 - (Ek:12/11/2019-7192/16 md.)(1) Bankaca bu maddeyi ihdas eden Kanunla yapılan değişikliklereuygun düzenlemeler yapılıncaya kadar bu maddenin yürürlüğe girdiği tarihten önceçıkarılmış Kurum düzenlemeleri ile Kurul kararları uygulanmaya devam olunur.(2) Bu maddenin yürürlüğe girdiği tarihten önce bu Kanungereğince çıkarılmış Kurum düzenlemelerinde Kurum ile Kurula yapılan atıflar Bankayayapılmış sayılır.(3) Bu maddenin yürürlüğe girdiği tarih itibarıyla bu Kanunun12 nci maddesinin birinci fıkrasının (f) ve (g) bentlerinde belirtilen ödeme hizmetlerinisunmakta olup bu Kanun kapsamında ihdas edilen ödeme kuruluşu kategorisine dâhiledilebilecek olan kuruluşlar, bu Kanun kapsamında Bankaca çıkarılacak ilgili yönetmeliklerinyayımı tarihinden başlayarak bir yıl içinde Bankaya başvurarak gerekli izinlerialmak zorundadır.(4) Bu maddenin yürürlüğe girdiği tarihten önce faaliyettebulunan ödeme kuruluşları ile elektronik para kuruluşları Birliğin faaliyete geçtiğitarihi izleyen bir ay içinde Birliğe üye olmak zorundadır.(5) Bu maddeyi ihdas eden Kanunla yapılan değişikliklereuygun yönetmelikler bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl içindehazırlanarak yürürlüğe konulur.Yürürlük"
+    },
+    {
+      "provision_ref": "madde42",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "42",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğegirer",
+      "content": "Madde 42 - (1) Bu Kanun yayımı tarihinde yürürlüğegirer.Yürütme"
+    },
+    {
+      "provision_ref": "madde43",
+      "chapter": "ihbar veya ihtarda bulunma, süre verme, adli veya idari merciden izin ya da onayalma, teminatı açık artırma ya da başka",
+      "section": "43",
+      "title": "Bu Kanun hükümlerini Bakanlar Kuruluyürütür",
+      "content": "Madde 43 - (1) Bu Kanun hükümlerini Bakanlar Kuruluyürütür.CETVELKURUMU: BANKACILIK DÜZENLEME VE DENETLEME KURUMUİHDAS EDİLEN KADROLARINSINIFIUNVANIDERECESİADEDİGİHBaşkan Yardımcısı12GİHMüdür14GİHBankacılık Düzenleme ve Denetleme KurumuUzman Yardımcısı910TOPLAM166493 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİRENMEVZUATIN VEYAANAYASA MAHKEMESİ TARAFINDAN VERİLEN İPTALKARARLARININYÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR LİSTEDeğiştiren Kanunun/ KHK’nin veya İptalEden Anayasa Mahkemesi Kararının Numarası6493 Sayılı Kanunun Değişen veya İptalEdilen MaddeleriYürürlüğe Giriş Tarihi6637237/4/2015KHK/69013, 18, 21, 2429/4/2017707713, 18, 21, 248/3/201871923, 5, 8, 10, 12, 14, 14/A, 15, 16, 17,18, 20, 21, 22, 23, 24, 25, 26, 27, 29, 37, Geçici Madde 31/1/2020Ek Madde 1yayımı tarihinden (22/11/2019), altıay sonra72471226/6/202075711225/12/2025[1] 12/11/2019 tarihli ve 7192 sayılı Kanunun 8 incimaddesiyle, bu bentte yer alan “Kurulca” ibaresi “Bankaca” şeklindedeğiştirilmiştir.[2] 24/12/2025 tarihli ve 7571 sayılı Kanunun 33 üncümaddesiyle bu fıkraya “müşterikimliğinin” ibaresinden sonra gelmek üzere “biyometrik yöntemlerle veyaelektronik kimlik doğrulama kabiliyetini haiz kimlik belgeleriyle” ibaresieklenmiştir.[3]12/11/2019 tarihli ve 7192 sayılı Kanunun 17nci maddesinin (a) bendiyle, bu maddenin birinci fıkrasında yer alan “Kuruldan”ibaresi “Bankadan” şeklinde, ikinci fıkrasının (f) bendinde yer alan “Kurumun”ibaresi “Bankanın” şeklinde, dördüncü fıkrasında yer alan “Kurumca” ibaresi“Bankaca” şeklinde, beşinci fıkrasında yer alan “Kurul” ibaresi “Banka”şeklinde, altıncı fıkrasında yer alan “Mali Suçları Araştırma Kurulu veBankanın görüşünün alınması suretiyle Kurumca” ibaresi “Mali Suçları AraştırmaKurulunun görüşünün alınması suretiyle Bankaca” şeklinde değiştirilmiştir.[4]12/11/2019 tarihli ve 7192 sayılı Kanunun 17nci maddesinin (b) bendiyle,bu maddenin birinci fıkrasında yeralan “Kurulca” ibaresi “Bankaca” şeklinde, birinci, üçüncü ve dördüncüfıkralarında yer alan “Kurul” ibareleri “Banka” şeklinde, üçüncü fıkrasında yeralan “Kurumun” ibaresi “Bankanın” şeklinde, dördüncü ve beşinci fıkralarındayer alan “Kuruma” ibareleri “Bankaya” şeklinde değiştirilmiş; ikinci fıkrasıyürürlükten kaldırılmıştır.[5] 12/11/2019 tarihli ve 7192 sayılı Kanunun 17 ncimaddesinin (c) bendiyle, bu maddenin birinci fıkrasında yer alan “Kurul”ibareleri “Banka” şeklinde, fıkranın (b) bendinde yer alan “Kuruma” ibaresi“Bankaya” şeklinde, ikinci ve üçüncü fıkralarında yer alan “Kurum” ibareleri“Banka” şeklinde değiştirilmiş; maddenin birinci fıkrasında yer alan “en az beşüyesinin aynı yöndeki oyuyla alınan kararla” ibaresi ve ikinci fıkrasında yeralan “ve Bankaya” ibaresi madde metninden çıkarılmıştır.[6] 12/11/2019 tarihli ve 7192 sayılı Kanunun 17 ncimaddesiyle, bu fıkrada yer alan “Kuruma” ibaresi “Bankaya” şeklinde, “Kurum”ibaresi “Banka” şeklinde değiştirilmiş ve “Bankaya bildirir ve” ibaresi madde metninden çıkarılmıştır[7] 12/11/2019 tarihli ve 7192 sayılı Kanunun 10 uncumaddesiyle, ikinci fıkrada yer alan “Kuruldan” ibaresi “Bankadan” şeklinde veüçüncü fıkranın (f) bendinde yer alan “Kurumun” ibaresi “Bankanın” şeklindedeğiştirilmiştir.[8] 17/4/2017 tarihli ve 690 sayılı KHK’nin 69 uncumaddesiyle bu fıkrada yer alan “bankalar” ibaresinden sonra gelmek üzere “,Posta ve Telgraf Teşkilatı Anonim Şirketi” ibaresi eklenmiş, daha sonra buhüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 59 uncu maddesiyle aynen kabuledilerek kanunlaşmıştır.[9] 12/11/2019 tarihli ve 7192 sayılı Kanunun 11 incimaddesiyle, bu fıkrada yer alan “Kurul” ibaresi “Banka” şeklindedeğiştirilmiştir.[10] 12/11/2019 tarihli ve 7192 sayılı Kanunun 17 ncimaddesiyle, birinci fıkrada yer alan “Kurumca” ibaresi “Bankaca” şeklinde veikinci fıkrada yer alan “Kurul” ibaresi “Banka” şeklinde değiştirilmiştir.[11] 12/11/2019 tarihli ve 7192 sayılı Kanunun 17 ncimaddesiyle, birinci fıkranın üçüncü cümlesinde yer alan “Kurulca” ibaresi“Bankaca” şeklinde; üçüncü fıkrada yer alan “İlgili otorite” ibaresi “Banka”şeklinde ve “sistem işleticisi Bankayı; ödeme kuruluşu ve elektronik parakuruluşu ise Kurumu” ibaresi “sistem işleticisi, ödeme kuruluşu ve elektronikpara kuruluşu Bankayı” şeklinde değiştirilmiştir.[12] 12/11/2019 tarihli ve 7192 sayılı Kanunun 17 ncimaddesiyle, bu fıkrada yer alan “Kurulca” ve “Kurumca” ibareleri “Bankaca”şeklinde ve “Kurul” ibaresi “Banka” şeklinde değiştirilmiştir.[13] 12/11/2019 tarihli ve 7192 sayılı Kanunun 17 ncimaddesiyle, birinci, ikinci ve üçüncü fıkralarda yer alan “Kurulun” ibareleri“Bankanın” şeklinde, altıncı fıkrada yer alan “Kurumca” ibaresi “Bankaca”şeklinde değiştirilmiş; birinci ve ikinci fıkralarda yer alan “sistemişleticisi için Bankanın; ödeme kuruluşu ve elektronik para kuruluşu için ise”ibareleri, üçüncü fıkrada yer alan “sistem işleticileri için Bankanın; ödeme veelektronik para kuruluşları için” ibaresi ve altıncı fıkrada yer alan “sistemişleticileri için Bankaca; ödeme ve elektronik para kuruluşları için” ibaresimadde metninden çıkarılmıştır.[14] 12/11/2019 tarihli ve 7192 sayılı Kanunun 13 üncümaddesiyle, bu fıkrada yer alan “sistem işleticileri için Bankaca; ödeme veelektronik para kuruluşları için Kurulca” ibaresi “Bankaca” şeklindedeğiştirilmiştir.[15] 12/11/2019 tarihli ve 7192 sayılı Kanunun 17 ncimaddesiyle, birinci ve ikinci fıkralarda yer alan “ve Kurum” ibareleri maddemetninden çıkarılmıştır.[16] 12/11/2019 tarihli ve 7192 sayılı Kanunun 17 ncimaddesiyle, bu fıkrada yer alan “Kurum” ibaresi “Banka” şeklinde değiştirilmişve “sistem işleticileri ile ilgili olarak Banka; ödeme ve elektronik parakuruluşları ile ilgili olarak ise” ibaresi madde metninden çıkarılmıştır.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bu Kanunun uygulanmasında;a) Alıcı",
+      "definition": "Ödeme işlemine konu fonun ulaşması istenen gerçekveya tüzel kişiyi,b) Banka: Türkiye Cumhuriyet Merkez Bankası Anonim Şirketini",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Elektronik haberleşme işletmecisi",
+      "definition": "5/11/2008 tarihlive 5809 sayılı Elektronik Haberleşme Kanunu çerçevesinde tanımlanan işletmeciyi,ç) Elektronik para: Elektronik para ihraç eden kuruluştarafından kabul edilen fon karşılığı ihraç edilen",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Elektronik para kuruluşu",
+      "definition": "Bu Kanun kapsamında elektronikpara ihraç etme yetkisi verilen tüzel kişiyi,e) Fon: Banknot",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Gönderen",
+      "definition": "Kendi ödeme hesabından veya ödeme hesabı bulunmaksızınödeme emri veren gerçek veya tüzel kişiyi,g) Katılımcı: Sisteme katılarak doğrudan transfer emriverme yetkisi bulunan ve sistem kurallarına uymakla yükümlü tüzel kişiyi",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Kişisel güvenlik bilgileri",
+      "definition": "Ödeme aracı ile işlem gerçekleştirirkenkullanılabilecek şifre, son kullanma tarihi",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Kontrol",
+      "definition": "Bir tüzel kişinin; sermayesinin",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Kurul",
+      "definition": "Bankacılık Düzenleme ve Denetleme Kurulunu,i) Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Menkul kıymet mutabakat sistemi",
+      "definition": "Üç veya daha fazlakatılımcı arasındaki transfer emirlerinden kaynaklanan menkul kıymet aktarımlarınıngerçekleştirilmesini sağlamak amacıyla yapılan takas ve mutabakat işlemleri içingerekli altyapıyı sunan ve ortak kuralları olan yapıyı,k) Merkezî karşı taraf: Bir veya daha fazla piyasada işlemgören finansal sözleşmelerin tarafları arasında alıcıya karşı satıcı",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Mutabakat",
+      "definition": "İki ya da daha fazla taraf arasındaki fonya da menkul kıymet aktarımından kaynaklanan yükümlülüklerin yerine getirilmesini,m) Mutabakat hesabı: Banka",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Mutabakat kuruluşu",
+      "definition": "Nezdinde mutabakat hesabı bulunduranve gerektiğinde katılımcıya mutabakat amacıyla kredi verebilen kuruluşu,o) Netleştirme: Bir katılımcının gönderdiğive aldığı transfer emirlerinden kaynaklanan alacak ve borçların karşılıklı mahsupedilerek tek bir alacak veya borca dönüştürülmesini",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Ödeme aracı",
+      "definition": "Ödeme hizmeti sağlayıcısı ile kullanıcısıarasında belirlenen ve ödeme hizmeti kullanıcısı tarafından ödeme emrini vermekiçin kullanılan kart, cep telefonu",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Ödeme emri",
+      "definition": "Ödeme hizmeti kullanıcısı tarafından ödemeişleminin gerçekleşmesi amacıyla ödeme hizmeti sağlayıcısına verilen talimatı,r) Ödeme hesabı: Ödeme hizmeti kullanıcısı adına açılanve ödeme işleminin yürütülmesinde kullanılan hesabı",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Ödeme hizmeti",
+      "definition": "Bu Kanunun 12 nci maddesinde belirtilenhizmetleri,ş) Ödeme hizmeti kullanıcısı: Gönderen",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Ödeme hizmeti sağlayıcısı",
+      "definition": "Bu Kanunun 13 üncü maddesindebelirtilen kuruluşları,u) Ödeme işlemi: Gönderen veya alıcının talimatı üzerinegerçekleştirilen fon yatırma",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Ödeme kuruluşu",
+      "definition": "Ödeme hizmeti sağlamak ve gerçekleştirmekiçin bu Kanun kapsamında yetkilendirilmiş tüzel kişiyi,v) Ödeme sistemi: Üç veya daha fazla katılımcı arasındakitransfer emirlerinden kaynaklanan fon aktarımlarının gerçekleştirilmesini sağlamakamacıyla yapılan takas ve mutabakat işlemleri için gerekli altyapıyı sunan ve ortakkuralları olan yapıyı",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Para havalesi",
+      "definition": "Gönderenveya alıcı adına herhangi bir hesap açılmaksızın gönderenin, alıcıya veya alıcıadına hareket eden ödeme hizmeti sağlayıcısına fon aktarımı gerçekleştirdiği ödemehizmetini",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Sistem",
+      "definition": "Ödeme sistemi ve menkul kıymet mutabakat sistemini,aa) Sistem işleticisi: Sistemin günlük işleyişinden sorumluolan ve sistem işletimi için gerekli olan faaliyet iznine sahip tüzel kişiyi",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Takas",
+      "definition": "Sisteme gönderilen transfer emirlerinin aktarımı,bu emirlerin karşılıklı olarak iletilmesine ve mutabakat öncesi provizyon alındığıdurumlarda provizyon alınmasına aracılık edilmesi ve bazı durumlarda bu emirlerinnetleştirilmesi işlemlerini",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "Takas odası",
+      "definition": "Katılımcıların net borç veya alacak durumununhesaplanmasından sorumlu kuruluşu,çç) Transfer emri:1) Belirli miktarda fonun sistem içerisinde katılımcılararasında devrolunmasına ilişkin katılımcı talimatını",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "(Ek",
+      "definition": "12/11/2019-7192/4 md.)Birlik: Türkiye Ödeme ve Elektronik Para Kuruluşları Birliğini,ifade eder.İKİNCİ BÖLÜMSistemGenel hükümler",
+      "source_provision": "madde3"
+    },
+    {
+      "term": "(Değişik",
+      "definition": "12/11/2019-7192/6 md.) Banka, gözetimfaaliyetlerinin kapsamına giren kuruluşların gerçekleştirdiği bütün işlemlere ilişkinkayıt",
+      "source_provision": "madde8"
+    },
+    {
+      "term": "(Ek",
+      "definition": "12/11/2019-7192/6 md.) Banka, sistemlerinkesintisiz işletimini sağlamak amacıyla sistemik öneme sahip kurulmuş ve kurulacaksistem işleticilerine hissedar olabilir.Önlem alınmasını gerektiren hâller vealınacak tedbirler",
+      "source_provision": "madde8"
+    },
+    {
+      "term": "Fatura ödemelerine aracılık edilmesine yönelik hizmetleri,f) (Ek",
+      "definition": "12/11/2019-7192/8 md.) Ödeme hizmeti kullanıcısınınisteği üzerine başka bir ödeme hizmeti sağlayıcısında bulunan ödeme hesabıyla ilgilisunulan ödeme emri başlatma hizmetini,g) (Ek:12/11/2019-7192/8 md.) Ödeme hizmeti kullanıcısınınonayının alınması koşuluyla",
+      "source_provision": "madde12"
+    },
+    {
+      "term": "(Ek",
+      "definition": "12/11/2019-7192/8 md.) Ödemeler alanındatoplam büyüklük veya etki alanı açısından Bankaca belirlenecek seviyeye ulaşan diğerişlem ve hizmetleri,ifade eder.(2) Aşağıda yer alan işlem ve hizmetler bu Kanun kapsamındaödeme hizmeti olarak değerlendirilmez:a) Ödeme işleminin aracı kullanılmaksızın doğrudan alıcıyanakit olarak yapılmasıb) Ödeme işleminin",
+      "source_provision": "madde12"
+    },
+    {
+      "term": "Bankaca belirlenecek diğer işlem ve hizmetler [1](3) (Değişik",
+      "definition": "12/11/2019-7192/8 md.) Ödeme hizmetlerine,ödeme hizmetleri kapsamında tarafların hak ve yükümlülüklerine",
+      "source_provision": "madde12"
+    },
+    {
+      "term": "(Ek",
+      "definition": "12/11/2019-7192/8 md.) Banka, ödeme hizmetikapsamındaki belirli bir işlem türüne ilişkin olarak herhangi bir isim altında işlemintaraflarından birinin aldığı ücret",
+      "source_provision": "madde12"
+    },
+    {
+      "term": "(Ek",
+      "definition": "12/11/2019-7192/8 md.) Banka, ikinci fıkranın(b) ve (h) bentlerinde yer alan işlemlerin toplam büyüklük ve etki alanı açısındanBankaca belirlenecek seviyeye ulaşması durumunda",
+      "source_provision": "madde12"
+    },
+    {
+      "term": "(Ek",
+      "definition": "12/11/2019-7192/8 md.) Ödeme hizmeti sağlayıcılarınınbu Kanuna tabi faaliyetleri nedeniyle taraf oldukları hukuki ilişkiler Banka tarafındanizlenir. Banka, ödeme hizmeti sağlayıcılarının bu Kanuna tabi faaliyetleri nedeniyletaraf oldukları hukuki ilişkiler kapsamında",
+      "source_provision": "madde12"
+    },
+    {
+      "term": "(Ek",
+      "definition": "12/11/2019-7192/8 md.)Banka, bu Kanuna tabi faaliyetler kapsamında ödemeler alanının gelişimini olumsuzetkileyebilecek nitelikte durum ve uygulamaların bulunduğunu tespit etmesi durumunda",
+      "source_provision": "madde12"
+    },
+    {
+      "term": "(Değişik",
+      "definition": "12/11/2019-7192/10 md.) Elektronikparayı ihraç eden kuruluşun sadece kendi mağaza ağında, sadece belirli bir mal veyahizmet grubunun satın alınmasında veya yapılan bir anlaşma sonucunda sadece belirlibir hizmet ağında kullanılabilen ön ödemeli araçlar bu Kanun kapsamı dışındadır.Banka",
+      "source_provision": "madde18"
+    },
+    {
+      "term": "(Değişik",
+      "definition": "12/11/2019-7192/10 md.) Bu maddeninuygulanmasına, elektronik para kuruluşunun kurulmasına ilişkin istenecek bilgi vebelgelere",
+      "source_provision": "madde18"
+    },
+    {
+      "term": "(Değişik",
+      "definition": "12/11/2019-7192/11 md.) Elektronikpara kuruluşu, elektronik para ihracı karşılığında topladığı fonları 5411 sayılıKanunda tanımlanan bankalar nezdinde açılacak ayrı bir hesaba aktarmak zorundadır.Bu fıkranın uygulanmasına ilişkin usul ve esaslar Bankaca belirlenir.(4) Elektronik para kuruluşu krediverme faaliyetinde bulunamaz. (Ek cümle:12/11/2019-7192/11 md.) Elektronikpara kuruluşunun",
+      "source_provision": "madde20"
+    }
+  ]
+}

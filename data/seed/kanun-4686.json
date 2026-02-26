@@ -1,0 +1,26 @@
+{
+  "id": "kanun-4686",
+  "type": "statute",
+  "title": "MİLLETLERARASI TAHKİM KANUNU",
+  "title_en": "",
+  "short_name": "MİLLETLERARASI TAHKİM KANUNU",
+  "status": "in_force",
+  "issued_date": "2001-07-05",
+  "in_force_date": "2001-07-05",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4686&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Ek: 28/2/2018-7101/54md",
+      "content": "Madde 1 - (Ek: 28/2/2018-7101/54md.)BuKanunda asliye hukuk mahkemesine verilen görev ve yetkiler, uyuşmazlığınkonusuna göre asliye hukuk veya asliye ticaret mahkemesi tarafından kullanılır.Geçici"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Taraflarla hakem veya hakem kuruluarasında ücretin belirlenmesi konusunda anlaşmaya varılamazsa veya tahkimanlaşmasında ücretin belirlenmesine ilişkin herhangi bir hüküm bulunmazsa ya dataraflarca hak",
+      "content": "Madde 1 - Taraflarla hakem veya hakem kuruluarasında ücretin belirlenmesi konusunda anlaşmaya varılamazsa veya tahkimanlaşmasında ücretin belirlenmesine ilişkin herhangi bir hüküm bulunmazsa ya dataraflarca hakem veya bu konuda yerleşmiş milletlerarası kurallara veyakurumsal tahkim kurallarına yollama yapılmamışsa, hakem veya hakem kurulununücreti, Adalet Bakanlığınca bir ücret tarifesi hazırlanıncaya kadar,uyuşmazlığın niteliği ve tahkim yargılamasının süresi dikkate alınarak asliyehukuk mahkemesince takdir edilir.Ücrettarifesinin hazırlanmasına ilişkin esas ve usuller Kanunun yayımı tarihiniizleyen altı ay içinde Adalet Bakanlığınca çıkarılacak yönetmelikte gösterilir.YürürlükMadde18 – Bu Kanun yayımı tarihinde yürürlüğe girer.YürütmeMadde19 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.4686 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATIN VEYAANAYASAMAHKEMESİ KARARLARININYÜRÜRLÜĞEGİRİŞ TARİHLERİNİ GÖSTERİR TABLODeğiştirenKanunun/KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası4686 sayılıKanunun değişen veya iptal edilen maddeleriYürürlüğe GirişTarihi710115, Ek Madde 115/3/2018[1]28/2/2018 tarihli ve 7101 sayılı Kanunun 53 üncü maddesi ile bu alt bentteyer alan “Mahkemece” ibaresi “Bölge adliye mahkemesince” şeklindedeğiştirilmiştir.[2]28/2/2018 tarihli ve 7101 sayılı Kanunun 53 üncü maddesi ile bu bentte yeralan “mahkeme” ibaresi “bölge adliye mahkemesi” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

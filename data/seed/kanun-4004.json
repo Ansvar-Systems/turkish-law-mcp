@@ -1,0 +1,20 @@
+{
+  "id": "kanun-4004",
+  "type": "statute",
+  "title": "DEVLET PLANLAMA TEŞKİLATI İLE TÜRK PATENT ENSTİTÜSÜNÜN YENİDEN TEŞKİLATLANMASINA, KURULUŞ, GÖREV VE YETKİLERİNİN BELİRLENMESİNE, 29 NİSAN 1969 TARİHLİ VE 1164 SAYILI ARSA OFİSİ KANUNU İLE 13 ARALIK 1983 TARİHLİ VE 178 SAYILI, 2 TEMMUZ 1993 TARİHLİ VE 485 SAYILI, 30/9/1983 TARİHLİ VE 90 SAYILI KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN HÜKMÜNDE KARARNA- MELER ÇIKARILMASI AMACIYLA YETKİ VERİLMESİNE DAİR KANUN",
+  "title_en": "",
+  "short_name": "DEVLET PLANLAMA TEŞKİLATI İLE TÜRK PA...",
+  "status": "in_force",
+  "issued_date": "1994-06-19",
+  "in_force_date": "1994-06-19",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4004&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu KanunlaBakanlar Kuruluna verilen yetki, Kanunun yayımı tarihinden itibaren 1 ay süre içingeçerlidir",
+      "content": "Madde 4 - Bu KanunlaBakanlar Kuruluna verilen yetki, Kanunun yayımı tarihinden itibaren 1 ay süre içingeçerlidir. Bu süre içerisinde Bakanlar Kurulu birden fazla kanun hükmünde kararnameçıkartabilir.YürürlükMadde5 – BuKanun yayımı tarihinde yürürlüğe girer.YürütmeMadde6 – BuKanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

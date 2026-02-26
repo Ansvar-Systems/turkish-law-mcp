@@ -1,0 +1,44 @@
+{
+  "id": "kanun-5750",
+  "type": "statute",
+  "title": "EXPO 2015 İZMİR YÖNLENDİRME KURULUNUN TÜZEL KİŞİLİK KAZANMASI, GELİR VE HARCAMALARI İLE DENETİM VE TASFİYESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "EXPO 2015 İZMİR YÖNLENDİRME KURULUNUN...",
+  "status": "in_force",
+  "issued_date": "2008-03-22",
+  "in_force_date": "2008-03-22",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5750&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "30/11/2006 tarihli ve 2006/11341 sayılı Bakanlar KuruluKararı ile oluşturulan EXPO 2015 İzmir Yönlendirme Kurulu tüzel kişiliğe sahip olup,iş ve işlemleri özel hukuk hükümlerine tabidir",
+      "content": "Madde 1 - (1) 30/11/2006 tarihli ve 2006/11341 sayılı Bakanlar KuruluKararı ile oluşturulan EXPO 2015 İzmir Yönlendirme Kurulu tüzel kişiliğe sahip olup,iş ve işlemleri özel hukuk hükümlerine tabidir.(2) Yönlendirme Kurulu, Yürütme Komitesi ile Sekretarya bu Kanun ve BakanlarKurulu kararları çerçevesinde faaliyetlerini yürütmeye devam eder.Gelirler, harcamalar ve denetim"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Yönlendirme Kurulunun gelirleri, Yönlendirme Kurulu üyesikamu kurum ve kuruluşları tarafından aktarılacak tutarlar ile kamu kurumu niteliğindekimeslek kuruluşları, vakıflar, dernekler, sivil toplum ör",
+      "content": "Madde 2 - (1) Yönlendirme Kurulunun gelirleri, Yönlendirme Kurulu üyesikamu kurum ve kuruluşları tarafından aktarılacak tutarlar ile kamu kurumu niteliğindekimeslek kuruluşları, vakıflar, dernekler, sivil toplum örgütleri ile diğer özel hukuktüzel kişileri ve gerçek kişilerce yapılan ayni ve nakdi yardımlar, sponsorluk gelirleri,faiz gelirleri ve diğer gelirlerden oluşur. Gelirler, ulusal bir banka nezdindeaçılacak hesapta toplanır. Hesapta toplanan tutarlar Yönlendirme Kurulunca nemalandırılır.(2) İzmir’in adaylık sürecinde yapılacak her türlü toplantı, sempozyum, tanıtımve personel giderleri ile temsil, ağırlama, ilân, reklâm, taşınır, hizmet alımıve benzeri harcamalar birinci fıkrada belirtilen hesaptan karşılanır.(3) Bu Kanun kapsamına giren mal ve hizmet alımları ile satım, kira ve hertürlü işlemlerde 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu ile 4/1/2002tarihli ve 4734 sayılı Kamu İhale Kanunu hükümleri uygulanmaz.(4) Alım, satım ve kiralama işlemleri ile yapılacak harcamalarda uygulanacakusul ve esaslar Yönlendirme Kurulunca belirlenir.(5) Bu Kanun kapsamında yapılacak iş ve işlemler ile bu iş ve işlemlerle ilgiliharcamalar hakkında 2/4/1987 tarihli ve 3346 sayılı Kanun hükümleri uygulanır.Tasfiye işlemleri"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "İzmir’in adaylığının Uluslararası Sergiler Bürosu GenelKurulunca kabulü halinde 30/11/2006 tarihli ve 2006/11341 sayılı Bakanlar KuruluKararı ile oluşturulan Yönlendirme Kurulu ve Yürütme Komitesi ile",
+      "content": "Madde 3 - (1) İzmir’in adaylığının Uluslararası Sergiler Bürosu GenelKurulunca kabulü halinde 30/11/2006 tarihli ve 2006/11341 sayılı Bakanlar KuruluKararı ile oluşturulan Yönlendirme Kurulu ve Yürütme Komitesi ile Sekretarya, Expo2015 İzmir ile ilgili işlemleri yürütecek yeni kurumun faaliyete geçtiği tarihekadar görevlerini sürdürür.(2) Uluslararası Sergiler Bürosu Genel Kurulu toplantısında İzmir’in adaylığınınkabul edilmemesi durumunda ise Yönlendirme Kurulunun hesaplarında bulunan tutarlarile taşınırlar, kültür ve sanat etkinliklerinde kullanılmak üzere İzmir İl Özelİdaresi ve İzmir Büyükşehir Belediyesine üç ay içerisinde eşit olarak devredilir.Yürürlük"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 4 - (1) Bu Kanun yayımı tarihinde yürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 5 - (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

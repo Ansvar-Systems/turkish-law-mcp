@@ -1,0 +1,32 @@
+{
+  "id": "kanun-3960",
+  "type": "statute",
+  "title": "KALITSAL HASTALIKLARLA MÜCADELE KANUNU",
+  "title_en": "",
+  "short_name": "KALITSAL HASTALIKLARLA MÜCADELE KANUNU",
+  "status": "in_force",
+  "issued_date": "1993-12-30",
+  "in_force_date": "1993-12-30",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3960&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Değişik: 1/7/2005-5378/36 md",
+      "content": "Madde 1 - (Değişik: 1/7/2005-5378/36 md.) [1]Devlet, kalıtsal kan hastalıklarından thalessemia ve orak hücreli anemidahil olmak üzere, bütün kalıtsal kan hastalıklarıyla ve engelliliğe yol açandiğer kalıtsal hastalıklarla koruyucu sağlık hizmetleri kapsamında mücadeleeder. Bunun için gerekli ödenek Sağlık Bakanlığı yılı bütçesine konulur.Kalıtsal kan hastalıklarıyla ve özürlülüğe yol açan diğer kalıtsalhastalıklarla koruyucu sağlık hizmetleri kapsamında mücadele için gerekliönlemler ve bu konuda uygulanacak usûl ve esaslar Sağlık Bakanlığıncaçıkarılacak yönetmelikle düzenlenir."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 2 - Bu Kanun yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanunu Bakanlar Kurulu yürütür",
+      "content": "Madde 3 - Bu Kanunu Bakanlar Kurulu yürütür.3960SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞEGİRİŞ TARİHİNİ GÖSTERİR LİSTEDeğiştiren Kanunun/Numarası3960 Sayılı Kanunun Değişen veya İptal EdilenMaddeleriYürürlüğe Giriş Tarihi537817/7/2005646213/5/2013[1] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 incimaddesiyle, bu maddede yer alan “özürlülüğe” ibareleri “engelliliğe” şeklindedeğiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

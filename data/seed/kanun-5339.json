@@ -1,0 +1,32 @@
+{
+  "id": "kanun-5339",
+  "type": "statute",
+  "title": "2006 YILI PROGRAMININ HAZIRLANMASINA DAİR KANUN",
+  "title_en": "",
+  "short_name": "2006 YILI PROGRAMININ HAZIRLANMASINA ...",
+  "status": "in_force",
+  "issued_date": "2005-05-03",
+  "in_force_date": "2005-05-03",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5339&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Dokuzuncu Kalkınma Planının Türkiye Büyük Millet Meclisinesunulması bir yıl ertelenmiştir",
+      "content": "Madde 1 - Dokuzuncu Kalkınma Planının Türkiye Büyük Millet Meclisinesunulması bir yıl ertelenmiştir. 2006 Yılı Programının, Hükümet Programı ve izlenenpolitikalar doğrultusunda hazırlanarak yürürlüğe konulması hususunda Bakanlar Kuruluyetkilidir."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 2 - Bu Kanun yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 3 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

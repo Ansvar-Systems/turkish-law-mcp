@@ -1,0 +1,33 @@
+{
+  "id": "kanun-3335",
+  "type": "statute",
+  "title": "ULUSLARARASI NİTELİKTEKİ TEŞEKKÜLERİN KURULMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "ULUSLARARASI NİTELİKTEKİ TEŞEKKÜLERİN...",
+  "status": "in_force",
+  "issued_date": "1987-04-07",
+  "in_force_date": "1987-04-07",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3335&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanunla kurulmasına izin verilenteşekküllerin denetimleri, hükmi şahsiyetlerinin sona ermesi ve faaliyettenalıkonmaları hususunda; 2908 sayılı Dernekler Kanununun ilgili hükümleri, buKanunda hüküm ",
+      "content": "Madde 2 - Bu Kanunla kurulmasına izin verilenteşekküllerin denetimleri, hükmi şahsiyetlerinin sona ermesi ve faaliyettenalıkonmaları hususunda; 2908 sayılı Dernekler Kanununun ilgili hükümleri, buKanunda hüküm bulunmayan hallerde genel hükümler uygulanır. Ancak, teşekküllerinkanunlarımıza veya milli menfaatlerimize uymayan veya kuruluş amaçlarıyla bağdaşmayanFaaliyette bulunduğunun anlaşılması durumunda gecikmesinde sakınca bulunanhallerde teşekkülün faaliyetleri, Cumhurbaşkanınca geçici olarak durdurulur. [2]Birinci maddedebelirtilen teşekküllerin üyelikleri, organları, toplantı ve karar usulleri, faaliyetlerive benzeri konular, Dışişleri Bakanlığının görüşü alınmak suretiyle İçişleriBakanlığınca onaylanacak statülerinde belirtilir."
+    },
+    {
+      "provision_ref": "gecici_madde1",
+      "chapter": "Geçici Maddeler",
+      "section": "G1",
+      "title": "Madde 1 –",
+      "content": "Geçici Madde 1 - Madde 1 –"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(3335sayılı Kanunun kendi numarasız geçici maddesi olup 1/2/1989 tarih ve 3520sayılı Kanun ile madde numarası teselsül ettirilmiştir",
+      "content": "Madde 1 - (3335sayılı Kanunun kendi numarasız geçici maddesi olup 1/2/1989 tarih ve 3520sayılı Kanun ile madde numarası teselsül ettirilmiştir.)Mevcutbu tip teşekküller, bir yıl içinde hukuki durumlarını bu Kanuna uygun hale getirmekzorundadırlar. Bu süre içinde durumlarını düzeltmeyenlerin hukuki varlıkları,hiçbir işleme gerek kalmaksızın kendiliğinden sona erer.Madde3 – BuKanun yayımı tarihinde yürürlüğe girer.Madde4 – BuKanun hükümlerini Bakanlar Kurulu yürütür.3335 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR TABLODeğiştiren Kanunun/ KHK’nin veyaİptal Eden Anayasa Mahkemesi Kararının Numarası3335 Sayılı Kanunun Değişen veyaİptal Edilen MaddeleriYürürlüğe Giriş Tarihi3520GeçiciMadde 110/2/1989KHK/6981, 224/6/2018tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığıseçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte[1] 2/7/2018 tarihli ve 698 sayılı Kanun HükmündeKararnamenin 40 ıncı maddesiyle, bu maddenin birinci fıkrasında yer alan“Dışişleri Bakanlığının görüşü alınmak suretiyle İçişleri Bakanlığının teklifiüzerine, Bakanlar Kurulunun” ibaresi “Cumhurbaşkanının” ve dördüncü fıkrasındayer alan “Dışişleri Bakanlığının görüşü alınmak suretiyle Bakanlar Kurulunca”ibaresi “Cumhurbaşkanınca” şeklinde şeklinde değiştirilmiştir.[2] 2/7/2018 tarihli ve 698 sayılı Kanun HükmündeKararnamenin 40 ıncı maddesiyle bu fıkrada yer alan “Dışişleri Bakanlığınıngörüşü alınmak suretiyle İçişleri Bakanlığının teklifi üzerine, BakanlarKurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

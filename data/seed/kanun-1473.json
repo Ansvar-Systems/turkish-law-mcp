@@ -1,0 +1,20 @@
+{
+  "id": "kanun-1473",
+  "type": "statute",
+  "title": "TÜRK HAVA KUVVETLERİNİN GÜÇLENDİRİLMESİ VE MİLLİ HAVA SANAYİİMİZİN KURULMASI AMACİYLE KATILMA PAYI İHDAS VE MİLLİ PİYANGO HASILATININ BU GAYEYE SARFI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "TÜRK HAVA KUVVETLERİNİN GÜÇLENDİRİLME...",
+  "status": "in_force",
+  "issued_date": "1971-08-28",
+  "in_force_date": "1971-08-28",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1473&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(1473 sayılı Kanunun kendi numarasız geçici maddesi olup teselsüliçin numaralandırılmıştır",
+      "content": "Madde 1 - (1473 sayılı Kanunun kendi numarasız geçici maddesi olup teselsüliçin numaralandırılmıştır.)5/7/1939 tarihli ve 3670 sayılı Milli Piyango teşkilinedair Kanunun 11 inci maddesine tevfikan Milli Piyango İdaresi 1970 yılıbilançosu ile tahassül eden piyango safi hasılatı, adı geçen idare tarafındanHazineye devrolunur ve 28/2/1971 tarihli ve 1376 sayılı Kanunun (B) işaretlicetvelinin 61.120 nci maddesine gelir kaydedilmiş bulunan mezkür meblağ MaliyeBakanlığınca devir tarihinden itibaren en geç bir ay zarfında Türk HavaKuvvetlerini Güçlendirme Vakfının T.C. Merkez Bankası Ankara Şubesi nezdindekihesabına nakden ve defaten ödenir.Yürürlük:Madde7 – BuKanun yayımını takip eden aybaşından itibaren yürürlüğe girer.Yürütme:Madde8 – BuKanunu Milli Savunma, İçişleri ve Maliye Bakanları yürütür.1473SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTEDeğiştiren Kanun No.1473 Sayılı Kanunun Değiştirilen MaddeleriYürürlüğeGiriş Tarihi56021, 2, 321/3/2007 tarihini izleyenaybaşında[1]Bu Kanunun uygulanmasında 7/11/1985 tarih ve 3238 sayılı Kanunun 12/e, 13/2, 15ve 18 inci maddelerine bakınız.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "kanun-7100",
+  "type": "statute",
+  "title": "YÜKSEKÖĞRETİM KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "YÜKSEKÖĞRETİM KANUNU İLE BAZI KANUN V...",
+  "status": "in_force",
+  "issued_date": "2018-03-06",
+  "in_force_date": "2018-03-06",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7100&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(27/7/1967 tarihli ve 926 sayılıTürk Silâhlı Kuvvetleri Personel Kanunu ile ilgili olup yerine işlenmiştir",
+      "content": "Madde 1 - (27/7/1967 tarihli ve 926 sayılıTürk Silâhlı Kuvvetleri Personel Kanunu ile ilgili olup yerine işlenmiştir.)MADDE 2 ila 11- ( 4/11/1981 tarihli ve 2547 sayılıYükseköğretim Kanunu ile ilgili olup yerine işlenmiştir.)"
+    },
+    {
+      "provision_ref": "madde12",
+      "section": "12",
+      "title": "(10/3/1983 tarihli ve 2803sayılı Jandarma Teşkilat, Görev ve Yetkileri Kanunu ile ilgili olupyerine işlenmiştir",
+      "content": "Madde 12 - (10/3/1983 tarihli ve 2803sayılı Jandarma Teşkilat, Görev ve Yetkileri Kanunu ile ilgili olupyerine işlenmiştir.)MADDE 13 ila 15- (11/10/1983 tarihli ve 2914 sayılıYükseköğretim Personel Kanunu ile ilgili olup yerine işlenmiştir.)MADDE 16 ila 19- ( 11/5/2000 tarihli ve 4566 sayılı HarpOkulları Kanununu ile ilgili olup yerine işlenmiştir.)MADDE 20 ila 23- (25/4/2001 tarihli ve 4652 sayılıPolis Yükseköğretim Kanunu ile ilgili olup yerine işlenmiştir.)MADDE 24 ila 26- ( 11/4/2002 tarihli ve 4752 sayılıAstsubay Meslek Yüksek Okulları Kanunu ile ilgili olup yerine işlenmiştir.)"
+    },
+    {
+      "provision_ref": "madde27",
+      "section": "27",
+      "title": "( 9/11/2016 tarihli ve 6756 sayılıOlağanüstü Hal Kapsamında Bazı Tedbirler Alınması ve Millî Savunma ÜniversitesiKurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun HükmündeKararnamenin De",
+      "content": "Madde 27 - ( 9/11/2016 tarihli ve 6756 sayılıOlağanüstü Hal Kapsamında Bazı Tedbirler Alınması ve Millî Savunma ÜniversitesiKurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun HükmündeKararnamenin Değiştirilerek Kabul Edilmesi Hakkında Kanun ile ilgili olupyerine işlenmiştir.)MADDE 28 ila 30- ( 2/9/1983 tarihli ve 78 sayılıYükseköğretim Kurumları Öğretim Elemanlarının Kadroları Hakkında Kanun HükmündeKararname ile ilgili olup yerine işlenmiştir.)MADDE 31 ve 32- (13/12/1983 tarihli ve 190 sayılıGenel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname ile ilgili olup yerineişlenmiştir.)"
+    },
+    {
+      "provision_ref": "madde33",
+      "section": "33",
+      "title": "(27/6/1989 tarihli ve 375sayılı Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir",
+      "content": "Madde 33 - (27/6/1989 tarihli ve 375sayılı Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)"
+    },
+    {
+      "provision_ref": "madde34",
+      "section": "34",
+      "title": "Mevzuatta “yardımcıdoçent”e yapılmış olan atıflar “doktor öğretim üyesi”ne, “okutman”, “uzman”,“çevirici”, “eğitim öğretim planlamacısı”na yapılmış olan atıflar “öğretimgörevlisi” ne yapılmış sayılır",
+      "content": "Madde 34 - (1) Mevzuatta “yardımcıdoçent”e yapılmış olan atıflar “doktor öğretim üyesi”ne, “okutman”, “uzman”,“çevirici”, “eğitim öğretim planlamacısı”na yapılmış olan atıflar “öğretimgörevlisi” ne yapılmış sayılır.(2) Uzman, çevirici,eğitim öğretim planlamacısı kadrolarında görev yapmakta iken bu Kanunla öğretimgörevlisi kadrolarına atanmış sayılanlara ders görevi verilmez ve bu personelbu Kanunun yürürlüğe girdiği tarihten önce ilgili mevzuatta söz konusu kadrounvanları için öngörülen görevleri yapmaya devam ederler."
+    },
+    {
+      "provision_ref": "madde35",
+      "section": "35",
+      "title": "Bu Kanun yayımı tarihindeyürürlüğe girer",
+      "content": "Madde 35 - (1) Bu Kanun yayımı tarihindeyürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde36",
+      "section": "36",
+      "title": "Bu Kanun hükümlerini BakanlarKurulu yürütür",
+      "content": "Madde 36 - (1) Bu Kanun hükümlerini BakanlarKurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

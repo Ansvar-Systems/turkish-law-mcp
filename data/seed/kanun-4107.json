@@ -1,0 +1,20 @@
+{
+  "id": "kanun-4107",
+  "type": "statute",
+  "title": "TELGRAF VE TELEFON KANUNA BAZI EK MADDELER EKLENMESİNE, BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "title_en": "",
+  "short_name": "TELGRAF VE TELEFON KANUNA BAZI EK MAD...",
+  "status": "in_force",
+  "issued_date": "1995-05-06",
+  "in_force_date": "1995-05-06",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4107&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "(9/4/1987 tarih ve 3348 sayılı Kanunun bazı maddelerinindeğiştirilmesi ile ilgili olup, yerlerine işlenmiştir",
+      "content": "Madde 5 - (9/4/1987 tarih ve 3348 sayılı Kanunun bazı maddelerinindeğiştirilmesi ile ilgili olup, yerlerine işlenmiştir.)Madde6 – TürkTelekomünikasyon Anonim Şirketi Genel Kurulu ile yönetim ve denetim kurulunun görevyetkileri, yönetim ve denetim kurulu üyelerinin sayısı ve seçimi, genel müdür veyardımcılarının atanması usulü ve nitelikleri şirket ana sözleşmesinde gösterilir.Şirketin 399 sayılı Kanun Hükmünde Kararnamenin 3 üncü maddesinin (c) bendi kapsamınagiren personelin ücretleri, ünvanı, iş gerekleri, iş yeri ve çalışma şartları dikkatealınmak suretiyle şirket yönetim kurulunca belirlenir.Ekli(II) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Kanun Hükmünde Kararnamenineki cetvelleri Ulaştırma Bakanlığı bölümünden çıkarılmış ve Ekli (I) sayılı listedeyer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki cetvellerinUlaştırma Bakanlığı bölümüne eklenmiştir. [1]Madde7 – BuKanun yayımı tarihinde yürürlüğe girer.Madde8 – BuKanun hükümlerine Bakanlar Kurulu yürütür.[1] Bu fıkrada sözü edilen kadrolar için 6/5/1995 tarihve 22279 sayılı R.G.’ye bakınız.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kanun-3283",
+  "type": "statute",
+  "title": "BAZI KANUNLARLA TANINMIŞ OLAN GÜMRÜK MUAFİYETLERİNİN KALDIRILMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "BAZI KANUNLARLA TANINMIŞ OLAN GÜMRÜK ...",
+  "status": "in_force",
+  "issued_date": "1986-05-13",
+  "in_force_date": "1986-05-13",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3283&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunun yürürlüğe girdiği tarihe kadar gümrüklere gelmiş,dış krediye bağlanmış, müsaade belgesi veya ithal müsaadesi alınmış, mal bedelitransfer edilmiş bulunan ithal mallarına bu Kanun uygulanmaz",
+      "content": "Madde 1 - Bu Kanunun yürürlüğe girdiği tarihe kadar gümrüklere gelmiş,dış krediye bağlanmış, müsaade belgesi veya ithal müsaadesi alınmış, mal bedelitransfer edilmiş bulunan ithal mallarına bu Kanun uygulanmaz.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanunun yürürlüğe girdiği tarihe kadar milletlerarasıanlaşmalar ve resmi dış kredi anlaşmalarına istinaden çıkarılan kanunlar, 1 incimaddenin birinci fıkrası hükmünün dışındadır",
+      "content": "Madde 2 - Bu Kanunun yürürlüğe girdiği tarihe kadar milletlerarasıanlaşmalar ve resmi dış kredi anlaşmalarına istinaden çıkarılan kanunlar, 1 incimaddenin birinci fıkrası hükmünün dışındadır.Madde3 – BuKanun yayımı tarihinden bir ay sonra yürürlüğe girer.Madde4 – BuKanun hükümlerini Bakanlar Kurulu yürütür.3283SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYAANAYASAMAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞTARİHLERİNİGÖSTERİR TABLODeğiştirenKanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası3283Sayılı Kanunun Değişen veya İptal Edilen MaddeleriYürürlüğeGiriş TarihiKHK/7001,224/6/2018 tarihinde birlikte yapılan TürkiyeBüyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanınınandiçerek göreve başladığı tarihte[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 101 incimaddesiyle, bu fıkrada yer alan “Bakanlar Kuruluna” ibaresi “Cumhurbaşkanına”şeklinde değiştirilmiştir.[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 101 incimaddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

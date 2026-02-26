@@ -1,0 +1,26 @@
+{
+  "id": "kanun-4747",
+  "type": "statute",
+  "title": "İSTİHDAMIN TEŞVİKİ AMACIYLA ÜCRET DIŞI YÜKLERDEN BAZILARININ ÖDENMESİNİN ERTELENMESİ İLE SOSYAL SİGORTALAR KANUNU, ESNAF VE SANATKARLAR VE DİĞER BAĞIMSIZ ÇALIŞANLAR SOSYAL SİGORTALAR KURUMU KANUNU VE 631 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "title_en": "",
+  "short_name": "İSTİHDAMIN TEŞVİKİ AMACIYLA ÜCRET DIŞ...",
+  "status": "in_force",
+  "issued_date": "2002-04-01",
+  "in_force_date": "2002-04-01",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4747&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Gelir ve kurumlarvergisi mükelleflerinin, 213 sayılı Vergi Usul Kanununun 156 ncı Maddesinde ifadeedilen ve 30",
+      "content": "Madde 2 - Gelir ve kurumlarvergisi mükelleflerinin, 213 sayılı Vergi Usul Kanununun 156 ncı Maddesinde ifadeedilen ve 30.4.2001 tarihi itibarıyla faaliyette bulunan işyerlerinde, 1.6.2001tarihinden önce Sosyal Sigortalar Kurumuna vermiş oldukları Ocak-Nisan 2001 dönemineait son dört aylık sigorta prim bordrolarında bildirdikleri işçi sayısına ilaveolarak, bu Kanunun yayımı tarihinden 31.12.2002 tarihine kadar işe aldıkları işçilerinücretlerinden, işe başlanılan aydan itibaren oniki ay süreyle kesilen ve süresindebeyan edilerek tahakkuk ettirilen gelir vergisinin;a) Topluiş sözleşmesi yapma ehliyetine sahip sendika üyesi olan işçiler için % 50'si,b) (a)bendi dışında kalan işçiler için % 37'si,Beyannameverme süresini izleyen yılın aynı döneminde ödenir.MaliyeBakanlığı uygulamayla ilgili ek bildirim almaya ve uygulama usullerini belirlemeyeyetkilidir.Madde3 – (17.7.1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanunu ile ilgili olupyerine işlenmiştir.)Madde4 – (2.9.1971 tarihli ve 1479 sayılı Esnaf ve Sanatkârlar ve Diğer Bağımsız ÇalışanlarSosyal Sigortalar Kurumu Kanunu ile ilgili olup yerine işlenmiştir.)Madde5- (4.7.2001 tarihli ve 631 sayılı KHK ile ilgili olup yerine işlenmiştir.)Geçici"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "1",
+      "content": "Madde 1 - 1.6.2000 tarihli ve 4572 sayılı Tarım Satış Kooperatif ve Birlikleri HakkındaKanun kapsamındaki kooperatif ve birliklerin, 17.7.1964 tarihli ve 506 sayılı SosyalSigortalar Kanununun Ek 24 üncü Maddesine göre 16.6.2000 tarihine kadar tahakkukettirilen sosyal yardım zammı ve buna ilişkin gecikme zammı ve faizleri terkin edilir.Madde6 - Bu Kanun yayımı tarihinde yürürlüğe girer.Madde7 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

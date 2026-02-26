@@ -1,0 +1,51 @@
+{
+  "id": "kanun-3670",
+  "type": "statute",
+  "title": "KADININ STATÜSÜ VE SORUNLARI GENEL MÜDÜRLÜĞÜNÜN KURULMASI İLE 14/1/1970 TARİHLİ VE 1211 SAYILI VE 04/11/1981 TARİHLİ VE 2547 SAYILI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA 422 SAYILI KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABULÜNE DAİR KANUN",
+  "title_en": "",
+  "short_name": "KADININ STATÜSÜ VE SORUNLARI GENEL MÜ...",
+  "status": "in_force",
+  "issued_date": "1990-10-28",
+  "in_force_date": "1990-10-28",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3670&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunun yürürlüğe girmesinden önce Yükseköğretim Kurumlarındakılık ve kıyafet ile ilgili olarak verilmiş her türlü disiplin cezaları bütün hükümve sonuçlarıyla birlikte ortadan kalkar",
+      "content": "Madde 1 - Bu Kanunun yürürlüğe girmesinden önce Yükseköğretim Kurumlarındakılık ve kıyafet ile ilgili olarak verilmiş her türlü disiplin cezaları bütün hükümve sonuçlarıyla birlikte ortadan kalkar.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanunun yürürlüğe girmesinden önce 2547 sayılı Kanunun38 inci maddesi uyarınca kurumlarda görev almış olanlar için görevlendirildiklerisürece üst yönetim kadrolarında görev verilemeyeceğine dair hü",
+      "content": "Madde 2 - Bu Kanunun yürürlüğe girmesinden önce 2547 sayılı Kanunun38 inci maddesi uyarınca kurumlarda görev almış olanlar için görevlendirildiklerisürece üst yönetim kadrolarında görev verilemeyeceğine dair hüküm uygulanmaz."
+    },
+    {
+      "provision_ref": "gecici_madde3",
+      "chapter": "Geçici Maddeler",
+      "section": "G3",
+      "title": "Madde 3 –",
+      "content": "Geçici Madde 3 - Madde 3 –"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Eklilistede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenineki (I) sayılı cetvele Kadının Statüsü ve Sorunları Genel Müdürlüğü bölümü olarakeklenmiştir",
+      "content": "Madde 3 - Eklilistede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenineki (I) sayılı cetvele Kadının Statüsü ve Sorunları Genel Müdürlüğü bölümü olarakeklenmiştir.Geçici"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu Kanunun yürürlüğe girdiği tarihten önce,19",
+      "content": "Madde 4 - Bu Kanunun yürürlüğe girdiği tarihten önce,19.4.1990 tarihli422 sayılı Kanun Hükmünde Kararnamenin maddelerine göre yapılan işlemlerin bu Kanunauygun olmayanları, bu Kanunun yürürlüğe girdiği tarihten itibaren geçersiz olurlar.Madde13 – Bu Kanun yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde14",
+      "section": "14",
+      "title": "Bu Kanun Hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 14 - Bu Kanun Hükümlerini Bakanlar Kurulu yürütür.3670 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLENHÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTEDeğiştirenKanunun/ KHK’nin/İptal Eden Anayasa Mahkemesi Kararının Numarası3670 SayılıKanunun Değişen veya İptal Edilen MaddeleriYürürlüğeGiriş TarihiKHK/5141, 2, 3,4, 5, 6, 7, 8, 913/9/1993$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

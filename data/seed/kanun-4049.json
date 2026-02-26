@@ -1,0 +1,26 @@
+{
+  "id": "kanun-4049",
+  "type": "statute",
+  "title": "11.10.1983 TARİH VE 2913 SAYILI KANUN, 28.5.1986 TARİH VE 3292 SAYILI KANUN, 26.10.1990 TARİH VE 3671 SAYILI KANUN, 8.6.1949 TARİH VE 5434 SAYILI KANUN İLE 14.7.1965 TARİH SAYILI KANUNUN BAZI MADDELERİNİN DEĞİŞTİRİLMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "11.10.1983 TARİH VE 2913 SAYILI KANUN...",
+  "status": "in_force",
+  "issued_date": "1994-12-06",
+  "in_force_date": "1994-12-06",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4049&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde10",
+      "section": "10",
+      "title": "TürkiyeBüyük Millet Meclisi Üyelerinin Ödenek, Yolluk ve Emekliliklerine Dair26",
+      "content": "Madde 10 - TürkiyeBüyük Millet Meclisi Üyelerinin Ödenek, Yolluk ve Emekliliklerine Dair26.10.1990 tarih ve 3671 sayılı Kanunun Bazı Maddelerinin DeğiştirilmesiHakkındaki 3.12.1992 tarih ve 3855 sayılı Kanunun 1, 2, 4, 5 ve 7 nci maddeleriyürürlükten kaldırılmıştır.Geçici"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Değişik: 16/2/1995 - 4069/3 md",
+      "content": "Madde 1 - (Değişik: 16/2/1995 - 4069/3 md.)BuKanunun 7 nci maddesi ile 5434 sayılı T.C. Emekli Sandığı Kanununun EK 68 incimaddesinde yapılan değişiklikten önce tespit edilen makam tazminatları butespitlerin yapıldığı tarihlerden geçerli olmak üzere ödenir.Madde11 – Bu Kanun yayımı tarihinde yürürlüğe girer.Madde12 – Bu Kanunun Türkiye Büyük Millet Meclisi ile ilgilihükümlerini Türkiye Büyük Millet Meclisi Başkanı, diğer hükümlerini BakanlarKurulu yürütür.4049 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTEKanunNo.FarklıTarihte Yürürlüğe Giren MaddelerYürürlüğeGiriş Tarihi4069GeçiciMadde 119/2/1995$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

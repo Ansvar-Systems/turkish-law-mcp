@@ -1,0 +1,32 @@
+{
+  "id": "kanun-2522",
+  "type": "statute",
+  "title": "KAMU KURULUŞLARININ YURT DIŞINDAKİ İHALELERE KATILMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "KAMU KURULUŞLARININ YURT DIŞINDAKİ İH...",
+  "status": "in_force",
+  "issued_date": "1981-09-15",
+  "in_force_date": "1981-09-15",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2522&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Genel,katma ve özel bütçeli kuruluşlar ve müesseseler, bunlara bağlı döner sermayeli kuruluşlar,Kamu İktisadi Teşebbüsleri ve kanunla veya Cumhurbaşkanlığı kararnamesiyle kurulandiğer kamu kuruluşları",
+      "content": "Madde 1 - Genel,katma ve özel bütçeli kuruluşlar ve müesseseler, bunlara bağlı döner sermayeli kuruluşlar,Kamu İktisadi Teşebbüsleri ve kanunla veya Cumhurbaşkanlığı kararnamesiyle kurulandiğer kamu kuruluşları ile sermayesinin yarısından fazlası tek başına ya da birlikteDevlete, Kamu İktisadi Teşebbüslerine ait olan kuruluşların faaliyet alanlarınagiren konularda yurt dışında yapılacak ihalelerekatılabilmelerine, taahhütlere girişebilmelerine, bu amaçla gerekli inceleme,araştırma, proje, inşaat ve işletme gibi hizmetlerle girişilen taahhüdün gereğiolan diğer işlem ve hizmetleri bizzat veya aralarında birleşerek yahut bu kanunkapsamı dışında kalan yerli ve yabancı kuruluşlarla ortaklık şeklinde yapabilmelerineizin vermeye, bu faaliyetleri kontrol ve nezaret etmeye ve bu konulardaki usul veesasları tespit etmeye Cumhurbaşkanı yetkilidir. [1]"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanunyayımı tarihinde yürürlüğe girer",
+      "content": "Madde 2 - Bu Kanunyayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu KanunuBakanlar Kurulu yürütür",
+      "content": "Madde 3 - Bu KanunuBakanlar Kurulu yürütür.2522 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİRENMEVZUATIN VEYAANAYASA MAHKEMESİ İPTAL KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR LİSTEDeğiştirenKanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası2522Sayılı Kanunun Değişen veya İptal Edilen MaddeleriYürürlüğeGiriş TarihiKHK/700124/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığıseçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)[1]2/7/2018 tarihli ve 700 sayılı KHK’nin 65 inci maddesiyle, bu maddenin birincifıkrasında yer alan “ve kanunla” ibaresinden sonra gelmek üzere “veyaCumhurbaşkanlığı kararnamesiyle” ibaresi eklenmiş ve aynı fıkrada yer alan“Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "kanun-6551",
+  "type": "statute",
+  "title": "TERÖRÜN SONA ERDİRİLMESİ VE TOPLUMSAL BÜTÜNLEŞMENİN GÜÇLENDİRİLMESİNE DAİR KANUN",
+  "title_en": "",
+  "short_name": "TERÖRÜN SONA ERDİRİLMESİ VE TOPLUMSAL...",
+  "status": "in_force",
+  "issued_date": "2014-07-16",
+  "in_force_date": "2014-07-16",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6551&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunun amacı, terörün sonaerdirilmesi ve toplumsal bütünleşmenin güçlendirilmesi için yürütülen çözümsürecine ilişkin usul ve esasları düzenlemektir",
+      "content": "Madde 1 - (1) Bu Kanunun amacı, terörün sonaerdirilmesi ve toplumsal bütünleşmenin güçlendirilmesi için yürütülen çözümsürecine ilişkin usul ve esasları düzenlemektir.Uygulama, izleme ve koordinasyon"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Hükümet, çözüm süreci kapsamındaaşağıdaki hususlarda gerekli çalışmaları yürütür",
+      "content": "Madde 2 - (1) Hükümet, çözüm süreci kapsamındaaşağıdaki hususlarda gerekli çalışmaları yürütür.a) Terörün sona erdirilmesi ve toplumsal bütünleşmeningüçlendirilmesine yönelik siyasi, hukuki, sosyoekonomik, psikolojik, kültür,insan hakları, güvenlik ve silahsızlandırma alanlarında ve bunlarla bağlantılıkonularda atılabilecek adımları belirler.b) Gerekli görülmesi hâlinde, yurt içindeki ve yurtdışındaki kişi, kurum ve kuruluşlarla temas, diyalog, görüşme ve benzeriçalışmalar yapılmasına karar verir ve bu çalışmaları gerçekleştirecek kişi,kurum veya kuruluşları görevlendirir.c) Silah bırakan örgüt mensuplarının eve dönüşleri ilesosyal yaşama katılım ve uyumlarının temini için gerekli tedbirleri alır.ç) Bu Kanun kapsamında yapılan çalışmalar ile alınantedbirlere ilişkin kamuoyunun doğru ve zamanında bilgilendirilmesini sağlar.d) Alınan tedbirlere ilişkin uygulama sonuçlarınıizler ve ilgili kurum ve kuruluşlar arasında koordinasyonu sağlar.e) Gerekli mevzuat çalışmalarını yapar.Yetki ve sekretarya"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Cumhurbaşkanı, çözüm sürecineilişkin gerekli kararları almaya yetkilidir",
+      "content": "Madde 3 - (1) Cumhurbaşkanı, çözüm sürecineilişkin gerekli kararları almaya yetkilidir. [1](2) Çözüm süreci kapsamında yapılan çalışmalarınkoordinasyonu ve sekretarya hizmetleri Kamu Düzeni ve Güvenliği Müsteşarlığıtarafından yürütülür.Kararlar ve yerine getirilmesi"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu Kanun kapsamında verilengörevler, ilgili kamu kurum ve kuruluşlarınca ivedilikle yerine getirilir",
+      "content": "Madde 4 - (1) Bu Kanun kapsamında verilengörevler, ilgili kamu kurum ve kuruluşlarınca ivedilikle yerine getirilir.(2) Kanunun 2 nci maddesinin birinci fıkrasının (a),(b) ve (c) bentleri kapsamındaki görevleri yerine getiren kişilerin bugörevleri nedeniyle hukuki, idari veya cezai sorumluluğu doğmaz.Yürürlük"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Bu Kanun yayımı tarihindeyürürlüğe girer",
+      "content": "Madde 5 - (1) Bu Kanun yayımı tarihindeyürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "Bu Kanun hükümlerini BakanlarKurulu yürütür",
+      "content": "Madde 6 - (1) Bu Kanun hükümlerini BakanlarKurulu yürütür.²6551 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR TABLODeğiştiren Kanunun/ KHK’nin veyaİptal Eden Anayasa Mahkemesi Kararının Numarası6551 Sayılı Kanunun Değişen veyaİptal Edilen MaddeleriYürürlüğe Giriş TarihiKHK/700324/6/2018 tarihindebirlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimlerisonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte(9/7/2018)[1] 2/7/2018 tarihli ve 700 sayılı Kanun HükmündeKararnamenin 202 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi“Cumhurbaşkanı” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

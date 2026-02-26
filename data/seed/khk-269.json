@@ -1,0 +1,20 @@
+{
+  "id": "khk-269",
+  "type": "statute",
+  "title": "241 SAYILI KANUN HÜKMÜNDE KARARNAME, 657 SAYILI DEVLET MEMURLARI KANUNU İLE 926 SAYILI TÜRK SİLAHLI KUVVETLERİ PERSONEL KANUNU VE 6245 SAYILI HARCIRAH KANUNUNUN BAZI MADDELERİNDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "241 SAYILI KANUN HÜKMÜNDE KARARNAME, ...",
+  "status": "in_force",
+  "issued_date": "1987-02-02",
+  "in_force_date": "1987-02-02",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=269&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "(27/7/1967 tarih ve 926 sayılı Kanunun Ek -18",
+      "content": "Madde 3 - (27/7/1967 tarih ve 926 sayılı Kanunun Ek -18.maddesinin değiştirilmesiyle ilgili olup, yerine işlenmiştir.)Madde4 – 6245sayılı Harcırah Kanununun değişik 34 üncü maddesinin 2 nci fıkrası yürürlüktenkaldırılmıştır.GeçiciMadde – Gerekli düzenleme yapılıncaya kadar yukarıdaki 2 ncimaddedeki oran % 25 olarak uygulanır.Madde5 – BuKanun Hükmünde Kararnamenin 4 üncü maddesi 1/3/1987 tarihinde, diğer hükümleriyayımı tarihinde yürürlüğe girer.Madde6 – BuKanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

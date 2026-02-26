@@ -1,0 +1,63 @@
+{
+  "id": "kanun-6501",
+  "type": "statute",
+  "title": "BİR ÜNİVERSİTE ADI İLE BİR İLÇE ADININ DEĞİŞTİRİLMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "BİR ÜNİVERSİTE ADI İLE BİR İLÇE ADINI...",
+  "status": "in_force",
+  "issued_date": "2013-11-07",
+  "in_force_date": "2013-11-07",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6501&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "28/3/1983 tarihli ve 2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanununun ek81 inci maddesinin başlığı ile birinci fıkrasında yer alan “NevşehirÜniversitesi” ibareleri “Nevşehir Hacı Bektaş Veli Ün",
+      "content": "Madde 1 - 28/3/1983 tarihli ve 2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanununun ek81 inci maddesinin başlığı ile birinci fıkrasında yer alan “NevşehirÜniversitesi” ibareleri “Nevşehir Hacı Bektaş Veli Üniversitesi” olarakdeğiştirilmiştir."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "2809 sayılı Kanuna aşağıdaki madde eklenmiştir",
+      "content": "Madde 2 - 2809 sayılı Kanuna aşağıdaki madde eklenmiştir.“"
+    },
+    {
+      "provision_ref": "ek_madde155",
+      "chapter": "Ek Maddeler",
+      "section": "E155",
+      "title": "MADDE 155-",
+      "content": "Ek Madde 155 - MADDE 155-"
+    },
+    {
+      "provision_ref": "madde155",
+      "section": "155",
+      "title": "20/12/2012tarihli ve 6363 sayılı 2013 Yılı Merkezi Yönetim Bütçe Kanunu, 2/9/1983 tarihlive 78 sayılı Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları HakkındaKanun Hükmünde Kararname, 13/12/19",
+      "content": "Madde 155 - 20/12/2012tarihli ve 6363 sayılı 2013 Yılı Merkezi Yönetim Bütçe Kanunu, 2/9/1983 tarihlive 78 sayılı Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları HakkındaKanun Hükmünde Kararname, 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve UsulüHakkında Kanun Hükmünde Kararnamede Nevşehir Üniversitesine yapılmış olanatıflar Nevşehir Hacı Bektaş Veli Üniversitesine yapılmış sayılır.”"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun eki(II) sayılı cetvelin “Yükseköğretim Kurulu, Üniversiteler ve Yüksek TeknolojiEnstitüleri” bölümünün 75 inci sırası aşağıdak",
+      "content": "Madde 3 - 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun eki(II) sayılı cetvelin “Yükseköğretim Kurulu, Üniversiteler ve Yüksek TeknolojiEnstitüleri” bölümünün 75 inci sırası aşağıdaki şekilde değiştirilmiştir.“75) Nevşehir Hacı BektaşVeli Üniversitesi”"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Siirt ili “Aydınlar” İlçesinin adı “Tillo” olarak değiştirilmiştir",
+      "content": "Madde 4 - Siirt ili “Aydınlar” İlçesinin adı “Tillo” olarak değiştirilmiştir."
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 5 - Bu Kanun yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 6 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

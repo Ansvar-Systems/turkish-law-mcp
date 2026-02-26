@@ -1,0 +1,32 @@
+{
+  "id": "kanun-7087",
+  "type": "statute",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+  "title_en": "",
+  "short_name": "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİR...",
+  "status": "in_force",
+  "issued_date": "2018-03-08",
+  "in_force_date": "2018-03-08",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7087&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Ekli listede yer alan kamugörevlileri, ilgili kanun hükmünde kararnamenin eki listelerin ilgilisıralarından çıkarılmıştır",
+      "content": "Madde 1 - (1) Ekli listede yer alan kamugörevlileri, ilgili kanun hükmünde kararnamenin eki listelerin ilgilisıralarından çıkarılmıştır.(2) İlgili kanun hükmünde kararname hükümleri, birincifıkrada belirtilen kişiler bakımından tüm hüküm ve sonuçlarıyla birlikte ilgilikanun hükmünde kararnamenin yayımı tarihinden geçerli olmak üzere ortadankalkmış sayılır. Söz konusu personelden bu maddenin yürürlük tarihindenitibaren on gün içerisinde göreve başlamayanlar çekilmiş sayılır. Bu kapsamdagöreve başlayanlara, kamu görevinden çıkarıldıkları tarihten görevebaşladıkları tarihe kadar geçen süreye tekabül eden mali ve sosyal haklarıödenir. (İptal dördüncü cümle: Anayasa Mahkemesinin 26/11/2025 tarihli ve E.:2025/233, K.: 2025/225 sayılı Kararı ile) (…) Bu personelin görevlerine iadesi, kamu görevindençıkarıldıkları tarihte bulundukları yöneticilik görevi dışında öğrenimdurumları ve kazanılmış hak aylık derecelerine uygun kadro ve pozisyonlaraatanmak suretiyle de yerine getirilebilir. Bu maddeye ilişkin işlemler ilgilibakanlık ve kurumlar tarafından yürütülür.Yürürlük"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanun yayımı tarihindeyürürlüğe girer",
+      "content": "Madde 2 - (1) Bu Kanun yayımı tarihindeyürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanun hükümlerini BakanlarKurulu yürütür",
+      "content": "Madde 3 - (1) Bu Kanun hükümlerini BakanlarKurulu yürütür.[1] Bu Kanunun ekinde yer alan listeler için 8/3/2018tarihli ve 30354 (Mükerrer) sayılı Resmi Gazete’ye bakınız.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

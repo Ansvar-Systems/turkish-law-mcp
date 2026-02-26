@@ -1,0 +1,38 @@
+{
+  "id": "kanun-2859",
+  "type": "statute",
+  "title": "TAPULAMA VE KADASTRO PAFTALARININ YENİLENMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "TAPULAMA VE KADASTRO PAFTALARININ YEN...",
+  "status": "in_force",
+  "issued_date": "1983-06-25",
+  "in_force_date": "1983-06-25",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2859&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "Yenilemeninyapılış biçimi ve uygulanacak teknik yöntemler bu Kanunun yayımından itibarenüç ay içerisinde hazırlanıp Resmi Gazetede yayımlanacak bir yönetmelikledüzenlenir",
+      "content": "Madde 6 - Yenilemeninyapılış biçimi ve uygulanacak teknik yöntemler bu Kanunun yayımından itibarenüç ay içerisinde hazırlanıp Resmi Gazetede yayımlanacak bir yönetmelikledüzenlenir.Ek"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(7/1/2000 - KHK - 590/1 md",
+      "content": "Madde 1 - (7/1/2000 - KHK - 590/1 md.)17/8/1999ve 12/11/1999 tarihlerinde meydana gelen depremlerden etkilenen İstanbul,Kocaeli, Sakarya, Yalova, Bolu, Düzce, Bursa, Eskişehir il ve ilçelerine aittapulama ve kadastro paftalarındaki memleket nirengi ağına ait yer kontrolnoktalarının, bölge genelinde, pafta-zemin uyumsuzluğu ve diğer teknikyetersizliklerini gidermek amacıyla en az bir ada veya mevkii bazında olmaküzere Tapu ve Kadastro Genel Müdürlüğünce uygun görülecek yerlerde yenilemeyapılır.Yenileme çalışmaları sırasında parsellerin deprem sonucuoluşan sınırları dikkate alınır.Pafta-zeminuyumsuzluğu bulunan parsellerin sınırları bilirkişi beyanları ve teknikbelgeleri yardımıyla belirlenir.Ek"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "(7/1/2000 - KHK - 590/1 md",
+      "content": "Madde 2 - (7/1/2000 - KHK - 590/1 md.)Bu Kanun Hükmünde Kararname hükümlerine göre yapılacakçalışmalarda onay alınmaz ve askı ilanı dışındaki ilanlar yapılmaz.Ek"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "(7/1/2000 - KHK - 590/1 md",
+      "content": "Madde 3 - (7/1/2000 - KHK - 590/1 md.)BuKanun Hükmünde Kararname hükümlerine göre yapılacak çalışmaların usul veesasları, Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren 3 ayiçerisinde Tapu ve Kadastro Genel Müdürlüğü tarafından çıkarılacak biryönetmelikle belirlenir.YürürlükMadde7 – BuKanun yayımı tarihinde yürürlüğe girer.YürütmeMadde8 – BuKanun hükümlerini Bakanlar Kurulu yürütür.2859 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTEKanunNo.FarklıTarihte Yürürlüğe Giren MaddelerYürürlüğeGiriş TarihiKHK/590EkMadde 1, Ek Madde 2, Ek Madde 38/2/2000$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

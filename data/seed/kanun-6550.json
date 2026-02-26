@@ -1,0 +1,27 @@
+{
+  "id": "kanun-6550",
+  "type": "statute",
+  "title": "ARAŞTIRMA ALTYAPILARININ DESTEKLENMESİNE DAİR KANUN",
+  "title_en": "",
+  "short_name": "ARAŞTIRMA ALTYAPILARININ DESTEKLENMES...",
+  "status": "in_force",
+  "issued_date": "2014-07-10",
+  "in_force_date": "2014-07-10",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6550&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "ek_madde1",
+      "chapter": "Ek Maddeler",
+      "section": "E1",
+      "title": "MADDE 1-",
+      "content": "Ek Madde 1 - MADDE 1-"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Ek:2/7/2018-KHK-703/211 md",
+      "content": "Madde 1 - (Ek:2/7/2018-KHK-703/211 md.)(1) MevzuattaAraştırma Altyapıları Kuruluna yapılmış olan atıflar, Cumhurbaşkanınca belirlenen kurul veyamercie yapılmış sayılır.İndirim ve istisnalar [1]GEÇİCİ MADDE 1 &#8210; (1) 31/12/2023 tarihine kadaruygulanmak üzere;a) Araştırma altyapılarının bu Kanunun uygulanmasıkapsamında Ar-Ge ve yenilik faaliyetlerinden elde ettikleri kazançları kurumlarvergisinden müstesnadır.b) Kamu personeli hariç olmak üzere, araştırmaaltyapılarında çalışan Ar-Ge ve destek personelinin bu görevleriyle ilgiliücretleri gelir vergisinden, bu kapsamda düzenlenen kâğıtlar damga vergisindenmüstesnadır. (Ek cümle:20/7/2025-7555/20 md.) İstisnauygulanacak ücret tutarı brüt asgari ücretin kırk katını aşamaz. Bu teşviktenyararlanacak olan destek personeli sayısı Ar-Ge personeli sayısının yüzde onunuaşamaz.c) Özel sektör ve/veya siviltoplum kuruluşu ortak finansmanı ile kurulan araştırma altyapılarına ortak olankurumlar vergisi mükellefleri, bu Kanun kapsamında yapılan Ar-Ge ve yenilikharcamalarına katkı sağladıkları tutarlar için bu harcamaların yapıldığıdönemde 28/2/2008 tarihli ve 5746 sayılı Araştırma ve GeliştirmeFaaliyetlerinin Desteklenmesi Hakkında Kanunda yer alan Ar-Ge indirimiteşvikinden yararlandırılır. Bu kapsamda yararlanılabilecek Ar-Ge indirimitutarı araştırma altyapısına konulan ortaklık payı tutarını geçemez.(2) Bu madde kapsamında sağlanan indirim veistisnaların uygulama süresini ayrı ayrı ya da birlikte 10 yıla kadar uzatmaya Cumhurbaşkanıyetkilidir. [2]YürürlükMADDE 20 &#8210; (1) Bu Kanun yayımı tarihindeyürürlüğe girer.YürütmeMADDE 21 &#8210; (1) Bu Kanun hükümlerini BakanlarKurulu yürütür.²6550 SAYILI KANUNA EK VE DEĞİŞİKLİKGETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ KARARLARININYÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİRTABLODeğiştiren Kanunun/ KHK’nin veyaİptal Eden Anayasa Mahkemesi Kararının Numarası6550 Sayılı Kanunun Değişen veyaİptal Edilen MaddeleriYürürlüğe Giriş TarihiKHK/7033, EK MADDE 1, GEÇİCİ MADDE 124/6/2018 tarihindebirlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimlerisonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte(9/7/2018)7555Geçici Madde 1yayımını izleyen ayınbaşında(1/8/2025)[1] 27/12/2023 tarihli ve 32412 sayılı Resmî Gazete’deyayımlanan 7981 sayılı Cumhurbaşkanı Kararıyla bu madde kapsamında sağlananindirim ve istisnaların uygulama süresinin 31/12/2028 tarihine kadaruzatılmasına karar verilmiştir.[2] 2/7/2018 tarihli ve 703 sayılı Kanun HükmündeKararnamenin 211 inci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi“Cumhurbaşkanı” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

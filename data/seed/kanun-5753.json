@@ -1,0 +1,38 @@
+{
+  "id": "kanun-5753",
+  "type": "statute",
+  "title": "ARTVİN İLİ YUSUFELİ İLÇESİNİN MERKEZİNİN DEĞİŞTİRİLMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "ARTVİN İLİ YUSUFELİ İLÇESİNİN MERKEZİ...",
+  "status": "in_force",
+  "issued_date": "2008-04-24",
+  "in_force_date": "2008-04-24",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5753&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Artvin İli Yusufeli İlçe Merkezi, ekli krokide sınırları belirtilen;kuzeyde 1305 rakımlı ÜşüktaşTepesi, güneyde Uyuz Deresi ve Kepkar Sırtı, doğudaBarhal Çayı ve Çoruh Nehri, batısı Öküzyatağı Tepesin",
+      "content": "Madde 1 - (1) Artvin İli Yusufeli İlçe Merkezi, ekli krokide sınırları belirtilen;kuzeyde 1305 rakımlı ÜşüktaşTepesi, güneyde Uyuz Deresi ve Kepkar Sırtı, doğudaBarhal Çayı ve Çoruh Nehri, batısı Öküzyatağı Tepesinin 852metre kotunda, kuzey, güney ve doğu yamaçları Üşüktaş Tepesinin 850metre kotunda kuzeydoğu yamaçları, Sakut Deresi Vadisinin 850metre kotunda kuzey ve güney yamaçları 964 rakımlı Kara Tepenin 850metre kotunda kuzey, güney ve doğu yamaçlarıyla çevrili alana nakledilmiştir.Nakil süreciGEÇİCİ"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Yusufeli İlçesi, 1 inci maddede belirtilen yeni yerleşim yerine naklinekadar geçecek süre içinde hâlen bulunduğu yerde hukukî varlığını sürdürür",
+      "content": "Madde 1 - (1) Yusufeli İlçesi, 1 inci maddede belirtilen yeni yerleşim yerine naklinekadar geçecek süre içinde hâlen bulunduğu yerde hukukî varlığını sürdürür.Yusufeli İlçe Belediyesi bu süre içinde 5393 sayılı Belediye Kanunu ile diğermevzuatın belediyelere verdiği görev ve yetkileri yeni yerleşim alanında dakullanır.(2) İlçe Merkezi yeniyerleşim alanına hukuken taşındıktan sonra Yusufeli İlçe Merkezi Belediyesihukukî varlığını yeni yerleşim yerinde sürdürür ve belediyenin eski yerdekihukukî varlığı sona erer.Yürürlük"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 2 - (1) Bu Kanun yayımı tarihinde yürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 3 - (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

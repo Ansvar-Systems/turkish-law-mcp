@@ -1,0 +1,32 @@
+{
+  "id": "kanun-5289",
+  "type": "statute",
+  "title": "MEMUR VE DİĞER KAMU GÖREVLİLERİNE BİR DERECE VERİLMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "MEMUR VE DİĞER KAMU GÖREVLİLERİNE BİR...",
+  "status": "in_force",
+  "issued_date": "2005-02-08",
+  "in_force_date": "2005-02-08",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5289&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "457 sayılı Kanun Hükmünde Kararnameyle 399 sayılı KanunHükmünde Kararnameye eklenen ek geçici madde, 458 sayılı Kanun Hükmünde Kararnameyle657 sayılı Devlet Memurları Kanununa eklenen ek geçici madde ",
+      "content": "Madde 1 - 457 sayılı Kanun Hükmünde Kararnameyle 399 sayılı KanunHükmünde Kararnameye eklenen ek geçici madde, 458 sayılı Kanun Hükmünde Kararnameyle657 sayılı Devlet Memurları Kanununa eklenen ek geçici madde ve 459 sayılı KanunHükmünde Kararnameyle 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununa eklenenek geçici madde hükümleri; anılan ek geçici maddeler kapsamında belirtilen (sözleşmelisubay, sözleşmeli astsubay, uzman jandarma ve uzman erbaşlar dahil) ve bu ek geçicimaddelerin hükümlerinden yararlanmamış olanlardan 15.1.2005 tarihinde görevde bulunanlar(aylıksız izinde bulunanlar dahil) ile bunlardan anılan tarihten önce emekli, adîmalûllük, vazife malullüğü aylığı bağlananlar ile dul ve yetim aylığı alanlar hakkındada uygulanır."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanun 15 Ocak 2005 tarihinden geçerli olmak üzere yayımıtarihinde yürürlüğe girer",
+      "content": "Madde 2 - Bu Kanun 15 Ocak 2005 tarihinden geçerli olmak üzere yayımıtarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 3 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

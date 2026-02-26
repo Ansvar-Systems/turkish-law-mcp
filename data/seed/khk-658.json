@@ -1,0 +1,20 @@
+{
+  "id": "khk-658",
+  "type": "statute",
+  "title": "TÜRKİYE SU ENSTİTÜSÜ HAKKINDA BAZI MALİ DÜZENLEMELERE DAİR KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "TÜRKİYE SU ENSTİTÜSÜ HAKKINDA BAZI MA...",
+  "status": "in_force",
+  "issued_date": "2011-11-02",
+  "in_force_date": "2011-11-02",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=658&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Mülga:2/7/2018-KHK-703/91  md",
+      "content": "Madde 1 - (Mülga:2/7/2018-KHK-703/91  md.)YürürlükMADDE 13 &#8210; (1) Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğegirer.YürütmeMADDE 14 &#8210;(1) Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.(1) SAYILI LİSTESU ENSTİTÜSÜ BAŞKANLIĞI PERSONELİNİN POZİSYONVE SAYILARI(Mülga (1) sayılı liste: 2/7/2018-KHK-703/91md.)658 SAYILI KHK’YE EK VE DEĞİŞİKLİK GETİRENMEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDANİPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞTARİHİNİGÖSTERİR LİSTEDeğiştiren Kanunun/ KHK’nin/İptal EdenAnayasa Mahkemesi Kararının Numarası658 sayılı KHK’nin Değişen veya İptalEdilen MaddeleriYürürlüğe Giriş TarihiAnayasa Mahkemesi’nin 10/1/2013 tarihliveE: 2011/146, K: 2013/11 sayılı Kararı1031/12/2013 tarihinden başlayarak altıay sonra(30/6/2014)6745107/9/2016KHK/703KHK nın adı, 1 ila 5, 6, 7, 8, 9, 10,11, 12, geçici madde 1 ve (1) sayılı cetvel24/6/2018 tarihinde birlikte yapılanTürkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanınınandiçerek göreve başladığı tarihte (9/7/2018)[1]2/7/2018 tarihli ve 703 sayılı KHK’nin 91 inci maddesi ile KHK’nın adı “ Türkiye Su Enstitüsünün Kuruluş ve Görevleri Hakkında KanunHükmünde Kararname ” iken metne işlendiği şekilde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

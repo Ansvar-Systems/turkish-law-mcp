@@ -1,0 +1,26 @@
+{
+  "id": "kanun-1607",
+  "type": "statute",
+  "title": "YATILI BÖLGE VE ÖZEL EĞİTİME MUHTAÇ ÇOCUKLARA MAHSUS OKULLARDA DÖNER SERMAYE KURULMASINA DAİR KANUN",
+  "title_en": "",
+  "short_name": "YATILI BÖLGE VE ÖZEL EĞİTİME MUHTAÇ Ç...",
+  "status": "in_force",
+  "issued_date": "1972-07-20",
+  "in_force_date": "1972-07-20",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1607&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Dönersermaye ile yapılacak çalışmaların gerektirdiği canlı, cansız demirbaş, hammaddeve malzeme bedelleri ile döner sermaye işlerinde çalıştırılacak işçilerin ücretleridöner sermayeden ödenir",
+      "content": "Madde 3 - Dönersermaye ile yapılacak çalışmaların gerektirdiği canlı, cansız demirbaş, hammaddeve malzeme bedelleri ile döner sermaye işlerinde çalıştırılacak işçilerin ücretleridöner sermayeden ödenir."
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Döner sermeye işlemleri 1050 sayılı MuhasebeiUmumiye Kanunu ve 2490 sayılı Artırma, Eksiltme ve İhale Kanunu ile 6964 sayılıZiraat Odaları ve Ziraat Odaları Birliği Kanunu hükümlerine ve sarftan önce ",
+      "content": "Madde 4 - Döner sermeye işlemleri 1050 sayılı MuhasebeiUmumiye Kanunu ve 2490 sayılı Artırma, Eksiltme ve İhale Kanunu ile 6964 sayılıZiraat Odaları ve Ziraat Odaları Birliği Kanunu hükümlerine ve sarftan önce Sayıştayvizesine tabi değildir. Ancak her çalışma dönemi sonunda düzenlenecek bilançolar,ekleri ve bütün gelir ve gider belgeleri ile birlikte mali yılın bitiminden itibaren4 aylık bir süre içinde Sayıştay Başkanlığına, bilanço ve eklerinin birer örnekleride aynı süre içinde Maliye Bakanlığına gönderilir. [1]Dönersermayenin işletilmesine, hesap usullerine, alım, satım, bakım ve onarım işlemlerineilişkin esaslar Maliye ve Milli Eğitim Bakanlıklarınca birlikte hazırlanacak biryönetmelikte belirtilir.Madde5 – BuKanun yayımı tarihinde yürürlüğe girer.Madde6 – BuKanunu Maliye ve Milli Eğitim Bakanları yürütür.[1]Bu fıkranın uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılıKanunun 81 inci maddesine ve 28/12/2004 tarihli ve 5277 sayılı 2005 Mali YılıBütçe Kanununun 37 nci maddesine bakınız.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

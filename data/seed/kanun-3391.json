@@ -1,0 +1,26 @@
+{
+  "id": "kanun-3391",
+  "type": "statute",
+  "title": "BURSA İLİ MERKEZİNDE OSMANGAZİ, YILDIRIM VE NİLÜFER ADIYLA ÜÇ İLÇE KURULMASI HAKKINDA KANUN ",
+  "title_en": "",
+  "short_name": "BURSA İLİ MERKEZİNDE OSMANGAZİ, YILDI...",
+  "status": "in_force",
+  "issued_date": "1987-06-27",
+  "in_force_date": "1987-06-27",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3391&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Osmangazi, Yıldırım ve Nilüfer Belediye seçimleri Türkiyedüzeyinde yapılacak ilk genel mahalli idareler seçimleriyle birlikte yapılır",
+      "content": "Madde 1 - Osmangazi, Yıldırım ve Nilüfer Belediye seçimleri Türkiyedüzeyinde yapılacak ilk genel mahalli idareler seçimleriyle birlikte yapılır.Busüre içinde, Büyükşehir Belediyelerinin Yönetimi Hakkında Kanun Hükmünde KararnameninDeğiştirilerek Kabulü Hakkında 3030 sayılı Kanunuda yazılı büyükşehir ve ilçe belediyelerineait yetki ve görevlerin tümü Bursa Büyükşehir Belediyesi tarafından yürütülür.BursaBelediyesinde halen görevde bulunan Belediye Başkanı, Belediye Meclisi ve BelediyeEncümeni ilk genel mahalli idare seçimine kadar Büyükşehir Belediye Başkanı, BelediyeMeclisi ve Belediye Encümeni olarak 3030 sayılı Kanunda yazılı görev ve yetkileresahiptir.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanunla kurulan ilçelerin belediye sınırları içine alınanköylerin seçilmiş organlarının hukuki varlıkları ilk genel mahalli idare seçiminekadar devam eder",
+      "content": "Madde 2 - Bu Kanunla kurulan ilçelerin belediye sınırları içine alınanköylerin seçilmiş organlarının hukuki varlıkları ilk genel mahalli idare seçiminekadar devam eder. Bu köylerin her türlü mal varlıkları, hak, alacak ve borçlarıile personeli, bağlı oldukları ilçelerde ilk genel mahalli idare seçimleriyle teşekküledecek ilçe belediyesine devrolunur.Madde9 – BuKanunun idari hükümleri yayımı tarihinde, mali hükümleri 1/1/1988 tarihinde yürürlüğegirer.Madde10 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.[1] Bu Kanunun ekindeki listeler 27/6/1987 tarih ve 19500sayılı Resmi Gazete'de yayımlanmıştır.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kanun-261",
+  "type": "statute",
+  "title": "İHRACATI GELİŞTİRMEK AMACI İLE VERGİLERLE İLGİLİ OLARAK HÜKÜMETÇE ALINACAK TEDBİRLERE DAİR KANUN",
+  "title_en": "",
+  "short_name": "İHRACATI GELİŞTİRMEK AMACI İLE VERGİL...",
+  "status": "in_force",
+  "issued_date": "1963-07-05",
+  "in_force_date": "1963-07-05",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=261&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde2_A",
+      "section": "2/A",
+      "title": "(Ek:17/9/2004-5234/12md",
+      "content": "Madde 2/A - (Ek:17/9/2004-5234/12md.) Geri verilecekparaların kesin olarak veya avans suretiyle ödenmesinin esas ve usulleri,Hazine Müsteşarlığı ile Maliye Bakanlığı tarafından müştereken tespit olunur.Yapılacak incelemesonunda fazla ödendiği tespit olunan veya zamanında mahsup olunmayan tutarlar21.7.1953 tarihli ve 6183 sayılı Kanun hükümlerine göre geri alınır.Madde3 –Bu kanun yayımı tarihinde yürürlüğe girer.Madde4 –Bu kanunu Bakanlar Kurulu yürütür.261 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ KARARLARININYÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR TABLODeğiştirenKanunun/KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası261 sayılıKanunun değişen veya iptal edilen maddeleriYürürlüğe GirişTarihi34/KHK128/9/197952342/A1/1/2005KHK/698124/6/2018 tarihindebirlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimlerisonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte[1]Gümrük muafiyetlerinin kaldırılmasına ilişkin 6/5/1986 tarih ve 3283 sayılıKanunun 1 inci maddesiyle, muafiyet kapsam ve şartlarının tayininde BakanlarKuruluna yetki veren bu Kanunun hükümleri saklı tutulmuştur.[2]2/7/2018  tarihli ve 698  sayılı Kanun Hükmünde Kararnamenin 27 nci maddesi ilebu fıkrada  yer alan “Bakanlar Kurulu” ibaresi“Cumhurbaşkanı” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

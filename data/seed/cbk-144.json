@@ -1,0 +1,44 @@
+{
+  "id": "cbk-144",
+  "type": "statute",
+  "title": "DOĞAL GAZ TÜKETİMİNE İLİŞKİN SİSTEM KULLANIM BEDELLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 144)",
+  "title_en": "",
+  "short_name": "DOĞAL GAZ TÜKETİMİNE İLİŞKİN SİSTEM K...",
+  "status": "in_force",
+  "issued_date": "2023-05-01",
+  "in_force_date": "2023-05-01",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=144&MevzuatTur=19&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesinin amacı; konut, ibadethane ve cemeviabonelerinin ödeyeceği doğal gaz tüketimine ilişkin sistem kullanım bedeli ilediğer tutarların Enerji ve Tabii Kaynaklar Bakanlığı ",
+      "content": "Madde 1 - (1) Bu Cumhurbaşkanlığı Kararnamesinin amacı; konut, ibadethane ve cemeviabonelerinin ödeyeceği doğal gaz tüketimine ilişkin sistem kullanım bedeli ilediğer tutarların Enerji ve Tabii Kaynaklar Bakanlığı bütçesinden karşılanmasınailişkin usul ve esasları düzenlemektir.Sistem kullanımbedellerinin karşılanması"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Konut, ibadethane ve cemevi abonelerinin 24/4/2023 (bu tarih dâhil)  tarihinden31/5/2023 (bu tarih dâhil) tarihine kadar olan ilk fatura tahakkuklarıkapsamındaki sistem kullanım bedellerinin tamamı il",
+      "content": "Madde 2 - (1) Konut, ibadethane ve cemevi abonelerinin 24/4/2023 (bu tarih dâhil)  tarihinden31/5/2023 (bu tarih dâhil) tarihine kadar olan ilk fatura tahakkuklarıkapsamındaki sistem kullanım bedellerinin tamamı ile 1/5/2024 tarihine kadartahakkuk edecek sonraki faturalarda 25 Sm 3 ’e kadar olan doğal gaztüketimine ilişkin sistem kullanım bedelleri Enerji ve Tabii KaynaklarBakanlığı bütçesinden karşılanır.(2) Konut, ibadethane vecemevi abonelerinin 20/3/2023 tarihli ve 6974 sayılı Cumhurbaşkanı Kararıkapsamında tahakkuk ettirilecek ilk faturadaki doğal gaz tüketimlerinin  otuz günlükkısmına tekabül eden sistem kullanım bedelleri Enerji ve Tabii KaynaklarBakanlığı bütçesinden karşılanır.(3) Bu madde kapsamındaolan sistem kulanım bedellerine ilişkin tahakkuk edecek diğer tutarlar Enerjive Tabii Kaynaklar Bakanlığı bütçesinden karşılanır.Uygulamaya ilişkin usulve esaslar"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesinin uygulanmasına ilişkin usul ve esaslar Enerjive Tabii Kaynaklar Bakanlığının görüşü alınmak suretiyle Enerji PiyasasıDüzenleme Kurumunca belirlenir",
+      "content": "Madde 3 - (1) Bu Cumhurbaşkanlığı Kararnamesinin uygulanmasına ilişkin usul ve esaslar Enerjive Tabii Kaynaklar Bakanlığının görüşü alınmak suretiyle Enerji PiyasasıDüzenleme Kurumunca belirlenir.Yürürlük"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 4 - (1) Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür",
+      "content": "Madde 5 - (1) Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kanun-3508",
+  "type": "statute",
+  "title": "KAYSERİ İL MERKEZİNDE MELİKGAZİ VE KOCASİNAN ADIYLA İKİ İLÇE KURULMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "KAYSERİ İL MERKEZİNDE MELİKGAZİ VE KO...",
+  "status": "in_force",
+  "issued_date": "1988-12-14",
+  "in_force_date": "1988-12-14",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3508&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Melikgazi ve Kocasinan Belediye Seçimleri, ilk genel mahalliidareler seçimiyle birlikte yapılır",
+      "content": "Madde 1 - Melikgazi ve Kocasinan Belediye Seçimleri, ilk genel mahalliidareler seçimiyle birlikte yapılır.Buseçimlerin sonucuna kadar, Kayseri Büyükşehir Belediyesi, Büyükşehir Belediyelerininyönetimi hakkındaki Kanun Hükmündeki Kararnamenin değiştirilerek kabulü hakkında3030 sayılı kanunda yazılı ilçe ve büyükşehir belediyelerine ait yetkileri kullanır,görevleri yürütür.KayseriBelediyesinde halen görevde bulunan Belediye Başkanı, Belediye Meclisi ve BelediyeEncümeni ilk genel mahalli idareler seçimine kadar Büyükşehir Belediye Başkanı,Belediye Meclisi ve Belediye Encümeni sıfatıyla 3030 sayılı Kanunda yazılı yetkilerikullanır ve görevleri yürütür.Yenikurulan belediyelerin, ilk genel mahalli idareler seçimlerini takiben, teşkilatlarıtamamlanıncaya kadar, her türlü hizmetleri, ayrıldıkları belediyeler tarafındınyürütülür.Bunlarhakkında 3030 sayılı Kanunun geçici hükümleri kıyasen uygulanır ve koordinasyonuBüyükşehir Belediyesince sağlanır.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanunla kurulan ilçelerin belediye sınırları içine alınanköylerin seçilmiş organlarının hukuki varlıkları ilk genel mahalli idareler seçiminekadar devam eder",
+      "content": "Madde 2 - Bu Kanunla kurulan ilçelerin belediye sınırları içine alınanköylerin seçilmiş organlarının hukuki varlıkları ilk genel mahalli idareler seçiminekadar devam eder. Bu köylerin her türlü mal varlıkları, hak, alacak ve borçlarıile personeli, bağlı oldukları ilçelerde ilk genel mahalli idareler seçimiyle teşekküledecek ilçe belediyesine devrolunur.Madde6 – BuKanunun mali hükümleri 1.1.1989 tarihinde, diğer hükümleri yayımı tarihinde yürürlüğegirer.Madde7 – BuKanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

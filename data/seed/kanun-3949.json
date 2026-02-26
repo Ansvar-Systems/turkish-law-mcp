@@ -1,0 +1,33 @@
+{
+  "id": "kanun-3949",
+  "type": "statute",
+  "title": "3 İLÇE KURULMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "3 İLÇE KURULMASI HAKKINDA KANUN",
+  "status": "in_force",
+  "issued_date": "1993-12-29",
+  "in_force_date": "1993-12-29",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3949&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunla kurulan Güzelbahçe, Esenler ve Gümüşova ilçelerindemerkezi idare tarafından oluşturulacak teşkilata ait kadroları ihdas etmeye BakanlarKurulu yetkilidir",
+      "content": "Madde 1 - Bu Kanunla kurulan Güzelbahçe, Esenler ve Gümüşova ilçelerindemerkezi idare tarafından oluşturulacak teşkilata ait kadroları ihdas etmeye BakanlarKurulu yetkilidir.Yenikurulan ilçelerin teşkilatlanması tamamlanıncaya kadar merkezi ve mahalli idarelereait her türlü iş ve işlemler ile idari ve adli davalar ve bunlara ilişkin iş veişlemler mevcut bağlılık durumuna göre yürütülür."
+    },
+    {
+      "provision_ref": "gecici_madde2",
+      "chapter": "Geçici Maddeler",
+      "section": "G2",
+      "title": "Madde 2 –",
+      "content": "Geçici Madde 2 - Madde 2 –"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanunlakurulan Güzelbahçe, Esenler ve Gümüşova belediyelerine ait organların seçimi ilkmahalli idareler genel seçimi ile birlikte yapılır",
+      "content": "Madde 2 - Bu Kanunlakurulan Güzelbahçe, Esenler ve Gümüşova belediyelerine ait organların seçimi ilkmahalli idareler genel seçimi ile birlikte yapılır.Bu süre içerisinde İzmir ve İstanbul Büyükşehir Belediyelerihudutları dahilinde kurulan Güzelbahçe ve esenler belediyelerine ait hak, yetkive görevlerin Büyükşehir Belediyelerine ilişkin olanları İzmir ve İstanbul BüyükşehirBelediyelerince kullanılır ve yürütülür.Güzelbahçeve Esenler Belediyeleri hakkında 3030 sayılı Kanunun geçici hükümleri kıyasen uygulanırve koordinasyon Büyükşehir Belediyelerince sağlanır.Yenikurulan belediyeler teşkilatlanıncaya kadar belediye hizmetleri halen bağlı olduklarıilçe belediyelerince yürütülür.Madde3 – BuKanun yayımı tarihinde yürürlüğe girer.Madde4 – BuKanun hükümlerini Bakanlar Kurulu yürütür.[1] Bu kanunun ekindeki listeler için 29/12/1993 tarih ve21803 Sayılı Resmi Gazete'ye bakınız.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

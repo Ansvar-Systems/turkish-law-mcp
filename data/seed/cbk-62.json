@@ -1,0 +1,32 @@
+{
+  "id": "cbk-62",
+  "type": "statute",
+  "title": "TÜRKİYE CUMHURİYET MERKEZ BANKASI MECLİSİ ÜYELİĞİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 62)",
+  "title_en": "",
+  "short_name": "TÜRKİYE CUMHURİYET MERKEZ BANKASI MEC...",
+  "status": "in_force",
+  "issued_date": "2020-05-17",
+  "in_force_date": "2020-05-17",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=62&MevzuatTur=19&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(İptal:Anayasa Mahkemesinin18/3/2021 tarihli ve E",
+      "content": "Madde 1 - (İptal:Anayasa Mahkemesinin18/3/2021 tarihli ve E.:2020/58; K:2021/19 sayılı Kararı ile)"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu CumhurbaşkanlığıKararnamesi yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 2 - (1) Bu CumhurbaşkanlığıKararnamesi yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu CumhurbaşkanlığıKararnamesi hükümlerini Cumhurbaşkanı yürütür",
+      "content": "Madde 3 - (1) Bu CumhurbaşkanlığıKararnamesi hükümlerini Cumhurbaşkanı yürütür.62SAYILI CUMHURBAŞKANLIĞI KARARNAMESİNDE DEĞİŞİKLİK YAPAN CUMHURBAŞKANLIĞIKARARNAMELERİNE İLİŞKİN TABLODeğiştiren Cumhurbaşkanlığı Kararnamesinin62sayılı Cumhurbaşkanlığı Kararnamesinin değişen maddeleriDeğişikliğinYürürlüğe Giriş TarihiSayısıResmî Gazete TarihiAnayasa Mahkemesinin 18/3/2021tarihli ve E.:2020/58; K:2021/19 sayılı Kararı22/6/2021122/6/2021$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

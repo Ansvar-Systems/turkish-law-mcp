@@ -1,0 +1,20 @@
+{
+  "id": "kanun-3398",
+  "type": "statute",
+  "title": "GAZİANTEP İLİ MERKEZİNDE ŞEHİTKAMİL VE ŞAHİNBEY ADIYLA İKİ İLÇE KURULMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "GAZİANTEP İLİ MERKEZİNDE ŞEHİTKAMİL V...",
+  "status": "in_force",
+  "issued_date": "1987-06-27",
+  "in_force_date": "1987-06-27",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3398&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Şehitkamil ve Şahinbey Belediye Seçimleri Türkiyedüzeyinde yapılacak ilk genel mahalli idareler seçimleriyle birlikte yapılır",
+      "content": "Madde 1 - Şehitkamil ve Şahinbey Belediye Seçimleri Türkiyedüzeyinde yapılacak ilk genel mahalli idareler seçimleriyle birlikte yapılır.Bu süre içinde, Büyükşehir Belediyelerinin YönetimiHakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında 3030 sayılıKanunda yazılı büyükşehir ve ilçe belediyelerine ait yetki ve görevlerin tümüGaziantep Büyükşehir Belediyesi tarafından yürütülür.GaziantepBelediyesinde halen görevde bulunan Belediye Başkanı, Belediye Meclisi veBelediye Encümeni ilk genel mahalli idare seçimine kadar Büyükşehir BelediyeBaşkanı, Belediye Meclisi ve Belediye Encümeni olarak 3030 sayılı Kanundayazılı görev ve yetkilere sahiptir.Madde4 – BuKanunun idari hükümleri yayımı tarihinde, mali hükümleri 1/1/1988 tarihindeyürürlüğe girer.Madde5 – BuKanun hükümlerini Bakanlar Kurulu yürütür.[1] Bu Kanunun ekindeki listeler aynı tarihli ResmiGazete'de yayınlanmıştır.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

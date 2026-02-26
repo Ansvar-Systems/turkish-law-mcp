@@ -1,0 +1,32 @@
+{
+  "id": "kanun-3472",
+  "type": "statute",
+  "title": "DEVLET MEMURLARI İLE DİĞER KAMU GÖREVLİLERİNİN AYLIKLARININ ÖDEME ZAMANININ DEĞİŞTİRİLMESİNE DAİR 9.9.1987 TARİH VE 289 SAYILI KANUN HÜKMÜNDE KARARNAMENİN KABULÜNE DAİR KANUN",
+  "title_en": "",
+  "short_name": "DEVLET MEMURLARI İLE DİĞER KAMU GÖREV...",
+  "status": "in_force",
+  "issued_date": "1988-10-04",
+  "in_force_date": "1988-10-04",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3472&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanun uyarınca birinci maddede belirtilenlere Ekim 1987ayı başında ve ortasında iki defa ödemede bulunulur ve Ekim 1987 ayı başında yapılanödemeler dolayısıyla kendilerinden herhangi bir geri ödeme",
+      "content": "Madde 1 - Bu Kanun uyarınca birinci maddede belirtilenlere Ekim 1987ayı başında ve ortasında iki defa ödemede bulunulur ve Ekim 1987 ayı başında yapılanödemeler dolayısıyla kendilerinden herhangi bir geri ödeme talebinde bulunulmaz.4 üncü maddede belirtilenlere Ekim 1987 ayı ortasında yapılacakaylık ücret ödemeleri dolayısıyla kendilerinden kıstelyevm veya herhangi bir sebeplegeri ödeme talebinde bulunulmaz.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "12",
+      "content": "Madde 2 - 12.3.1986 tarihli ve 3268 sayılı Kanun ile bu Kanunu değiştiren9.4.1987 tarih ve 3347 sayılı Kanunla verilen Kanun Hükmünde Kararname çıkarma yetkisive kanunlarla verilen süre bitimine kadar geçerlidir.Madde5 – BuKanun yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "Bu Kanun hükümleriniBakanlar Kurulu yürütür",
+      "content": "Madde 6 - Bu Kanun hükümleriniBakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kanun-3561",
+  "type": "statute",
+  "title": "MAL MEMURLARININ KAYYIM TAYİN EDİLMESİNE DAİR KANUN",
+  "title_en": "",
+  "short_name": "MAL MEMURLARININ KAYYIM TAYİN EDİLMES...",
+  "status": "in_force",
+  "issued_date": "1989-05-27",
+  "in_force_date": "1989-05-27",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3561&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Mülga: 24/7/2008-5793/47 md",
+      "content": "Madde 1 - (Mülga: 24/7/2008-5793/47 md.)"
+    },
+    {
+      "provision_ref": "gecici_madde2",
+      "chapter": "Geçici Maddeler",
+      "section": "G2",
+      "title": "Madde 2 –",
+      "content": "Geçici Madde 2 - Madde 2 –"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "(Mülga:24/7/2008-5793/47 md",
+      "content": "Madde 2 - (Mülga:24/7/2008-5793/47 md.)Madde3 – BuKanun yayımı tarihinde yürürlüğe girer.Madde4 – BuKanun hükümlerini Bakanlar Kurulu yürütür.3561SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYAANAYASAMAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞTARİHLERİNİGÖSTERİR TABLODeğiştirenKanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası3561 Sayılı Kanunun Değişen veya İptal Edilen MaddeleriYürürlüğeGiriş Tarihi57931, 2,Geçici Madde 1, Geçici Madde 26/8/2008KHK/700224/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi veCumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek görevebaşladığı tarihte (9/7/2018)[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 110 uncumaddesiyle, bu fıkrada yer alan “Maliye Bakanlığınca hazırlanıp BakanlarKurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

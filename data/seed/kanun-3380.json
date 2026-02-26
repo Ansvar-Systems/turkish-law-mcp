@@ -1,0 +1,26 @@
+{
+  "id": "kanun-3380",
+  "type": "statute",
+  "title": "TARIMIN TEŞVİKİ VE ÇİFTÇİNİN DESTEKLENMESİ, 193 SAYILI GELİR VERGİSİ KANUNU VE 5422 SAYILI KURUMLAR VERGİSİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "TARIMIN TEŞVİKİ VE ÇİFTÇİNİN DESTEKLE...",
+  "status": "in_force",
+  "issued_date": "1987-06-24",
+  "in_force_date": "1987-06-24",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3380&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde6",
+      "section": "6",
+      "title": "(5422Sayılı Kurumlar Vergisi Kanununun 3239 Sayılı Kanunun 74 üncü maddesiyledeğişen 8 inci maddesinin 9 numaralı bendinin birinci paragrafınındeğiştirilmesine dair olup, yerine işlenmiştir",
+      "content": "Madde 6 - (5422Sayılı Kurumlar Vergisi Kanununun 3239 Sayılı Kanunun 74 üncü maddesiyledeğişen 8 inci maddesinin 9 numaralı bendinin birinci paragrafınındeğiştirilmesine dair olup, yerine işlenmiştir.Madde7 – ( 5422 Sayılı Kurumlar Vergisi Kanununun 14. maddesinin2573 Sayılı Kanunla değişik 7 numaralı bendinin sonuna dört fıkra eklenmesinedair olup, yerine işlenmiştir.)Madde8 – (193Sayılı Gelir Vergisi Kanununa geçici 24, 25 ve 26. maddelerin eklenmesine dairolup, yerlerine işlenmiştir.)Madde9 – ( 5422 Sayılı Kurumlar Vergisi Kanununa geçici 16 ıncımaddenin eklenmesine dair olup, yerine işlenmiştir.)Geçici"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(3380 sayılı Kanunun kendi numarasız geçici maddesi olup 1/2/1989tarih ve 3520 sayılı Kanun ile madde numarası teselsül ettirilmiştir",
+      "content": "Madde 1 - (3380 sayılı Kanunun kendi numarasız geçici maddesi olup 1/2/1989tarih ve 3520 sayılı Kanun ile madde numarası teselsül ettirilmiştir.)BuKanunun birinci maddesindeki amaçlara uygun olarak 1987 yılında bütçede yenidenaçılacak tertibe ödenek kaydetmeye ve bununla ilgili diğer işlemleri yapmayaMaliye ve Gümrük Bakanı yetkilidir.Madde10 – Bu Kanun 1/1/1987 tarihinden geçerli olmak üzereyayımı tarihinde yürürlüğe girer.Madde11 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.3380SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYAANAYASAMAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞTARİHLERİNİGÖSTERİR TABLODeğiştirenKanunun/KHK’ninveya İptal Eden Anayasa Mahkemesi Kararının Numarası3380 Sayılı Kanunun Değişen veya İptal Edilen MaddeleriYürürlüğeGiriş Tarihi3520GeçiciMadde 110/2/1989KHK/700124/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi veCumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek görevebaşladığı tarihte (9/7/2018)[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 107 ncimaddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

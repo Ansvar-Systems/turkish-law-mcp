@@ -1,0 +1,32 @@
+{
+  "id": "kanun-5734",
+  "type": "statute",
+  "title": "GAZİANTEP'E İSTİKLAL MADALYASI VERİLMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "GAZİANTEP'E İSTİKLAL MADALYASI VERİLM...",
+  "status": "in_force",
+  "issued_date": "2008-02-08",
+  "in_force_date": "2008-02-08",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5734&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Kurtuluş Savaşı esnasında verdiği destansı mücadele ile büyükkahramanlık gösteren Gaziantep’e İstiklal Madalyası verilmiştir",
+      "content": "Madde 1 - Kurtuluş Savaşı esnasında verdiği destansı mücadele ile büyükkahramanlık gösteren Gaziantep’e İstiklal Madalyası verilmiştir."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanun yayımı tarihinde",
+      "content": "Madde 2 - Bu Kanun yayımı tarihinde. yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 3 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

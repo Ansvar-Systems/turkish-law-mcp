@@ -1,0 +1,33 @@
+{
+  "id": "kanun-4947",
+  "type": "statute",
+  "title": "SOSYAL GÜVENLİK KURUMU TEŞKİLATI KANUNU",
+  "title_en": "",
+  "short_name": "SOSYAL GÜVENLİK KURUMU TEŞKİLATI KANUNU",
+  "status": "in_force",
+  "issued_date": "2003-07-24",
+  "in_force_date": "2003-07-24",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4947&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(Mülga: 16/5/2006-5502/43 md",
+      "content": "Madde 1 - (Mülga: 16/5/2006-5502/43 md.)YürürlükMadde42 - Bu Kanun yayımı tarihinde yürürlüğe girer.YürütmeMadde43 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.4947SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER1– 29/3/2011 tarihli ve 6215 sayılı Kanunun Geçici Maddesi:"
+    },
+    {
+      "provision_ref": "gecici_madde3",
+      "chapter": "Geçici Maddeler",
+      "section": "G3",
+      "title": "Madde 3 –",
+      "content": "Geçici Madde 3 - Madde 3 –"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Sosyal Güvenlik Kurumu Başkanlığının merkez vetaşra teşkilatında boş bulunan kadrolara yılı merkezi yönetim bütçe kanunundayer alan sınırlamalara tabi olmaksızın 2011 yılı için 1500 adet atama yapılır",
+      "content": "Madde 3 - Sosyal Güvenlik Kurumu Başkanlığının merkez vetaşra teşkilatında boş bulunan kadrolara yılı merkezi yönetim bütçe kanunundayer alan sınırlamalara tabi olmaksızın 2011 yılı için 1500 adet atama yapılır.EK-1SAYILI CETVELSOSYALGÜVENLİK KURUMU BAŞKANLIĞIBaşkanBaşkan YardımcısıAna Hizmet BirimleriYardımcı BirimBaşkanBaşkanYardımcısıBaşkanYardımcısı1.Finansmanve Aktüerya Daire Başkanlığı2.SosyalGüvenlik Sözleşmeleri Daire Başkanlığı 3.Koordinasyon Daire BaşkanlığıPersonelve İdari İşler Daire Başkanlığı4947SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYAANAYASAMAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİNYÜRÜRLÜĞEGİRİŞ TARİHİNİ GÖSTERİR LİSTEDeğiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin KararınınNumarası4947 Sayılı Kanunun Değişen veya İptal Edilen MaddeleriYürürlüğe Giriş Tarihi55021 ilâ 9, GEÇİCİ MADDE 120/5/20066215İşlenemeyen Hüküm12/4/2011[1] Bakanlık Teşkilat Şeması için 3146 sayılı Kanununekine bakınız.[2] Bu madde ile ihdas edilen kadrolar için 24/7/2003tarihli ve 25178 sayılı Resmi Gazete'ye bakınız.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

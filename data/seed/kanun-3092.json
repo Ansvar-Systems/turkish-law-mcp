@@ -1,0 +1,57 @@
+{
+  "id": "kanun-3092",
+  "type": "statute",
+  "title": "ÇAY KANUNU",
+  "title_en": "",
+  "short_name": "ÇAY KANUNU",
+  "status": "in_force",
+  "issued_date": "1984-12-19",
+  "in_force_date": "1984-12-19",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3092&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Çaytarımı, üretimi, işletmesi ve satışı bu Kanun hükümleri dairesinde serbesttir",
+      "content": "Madde 1 - Çaytarımı, üretimi, işletmesi ve satışı bu Kanun hükümleri dairesinde serbesttir.Gerçekve tüzelkişiler yaş çay işleme ve çay paketleme fabrikaları kurup,işletebilirler, ihtiyaçları olan yaş çay yaprağını doğrudan üreticiden satınalabilirler."
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Çaytarım alanları Cumhurbaşkanınca tespit edilir",
+      "content": "Madde 2 - Çaytarım alanları Cumhurbaşkanınca tespit edilir. Bu alanlar dışında çay tarımıyapmak yasaktır. [1]Çaytarım alanlarına giren yerlerde çay bahçesi kuracak olanlar önceden ruhsatnamealmak zorundadırlar. Ruhsatname verilmesine dair esaslar ilgili bakanlıkçatespit edilir.(Değişik üçüncü fıkra: 23/1/2008-5728/438 md.) Ruhsatsız olarak çaybahçesi kuranlara, çaylıkları söktürüldüğü gibi, her dekar için dörtyüz TürkLirası idarî para cezası verilir. Daha küçük alanlar için bu para cezasıoranlanarak uygulanır.(Değişik dördüncü fıkra: 23/1/2008-5728/438 md.) Bu Kanunda yazılı olanidarî para cezaları mahallî mülkî amir tarafından verilir."
+    },
+    {
+      "provision_ref": "gecici_madde1",
+      "chapter": "Geçici Maddeler",
+      "section": "G1",
+      "title": "Madde 1 –",
+      "content": "Geçici Madde 1 - Madde 1 –"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanunun yürürlüğünden önce ilgili mevzuata göre, Devletle üreticiarasında doğmuş haklar saklı olup, verilmiş olan çay ekimi ile ilgili ruhsatlarda geçerlidir",
+      "content": "Madde 1 - Bu Kanunun yürürlüğünden önce ilgili mevzuata göre, Devletle üreticiarasında doğmuş haklar saklı olup, verilmiş olan çay ekimi ile ilgili ruhsatlarda geçerlidir."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "a)27/3/1940 tarihli ve 3788, 20/5/1942 tarihli ve 4223, 4/7/1953 tarihli ve 6133sayılı kanunlar,b)9/2/1340 tarihli ve 407, 7/6/1949 tarihli ve 5433 sayılı kanunların çaylailgili hükümleri,Yürürlüktenk",
+      "content": "Madde 3 - a)27/3/1940 tarihli ve 3788, 20/5/1942 tarihli ve 4223, 4/7/1953 tarihli ve 6133sayılı kanunlar,b)9/2/1340 tarihli ve 407, 7/6/1949 tarihli ve 5433 sayılı kanunların çaylailgili hükümleri,Yürürlüktenkaldırılmıştır."
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "BuKanun yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 4 - BuKanun yayımı tarihinde yürürlüğe girer."
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "BuKanun hükümlerini Bakanlar Kurulu yürütür",
+      "content": "Madde 5 - BuKanun hükümlerini Bakanlar Kurulu yürütür.3092SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYAANAYASA MAHKEMESİ İPTAL KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR LİSTEDeğiştirenKanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası3092Sayılı Kanunun Değişen veya İptal Edilen MaddeleriYürürlüğeGiriş Tarihi485426/5/2003572828/2/2008KHK/700224/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi veCumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek görevebaşladığı tarihte (9/7/2018)[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 92 ncimaddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca”şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

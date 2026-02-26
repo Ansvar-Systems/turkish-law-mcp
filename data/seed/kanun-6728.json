@@ -1,0 +1,20 @@
+{
+  "id": "kanun-6728",
+  "type": "statute",
+  "title": "YATIRIM ORTAMININ İYİLEŞTİRİLMESİ AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN  ",
+  "title_en": "",
+  "short_name": "YATIRIM ORTAMININ İYİLEŞTİRİLMESİ AMA...",
+  "status": "in_force",
+  "issued_date": "2016-08-09",
+  "in_force_date": "2016-08-09",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6728&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "28/6/2001 tarihli ve 4697 sayılı Bazı VergiKanunlarında Değişiklik Yapılmasına Dair Kanunun geçici 1 inci maddesininuygulamasında, 193 sayılı Kanunun 23 üncü maddesinin birinci fıkrasının (11)numaralı",
+      "content": "Madde 1 - (1) 28/6/2001 tarihli ve 4697 sayılı Bazı VergiKanunlarında Değişiklik Yapılmasına Dair Kanunun geçici 1 inci maddesininuygulamasında, 193 sayılı Kanunun 23 üncü maddesinin birinci fıkrasının (11)numaralı ve 25 inci maddesinin birinci fıkrasının (3) numaralı bentlerininparantez içi hükmünde yer alan istisna tutarının hesaplanmasında 30 yıldanaşağı olmamak üzere prim yatırılan süreler dikkate alınır.(2)193 sayılı Kanunun 22 nci maddesinde bu Kanunla yapılan değişikliklerinyürürlük tarihinden önce akdedilmiş tek primli yıllık gelir sigortasısözleşmelerine ilişkin olarak yapılan ödemeler bakımından, 193 sayılı Kanunun22 nci maddesinde bu Kanunla değişiklik yapılmadan önceki hükümler uygulanır.(3)5520 sayılı Kanunun 5/B maddesinde bu Kanunla yapılan değişikliklerin yürürlüktarihinden önce, anılan madde kapsamında değerleme raporu düzenlenmesiamacıyla Maliye Bakanlığına başvuran mükelleflerin bu başvurularına ilişkinpatent veya faydalı model belgelerine konu buluşlarından 1/1/2015 tarihindenitibaren elde ettikleri kazançları hakkında, 5520 sayılı Kanunun 5/B maddesininbu Kanunla yapılan değişiklik sonrası hükümleri uygulanır.MADDE76- BuKanunun;a)12 nci maddesi yayımını izleyen ayın başında,b)13 üncü, 39 uncu ve 40 ıncı maddeleri 1/1/2017 tarihinde,c)27 nci maddesiyle 488 sayılı Kanunun değiştirilen ek 2 nci maddesinin (2)numaralı fıkrasının (n) ve (o) bendi hükümleri, bu Kanunun yayımı tarihindensonra yapılan proje ve işlere uygulanmak üzere yayımı tarihinde,ç)35 inci maddesiyle 492 sayılı Kanunun değiştirilen ek 1 inci maddesinin (2)numaralı fıkrasının (n) ve (o) bendi hükümleri, bu Kanunun yayımı tarihindensonra yapılan proje ve işlere uygulanmak üzere yayımı tarihinde,d)43 üncü maddesinin birinci fıkrasının (ç) bendiyle yapılan düzenlemenin birinciparagrafı ile 56 ncı maddesinin birinci fıkrasının (b) bendinin birinci altbendi 2/8/2013 tarihinden itibaren yapılan işlemlere uygulanmak üzere yayımıtarihinde,e)51 inci maddesiyle 5510 sayılı Kanunun 102 nci maddesine eklenen (n) bendi1/1/2018 tarihinde,f)62 nci maddesi 31/12/2017 tarihinde,g)Diğer hükümleri yayımı tarihinde,yürürlüğegirer.MADDE77- BuKanun hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

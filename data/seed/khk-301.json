@@ -1,0 +1,32 @@
+{
+  "id": "khk-301",
+  "type": "statute",
+  "title": "2547 SAYILI YÜKSEKÖĞRETİM KANUNUNUN İKİ MADDESİNİN DEĞİŞTİRİLMESİNE DAİR KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "2547 SAYILI YÜKSEKÖĞRETİM KANUNUNUN İ...",
+  "status": "in_force",
+  "issued_date": "1987-12-21",
+  "in_force_date": "1987-12-21",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=301&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "(4/11/1981 tarih ve 2547 sayılı Kanunun 6 ncımaddesinin değiştirilmesiyle ilgili olup, yerine işlenmiştir",
+      "content": "Madde 1 - (4/11/1981 tarih ve 2547 sayılı Kanunun 6 ncımaddesinin değiştirilmesiyle ilgili olup, yerine işlenmiştir.)Madde2 – (4/11/1981 tarih ve 2547 sayılı Kanunun 26 ncı maddesi ile ilgili olup,yerine işlenmiştir.)Geçici"
+    },
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiğitarihi izleyen aybaşından itibaren, 2547 Sayılı Kanun ile, bu Kanunun ek vetadilleri uyarınca 1987 yılı Aralık ayında ad çekme işlemine tabi olanlar ile",
+      "content": "Madde 1 - Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiğitarihi izleyen aybaşından itibaren, 2547 Sayılı Kanun ile, bu Kanunun ek vetadilleri uyarınca 1987 yılı Aralık ayında ad çekme işlemine tabi olanlar ileherhangi bir nedenle kurul üyeliğinden ayrılanların yerine, bu Kanun HükmündeKararnameye göre seçimler ve atamalar yapılır. Bu suretle seçilenler veatananlar, seçildikleri ve atandıkları tarihi izleyen aybaşında görevebaşlarlar. Bunlar dışında kalan üyelerin görev süreleri 31/12/1988 gününe kadardevam eder. Bu üyelerden, Yürütme Kurulu üyeliğine seçilmeyen ve TürkiyeCumhuriyeti Emekli Sandığı ile irtibatları devam edenler, istekleri halinde biray içinde kamu kurum ve kuruluşlarında mükteseplerine uygun kadroya atanırlarve bunlar hakkında 6 ncı maddenin (d) fıkrasının ikinci bendi hükümlerine göretoplantıya katılma (huzur hakkı), emekli olanlar ile kamu kurum vekuruluşlarına atanmayanlar hakkında ise, bu süre içinde 6 ncı maddenin (d)fıkrasının birinci bendine göre aylık ödemeye devam olunur.YükseköğretimKurulu Üyeliğine seçilmeleri nedeniyle kurumları ile ilişkileri kesilenlerden Türkiye Cumhuriyeti Emekli Sandığıile irtibatları devam edenler, üyelik görevinin sonunda, istekleri halinde biray içinde kamu kurum ve kuruluşlarında mükteseplerine uygun görevlereatanırlar. Bunlar hakkında bu Kanun Hükmünde Kararname hükümleri uygulanır.Geçici"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiğitarihten itibaren bir ay içinde 1 inci maddedeki esaslara göre yürütme kuruluoluşturulur",
+      "content": "Madde 2 - Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiğitarihten itibaren bir ay içinde 1 inci maddedeki esaslara göre yürütme kuruluoluşturulur.Madde3 – BuKanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.Madde4 – BuKanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

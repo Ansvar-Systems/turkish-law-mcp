@@ -1,0 +1,44 @@
+{
+  "id": "kanun-5804",
+  "type": "statute",
+  "title": "2009 YILINDA İSTANBUL ŞEHRİNDE YAPILACAK BEŞİNCİ DÜNYA SU FORUMUNUN ORGANİZASYONU İLE KATMA DEĞER VERGİSİ KANUNUNA BİR GEÇİCİ MADDE EKLENMESİNE DAİR KANUN",
+  "title_en": "",
+  "short_name": "2009 YILINDA İSTANBUL ŞEHRİNDE YAPILA...",
+  "status": "in_force",
+  "issued_date": "2008-10-23",
+  "in_force_date": "2008-10-23",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5804&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu kanun, 24/1/2008 tarihli ve5732 sayılı Kanun ile uygun bulunan Beşinci Dünya Su Forumu Organizasyonu İçinÇerçeve Anlaşma ve Anlaşma Mektubu’na uygun olarak 2009 Yılı Mart Ayındaİstanbul Şehrinde Ya",
+      "content": "Madde 1 - (1) Bu kanun, 24/1/2008 tarihli ve5732 sayılı Kanun ile uygun bulunan Beşinci Dünya Su Forumu Organizasyonu İçinÇerçeve Anlaşma ve Anlaşma Mektubu’na uygun olarak 2009 Yılı Mart Ayındaİstanbul Şehrinde Yapılacak Beşinci Dünya Su Forumunun organizasyonundansorumlu Forum Sekretaryasının görev, yetki, çalışma usul ve esasları ile diğerdüzenlemeleri kapsar.Beşinci dünya su forumununorganizasyonu"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Forum Sekretaryası; bu Kanunun 1inci maddesinde adı geçen anlaşmalara uygun olarak forum hazırlıklarına veforuma matuf bütün işleri yapar ve yaptırır",
+      "content": "Madde 2 - (1) Forum Sekretaryası; bu Kanunun 1inci maddesinde adı geçen anlaşmalara uygun olarak forum hazırlıklarına veforuma matuf bütün işleri yapar ve yaptırır. Forum Sekretaryası tüzel kişiliğesahip olup, iş ve işlemleri özel hukuk hükümlerine tabidir. (Değişik üçüncücümle: 23/7/2010-6009/45 md.) ForumSekretaryasının tüzel kişiliği en geç 31/12/2011 tarihinde sona erer ve bu süreiçinde tasfiye işlemleri tamamlanır.(2) Çevre ve Orman Bakanlığı, DevletSu İşleri Genel Müdürlüğü, İstanbul Büyükşehir Belediyesi ile İstanbul Su veKanalizasyon İdaresi Genel Müdürlüğü bütçelerine Beşinci Dünya Su ForumuOrganizasyonu için konulan ödenekler Forum Sekretaryası hesabına aktarılır.(3) Forum Sekretaryasının yapacağıalım, satım ve ihale işleri, ceza ve yasaklama hükümleri hariç olmak üzere,8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu, 4/1/2002 tarihli ve 4734sayılı Kamu İhale Kanunu ve 5/1/2002 tarihli ve 4735 sayılı Kamu İhaleSözleşmeleri Kanunu hükümlerine tabi değildir.(4) Beşinci Dünya Su ForumuOrganizasyonu kapsamındaki bütün iş, işlem ve harcamalar Başbakanlık YüksekDenetleme Kurulunun denetimine tabidir.(5) Forumun organizasyonu, ForumSekretaryasına aktarılan tutarların harcama ve ihale usul ve esasları ileSekretaryasının tasfiyesi ve diğer hususlar Çevre ve Orman Bakanlığı’nınçıkaracağı bir yönetmelikle düzenlenir."
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "(25/10/1984 tarihli ve 3065sayılı Katma Değer Vergisi Kanunu ile ilgili olup yerine işlenmiştir",
+      "content": "Madde 3 - (25/10/1984 tarihli ve 3065sayılı Katma Değer Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)Yürürlük"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu Kanun yayımı tarihindeyürürlüğe girer",
+      "content": "Madde 4 - (1) Bu Kanun yayımı tarihindeyürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde5",
+      "section": "5",
+      "title": "Bu Kanun hükümlerini BakanlarKurulu yürütür",
+      "content": "Madde 5 - (1) Bu Kanun hükümlerini BakanlarKurulu yürütür.5804SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATINYÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTEDeğiştiren Kanun5804 Sayılı Kanunun Değişen MaddeleriYürürlüğe Giriş Tarihi6009230/6/2010 tarihinden geçerli olmak üzere(1/8/2010)$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

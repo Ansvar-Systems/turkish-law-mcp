@@ -1,0 +1,38 @@
+{
+  "id": "cbk-148",
+  "type": "statute",
+  "title": "TÜRKİYE OKUL SPORLARI FEDERASYONUNUN KAPATILMASI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 148)",
+  "title_en": "",
+  "short_name": "TÜRKİYE OKUL SPORLARI FEDERASYONUNUN ...",
+  "status": "in_force",
+  "issued_date": "2023-06-09",
+  "in_force_date": "2023-06-09",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=148&MevzuatTur=19&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "Bu CumhurbaşkanlığıKararnamesinin amacı, Türkiye Okul Sporları Federasyonunun kapatılmasıdır",
+      "content": "Madde 1 - (1) Bu CumhurbaşkanlığıKararnamesinin amacı, Türkiye Okul Sporları Federasyonunun kapatılmasıdır.Türkiye Okul Sporları Federasyonunun kapatılması"
+    },
+    {
+      "provision_ref": "madde2",
+      "section": "2",
+      "title": "Görevleri Gençlik ve SporBakanlığı Spor Hizmetleri Genel Müdürlüğünce yürütülmek üzere, Türkiye OkulSporları Federasyonu başkaca bir işleme gerek kalmaksızın kapatılmıştır",
+      "content": "Madde 2 - (1) Görevleri Gençlik ve SporBakanlığı Spor Hizmetleri Genel Müdürlüğünce yürütülmek üzere, Türkiye OkulSporları Federasyonu başkaca bir işleme gerek kalmaksızın kapatılmıştır.Yürürlük"
+    },
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Bu CumhurbaşkanlığıKararnamesi yayımı tarihinde yürürlüğe girer",
+      "content": "Madde 3 - (1) Bu CumhurbaşkanlığıKararnamesi yayımı tarihinde yürürlüğe girer.Yürütme"
+    },
+    {
+      "provision_ref": "madde4",
+      "section": "4",
+      "title": "Bu CumhurbaşkanlığıKararnamesi hükümlerini Cumhurbaşkanı yürütür",
+      "content": "Madde 4 - (1) Bu CumhurbaşkanlığıKararnamesi hükümlerini Cumhurbaşkanı yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

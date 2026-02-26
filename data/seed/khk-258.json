@@ -1,0 +1,20 @@
+{
+  "id": "khk-258",
+  "type": "statute",
+  "title": "MALİYE VE GÜMRÜK BAKANLIĞI PERSONELİNE ÖDENECEK EK ÜCRETE DAİR KANUN HÜKMÜNDE KARARNAME",
+  "title_en": "",
+  "short_name": "MALİYE VE GÜMRÜK BAKANLIĞI PERSONELİN...",
+  "status": "in_force",
+  "issued_date": "1986-08-25",
+  "in_force_date": "1986-08-25",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=258&MevzuatTur=4&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde1",
+      "section": "1",
+      "title": "213sayılı Vergi Usul Kanununa 3239 sayılı Kanunla eklenen mükerrer 415 inci maddeyegöre kurulan Vergi İdaresini Geliştirme Fonu'ndan Maliye ve GümrükBakanlığı'nın yurtdışı kadrolarında bulunan persone",
+      "content": "Madde 1 - 213sayılı Vergi Usul Kanununa 3239 sayılı Kanunla eklenen mükerrer 415 inci maddeyegöre kurulan Vergi İdaresini Geliştirme Fonu'ndan Maliye ve GümrükBakanlığı'nın yurtdışı kadrolarında bulunan personeli dışında kalan personelineyapılacak ek ücret ödemesine dair usul ve esaslar ile buna ait uygulama şekliBakanlar Kurulu'nca tesbit edilir.Madde2 – 3/6/1986tarih ve 3297 sayılı Kanunun 19 uncu maddesi yürürlükten kaldırılmıştır.Madde3 – BuKanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.Madde4 – BuKanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}

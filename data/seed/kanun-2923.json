@@ -1,0 +1,20 @@
+{
+  "id": "kanun-2923",
+  "type": "statute",
+  "title": "YABANCI DİL EĞİTİMİ VE ÖĞRETİMİ İLE TÜRK VATANDAŞLARININ FARKLI DİL VE LEHÇELERİNİN ÖĞRENİLMESİ HAKKINDA KANUN",
+  "title_en": "",
+  "short_name": "YABANCI DİL EĞİTİMİ VE ÖĞRETİMİ İLE T...",
+  "status": "in_force",
+  "issued_date": "1983-10-19",
+  "in_force_date": "1983-10-19",
+  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2923&MevzuatTur=1&MevzuatTertip=5",
+  "provisions": [
+    {
+      "provision_ref": "madde3",
+      "section": "3",
+      "title": "Yabancıdil eğitimi ve öğretiminin amaç, program, yöntem ve uygulamalarıyla, yabancıdille eğitim öğretim yapan kurumların tabi olacağı esasları kapsayan;ilkoğretim, ortaöğretim ve yaygın eğitim kurumla",
+      "content": "Madde 3 - Yabancıdil eğitimi ve öğretiminin amaç, program, yöntem ve uygulamalarıyla, yabancıdille eğitim öğretim yapan kurumların tabi olacağı esasları kapsayan;ilkoğretim, ortaöğretim ve yaygın eğitim kurumlarıyla ilgili yönetmelik, MilliEğitim Bakanlığınca; yükseköğretim kurumlarıyla ilgili yönetmelik,Yükseköğretim Kurulunca, bu Kanunun yürürlüğe girdiği tarihten itibaren altı ayiçerisinde çıkartılır ve Resmi Gazetede yayımlanır.YürürlükMadde4 – BuKanun yayımı tarihinde yürürlüğe girer.YürütmeMadde5 – BuKanun hükümlerini Bakanlar Kurulu yürütür.2923 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİRENMEVZUATIN VEYAANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞEGİRİŞTARİHLERİNİ GÖSTERİR TABLODeğiştiren Kanunun / KHK’nin veya İptalEden Anayasa Mahkemesi Kararının Numarası2923 Sayılı Kanunun Değişen veya İptalEdilen MaddeleriYürürlüğe Giriş Tarihi4771KanunAdı, 19/8/2002496327/8/20036529213/3/2014KHK/698224/6/2018 tarihinde birlikteyapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanınınandiçerek göreve başladığı tarihte[1] Bu Kanunun adı “Yabancı Dil Eğitimi ve ÖğretimiKanunu” iken, 3/8/2002 tarihli ve 4771 sayılı Kanunla metne işlendiği şekildedeğiştirilmiştir.[2] 2/3/2014 tarihli ve 6529 sayılı Kanunun 11 incimaddesiyle bu bentte yer alan “625 sayılı” ibaresi yürürlükten kaldırılmıştır.[3] 2/7/2018 tarihli ve 698 sayılı Kanun HükmündeKararnamenin 37 nci maddesiyle bu bentte yer alan “Bakanlar Kurulu” ibaresi“Cumhurbaşkanı” şeklinde değiştirilmiştir.[4] 2/7/2018 tarihli ve 698 sayılı Kanun HükmündeKararnamenin 37 nci maddesiyle bu bentte yer alan “Bakanlar Kurulu” ibaresi“Cumhurbaşkanı” şeklinde değiştirilmiştir.$(document).ready(function () {jQuery('table').each(function (cmp) {var parent = this.parentNode;var wrapper = document.createElement('div');parent.replaceChild(wrapper, this);wrapper.appendChild(this);this.parentElement.style.overflowX = 'auto';});if (window.location.search.indexOf(\"2709\") != -1 || window.location.search.indexOf(\"MevzuatTur=19\") != -1) {var tableCss = document.styleSheets[0].cssRules[2].style;tableCss.cssText = tableCss.cssText.replace(\"100%\", \"initial\");}//$('.tooltip').tooltipster();//replaceTable();//$(window).on('resize', function () {// replaceTable();//});//replaceTable();});//function replaceTable() {// //if (window.location.search.indexOf(\"MevzuatTur=19\") == -1) {// // var iframe = document.getElementsByTagName(\"td\");// // var value = $('body').width() - 10;// // for (var i = 0; i"
+    }
+  ],
+  "definitions": []
+}
