@@ -1,5 +1,5 @@
 /**
- * Response metadata utilities for Australian Law MCP.
+ * Response metadata utilities for Turkish Law MCP.
  */
 
 import type Database from '@ansvar/mcp-sqlite';
@@ -30,12 +30,10 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Federal Register of Legislation (legislation.gov.au) — Australian Government, Office of Parliamentary Counsel',
-    jurisdiction: 'AU',
+    data_source: 'Mevzuat Bilgi Sistemi (mevzuat.gov.tr) — Turkish Ministry of Justice',
+    jurisdiction: 'TR',
     disclaimer:
-      'This data is sourced from the Federal Register of Legislation under CC BY 4.0 licence. ' +
-      'The authoritative versions are maintained by the Australian Government. ' +
-      'Always verify with the official Federal Register of Legislation portal (legislation.gov.au).',
+      'This data is sourced from the Mevzuat Bilgi Sistemi, the Turkish legislation information system. The authoritative versions are maintained by the Turkish Ministry of Justice. Always verify with the official portal (mevzuat.gov.tr).',
     freshness,
   };
 }
