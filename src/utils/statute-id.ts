@@ -16,6 +16,15 @@ import type Database from '@ansvar/mcp-sqlite';
  * - Short name/abbreviation match (e.g., "SOCI Act")
  * - Fuzzy title substring match
  */
+// ---------------------------------------------------------------------------
+// Abbreviation map — add entries as needed
+// ---------------------------------------------------------------------------
+
+const ABBREVIATIONS: Record<string, string> = {
+  'KVKK': 'kanun-6698',
+  'kvkk': 'kanun-6698',
+};
+
 export function resolveDocumentId(
   db: InstanceType<typeof Database>,
   input: string,
@@ -23,6 +32,10 @@ export function resolveDocumentId(
   if (!input || typeof input !== 'string') return null;
   const trimmed = input.trim();
   if (!trimmed) return null;
+
+  // Abbreviation map
+  const abbrev = ABBREVIATIONS[trimmed];
+  if (abbrev) return abbrev;
 
   // Direct ID match
   const directMatch = db.prepare(
