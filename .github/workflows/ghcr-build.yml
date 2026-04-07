@@ -1,5 +1,5 @@
 # =============================================================================
-# Sector MCP GHCR Build -- Build Docker image and push to GitHub Container Registry
+# MCP GHCR Build — Build Docker image and push to GitHub Container Registry
 # =============================================================================
 #
 # Triggered on push to main or dev, and on manual dispatch.
@@ -10,14 +10,9 @@
 # automatically restarts containers when a new :latest image is detected.
 # No manual deploy step needed.
 #
-# Sector MCPs (financial-regulation, data-protection, cybersecurity,
-# competition) follow the same build pattern as non-law MCPs but use the
-# sector-mcps compose stack on Hetzner (port range 9200-9315).
-#
 # PREREQUISITES:
-# 1. Repository must have a Dockerfile at the root
+# 1. Repository must have a Dockerfile at the root (or specify path)
 # 2. GITHUB_TOKEN has automatic write:packages permission (no secrets needed)
-# 3. Data directory with SQLite database must be present
 #
 # =============================================================================
 
@@ -83,7 +78,7 @@ jobs:
       - name: Summary
         if: always()
         run: |
-          echo "## GHCR Build (Sector MCP)" >> "$GITHUB_STEP_SUMMARY"
+          echo "## GHCR Build" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
           echo "| Field | Value |" >> "$GITHUB_STEP_SUMMARY"
           echo "|-------|-------|" >> "$GITHUB_STEP_SUMMARY"
