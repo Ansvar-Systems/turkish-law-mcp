@@ -12,3 +12,5 @@ data/source/
 .vercel
 .claude/
 .serena/
+*-e
+*.bak
